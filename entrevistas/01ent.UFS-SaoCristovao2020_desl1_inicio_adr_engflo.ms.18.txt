@@ -1,0 +1,2704 @@
+TIPO DE AMOSTRA: ENT
+DOCUMENTADOR(A): PALOMA
+COMUNIDADE: UFS
+ANO: 2020
+DESLOCAMENTO: I
+TEMPO DE CURSO: INICIO
+INF: ADR1MI
+SEXO: MAS
+ESCOLARIDADE: S
+IDADE: 18
+CIDADE NATAL: ARACAJU, SE
+GRAVAÇÃO: CABINE
+QUALIDADE DO ÁUDIO: VOZ AUDÍVEL, SEM PRESENÇA DE BARULHOS EXTERNOS
+
+DOCPC    qual seu nome?
+         00:00:01.740 - 00:00:02.740
+ADR1MI   Adrian
+         00:00:02.930 - 00:00:03.480
+ADR1MI   Lucas Machado
+         00:00:03.720 - 00:00:04.630
+DOCPC    quanto an/ quantos anos você tem Adrian?  
+         00:00:05.292 - 00:00:07.642
+ADR1MI   dezoito 
+         00:00:07.190 - 00:00:07.700
+DISF     (HES)
+         00:00:08.640 - 00:00:09.030
+DOCPC    você nasceu aqui em Sergipe?
+         00:00:09.022 - 00:00:11.342
+ADR1MI   sim nasci em Aracaju
+         00:00:11.540 - 00:00:12.770
+DOCPC    sempre viveu aqui?
+         00:00:13.630 - 00:00:14.890
+ADR1MI   não eu nasci em Aracaju
+         00:00:15.035 - 00:00:16.935
+ADR1MI   passei alguns meses e morei até os catorze anos em Estância
+         00:00:17.240 - 00:00:20.700
+ADR1MI   interior
+         00:00:21.417 - 00:00:21.857
+DISF     (HES)
+         00:00:21.755 - 00:00:22.255
+DOCPC    e atualmente você tá morando lá em Estância ou você tá por aqui?
+         00:00:22.985 - 00:00:26.715
+ADR1MI   não quando eu fiz catorze anos
+         00:00:26.805 - 00:00:28.505
+ADR1MI   quando eu fiz quinze eu vim fazer o ensino médio dos quinze até agora morando aqui em Aracaju 
+         00:00:28.760 - 00:00:33.510
+DISF     (HES)
+         00:00:33.950 - 00:00:34.300
+DOCPC    você morava em Estância com seus pais?
+         00:00:33.950 - 00:00:36.640
+ADR1MI   sim
+         00:00:36.740 - 00:00:37.080
+DISF     (EST)
+         00:00:38.950 - 00:00:39.620
+DOCPC    e em qual cidade eles nasceram?
+         00:00:39.690 - 00:00:41.640
+ADR1MI   minha mãe nasceu em Salvador e meu pai aqui em Aracaju
+         00:00:42.300 - 00:00:45.490
+DISF     (EST)
+         00:00:47.460 - 00:00:47.830
+DOCPC    eles se conheceram
+         00:00:47.860 - 00:00:49.430
+DOCPC    em Salvador ou aqui em Aracaju?
+         00:00:49.540 - 00:00:50.780
+ADR1MI   minha mãe se mudou de Salvador pra Estância
+         00:00:51.055 - 00:00:53.825
+ADR1MI   eles se conheceram lá em Estância no (    )
+         00:00:54.260 - 00:00:57.240
+DISF     (EST)
+         00:00:57.490 - 00:00:58.030
+DOCPC    e qual o nível de escolaridade deles?
+         00:00:58.840 - 00:01:01.060
+ADR1MI   minha mãe é pós graduada em gestão ambiental e meu pai eu acho que ele só fez o ensino médio não tem mais formação não
+         00:01:01.445 - 00:01:07.645
+DOCPC    e sua mãe trabalha na área
+         00:01:08.770 - 00:01:10.620
+ADR1MI   não minha mãe trabalha como técnica de enfermagem
+         00:01:10.880 - 00:01:13.800
+ADR1MI   em um emprego
+         00:01:14.675 - 00:01:15.815
+DISF     ((RISOS))
+         00:01:15.380 - 00:01:15.850
+ADR1MI   e antes ela trabalha como
+         00:01:16.260 - 00:01:17.420
+ADR1MI   segurança no trabalho tecnica
+         00:01:17.695 - 00:01:19.575
+ADR1MI   de enfermagem segurança do trabalho também
+         00:01:19.810 - 00:01:21.510
+DOCPC    sim
+         00:01:20.830 - 00:01:21.550
+DOCPC    são relacionados né
+         00:01:21.725 - 00:01:22.885
+ADR1MI   sim sim
+         00:01:22.495 - 00:01:23.075
+DOCPC    e seu pai qual a profissão dele?
+         00:01:23.735 - 00:01:25.665
+ADR1MI   ai eu não vou saber agora
+         00:01:26.195 - 00:01:27.355
+DISF     (EST)
+         00:01:28.830 - 00:01:29.690
+ADR1MI   mas eu acho que ele tá trabalhando como autônomo ou (  ) alguma coisa assim
+         00:01:30.275 - 00:01:33.875
+DISF     (HES)
+         00:01:34.080 - 00:01:34.510
+ADR1MI   pelo que eu soube
+         00:01:34.080 - 00:01:35.250
+DOCPC    sim
+         00:01:34.550 - 00:01:35.260
+DOCPC    e qual curso você faz aqui na UFS?
+         00:01:36.290 - 00:01:38.130
+ADR1MI   engenharia florestal
+         00:01:38.195 - 00:01:39.135
+DOCPC    tá em qual período?
+         00:01:39.890 - 00:01:40.890
+ADR1MI   terceiro
+         00:01:40.915 - 00:01:41.475
+DOCPC    por que você veio estudar na UFS?
+         00:01:42.660 - 00:01:44.030
+DISF     (HES)
+         00:01:45.420 - 00:01:46.190
+ADR1MI   eu queria entrar na federal até porque não tenho recursos pra poder
+         00:01:46.450 - 00:01:49.810
+DISF     ((RISOS))
+         00:01:48.635 - 00:01:49.085
+ADR1MI   po/
+         00:01:50.455 - 00:01:50.705
+DISF     (HES)
+         00:01:50.850 - 00:01:51.370
+ADR1MI   ter outra e eu me interessei pelo curso
+         00:01:51.635 - 00:01:53.475
+ADR1MI   não era o que eu esperava fazer até por que na verdade eu nem sabia o que eu queria fazer direito
+         00:01:53.600 - 00:01:57.460
+ADR1MI   mas eu me interessei pelo curso e
+         00:01:57.885 - 00:01:59.525
+ADR1MI   estou aqui
+         00:02:00.040 - 00:02:00.780
+DISF     HES
+         00:02:01.630 - 00:02:01.980
+DOCPC    você se interessou 
+         00:02:01.960 - 00:02:03.440
+DISF     (HES)
+         00:02:03.570 - 00:02:03.920
+DOCPC    por esse curso por algum aspecto específico
+         00:02:04.450 - 00:02:07.490
+DISF     (HES)
+         00:02:08.325 - 00:02:09.195
+ADR1MI   pelo diferencial até porque ele é
+         00:02:09.595 - 00:02:11.465
+ADR1MI   bem mais diferente do que eu achava que era ambiental que eu achava que era similiar mas é bem
+         00:02:11.925 - 00:02:15.685
+ADR1MI   discrepante a diferença
+         00:02:16.130 - 00:02:17.510
+ADR1MI   eu realmente mexo com a parte da natureza em
+         00:02:18.015 - 00:02:20.135
+DISF     (HES)
+         00:02:19.760 - 00:02:20.310
+ADR1MI   em questão
+         00:02:20.430 - 00:02:21.260
+ADR1MI   de
+         00:02:21.530 - 00:02:22.070
+DISF     (HES)
+         00:02:22.485 - 00:02:22.905
+ADR1MI   recursos tanto naturais hídricos e etc então tipo o que as pessoas normalmente acham que ambiental faz
+         00:02:22.890 - 00:02:28.260
+ADR1MI   é o que um florestal faz
+         00:02:28.545 - 00:02:29.655
+ADR1MI   e também mexe com a parte de botânica etc e eu sempre me interessei por isso
+         00:02:30.315 - 00:02:33.865
+DOCPC    é bastante amplo né?
+         00:02:34.205 - 00:02:35.475
+ADR1MI   é muito amplo
+         00:02:35.485 - 00:02:36.315
+DISF     (HES)
+         00:02:37.355 - 00:02:38.115
+DOCPC    e qual meio de transporte você utiliza pra vim aqui pra UFS?
+         00:02:39.435 - 00:02:42.715
+ADR1MI   às vezes alguém me dá carona
+         00:02:43.300 - 00:02:44.750
+ADR1MI   um amigo assim que eu acabei me encontrando ou eu venho de transporte público mesmo
+         00:02:45.220 - 00:02:50.110
+DISF     (HES)
+         00:02:51.455 - 00:02:52.105
+DOCPC    você trabalha ou só estuda?
+         00:02:55.115 - 00:02:56.925
+ADR1MI   não atualmente só estudo
+         00:02:56.995 - 00:02:58.385
+DOCPC    cê já trabalhou em algum momento?
+         00:02:58.985 - 00:03:00.775
+ADR1MI   eu já dei aula
+         00:03:00.745 - 00:03:01.665
+ADR1MI   de banca pr/
+         00:03:02.075 - 00:03:03.765
+ADR1MI   duas crianças
+         00:03:04.025 - 00:03:04.965
+DOCPC    e você gostou de fazer isso como foi a experiência?
+         00:03:05.680 - 00:03:08.680
+ADR1MI   sim era legal só que
+         00:03:08.945 - 00:03:10.955
+DISF     (HES)
+         00:03:11.597 - 00:03:12.197
+ADR1MI   num tava dando o resultado que eu esperava dar
+         00:03:13.520 - 00:03:15.790
+ADR1MI   até porque
+         00:03:16.100 - 00:03:17.180
+ADR1MI   num era só em relação a mim era no quesito familiar das crianças também
+         00:03:17.515 - 00:03:20.595
+ADR1MI   que
+         00:03:20.975 - 00:03:21.475
+ADR1MI   tinha muitos problemas com elas e os pais
+         00:03:21.770 - 00:03:23.760
+ADR1MI   aí acabou que não vingou muito
+         00:03:24.345 - 00:03:26.645
+DOCPC    você dava banca 
+         00:03:27.330 - 00:03:29.460
+DOCPC    só pra uma matéria pras exatas cê é da engenharia né ou você dava reforço para todas as disciplinas
+         00:03:29.675 - 00:03:35.225
+ADR1MI   pra tudo
+         00:03:35.385 - 00:03:35.995
+ADR1MI   sempre eu gosto de todas as áreas possível
+         00:03:36.845 - 00:03:38.635
+ADR1MI   por incrível que pareça
+         00:03:39.295 - 00:03:40.375
+ADR1MI   matemática nunca foi a principal mas 
+         00:03:41.190 - 00:03:43.610
+ADR1MI   gosto de um todo ( ) depende de tudo eu gosto de adquirir conhecimento
+         00:03:44.015 - 00:03:47.275
+DOCPC    é bacana mesmo
+         00:03:47.925 - 00:03:49.085
+DISF     (HES)
+         00:03:49.830 - 00:03:50.500
+DISF     (HES)
+         00:03:51.885 - 00:03:52.405
+DOCPC    você mora em qual bairro aqui em Aracaju?
+         00:03:52.490 - 00:03:54.660
+ADR1MI   no Inácio
+         00:03:54.745 - 00:03:55.605
+DOCPC    você mora no Inácio desde que voltou pra cá ou
+         00:03:56.590 - 00:04:00.290
+ADR1MI   não eu quando me mudei eu passei
+         00:04:00.645 - 00:04:04.325
+DOCPC    foi pra lá só recentemente
+         00:04:00.695 - 00:04:02.205
+ADR1MI   dois anos no
+         00:04:04.680 - 00:04:06.180
+ADR1MI   Augusto Franco
+         00:04:06.925 - 00:04:07.955
+ADR1MI   próximo ao Sesi ali na canal três
+         00:04:08.395 - 00:04:10.055
+DISF     (EST)
+         00:04:09.385 - 00:04:10.055
+DISF     (HES)
+         00:04:10.570 - 00:04:11.420
+ADR1MI   depois eu fui morar no Inácio Barbosa só que mas pra perto do colégio Módulo
+         00:04:11.600 - 00:04:15.420
+DOCPC    sim sim
+         00:04:15.665 - 00:04:16.445
+ADR1MI   pronto agora eu moro naquele 
+         00:04:16.030 - 00:04:17.880
+ADR1MI   que é ainda Inácio Barbosa mas
+         00:04:18.040 - 00:04:19.530
+ADR1MI   é perto do Ferreira Costa
+         00:04:19.750 - 00:04:20.900
+DOCPC    sei sei
+         00:04:21.420 - 00:04:22.740
+DOCPC    cê acha esse local que você mora agora melhor que o Augusto Franco?
+         00:04:23.160 - 00:04:27.170
+ADR1MI   não
+         00:04:26.520 - 00:04:27.160
+DOCPC    cê preferia lá?
+         00:04:27.275 - 00:04:28.055
+ADR1MI   é
+         00:04:28.030 - 00:04:28.370
+ADR1MI   porque não tem nada
+         00:04:28.935 - 00:04:30.265
+DOCPC    por quê?
+         00:04:29.205 - 00:04:29.865
+DISF     ((RISOS))
+         00:04:29.800 - 00:04:30.380
+ADR1MI   tem simplesmente nada é uma avenida com condomínios e acabou 
+         00:04:30.680 - 00:04:33.790
+DOCPC    não tem nenhum atrativo né nada assim pra quando você tem tempo livre fazer
+         00:04:33.980 - 00:04:38.300
+ADR1MI   não ninguém mora perto também
+         00:04:37.945 - 00:04:39.715
+DOCPC    ( )
+         00:04:38.395 - 00:04:39.125
+DISF     (HES)
+         00:04:41.205 - 00:04:41.975
+DOCPC    em relação a sua infância em Estância né?
+         00:04:42.455 - 00:04:45.705
+DISF     (EST)
+         00:04:45.695 - 00:04:46.165
+DOCPC    cê tem alguma memória marcante em algum lugar assim?
+         00:04:45.835 - 00:04:49.795
+ADR1MI   n/ eu gosto muito de lá o clima etc as pessoas hoje em dia não vou mais tanto
+         00:04:50.590 - 00:04:55.650
+ADR1MI   por
+         00:04:56.755 - 00:04:57.275
+ADR1MI   questões pessoais
+         00:04:57.470 - 00:04:58.510
+ADR1MI   mas
+         00:04:59.285 - 00:04:59.915
+ADR1MI   assim marcante porque minha infância toda foi lá então
+         00:05:02.165 - 00:05:04.625
+ADR1MI   eu tenho várias diversas memórias entre amigos família
+         00:05:04.950 - 00:05:07.710
+ADR1MI   etc
+         00:05:07.935 - 00:05:08.705
+ADR1MI   mas desde o processo de mudança 
+         00:05:09.215 - 00:05:11.505
+ADR1MI   e um todo
+         00:05:12.585 - 00:05:13.535
+ADR1MI   foram acarretando em vários problemas e assim
+         00:05:14.245 - 00:05:16.185
+ADR1MI   não vou mais tanto
+         00:05:16.590 - 00:05:17.410
+DOCPC    tem algum lugar assim lá que você 
+         00:05:18.055 - 00:05:20.325
+DOCPC    gostava muito e que sente saudade?
+         00:05:20.585 - 00:05:23.205
+ADR1MI   minha própria casa
+         00:05:23.650 - 00:05:24.650
+DISF     ((RISOS))
+         00:05:24.925 - 00:05:25.185
+DISF     (HES)
+         00:05:26.710 - 00:05:27.230
+DOCPC    se você tivesse oportunidade
+         00:05:29.015 - 00:05:30.965
+DOCPC    você moraria em outro lugar?
+         00:05:31.075 - 00:05:32.945
+DOCPC    que não seja Estância ou aqui em Aracaju que você já tá?
+         00:05:33.105 - 00:05:35.815
+ADR1MI   assim eu queria muito viver
+         00:05:36.245 - 00:05:37.965
+ADR1MI   ou em
+         00:05:38.180 - 00:05:39.100
+ADR1MI   algum outro estado só por conhecer eu queria conhecer muito o Brasil 
+         00:05:40.135 - 00:05:44.185
+ADR1MI   como um todo
+         00:05:44.395 - 00:05:44.915
+ADR1MI   se tivesse oportunidade de eu conhecer a Austrália 
+         00:05:45.750 - 00:05:48.300
+DISF     (HES)
+         00:05:45.800 - 00:05:46.280
+ADR1MI   ou se
+         00:05:48.720 - 00:05:49.220
+DISF     (HES)
+         00:05:49.255 - 00:05:49.745
+ADR1MI   Oceania assim no geral também
+         00:05:50.110 - 00:05:51.530
+ADR1MI   que eu acho muito interessante principalmente na questão da 
+         00:05:52.115 - 00:05:54.335
+ADR1MI   natureza
+         00:05:54.550 - 00:05:55.130
+DOCPC    sim
+         00:05:55.305 - 00:05:55.945
+DISF     (HES)
+         00:05:56.070 - 00:05:56.880
+ADR1MI   talvez o Canadá
+         00:05:57.130 - 00:05:58.380
+ADR1MI   por aí 
+         00:05:59.510 - 00:06:00.060
+ADR1MI   e conhecer alguns museus ao redor do mundo
+         00:06:00.320 - 00:06:02.090
+DOCPC    museu é algo que lhe chama atenção?
+         00:06:03.050 - 00:06:04.920
+ADR1MI   ah sim eu adoro História também (risos) 
+         00:06:04.930 - 00:06:06.620
+DISF     ((RISOS))
+         00:06:06.610 - 00:06:07.180
+DISF     (HES)
+         00:06:07.710 - 00:06:08.620
+DOCPC    onde você mora você disse que não tem muita coisa pra fazer né
+         00:06:09.840 - 00:06:13.170
+DOCPC    mas aqui em Aracaju 
+         00:06:13.250 - 00:06:15.610
+DOCPC    é grande Aracaju né
+         00:06:16.165 - 00:06:17.795
+DOCPC    especificando que a gente tá em São Cristóvão
+         00:06:17.955 - 00:06:19.365
+DOCPC    mas
+         00:06:19.735 - 00:06:20.335
+DOCPC    tem alguma coisa assim que você gosta de fazer algum lugar que você gosta de frequentar
+         00:06:20.880 - 00:06:25.000
+ADR1MI   eu não sou muito de sair
+         00:06:25.755 - 00:06:26.995
+ADR1MI   mas quando eu saio saio muito com meus amigos
+         00:06:27.580 - 00:06:30.230
+ADR1MI   então eu gosto muito de ir pra orla
+         00:06:30.560 - 00:06:32.460
+ADR1MI   pelo pelo ambiente em si
+         00:06:32.755 - 00:06:34.445
+DISF     (HES)
+         00:06:35.415 - 00:06:36.065
+ADR1MI   às vezes a gente marca de ir pra sementeira ou gosta mesmo também de ficar na UFS
+         00:06:36.165 - 00:06:40.005
+ADR1MI   até porque é o lugar que eu passo a maior parte do meu tempo
+         00:06:40.835 - 00:06:43.485
+DOCPC    você estuda pela manhã?
+         00:06:44.105 - 00:06:45.815
+DISF     (HES)
+         00:06:47.170 - 00:06:47.650
+DISF     (HES)
+         00:06:47.935 - 00:06:48.155
+ADR1MI   era pra ser de manhã mas atualmente as grades do meu curso tão incluindo matéria a tarde
+         00:06:48.415 - 00:06:54.255
+DOCPC     você fica o dia todo aqui?
+         00:06:54.455 - 00:06:56.495
+DISF     (HES)
+         00:06:54.480 - 00:06:54.810
+ADR1MI   é
+         00:06:56.650 - 00:06:56.970
+ADR1MI   sim
+         00:06:58.040 - 00:06:58.200
+ADR1MI   às vezes eu saio de noite normalmente eu saiu 07:00 horas da UFS
+         00:06:58.335 - 00:07:01.025
+ADR1MI   entro sete saio sete
+         00:07:01.610 - 00:07:02.670
+DOCPC    cansativo né
+         00:07:03.145 - 00:07:03.895
+ADR1MI   demais
+         00:07:03.755 - 00:07:04.125
+DISF     (HES)
+         00:07:05.715 - 00:07:06.035
+DOCPC    você já viajou ora fora do do estado?
+         00:07:06.050 - 00:07:08.950
+ADR1MI   já Salvador por causa da família da minha mãe
+         00:07:09.500 - 00:07:12.090
+ADR1MI   e Maceió só as próximas
+         00:07:13.090 - 00:07:15.450
+DOCPC    e como foi conhecer esses lugares você gostou?
+         00:07:16.135 - 00:07:18.915
+ADR1MI   ah foi legal mas
+         00:07:19.050 - 00:07:20.340
+ADR1MI   Salvador eu conheço
+         00:07:21.030 - 00:07:22.130
+ADR1MI   só Salvador mesmo e Feira de Santana
+         00:07:22.515 - 00:07:25.105
+ADR1MI   porque meu avô mora lá mas meus avós são separados
+         00:07:25.485 - 00:07:28.345
+DISF     (HES)
+         00:07:29.280 - 00:07:30.430
+ADR1MI   Maceió foi para conhecer praias e etc foi
+         00:07:30.600 - 00:07:33.080
+ADR1MI   foi legal
+         00:07:33.445 - 00:07:34.045
+DOCPC    cê gosta de praias?
+         00:07:35.020 - 00:07:36.010
+ADR1MI   não muito
+         00:07:36.300 - 00:07:37.140
+DISF     ((RISOS))
+         00:07:37.555 - 00:07:38.075
+DISF     ((RISOS))
+         00:07:38.140 - 00:07:38.680
+DISF     (HES)
+         00:07:39.590 - 00:07:40.380
+DOCPC    você gostaria de voltar pra onde essas
+         00:07:42.490 - 00:07:44.550
+DOCPC    duas cidades?
+         00:07:44.685 - 00:07:45.515
+ADR1MI   sim eu voltaria até porque a experiência foi divertida por mais que eu não goste muito de praia voltaria pra Maceió porque é um lugar muito bonito
+         00:07:46.985 - 00:07:52.315
+ADR1MI   em algumas partes
+         00:07:53.045 - 00:07:54.315
+DISF     (HES)
+         00:07:54.970 - 00:07:56.120
+ADR1MI   Salvador porque tem minha família minha avó mora lá
+         00:07:56.600 - 00:07:58.910
+DOCPC    tem alguma viagem assim que você sonha em fazer você disse que tem vontade em conhecer Canadá Austrália né mas
+         00:08:00.640 - 00:08:07.750
+DOCPC    a viagem dos seus sonhos pra onde é?
+         00:08:07.990 - 00:08:10.380
+ADR1MI   não tenho a viagem dos meus sonhos mas um objetivo que seria se eu tivesse recursos
+         00:08:10.840 - 00:08:15.380
+ADR1MI   vontade
+         00:08:15.885 - 00:08:16.575
+ADR1MI   seria
+         00:08:17.265 - 00:08:18.705
+DISF     (HES)
+         00:08:19.035 - 00:08:19.385
+ADR1MI   realmente conhecer tipo vários museus
+         00:08:19.345 - 00:08:20.795
+DISF     (HES)
+         00:08:22.695 - 00:08:23.695
+DISF     (HES)
+         00:08:24.470 - 00:08:24.870
+DOCPC    quais são os os
+         00:08:25.305 - 00:08:26.595
+DOCPC    aliás
+         00:08:26.855 - 00:08:27.435
+DOCPC    aqui tem o museu da gente sergipana né você já foi?
+         00:08:27.580 - 00:08:30.470
+ADR1MI   sim sim
+         00:08:29.970 - 00:08:30.650
+ADR1MI   toda vez que eu marco de ir com alguém porque eu não gosto de ir sozinho sempre dá um erro
+         00:08:30.855 - 00:08:35.225
+ADR1MI   mas eu já fui pro centro cultural
+         00:08:35.605 - 00:08:36.955
+ADR1MI   faço até alguns projetos hoje em dia (   ) lá
+         00:08:37.425 - 00:08:39.845
+DISF     (EST)
+         00:08:37.525 - 00:08:37.825
+ADR1MI   e é bem eu gosto muito acho muito interessante ver
+         00:08:40.300 - 00:08:43.240
+ADR1MI   aspectos da nossa cultura assim que a gente
+         00:08:43.565 - 00:08:45.665
+ADR1MI   basicamente não tem muito acesso ou que algumas pessoas nem procuram
+         00:08:45.770 - 00:08:48.630
+DOCPC    quais são os projetos assim da 
+         00:08:49.415 - 00:08:51.895
+DOCPC    engenharia que tem lá eu conheco o centro cultural mas eu acho que nunca vi não
+         00:08:52.055 - 00:08:55.425
+ADR1MI   é que esse projeto é atual ele foi criado 
+         00:08:55.425 - 00:08:58.195
+ADR1MI   não faz nenhum ano 
+         00:08:58.545 - 00:09:00.065
+ADR1MI   que a gente introduziria mostraria pra crianças como se 
+         00:09:00.745 - 00:09:04.395
+DISF     (HES)
+         00:09:04.435 - 00:09:04.965
+ADR1MI   o que a engenharia florestral trabalha de modo que a gente fala
+         00:09:05.245 - 00:09:08.735
+ADR1MI   sobre a árvore em si a importância dela ou 
+         00:09:09.115 - 00:09:11.675
+DISF     (HES)
+         00:09:11.770 - 00:09:12.400
+ADR1MI   a i/ a ideologia da árvore e ela como 
+         00:09:13.020 - 00:09:16.170
+ADR1MI   matéria pra uso
+         00:09:16.690 - 00:09:18.010
+DISF     (HES)
+         00:09:18.255 - 00:09:19.085
+ADR1MI   que é por parte de um professor
+         00:09:19.265 - 00:09:20.505
+ADR1MI   e tem a professora nossa professora de tecnologia da madeira que ela apresenta sobre
+         00:09:20.640 - 00:09:23.920
+ADR1MI   onde a árvore se inclui em um todo
+         00:09:24.830 - 00:09:27.420
+ADR1MI   desde a questão alimentar
+         00:09:27.560 - 00:09:28.870
+ADR1MI   sobre ter
+         00:09:29.480 - 00:09:30.380
+ADR1MI   celulose da madeira
+         00:09:30.505 - 00:09:31.695
+ADR1MI   em sorvete etc
+         00:09:31.775 - 00:09:33.175
+ADR1MI   até
+         00:09:33.380 - 00:09:34.460
+ADR1MI   o máximo que dá pra extrair de resinas folhas
+         00:09:34.955 - 00:09:37.295
+DOCPC    é como se fosse todo o 
+         00:09:38.305 - 00:09:40.205
+DOCPC    processo de
+         00:09:40.370 - 00:09:41.040
+DOCPC    da árvore né isso?
+         00:09:41.270 - 00:09:42.670
+ADR1MI   sim
+         00:09:41.305 - 00:09:41.725
+DOCPC    e
+         00:09:43.860 - 00:09:44.370
+DOCPC    cê gosta de museu mas
+         00:09:44.550 - 00:09:45.720
+DOCPC    cê costuma frequentar
+         00:09:46.040 - 00:09:47.500
+DOCPC    cinema teatro
+         00:09:47.535 - 00:09:49.535
+ADR1MI   sim sim teatro eu passei frequentar menos
+         00:09:49.870 - 00:09:52.840
+ADR1MI   mas cinema eu vou com a
+         00:09:53.960 - 00:09:56.120
+ADR1MI   frequência maior
+         00:09:56.315 - 00:09:57.295
+ADR1MI   só que não tanto
+         00:09:57.730 - 00:09:58.610
+DISF     (HES)
+         00:10:00.110 - 00:10:00.610
+DOCPC    cê gosta de ler livros?
+         00:10:00.650 - 00:10:01.860
+ADR1MI   eu nunca tive muito muita relação com livros porque sempre gostei até minha forma de aprendizado é em relação a contato de algo
+         00:10:02.610 - 00:10:10.460
+ADR1MI   ouvir e tal mas eu comecei a tentar manter essa- esse costume de leitura então eu comecei a ler
+         00:10:10.950 - 00:10:17.690
+DISF     (EST)
+         00:10:11.700 - 00:10:12.410
+ADR1MI   eu comecei a ler sapiens algumas coisinhas fictícias
+         00:10:17.960 - 00:10:20.860
+DISF     (EST)
+         00:10:21.295 - 00:10:22.175
+ADR1MI   Coraline etc
+         00:10:22.260 - 00:10:23.440
+DOCPC    e o que você achou de sapiens
+         00:10:23.820 - 00:10:25.140
+ADR1MI   sapiens é um livro maravilhoso
+         00:10:25.150 - 00:10:27.160
+DOCPC    é
+         00:10:26.370 - 00:10:27.130
+DOCPC    o que é que você me diz sobre ele?
+         00:10:27.955 - 00:10:29.545
+ADR1MI   aff é um livro que é basicamente o que eu procuro 
+         00:10:29.935 - 00:10:33.095
+ADR1MI   em leitura porque ele
+         00:10:33.280 - 00:10:34.840
+ADR1MI   ele
+         00:10:35.155 - 00:10:35.955
+ADR1MI   funciona como minha
+         00:10:36.130 - 00:10:37.310
+ADR1MI   minha forma de estudo e minha mente funciona
+         00:10:37.665 - 00:10:39.425
+ADR1MI   que é
+         00:10:39.480 - 00:10:39.960
+ADR1MI   correlacionando com o um todo
+         00:10:40.145 - 00:10:41.745
+ADR1MI   desde biologia e história
+         00:10:41.920 - 00:10:43.260
+ADR1MI   a questões sociais acho isso muito interessante
+         00:10:43.815 - 00:10:46.385
+DOCPC    e tem uma linha né que ele segue o
+         00:10:46.650 - 00:10:49.060
+ADR1MI   muito maravilhoso
+         00:10:49.030 - 00:10:49.610
+DOCPC    sim
+         00:10:49.795 - 00:10:50.245
+DOCPC    sim
+         00:10:50.395 - 00:10:50.915
+DOCPC    ele segue um cronograma temporal que tá bem no início é bem bacana mesmo
+         00:10:51.500 - 00:10:55.590
+ADR1MI   sim
+         00:10:54.880 - 00:10:55.630
+DISF     (HES)
+         00:10:56.220 - 00:10:57.220
+DOCPC    você
+         00:10:57.925 - 00:10:58.605
+DOCPC    costuma ler pela internet?
+         00:10:58.750 - 00:11:00.620
+ADR1MI   não prefiro livros físicos
+         00:11:00.950 - 00:11:02.510
+DOCPC    mas por exemplo
+         00:11:03.090 - 00:11:04.690
+DOCPC    informações assim você costuma se informar pela internet ou você assiste tv
+         00:11:04.915 - 00:11:09.025
+ADR1MI   assisto alguns vídeos
+         00:11:09.810 - 00:11:11.420
+ADR1MI   no youtube etc
+         00:11:11.710 - 00:11:12.920
+ADR1MI   já passei um tempo já lendo pesquisas  e tal
+         00:11:13.010 - 00:11:16.215
+ADR1MI   pela internet mas
+         00:11:16.505 - 00:11:17.535
+ADR1MI   num sei não me deixa muito confortável
+         00:11:18.045 - 00:11:20.035
+DOCPC    cê prefere um algo palpável né
+         00:11:20.875 - 00:11:23.945
+ADR1MI   palpável
+         00:11:22.995 - 00:11:23.795
+DOCPC    você acha que o hábito de leitura é importante?
+         00:11:25.240 - 00:11:27.790
+ADR1MI   extremamente importante
+         00:11:27.780 - 00:11:28.920
+DOCPC    por quê?
+         00:11:29.185 - 00:11:29.705
+ADR1MI   até porque tem
+         00:11:29.430 - 00:11:30.580
+ADR1MI   em li/ tem coisas que você não acha na internet
+         00:11:30.890 - 00:11:33.380
+DISF     (HES)
+         00:11:34.200 - 00:11:35.060
+ADR1MI   melhora você em tudo tanto em questão de leitura
+         00:11:37.415 - 00:11:39.955
+ADR1MI   eh aprendizagem escrita
+         00:11:40.170 - 00:11:42.120
+ADR1MI   desenvolve
+         00:11:42.810 - 00:11:43.760
+ADR1MI   muitas coisas assim acho muito bom
+         00:11:44.190 - 00:11:46.700
+DISF     (HES)
+         00:11:47.150 - 00:11:47.500
+DOCPC    e como a gente tá falando em leitura
+         00:11:47.570 - 00:11:50.340
+DOCPC    envolve educação você acha que
+         00:11:50.470 - 00:11:52.660
+DOCPC    a educação é algo que deve ser assegurada pelo governo?
+         00:11:52.990 - 00:11:56.260
+ADR1MI   com toda certeza
+         00:11:56.320 - 00:11:57.490
+ADR1MI   até porque é a base pra um todo
+         00:11:57.710 - 00:12:00.090
+DISF     (HES)
+         00:12:02.410 - 00:12:02.870
+DOCPC    cê acha que a educação pública melhorou ou piorou?
+         00:12:03.015 - 00:12:06.285
+ADR1MI   olha o rumo que tá tomando tá preocupante
+         00:12:07.175 - 00:12:10.465
+ADR1MI   mas acredito que já foi bem pior então
+         00:12:11.635 - 00:12:13.705
+DOCPC    em qual aspecto assim você apontaria como
+         00:12:16.910 - 00:12:20.670
+DOCPC    evidencia que tem melhorado
+         00:12:21.165 - 00:12:23.035
+DISF     (HES)
+         00:12:24.405 - 00:12:25.065
+ADR1MI   alguma por parte de alguns professores
+         00:12:25.110 - 00:12:27.390
+DISF     (HES)
+         00:12:27.915 - 00:12:28.555
+ADR1MI   que acabam tendo essa noção
+         00:12:28.480 - 00:12:30.030
+ADR1MI   de que 
+         00:12:30.625 - 00:12:31.725
+ADR1MI   obviamente eles são professores então eles sabem a importância que é a educação em si
+         00:12:32.640 - 00:12:36.320
+ADR1MI   então a 
+         00:12:36.615 - 00:12:37.485
+ADR1MI   amplitude que alguns acaba
+         00:12:37.735 - 00:12:39.175
+ADR1MI   acabam trazendo em relação a projetos e escolas
+         00:12:39.370 - 00:12:41.550
+ADR1MI   ou
+         00:12:42.295 - 00:12:43.355
+ADR1MI   por fora também que incluam os alunos
+         00:12:44.010 - 00:12:46.280
+DISF     (HES)
+         00:12:46.700 - 00:12:47.480
+ADR1MI   algum um ensino técnico também acho muito importante trazer 
+         00:12:47.645 - 00:12:51.535
+ADR1MI   até porque uma formação
+         00:12:52.035 - 00:12:53.905
+DOCPC    profissional
+         00:12:55.110 - 00:12:55.770
+ADR1MI   profissional é também
+         00:12:55.765 - 00:12:56.905
+ADR1MI   é necessário
+         00:12:57.200 - 00:12:58.040
+DOCPC    sim
+         00:12:58.325 - 00:12:58.705
+ADR1MI   especialização
+         00:12:58.810 - 00:12:59.600
+DISF     (HES)
+         00:13:00.545 - 00:13:01.055
+ADR1MI   por aí
+         00:13:01.635 - 00:13:02.255
+ADR1MI   a maioria também falha
+         00:13:02.585 - 00:13:03.815
+DOCPC    cê acha que é importante né a escola sair dos seus muros trazer projetos de fora
+         00:13:04.145 - 00:13:09.365
+ADR1MI   sim sim qualquer é maçante você só tá ali com a bunda sentada na cadeira e você
+         00:13:08.460 - 00:13:13.660
+ADR1MI   só
+         00:13:14.095 - 00:13:14.715
+ADR1MI   ouvir o professor falando falando e falando e
+         00:13:15.060 - 00:13:18.030
+ADR1MI   quem de/ infelizmente é nosso sistema de ensino
+         00:13:18.620 - 00:13:21.190
+ADR1MI   mas que muitos professores acabam
+         00:13:21.470 - 00:13:23.120
+ADR1MI   percebendo isso tendo essa noção
+         00:13:23.460 - 00:13:25.160
+ADR1MI   e mostrando como é aquilo na prática
+         00:13:25.545 - 00:13:27.525
+DOCPC    sim
+         00:13:27.830 - 00:13:28.520
+DISF     (HES)
+         00:13:29.620 - 00:13:30.060
+DOCPC     você considera importante que as bolsas como pibic pibid a gente tem o auxílio pedagógico
+         00:13:30.130 - 00:13:36.380
+DISF     (HES)
+         00:13:36.650 - 00:13:37.270
+DOCPC    são cê acha importante que esse que esse tipo de política pública seja ofertada?
+         00:13:37.855 - 00:13:41.575
+ADR1MI   creio que sim
+         00:13:42.040 - 00:13:42.840
+ADR1MI   eu num 
+         00:13:43.025 - 00:13:43.765
+ADR1MI   nunca
+         00:13:44.070 - 00:13:44.840
+ADR1MI   usufruir de tais benefícios mas
+         00:13:45.580 - 00:13:47.960
+DOCPC    sim
+         00:13:46.505 - 00:13:46.965
+ADR1MI   tanto que algumas pessoas
+         00:13:48.190 - 00:13:49.500
+ADR1MI   na própria universidade necessita
+         00:13:49.780 - 00:13:51.570
+ADR1MI   dessas bolsas para poder se manter
+         00:13:51.650 - 00:13:53.670
+ADR1MI   e é bom para o incentivo já que a maior parte das pesquisas
+         00:13:54.525 - 00:13:57.335
+ADR1MI   realizadas no Brasil são nas universidades 
+         00:13:57.505 - 00:13:59.275
+ADR1MI   de universidades federais
+         00:13:59.465 - 00:14:00.665
+DOCPC    cê acha que o Brasil investe o suficiente em educação?
+         00:14:02.260 - 00:14:05.020
+ADR1MI   bom
+         00:14:06.455 - 00:14:06.715
+DISF     ((RISOS))
+         00:14:07.045 - 00:14:07.405
+DISF     (HES)
+         00:14:10.140 - 00:14:10.610
+ADR1MI   investe mais do que
+         00:14:10.580 - 00:14:11.950
+ADR1MI   não como deveria
+         00:14:12.520 - 00:14:13.630
+ADR1MI   mas tem um certo investimento tem seus pós e contras aí políticas governamentais também tão querendo cortar a maioria desses
+         00:14:13.880 - 00:14:20.830
+ADR1MI   fatores
+         00:14:21.380 - 00:14:22.190
+ADR1MI   já foi investido em dinheiro 
+         00:14:22.590 - 00:14:24.560
+ADR1MI   razoalmente mas
+         00:14:24.840 - 00:14:26.430
+ADR1MI   sempre bom porque educação nunca bom de/ nunca é demais investir
+         00:14:26.770 - 00:14:30.850
+DOCPC    sim
+         00:14:31.835 - 00:14:32.315
+ADR1MI   no alicerce
+         00:14:32.010 - 00:14:32.710
+DOCPC    é verdade
+         00:14:33.515 - 00:14:34.315
+DISF     (EST)
+         00:14:34.940 - 00:14:35.690
+DOCPC    você acha que o governo federal deve financiar o acesso
+         00:14:36.330 - 00:14:39.440
+DOCPC    de estudantes no ensino superior em instituições privadas
+         00:14:39.830 - 00:14:43.140
+DISF     (HES)
+         00:14:45.510 - 00:14:46.180
+ADR1MI   (   )
+         00:14:47.380 - 00:14:47.890
+ADR1MI   creio que sim até porque tem
+         00:14:49.175 - 00:14:51.175
+ADR1MI   há locais que
+         00:14:51.380 - 00:14:52.350
+DISF     (HES)
+         00:14:54.150 - 00:14:54.710
+ADR1MI   acabam não tendo uma universidade próxima por exemplo em Estância não tem
+         00:14:54.685 - 00:14:58.085
+ADR1MI   uma universidade federal exatamente
+         00:14:58.490 - 00:15:00.440
+DOCPC    federal
+         00:14:58.510 - 00:14:59.310
+ADR1MI   as mais são a daqui de São Cristóvão e a de Lagarto 
+         00:15:00.575 - 00:15:03.315
+ADR1MI   e tem Unit 
+         00:15:03.870 - 00:15:05.110
+DISF     (HES)
+         00:15:05.705 - 00:15:06.345
+ADR1MI   a faculdade do Amadeus etc lá em Estância então seria a de melhor acesso até porque em todo mundo teria acesso aos ônibus
+         00:15:06.260 - 00:15:11.750
+ADR1MI   que locomovem outras pessoas pra outros locais 
+         00:15:12.875 - 00:15:14.535
+DISF     (EST)
+         00:15:13.650 - 00:15:14.090
+DOCPC    o que é que você acha do prouni e fies?
+         00:15:15.970 - 00:15:18.400
+ADR1MI   ah eu nunca pesquisei sobre isso então
+         00:15:19.540 - 00:15:21.600
+DOCPC    mas você sabe o que eles são?
+         00:15:22.305 - 00:15:23.995
+ADR1MI   sobre a 
+         00:15:24.345 - 00:15:25.805
+ADR1MI   inserção de alguns desses de pessoas
+         00:15:26.080 - 00:15:28.450
+ADR1MI   em universidades
+         00:15:29.020 - 00:15:30.440
+DOCPC    é o prouni ele pode dar bolsa não sei se continua assim
+         00:15:30.645 - 00:15:34.765
+DOCPC    mas até um tempo atrás 
+         00:15:35.030 - 00:15:36.820
+DOCPC    o aluno poderia ter cinquenta por cento ou cem por cento do curso financiado em instituição privada 
+         00:15:37.120 - 00:15:42.670
+DOCPC    e depois não pagaria
+         00:15:43.540 - 00:15:44.770
+DOCPC    porque é bolsa né
+         00:15:45.160 - 00:15:46.080
+DOCPC    só que o fies
+         00:15:46.325 - 00:15:47.465
+DOCPC    ele permite que o aluno esteja estude de graça entre aspas só que ele paga depois que se formar
+         00:15:47.650 - 00:15:52.540
+DOCPC    cê acha que esses programas são interessantes?
+         00:15:53.230 - 00:15:55.550
+DISF     (HES)
+         00:15:56.300 - 00:15:56.600
+ADR1MI    o prouni parece ser muito interesse o fies é aquela que você tem que realmente saber como
+         00:15:56.555 - 00:16:01.965
+ADR1MI   manejar o seu próprio dinheiro
+         00:16:02.960 - 00:16:04.790
+DISF     (EST)
+         00:16:05.080 - 00:16:05.330
+ADR1MI   pra que você realmente não acabe se lascando e ficando (   ) (risos)
+         00:16:05.120 - 00:16:07.850
+DOCPC    verdade
+         00:16:08.520 - 00:16:09.260
+DOCPC    você acha que esses
+         00:16:09.965 - 00:16:11.855
+DOCPC    programas assim
+         00:16:12.165 - 00:16:13.205
+DOCPC    ele
+         00:16:13.355 - 00:16:14.205
+DOCPC    diminui a desigualdade em relação a acesso ao ensino superior
+         00:16:14.505 - 00:16:18.835
+ADR1MI   deveria
+         00:16:20.665 - 00:16:21.385
+ADR1MI   mas eu acho que ainda tem uma certa
+         00:16:21.770 - 00:16:23.440
+ADR1MI   discrepância em relação à desigualdade
+         00:16:23.755 - 00:16:26.925
+ADR1MI   eu até tava comentando isso ontem porque
+         00:16:27.325 - 00:16:30.025
+ADR1MI   por mais que todo mundo tenha um acesso a universidade federal
+         00:16:30.270 - 00:16:33.890
+ADR1MI   eu notei que calouros de  medicina
+         00:16:34.190 - 00:16:36.480
+ADR1MI   a grande maioria que tava fazendo (   ) era tudo branco e pessoas
+         00:16:36.680 - 00:16:41.170
+ADR1MI   cara de
+         00:16:41.340 - 00:16:42.070
+ADR1MI   que tinham uma certa
+         00:16:42.830 - 00:16:43.900
+ADR1MI   uma certa
+         00:16:44.240 - 00:16:45.250
+ADR1MI   um certo poder aquisitivo
+         00:16:45.350 - 00:16:46.680
+DOCPC    é um tipo social bem específico
+         00:16:46.890 - 00:16:49.090
+ADR1MI   é muito específico eu não teria parado pra observar e ontem fiquei muito pasmo
+         00:16:48.575 - 00:16:52.715
+ADR1MI   só tinha
+         00:16:53.190 - 00:16:53.860
+ADR1MI   um menino e uma menina negra e tipo a gente saiu tudo branquinho
+         00:16:54.020 - 00:16:57.420
+ADR1MI   pálido basicamente
+         00:16:57.745 - 00:16:58.925
+ADR1MI   uns loiros etc então tipo
+         00:16:59.150 - 00:17:00.890
+ADR1MI   gente pelo amor de Deus
+         00:17:01.475 - 00:17:02.635
+DOCPC    você acha que além do curso de medicina você acha que essas diferenças sociais em relação à classe econômica em relação à etnia
+         00:17:03.405 - 00:17:11.495
+DOCPC    é bem evidente aqui na UFS
+         00:17:11.830 - 00:17:13.350
+ADR1MI   (sim)
+         00:17:13.570 - 00:17:14.110
+ADR1MI   falei baixo mas sim
+         00:17:15.085 - 00:17:16.395
+DISF     ((RISOS))
+         00:17:16.485 - 00:17:17.325
+DISF     (HES)
+         00:17:18.000 - 00:17:18.640
+DOCPC    como foi a experiência de começar um curso superior?
+         00:17:20.235 - 00:17:22.835
+ADR1MI   ah foi um baque e tanto
+         00:17:23.870 - 00:17:24.860
+DISF     (HES)
+         00:17:25.100 - 00:17:25.420
+ADR1MI   porque a gente acha que a gente espera que vai ser
+         00:17:25.540 - 00:17:27.600
+DOCPC    por quê?
+         00:17:25.545 - 00:17:26.145
+ADR1MI   ai universidade você ( ) fazer a sua vida por mais que seja uma
+         00:17:28.007 - 00:17:30.837
+ADR1MI   experiência muito bacana
+         00:17:30.940 - 00:17:32.330
+ADR1MI   mas o baque é muito maior
+         00:17:32.920 - 00:17:34.230
+DISF     (HES)
+         00:17:34.330 - 00:17:34.880
+ADR1MI   uma responsabilidade muito na cara
+         00:17:35.250 - 00:17:36.850
+DISF     (HES)
+         00:17:37.135 - 00:17:38.005
+ADR1MI   igual os memes assim
+         00:17:37.885 - 00:17:38.905
+DISF     ((RISOS))
+         00:17:39.060 - 00:17:39.860
+ADR1MI   você
+         00:17:40.105 - 00:17:41.205
+ADR1MI   acha que você pode ser melhor em tudo na sua no ensino médio
+         00:17:41.610 - 00:17:44.400
+ADR1MI   cê chega na UFS
+         00:17:44.560 - 00:17:45.230
+ADR1MI   (você) toma logo um tapa na cara 
+         00:17:45.450 - 00:17:47.450
+DOCPC    real
+         00:17:47.895 - 00:17:48.675
+DISF     (HES)
+         00:17:49.520 - 00:17:50.240
+DOCPC    e o que
+         00:17:50.845 - 00:17:51.875
+DOCPC    qual aspecto assim que foi mais
+         00:17:52.205 - 00:17:54.615
+DOCPC    impactante pra você
+         00:17:55.315 - 00:17:57.005
+DISF     (HES)
+         00:17:57.945 - 00:17:58.345
+ADR1MI   a forma de alguns professores ensinarem
+         00:17:58.340 - 00:17:59.910
+ADR1MI   a média também influencia
+         00:18:00.435 - 00:18:02.565
+ADR1MI   mas
+         00:18:03.125 - 00:18:03.375
+ADR1MI   pra você conseguir chegar na média também é uma luta muito grande
+         00:18:03.875 - 00:18:06.575
+ADR1MI   por mais baixa que ela seja
+         00:18:06.770 - 00:18:08.380
+DISF     (EST)
+         00:18:08.440 - 00:18:08.870
+DISF     (HES)
+         00:18:09.660 - 00:18:10.750
+ADR1MI   alguns sistemas de ensino de alguns professores porque 
+         00:18:11.430 - 00:18:13.520
+ADR1MI   acabam que eles não tem um mesmo padrão então cada um adota
+         00:18:13.710 - 00:18:16.760
+ADR1MI   o que é mais confortável pra eles
+         00:18:17.350 - 00:18:18.940
+DISF     (HES)
+         00:18:20.395 - 00:18:21.095
+ADR1MI   principalmente isso o aspecto de como os professores passam
+         00:18:21.330 - 00:18:23.450
+DISF     (HES)
+         00:18:23.645 - 00:18:24.375
+DOCPC    o conteúdo
+         00:18:24.835 - 00:18:25.845
+ADR1MI   o conteúdo
+         00:18:24.835 - 00:18:25.845
+DOCPC    cê tá no terceiro período né?
+         00:18:26.965 - 00:18:28.425
+ADR1MI   sim
+         00:18:28.400 - 00:18:28.720
+DOCPC    você
+         00:18:28.730 - 00:18:29.700
+DOCPC    tem ideia do que quer fazer quando terminar o seu curso cê quer fazer uma pós ou ir pro mercado de trabalho direto fazer um mestrado 
+         00:18:29.850 - 00:18:38.090
+ADR1MI   eu tenho eu não quero ingressar numa carreira acadêmica
+         00:18:38.140 - 00:18:41.520
+ADR1MI   até porque eu não sei se tenho essa vocação toda
+         00:18:42.475 - 00:18:44.555
+ADR1MI   mas
+         00:18:44.780 - 00:18:45.270
+ADR1MI   eu como eu desenho faço tenho minhas artes aí (e tal)
+         00:18:46.260 - 00:18:49.960
+ADR1MI   e eu gosto muito dessa
+         00:18:50.295 - 00:18:51.575
+ADR1MI   área assim e no meu curso tem paisagismo
+         00:18:51.650 - 00:18:53.900
+ADR1MI   por mais que
+         00:18:54.170 - 00:18:54.960
+ADR1MI   todo mundo acha que isso tá ligado a arquitetura não é até porque eles não sabem o que é planta direito
+         00:18:55.220 - 00:19:00.320
+DOCPC    arquitetura
+         00:18:56.595 - 00:18:57.615
+ADR1MI   pra tá aí jogando ( ) no lugar
+         00:19:00.950 - 00:19:02.900
+DISF     (HES)
+         00:19:03.250 - 00:19:04.270
+ADR1MI   tem a parte da tecnologia da madeira e design de móveis etc  acho isso tudo muito interessante eu prefiro absorver
+         00:19:06.230 - 00:19:12.160
+ADR1MI   conteúdo que dê pra absorver do curso e até chegar lá eu consigo me decidir melhor o que eu fazer
+         00:19:12.725 - 00:19:17.895
+ADR1MI   porque a vontade assim muito
+         00:19:18.175 - 00:19:19.315
+ADR1MI   massa de trabalhar
+         00:19:19.460 - 00:19:20.360
+DOCPC    sim
+         00:19:19.485 - 00:19:20.015
+DISF     (HES)
+         00:19:21.950 - 00:19:22.380
+DOCPC    em relação à segurança pública você
+         00:19:22.440 - 00:19:25.570
+DOCPC    acha que
+         00:19:26.000 - 00:19:27.000
+DOCPC    o Inácio é violento
+         00:19:27.305 - 00:19:28.695
+ADR1MI   olha no lugar onde eu
+         00:19:29.525 - 00:19:30.875
+ADR1MI   transito
+         00:19:31.885 - 00:19:32.635
+ADR1MI   que é por ali pelo Ferreira Costa é um lugar muito esquisito
+         00:19:33.105 - 00:19:35.495
+ADR1MI   muito esquisito mesmo principalmente à noite porque não tem nada
+         00:19:35.755 - 00:19:38.835
+ADR1MI   então por mais que
+         00:19:39.280 - 00:19:40.810
+ADR1MI   a gente tá sempre inseguro em relação à política pública em relação à segurança pública porque
+         00:19:41.390 - 00:19:46.100
+ADR1MI   a gente sabe que não é isso tudo
+         00:19:46.800 - 00:19:48.350
+ADR1MI   eu num vi um posto policial por ali por perto
+         00:19:48.950 - 00:19:51.300
+ADR1MI   também
+         00:19:51.690 - 00:19:52.350
+ADR1MI   não tem nada na realidade só realmente os condomínios 
+         00:19:53.525 - 00:19:56.935
+DISF     (HES)
+         00:19:57.620 - 00:19:58.570
+ADR1MI   sei lá a gente sempre tá inseguro em relação a isso 
+         00:19:59.080 - 00:20:00.630
+ADR1MI   até mesmo no próprio DIA que é ali do lado a gente sabe que
+         00:20:00.710 - 00:20:04.230
+ADR1MI   pessoas são assaltadas ali com uma certa frequência
+         00:20:04.405 - 00:20:06.765
+DOCPC    sim
+         00:20:06.450 - 00:20:06.770
+ADR1MI   e olhe que ainda sim ainda tem alguns policiais que transitam pelo lugar 
+         00:20:06.955 - 00:20:10.455
+DOCPC    cê acha que a segurança pública não não só do seu bairro mas de Aracaju São  Cristóvão consegue atender as necessidades dos cidadãos dos cidadãos?
+         00:20:12.045 - 00:20:21.495
+DOCPC    você acha que
+         00:20:23.345 - 00:20:24.645
+DOCPC    a polícia é ágil?
+         00:20:25.210 - 00:20:26.560
+ADR1MI   acho que ela segue o fluxo que ela quer seguir acho que ela num
+         00:20:27.970 - 00:20:31.560
+ADR1MI   não
+         00:20:31.910 - 00:20:32.580
+ADR1MI   necessariamente tá ali pra
+         00:20:32.870 - 00:20:34.450
+ADR1MI   atender um todo
+         00:20:34.885 - 00:20:36.215
+ADR1MI   ela é seletiva
+         00:20:37.365 - 00:20:39.715
+ADR1MI   tenho essa certa
+         00:20:40.415 - 00:20:41.375
+ADR1MI   essa
+         00:20:42.115 - 00:20:42.455
+ADR1MI   essa percepção
+         00:20:42.820 - 00:20:44.110
+DOCPC    eh seletiva assim no sentido de 
+         00:20:45.300 - 00:20:47.950
+DOCPC    quem vai proteger?proteger né entre as aspas
+         00:20:48.070 - 00:20:50.910
+ADR1MI   também mas em relação a locais de foco de
+         00:20:51.155 - 00:20:54.795
+ADR1MI   da polícia já que ela deveria defender um todo mas muitas vezes só se concentra em locais específicos
+         00:20:55.370 - 00:20:59.830
+DOCPC    sim
+         00:20:57.815 - 00:20:58.115
+ADR1MI   tem alguns que deveriam que julgam ser mais perigosos
+         00:21:00.350 - 00:21:03.230
+ADR1MI   ou às vezes eles só se afastam dos locais perigosos
+         00:21:03.965 - 00:21:06.235
+ADR1MI   (    )
+         00:21:06.555 - 00:21:07.055
+ADR1MI   e ficam
+         00:21:07.870 - 00:21:08.570
+ADR1MI   por aí
+         00:21:09.095 - 00:21:09.545
+DOCPC    tem pontos bem
+         00:21:09.875 - 00:21:11.515
+ADR1MI   é
+         00:21:10.930 - 00:21:11.440
+DOCPC    específicos né
+         00:21:11.790 - 00:21:13.030
+DISF     (HES)
+         00:21:13.760 - 00:21:14.080
+DOCPC    você concorda com o ditado bandido bom é bandido morto
+         00:21:14.135 - 00:21:17.195
+ADR1MI   não
+         00:21:17.535 - 00:21:18.435
+ADR1MI   porque você volta para a questão da educação em si
+         00:21:18.540 - 00:21:21.230
+ADR1MI   até porque se existe uma educação de qualidade 
+         00:21:21.650 - 00:21:24.370
+ADR1MI   e a tendência é um todo
+         00:21:24.725 - 00:21:26.215
+ADR1MI   sem a desigualdade também
+         00:21:26.495 - 00:21:28.065
+ADR1MI   debatida
+         00:21:28.345 - 00:21:29.105
+ADR1MI   acredito que
+         00:21:29.480 - 00:21:30.480
+ADR1MI   esse número
+         00:21:30.895 - 00:21:31.745
+ADR1MI   diminuiria
+         00:21:31.995 - 00:21:32.635
+DOCPC    então você acha que a desigualdade social é um fator que contribui pra violência
+         00:21:33.280 - 00:21:39.350
+DISF     (HES)
+         00:21:38.580 - 00:21:39.390
+DISF     (HES)
+         00:21:42.510 - 00:21:43.460
+DOCPC    você concorda com o ditado se as mulheres não usassem roupas tão curtas haveria menos violência com elas?
+         00:21:44.180 - 00:21:49.960
+ADR1MI   não
+         00:21:50.090 - 00:21:50.410
+DISF     (HES)
+         00:21:50.635 - 00:21:51.295
+ADR1MI   até porque isso não tem nada a ver isso pode partir da índole
+         00:21:51.410 - 00:21:54.930
+ADR1MI   de quem tá indo abusar ou
+         00:21:55.215 - 00:21:57.115
+ADR1MI   violentar tantas mulheres
+         00:21:57.970 - 00:21:59.340
+DOCPC    você acha que as mulheres atualmente tem conquistado
+         00:22:00.910 - 00:22:04.940
+DOCPC    muito espaço na sociedade?
+         00:22:05.360 - 00:22:07.360
+ADR1MI   acho que a passinho de formiga tão ganhando representativa muito maior porém
+         00:22:07.705 - 00:22:11.855
+ADR1MI   sempre tem
+         00:22:12.505 - 00:22:13.305
+ADR1MI   declarações e pessoas pra poder
+         00:22:14.170 - 00:22:16.780
+ADR1MI   tentar
+         00:22:17.540 - 00:22:18.240
+ADR1MI   abafar o que tá aconteceu
+         00:22:18.585 - 00:22:19.885
+DOCPC    e por que você acha que isso acontece?
+         00:22:20.990 - 00:22:22.750
+ADR1MI   porque a gente vive em uma sociedade muito retrógrada 
+         00:22:24.255 - 00:22:26.645
+ADR1MI   em relação a isso
+         00:22:26.895 - 00:22:28.135
+ADR1MI   até porque até um tempo atrás mulher só serviria pra
+         00:22:28.430 - 00:22:32.090
+ADR1MI   tá ali pra cozinhar
+         00:22:32.575 - 00:22:33.555
+ADR1MI   ou dar uma boneca ela vai aprender a criar um futuro filho
+         00:22:33.950 - 00:22:36.690
+ADR1MI   e não um
+         00:22:37.125 - 00:22:38.145
+ADR1MI   nossa essa menina essa milha filha vai ser engenheira eu já ouvi gente
+         00:22:38.420 - 00:22:41.480
+ADR1MI   em Estância
+         00:22:41.725 - 00:22:42.475
+ADR1MI   falando que
+         00:22:42.695 - 00:22:43.455
+ADR1MI   a realização de ver a filha casando e a menina tinha dezesseis anos
+         00:22:43.600 - 00:22:46.650
+ADR1MI   não tinha nem terminado o ensino médio
+         00:22:47.220 - 00:22:48.570
+DOCPC    é bem
+         00:22:50.190 - 00:22:51.220
+DOCPC    pontual né isso
+         00:22:51.310 - 00:22:52.850
+DOCPC    você acha que a violência atinge homens e mulheres da mesma forma
+         00:22:53.925 - 00:22:58.335
+ADR1MI   não
+         00:22:59.010 - 00:22:59.760
+ADR1MI   mulher sempre
+         00:23:00.110 - 00:23:01.170
+ADR1MI   mais tenso
+         00:23:01.505 - 00:23:02.235
+ADR1MI   acredito eu
+         00:23:02.535 - 00:23:03.605
+ADR1MI   não não posso falar tanto até porque sou um homem
+         00:23:04.135 - 00:23:07.005
+DOCPC    que que voc/
+         00:23:04.220 - 00:23:04.820
+ADR1MI   (    )
+         00:23:07.265 - 00:23:08.105
+ADR1MI   então
+         00:23:08.360 - 00:23:09.350
+ADR1MI   e eu nunca passei por nada
+         00:23:09.730 - 00:23:11.540
+ADR1MI   assim
+         00:23:11.815 - 00:23:12.295
+ADR1MI   tão grave
+         00:23:13.060 - 00:23:14.190
+ADR1MI   só
+         00:23:14.580 - 00:23:15.310
+ADR1MI   que como tão tido como sexo frágil acho que é muito mais
+         00:23:17.250 - 00:23:20.550
+DISF     (HES)
+         00:23:21.525 - 00:23:22.675
+ADR1MI   alguém vai assim violentá-la ou
+         00:23:22.975 - 00:23:24.995
+ADR1MI   afrontar
+         00:23:26.030 - 00:23:26.640
+ADR1MI   achando que não vai ter absolutamente nada
+         00:23:27.060 - 00:23:28.960
+DOCPC    e por que é que você acha que isso acontece em nossa sociedade?
+         00:23:29.715 - 00:23:32.625
+ADR1MI   volta da nossa formação
+         00:23:33.855 - 00:23:35.255
+ADR1MI   (   ) pensando em explicar
+         00:23:35.830 - 00:23:37.080
+DISF     (HES)
+         00:23:37.460 - 00:23:37.840
+DISF     (HES)
+         00:23:38.285 - 00:23:39.065
+DISF     (HES)
+         00:23:40.410 - 00:23:41.110
+DOCPC    é comum
+         00:23:41.475 - 00:23:42.595
+DOCPC    aliás
+         00:23:42.700 - 00:23:43.110
+DOCPC    é recorrente de uns tempos pra cá ouvirmos a frase "a comunidade de gays e lésbicas"
+         00:23:43.580 - 00:23:49.210
+DOCPC    "tem ganhado muitos privilégios"
+         00:23:49.590 - 00:23:52.000
+DOCPC    cê concorda com essa frase ou não por quê?
+         00:23:52.090 - 00:23:54.310
+ADR1MI   ah a questão não é privilégio é questão de necessidade 
+         00:23:54.445 - 00:23:57.055
+ADR1MI   até porque não tinha nenhuma representatividade nenhuma
+         00:23:58.025 - 00:24:00.525
+DISF     (HES)
+         00:24:01.700 - 00:24:02.910
+ADR1MI   e aí
+         00:24:04.630 - 00:24:05.070
+ADR1MI   tipo
+         00:24:05.385 - 00:24:05.665
+ADR1MI   eu me inseri nesse meio tipo recentemente não o meio porque isso é errado de falar mas tipo me reconheci como gay
+         00:24:05.710 - 00:24:11.270
+ADR1MI   então é recentemente é uma questão que estou trabalhando em mim 
+         00:24:11.445 - 00:24:14.275
+ADR1MI   mas que
+         00:24:14.895 - 00:24:17.005
+ADR1MI   e também não tenho muita base de conhecimento pra debater sobre
+         00:24:17.365 - 00:24:20.765
+ADR1MI   mas é que ela tipo
+         00:24:21.340 - 00:24:22.670
+ADR1MI   eu já passei por recentemente minha mãe que é uma mulher lésbica
+         00:24:23.520 - 00:24:26.750
+ADR1MI   falar pra mim que quando falei desse meio pra ela ela não fica- nenhuma mãe
+         00:24:26.950 - 00:24:30.410
+ADR1MI   ficaria feliz com isso então é 
+         00:24:30.485 - 00:24:32.475
+ADR1MI   uma certa coisa contraditória
+         00:24:32.765 - 00:24:34.535
+ADR1MI   que vai da formação do
+         00:24:34.785 - 00:24:36.335
+ADR1MI   familiar assim sabe
+         00:24:36.755 - 00:24:38.075
+ADR1MI   de gay
+         00:24:38.270 - 00:24:38.810
+ADR1MI   ah vai ter que ir
+         00:24:39.015 - 00:24:39.905
+ADR1MI   porque
+         00:24:40.215 - 00:24:40.595
+ADR1MI   não me impede de só porque sou gay
+         00:24:40.930 - 00:24:42.680
+ADR1MI   de reproduzir até porque sou gay não esteril
+         00:24:42.920 - 00:24:45.390
+DOCPC    sim
+         00:24:44.540 - 00:24:44.840
+ADR1MI   e foi o que falei pra ela
+         00:24:45.720 - 00:24:47.520
+DISF     (HES)
+         00:24:48.475 - 00:24:49.675
+ADR1MI   então tá na base da formação familiar em  em qu/
+         00:24:50.895 - 00:24:53.365
+ADR1MI   em o que as pessoas julgam ser família
+         00:24:53.585 - 00:24:55.795
+ADR1MI   ou o que tá sendo trabalhado
+         00:24:56.085 - 00:24:57.425
+ADR1MI   tanto legislativamente graças a Deus
+         00:24:57.670 - 00:24:59.450
+DOCPC    sim
+         00:24:59.705 - 00:25:00.165
+DISF     (HES)
+         00:25:00.315 - 00:25:01.135
+ADR1MI   sobre a representatividade que tá aumentando
+         00:25:01.250 - 00:25:04.290
+ADR1MI   e ainda bem que foi a homofobia considerada crime
+         00:25:05.015 - 00:25:07.775
+ADR1MI   já ligada as questões raciais etc
+         00:25:08.210 - 00:25:11.520
+DOCPC    além da da representatividade que realmente é um fator muito importante em termos da comunidade lgbt né
+         00:25:12.107 - 00:25:18.337
+ADR1MI   não só como lgbt mas como um todo em relação à minoria
+         00:25:18.445 - 00:25:21.065
+DOCPC    sim sim
+         00:25:21.110 - 00:25:21.970
+DOCPC    qual o outro fator que você destacaria assim como essencial 
+         00:25:22.325 - 00:25:27.045
+DOCPC    pra
+         00:25:27.560 - 00:25:28.450
+DOCPC    conquista de como você disse não é privilégio
+         00:25:28.610 - 00:25:31.360
+DOCPC    é um direito básico né de dos grupos minoritários
+         00:25:31.710 - 00:25:34.510
+DOCPC    na sociedade qual outro fator de importância assim
+         00:25:34.875 - 00:25:37.555
+ADR1MI   educação voltando aí pra
+         00:25:38.360 - 00:25:40.150
+ADR1MI   pro debate
+         00:25:40.590 - 00:25:41.560
+DISF     (HES)
+         00:25:42.300 - 00:25:42.940
+ADR1MI   porque educação é base de tudo eu acho que quando você
+         00:25:43.055 - 00:25:46.355
+ADR1MI   ignora
+         00:25:46.620 - 00:25:47.230
+ADR1MI   não ignora mas tipo
+         00:25:47.390 - 00:25:48.630
+ADR1MI   introduz a 
+         00:25:48.880 - 00:25:49.630
+DISF     (HES)
+         00:25:49.790 - 00:25:50.670
+ADR1MI   esse conhecimento pras crianças que tem formação principalmente pro ensino básico
+         00:25:51.710 - 00:25:55.030
+ADR1MI   fundamental e etc
+         00:25:55.505 - 00:25:56.905
+ADR1MI   por mais que
+         00:25:57.560 - 00:25:58.570
+ADR1MI   algumas pessoas se contrapõam 
+         00:25:59.100 - 00:26:00.640
+ADR1MI   a inserção desse
+         00:26:00.705 - 00:26:01.685
+ADR1MI   dessa educação
+         00:26:02.130 - 00:26:03.090
+ADR1MI   nas escolas
+         00:26:03.545 - 00:26:04.455
+ADR1MI   é muito importante porque as escolas não formam só profissionais
+         00:26:04.605 - 00:26:07.605
+ADR1MI   pessoas com ensino médio em si
+         00:26:07.840 - 00:26:09.620
+ADR1MI   formam pessoas
+         00:26:09.905 - 00:26:10.965
+ADR1MI   e cidadãos
+         00:26:11.290 - 00:26:11.900
+ADR1MI   então
+         00:26:12.280 - 00:26:13.190
+ADR1MI   é de extrema importância ( ) você mostrar que
+         00:26:14.830 - 00:26:17.290
+ADR1MI   são coisas extretamente comuns que tão aí a séculos
+         00:26:17.735 - 00:26:20.335
+DISF     (HES)
+         00:26:21.600 - 00:26:21.900
+ADR1MI   só a gente abrindo o olho pra poder ver
+         00:26:21.600 - 00:26:23.730
+DOCPC    é é a questão do debate de gênero nas escolas né
+         00:26:24.020 - 00:26:27.390
+DOCPC    a importância disso
+         00:26:27.540 - 00:26:28.430
+DISF     (HES)
+         00:26:29.920 - 00:26:30.630
+DOCPC    a questão de gênero vem tem ganhado muita evidencia na mídia ultimamente
+         00:26:32.110 - 00:26:36.360
+DOCPC    drag queens cantoras como Pabllo Vittar mulheres e homens transsexuais como Tammy Miranda
+         00:26:36.880 - 00:26:43.030
+DOCPC    o filho de Gretchen
+         00:26:43.360 - 00:26:44.490
+DOCPC    e gays tem aparecido
+         00:26:44.830 - 00:26:46.120
+DOCPC    nas novelas
+         00:26:46.360 - 00:26:47.560
+DOCPC    quais motivos você considera que levou a essas pessoas terem visibilidade nos meios de comunicação
+         00:26:47.885 - 00:26:52.755
+DISF     (HES)
+         00:26:53.685 - 00:26:54.545
+ADR1MI   a frequente necessidade 
+         00:26:55.950 - 00:26:58.460
+ADR1MI   e
+         00:26:58.760 - 00:26:59.530
+ADR1MI   debates
+         00:26:59.700 - 00:27:00.460
+ADR1MI   em relação porque isso vem crescido muito
+         00:27:00.655 - 00:27:03.535
+ADR1MI   mas também vem aquela questão do que
+         00:27:03.940 - 00:27:07.050
+ADR1MI   não é só um interesse
+         00:27:07.280 - 00:27:08.630
+ADR1MI   em tornar isso
+         00:27:09.420 - 00:27:11.570
+DISF     (HES)
+         00:27:12.285 - 00:27:12.925
+ADR1MI   mais visível nas
+         00:27:13.270 - 00:27:14.520
+ADR1MI   em re/ em redes sociais
+         00:27:15.445 - 00:27:17.085
+ADR1MI   mas também porque eles sabem que eles vão ganhar alguma coisa em troca
+         00:27:17.410 - 00:27:20.010
+ADR1MI   com isso
+         00:27:20.375 - 00:27:20.675
+ADR1MI   tem essa questão também
+         00:27:21.110 - 00:27:22.270
+DOCPC    questão de mercado
+         00:27:22.405 - 00:27:23.625
+ADR1MI   sim
+         00:27:23.200 - 00:27:23.580
+DOCPC    então você não acha que é digamos assim 
+         00:27:24.490 - 00:27:27.780
+DOCPC    um papel de serviço social de
+         00:27:28.370 - 00:27:31.585
+ADR1MI   sim
+         00:27:31.265 - 00:27:31.655
+DOCPC    levar a diversidade pra tv algo que é perfeitamente comum a gente vê todo dia né
+         00:27:31.815 - 00:27:37.135
+DOCPC    mas é só uma questão de ganhar mesmo o que você acha?
+         00:27:37.480 - 00:27:40.125
+ADR1MI   também tem
+         00:27:40.175 - 00:27:41.155
+ADR1MI   pode ter uma certa ideia mas obviamente uma empresa não
+         00:27:41.640 - 00:27:44.800
+ADR1MI   faria isso tudo sabendo que ela não ia ganhar nada em troca
+         00:27:45.195 - 00:27:48.525
+DOCPC    se então você acha que por exemplo o debate sobre questões de gênero não tivesse
+         00:27:50.245 - 00:27:56.000
+DOCPC    ganhado tanto espaço apesar dos apesares né aqui no Brasil
+         00:27:56.440 - 00:28:00.170
+DISF     (HES)
+         00:28:00.495 - 00:28:00.835
+DOCPC    se não fosse esse o caso a gente não teria por exemplo a Pabllo fazendo tanto sucesso aparecendo em novela
+         00:28:01.070 - 00:28:06.670
+ADR1MI   ela cresceu com um
+         00:28:07.180 - 00:28:09.000
+ADR1MI   a comunidade junto
+         00:28:09.220 - 00:28:10.600
+DOCPC    sim
+         00:28:10.850 - 00:28:11.250
+ADR1MI   mas
+         00:28:11.265 - 00:28:11.925
+ADR1MI   com ela cresceu ela o sabiam que ela ia ter um uma certa visibilidade
+         00:28:12.960 - 00:28:17.840
+ADR1MI   e eu duvido muito que uma empresa tão grande ia arriscar tanto
+         00:28:18.175 - 00:28:21.205
+ADR1MI   sabendo que poderia influenciar na queda de uma
+         00:28:21.985 - 00:28:25.105
+ADR1MI   uma porção da população que assistiria a ela como um tudo
+         00:28:25.680 - 00:28:27.510
+ADR1MI   que
+         00:28:27.900 - 00:28:28.070
+ADR1MI   não sei
+         00:28:28.560 - 00:28:29.040
+DOCPC    sim sim
+         00:28:29.510 - 00:28:30.300
+DOCPC    agora em relação à saúde pública
+         00:28:30.930 - 00:28:33.710
+DOCPC    cê já teve algum problema sério?
+         00:28:33.995 - 00:28:36.675
+DISF     (HES)
+         00:28:37.790 - 00:28:38.570
+ADR1MI   assim eu tive um problema de pele grave até que não tem cura só tratamento
+         00:28:38.805 - 00:28:43.365
+DISF     (HES)
+         00:28:44.170 - 00:28:45.200
+ADR1MI   mas nunca assim que eu precisasse me internar nem nada nem cirugia nada
+         00:28:45.830 - 00:28:49.350
+DOCPC    cê já precisou utilizar o SUS?
+         00:28:49.775 - 00:28:51.845
+ADR1MI   eu já usei mas foi pra
+         00:28:53.655 - 00:28:55.565
+ADR1MI   exame de coisas de
+         00:28:55.805 - 00:28:57.375
+DOCPC    de rotina
+         00:28:57.555 - 00:28:58.345
+ADR1MI   não rotina tipo que tava necessitando
+         00:28:59.165 - 00:29:01.355
+DOCPC    e como foi a experiência o SUS atendeu as suas necessidades
+         00:29:02.420 - 00:29:06.500
+ADR1MI   atendeu mas deu aquela demoradinha
+         00:29:06.725 - 00:29:09.055
+DISF     (HES)
+         00:29:10.330 - 00:29:10.850
+DOCPC    você acha que o SUS 
+         00:29:10.870 - 00:29:13.040
+DOCPC    como política pública funciona?
+         00:29:13.610 - 00:29:16.330
+ADR1MI   é uma ideia legal
+         00:29:17.465 - 00:29:18.835
+ADR1MI   mas acho que é muito um pouco mal administrada ainda
+         00:29:19.265 - 00:29:22.645
+ADR1MI   é uma ideia interessante mas que poderia
+         00:29:23.360 - 00:29:25.220
+ADR1MI   ser melhor
+         00:29:25.435 - 00:29:25.905
+ADR1MI   aplicação dela
+         00:29:26.435 - 00:29:27.585
+DISF     (HES)
+         00:29:29.125 - 00:29:29.945
+DOCPC    você mencionou a demora né
+         00:29:30.120 - 00:29:31.520
+ADR1MI   sim
+         00:29:31.565 - 00:29:31.905
+DISF     (HES)
+         00:29:31.872 - 00:29:32.112
+DOCPC    quais são outros pontos negativos  e positivos em relação ao SUS que você destaca?
+         00:29:32.262 - 00:29:38.472
+ADR1MI   como eu nunca fui muito de usar o SUS eu uso mais o Ipes
+         00:29:39.205 - 00:29:42.285
+ADR1MI   que é aquele daqui do estado que a minha mãe é
+         00:29:42.640 - 00:29:45.500
+ADR1MI   trabalha na rede pública 
+         00:29:46.145 - 00:29:47.005
+DISF     (HES)
+         00:29:48.080 - 00:29:49.460
+ADR1MI   acredito que a demora principal (   ) até porque tem inúmeras pessoas que necessitam com urgência e tem coisa que "ah tô precisando disso agora e você só vai conseguir daqui uns"
+         00:29:49.765 - 00:30:00.275
+ADR1MI   "a um ano"
+         00:30:00.540 - 00:30:01.120
+ADR1MI   sabe
+         00:30:02.235 - 00:30:02.605
+DISF     (HES)
+         00:30:02.845 - 00:30:03.425
+ADR1MI   a estruturação a administração desse recurso
+         00:30:03.660 - 00:30:06.410
+DISF     (HES)
+         00:30:06.995 - 00:30:07.925
+ADR1MI   também isso tá atrelado a questões 
+         00:30:08.195 - 00:30:10.685
+ADR1MI   estruturais de um hospital e em incomum e as políticas também internas do hospital
+         00:30:10.980 - 00:30:15.820
+DOCPC    a administração que você se refere é em relação ao funcionamento interno ou por exemplo
+         00:30:16.640 - 00:30:23.340
+ADR1MI   sim
+         00:30:20.925 - 00:30:21.325
+DOCPC    econômico em relação às verbas que são destinadas ao SUS
+         00:30:23.910 - 00:30:28.050
+ADR1MI   também as duas
+         00:30:27.215 - 00:30:27.995
+ADR1MI   os dois tanto os puli/ as questões internas de um hospital que vão tá relacionadas a uso daquele daquela política 
+         00:30:28.270 - 00:30:36.330
+ADR1MI   tanto o dinheiro que é investido isso até porque
+         00:30:36.810 - 00:30:40.920
+ADR1MI   é necessário um investimento maior
+         00:30:41.305 - 00:30:42.925
+ADR1MI   pra que uma maior quantidade de pessoas tenha acesso
+         00:30:43.140 - 00:30:45.710
+ADR1MI   e melhorar
+         00:30:46.560 - 00:30:49.010
+DOCPC    o SUS ele tem em alguns bairros né tem a unidade de saúde da família que tem cliníco geral e tal
+         00:30:49.780 - 00:30:57.720
+DISF     (HES)
+         00:30:58.010 - 00:30:58.530
+DOCPC    onde você mora tem?
+         00:30:58.605 - 00:30:59.605
+ADR1MI   não
+         00:31:00.020 - 00:31:00.460
+DOCPC    mas do (  )
+         00:31:02.430 - 00:31:04.820
+ADR1MI   são próximos
+         00:31:03.710 - 00:31:04.970
+ADR1MI   que deve ter no Médice posto de saúde 
+         00:31:05.090 - 00:31:07.240
+DOCPC    você já utilizou o o 
+         00:31:07.380 - 00:31:09.210
+ADR1MI   não
+         00:31:08.620 - 00:31:09.000
+DOCPC    mas assim em termos de especialidade
+         00:31:10.215 - 00:31:13.495
+DOCPC    porque tem  o cliníco geral  no postinho de bairro e tem os especialistas em né em hospitais maiores 
+         00:31:13.620 - 00:31:20.660
+DOCPC    cê acha que a quantidade é suficiente pra atender a demanda da população
+         00:31:21.130 - 00:31:25.630
+ADR1MI   olha posso até ter uma certa quantidade mas se eles vão está ali no momento que as pessoas precisam também
+         00:31:27.490 - 00:31:35.670
+DISF     (HES)
+         00:31:37.970 - 00:31:39.080
+DOCPC    de forma assim
+         00:31:39.370 - 00:31:41.020
+ADR1MI   ah mas não em tudo tem locais que tem deficiente de quantidade de médicos
+         00:31:41.170 - 00:31:45.520
+ADR1MI   até em em próprio inte/ interiores também a quantidade de médicos
+         00:31:45.850 - 00:31:49.650
+ADR1MI   que tem médico que prefere
+         00:31:49.855 - 00:31:51.015
+ADR1MI   vim morar na cidade né que é mais confortável num sei o que já estudou tudo
+         00:31:51.100 - 00:31:55.250
+ADR1MI   e pegando seu dinheiro e não sei o quê tanto é que teve problemas com o mais médicos
+         00:31:55.450 - 00:31:59.450
+ADR1MI   né que
+         00:31:59.765 - 00:32:00.755
+ADR1MI   tinha vaga pra tudo quanto era lugar no país
+         00:32:01.055 - 00:32:03.725
+ADR1MI   e a maioria dos médicos cancelavam a inscrição porque não queria ir pra
+         00:32:03.895 - 00:32:07.165
+ADR1MI   giripoca lá no fim do mundo do que fazer carreira no Acre sei lá
+         00:32:07.885 - 00:32:11.255
+DOCPC    então
+         00:32:12.400 - 00:32:13.090
+DISF     (HES)
+         00:32:13.200 - 00:32:13.430
+DOCPC    você vê que o SUS
+         00:32:13.500 - 00:32:15.700
+DOCPC    é um sistema público como o próprio nome diz tem como objetivo atender toda a população independentemente de onde
+         00:32:16.490 - 00:32:23.690
+DOCPC    a pessoa esteja mas isso não acontece na prática
+         00:32:23.800 - 00:32:27.240
+ADR1MI   não
+         00:32:26.615 - 00:32:27.215
+DOCPC    e como você vê isso?
+         00:32:28.380 - 00:32:30.530
+ADR1MI   crítico
+         00:32:31.145 - 00:32:31.835
+DISF     ((RISOS))
+         00:32:31.905 - 00:32:32.235
+ADR1MI   muito crítico
+         00:32:32.515 - 00:32:33.845
+ADR1MI   até porque nossa população agora tá
+         00:32:34.075 - 00:32:35.935
+ADR1MI   tendendo a ser mais velha então a necessidade de uma
+         00:32:36.410 - 00:32:39.680
+ADR1MI   atendimento de saúde
+         00:32:39.860 - 00:32:41.280
+ADR1MI   é maior
+         00:32:41.445 - 00:32:42.405
+DISF     (HES)
+         00:32:43.335 - 00:32:44.325
+ADR1MI   é tenso muito tenso
+         00:32:45.375 - 00:32:46.845
+ADR1MI   é preocupante
+         00:32:47.215 - 00:32:48.365
+ADR1MI   mas
+         00:32:48.995 - 00:32:49.715
+DOCPC    você acha que
+         00:32:50.490 - 00:32:52.210
+DOCPC    a saúde pública não tá se preparando o suficiente para atender a população de idosos que vai ter no Brasil daqui a uns
+         00:32:53.045 - 00:33:00.395
+ADR1MI   não
+         00:32:58.485 - 00:32:58.925
+ADR1MI   por mais que ele use essa argumentação até pra
+         00:33:00.075 - 00:33:02.445
+ADR1MI   a reforma da previdência eu acredito que eles não estão se estruturando de forma alguma para um todo
+         00:33:02.720 - 00:33:08.230
+DISF     (HES)
+         00:33:10.460 - 00:33:11.050
+DOCPC    você tem alguma opinião assim em relação a o que é que falta pra esse tipo de estruturação aqui no Brasil?
+         00:33:11.510 - 00:33:19.730
+ADR1MI   olha eu acho que a questão  de
+         00:33:20.555 - 00:33:22.175
+ADR1MI   educação e noção pública é muito importante principalmente por parte dos profissionais que trabalham lá
+         00:33:23.060 - 00:33:28.880
+ADR1MI   porque
+         00:33:29.645 - 00:33:30.275
+ADR1MI   minha mãe tá inserida na na
+         00:33:30.805 - 00:33:32.605
+ADR1MI   ni- ni- políticas públicas num hospital público
+         00:33:32.840 - 00:33:35.270
+DOCPC    sim
+         00:33:35.510 - 00:33:35.820
+DISF     (HES)
+         00:33:35.970 - 00:33:36.330
+ADR1MI   eu já presenciei
+         00:33:36.805 - 00:33:37.775
+ADR1MI   muitas situações que são meio
+         00:33:38.045 - 00:33:39.405
+ADR1MI   sabe que aquilo poderia ter sido solucionado não só tem a em relação à falta de materiais etc
+         00:33:40.490 - 00:33:46.170
+ADR1MI   muitas coisas poderiam ter sido solucionadas
+         00:33:46.650 - 00:33:49.340
+ADR1MI   só porque
+         00:33:49.950 - 00:33:51.280
+ADR1MI   tal profissional não queria fazer alguma coisa
+         00:33:51.400 - 00:33:53.350
+ADR1MI   ou ficar burlando com os médicos enfermeiras principalmente também principalmente médicos na realidade
+         00:33:53.570 - 00:33:59.810
+ADR1MI   eles tão com a vida ganha não tão nem aí pra ninguém tão ganhado o salariozinho deles salariozinho não puta salário deles
+         00:33:59.950 - 00:34:07.130
+DISF     (HES)
+         00:34:07.525 - 00:34:08.495
+ADR1MI   acho que a noção principalmente por parte deles que escolheram participar sabe que fizeram um juramento
+         00:34:08.920 - 00:34:14.530
+ADR1MI   pra poder proteger e atender pessoas e não estão exercendo com aquilo que eles
+         00:34:14.840 - 00:34:19.980
+ADR1MI   juraram
+         00:34:20.615 - 00:34:21.325
+DOCPC    fariam
+         00:34:21.660 - 00:34:22.310
+ADR1MI   juraram exercer exatamente
+         00:34:21.685 - 00:34:23.365
+DOCPC    você tinha mencionado é a questão de 
+         00:34:24.130 - 00:34:27.280
+DOCPC    o SUS tem muitos especialistas mas esses especialistas nem sempre tão nas suas unidades ou 
+         00:34:27.770 - 00:34:34.480
+DOCPC    funcionários da saúde que não querem fazer o que deveriam
+         00:34:34.760 - 00:34:37.780
+DOCPC    é um tipo de prática que pelo que você destacou é recorrente né
+         00:34:37.955 - 00:34:42.155
+ADR1MI   (EST)
+         00:34:42.310 - 00:34:42.880
+DOCPC    por que é que você acha que isso acontece
+         00:34:42.960 - 00:34:44.590
+ADR1MI   como eu falei noção
+         00:34:45.090 - 00:34:46.680
+DISF     ((RISOS))
+         00:34:46.670 - 00:34:47.050
+ADR1MI   acho que às vezes as pessoas só também escolhem a profissão porque acham que vão ganhar um certo salário e normalmente é
+         00:34:47.740 - 00:34:53.130
+ADR1MI   e não fazem aquilo porque eles realmente querem fazer e sim pela pretensão salarial
+         00:34:53.620 - 00:34:57.220
+ADR1MI   que uns acabam ganhando 
+         00:34:57.425 - 00:34:58.835
+ADR1MI   mas também não tem aquela
+         00:34:59.205 - 00:35:00.765
+ADR1MI   nossa esqueci a palavra tipo
+         00:35:02.630 - 00:35:04.400
+DISF     (HES)
+         00:35:06.090 - 00:35:07.950
+ADR1MI   não tem aquela fiscalização sabe de que se aquele profissional tá realmente exercendo a profissão dele
+         00:35:08.155 - 00:35:13.665
+ADR1MI   essa fiscalização também é um pouco deficiente
+         00:35:13.865 - 00:35:16.325
+ADR1MI   um tanto deficiente
+         00:35:16.620 - 00:35:17.820
+ADR1MI   e mas a questão principal é muita noção
+         00:35:18.685 - 00:35:21.205
+DISF     (HES)
+         00:35:21.430 - 00:35:22.120
+ADR1MI   por parte de quem em tese (assim tá) profissão porque sabe que aquilo é importante e tá deixando de fazer aqui então ele deveria ter
+         00:35:22.480 - 00:35:28.840
+ADR1MI   o mínimo de noção em saber que pessoas estão sendo prejudicadas pela displicência deles 
+         00:35:29.100 - 00:35:32.870
+DOCPC    sim sim
+         00:35:34.070 - 00:35:35.090
+DISF     (HES)
+         00:35:35.590 - 00:35:35.960
+DOCPC    essa essa questão da fiscalização
+         00:35:35.980 - 00:35:38.850
+DOCPC    da atuação do médicos
+         00:35:39.430 - 00:35:40.500
+DOCPC    né no
+         00:35:40.660 - 00:35:41.430
+DOCPC    nos postos nos hospitais você então aponta como algo que
+         00:35:41.630 - 00:35:46.810
+DOCPC    precisa ser trabalhado no nosso sistema de saúde
+         00:35:47.075 - 00:35:49.595
+DISF     (HES)
+         00:35:51.180 - 00:35:51.760
+DOCPC    cê tinha dito que os médicos são pessoas que
+         00:35:52.085 - 00:35:55.565
+DOCPC    escolhem ser médicos por causa do salário
+         00:35:55.860 - 00:35:59.520
+DOCPC    você acha que
+         00:35:59.775 - 00:36:00.615
+ADR1MI   porcentagem não generalizando
+         00:36:00.330 - 00:36:01.670
+DOCPC    é uma quantidade cê acha que é significativa ou não?
+         00:36:01.715 - 00:36:05.115
+ADR1MI   olha no local que a gente precisa normalmente é bem significativo quan/ que a gente precisa
+         00:36:06.680 - 00:36:11.330
+ADR1MI   mas já conheci diversos médicos muito competentes 
+         00:36:11.650 - 00:36:14.860
+ADR1MI   então acho que
+         00:36:15.190 - 00:36:16.160
+ADR1MI   pode não ser tão significativo mas esse si/ mas esse pouco já é um muito
+         00:36:17.440 - 00:36:22.210
+ADR1MI   porque saúde não é brincadeira então
+         00:36:22.530 - 00:36:24.520
+ADR1MI   deveria tanto quanto a segurança deveria tá cobrindo um todo
+         00:36:25.240 - 00:36:29.070
+ADR1MI   e às vezes
+         00:36:29.420 - 00:36:30.300
+ADR1MI   esses espaços que ficam faltando essas lacunas
+         00:36:30.565 - 00:36:33.745
+ADR1MI   acaba prejudicando ainda mais uma grande porcentagem de pessoas
+         00:36:34.490 - 00:36:37.505
+DOCPC    sim
+         00:36:37.905 - 00:36:38.385
+DISF     (HES)
+         00:36:39.260 - 00:36:40.230
+DOCPC    em relação a
+         00:36:41.560 - 00:36:43.410
+DISF     (HES)
+         00:36:44.732 - 00:36:45.042
+DOCPC    ainda sobre essa questão de pessoas escolherem a profissão por causa do que vão ganhar cê acha que isso acontece
+         00:36:45.130 - 00:36:51.795
+DOCPC    em todas as profissões
+         00:36:52.085 - 00:36:53.655
+DISF     (HES)
+         00:36:53.865 - 00:36:54.335
+DOCPC    na nas profissões da educação por exemplo
+         00:36:54.465 - 00:36:57.305
+DOCPC    educação
+         00:36:58.765 - 00:36:59.675
+DISF     (HES)
+         00:36:59.615 - 00:37:00.245
+DOCPC    sei lá direito engenharia 
+         00:37:00.725 - 00:37:02.615
+ADR1MI   se for focar na santíssima trindade da engenharia, direito e medicina
+         00:37:02.865 - 00:37:06.825
+ADR1MI   principalmente
+         00:37:08.390 - 00:37:09.340
+ADR1MI   tem pessoas que acabam realmente fazendo aquilo porque realmente gostam obviamente
+         00:37:09.580 - 00:37:12.930
+ADR1MI   mas tem aqueles que ou o pai obriga
+         00:37:13.630 - 00:37:15.900
+ADR1MI   a fazer porque
+         00:37:16.060 - 00:37:17.390
+ADR1MI   vai ter um futuro lá meu filho é médico meu filho é
+         00:37:17.560 - 00:37:20.530
+ADR1MI   é advogado meu filho é um engenheiro
+         00:37:21.350 - 00:37:23.800
+DISF     (HES)
+         00:37:24.380 - 00:37:24.770
+ADR1MI   mas você não vê tanta
+         00:37:24.830 - 00:37:26.600
+ADR1MI   tanto empenho dos pais ah meu filho vai ser professor
+         00:37:26.870 - 00:37:29.640
+ADR1MI   ou
+         00:37:30.370 - 00:37:31.190
+ADR1MI   meu filho tá fazendo história num sei o quê
+         00:37:31.555 - 00:37:33.555
+ADR1MI   tá pra quê?
+         00:37:33.930 - 00:37:35.540
+DOCPC    por que é que você acha que existe esse 
+         00:37:35.760 - 00:37:38.340
+DOCPC    tá pra quê em relação às licenciaturas então
+         00:37:38.565 - 00:37:41.275
+ADR1MI   porque eles são muito pouco valorizados
+         00:37:42.525 - 00:37:44.545
+ADR1MI   sendo que é um papel muito importante
+         00:37:45.190 - 00:37:47.580
+DISF     (HES)
+         00:37:49.130 - 00:37:50.040
+ADR1MI   e a gente vê até mesmo na ufs essas até tem uma professora que comentou sobre que
+         00:37:50.110 - 00:37:55.950
+ADR1MI   a grande maioria dos
+         00:37:56.145 - 00:37:56.755
+ADR1MI   dos doutores
+         00:37:57.185 - 00:37:58.365
+ADR1MI   e mestrandos
+         00:38:00.150 - 00:38:01.210
+ADR1MI   nem sempre são da licenciatura então eles vão acabar são pessoas que não tiveram formação pra ensinar
+         00:38:01.385 - 00:38:07.275
+ADR1MI   que vão ensinar
+         00:38:07.565 - 00:38:08.475
+ADR1MI   até
+         00:38:09.935 - 00:38:10.935
+ADR1MI   de que toca nesse quesito não é importante
+         00:38:11.580 - 00:38:14.110
+ADR1MI   sobre
+         00:38:14.470 - 00:38:15.130
+ADR1MI   não serem valorizados os professores em si a educação também desvalorizada e o conformismo em relação a isso
+         00:38:16.315 - 00:38:22.455
+DOCPC    conformismo em que sentido?
+         00:38:23.150 - 00:38:24.760
+ADR1MI   de os professores não são valorizados num sei o quê
+         00:38:25.030 - 00:38:28.470
+ADR1MI   ok
+         00:38:28.655 - 00:38:29.215
+ADR1MI   tá
+         00:38:29.520 - 00:38:29.990
+DOCPC    fica um grande tanto faz
+         00:38:30.895 - 00:38:32.895
+ADR1MI   é
+         00:38:32.890 - 00:38:33.620
+ADR1MI   não só isso mas também tem relação a relação a muita coisa
+         00:38:34.180 - 00:38:37.110
+ADR1MI   do país
+         00:38:37.680 - 00:38:38.130
+ADR1MI   conformismo é uma coisa muito
+         00:38:38.570 - 00:38:40.060
+ADR1MI   frequente
+         00:38:41.270 - 00:38:41.940
+DOCPC    cê acha que se estende a todas as áreas?
+         00:38:42.430 - 00:38:45.080
+ADR1MI   sim
+         00:38:45.480 - 00:38:45.990
+DOCPC    por quê?
+         00:38:47.650 - 00:38:48.200
+ADR1MI   pera aí se estende a todas as áreas em relação (   ) 
+         00:38:49.030 - 00:38:51.780
+DOCPC    sim
+         00:38:51.820 - 00:38:52.200
+DISF     (HES)
+         00:38:53.915 - 00:38:55.055
+ADR1MI   deixo vê o mercado é muito saturado de muitas coisas
+         00:38:55.830 - 00:38:58.090
+ADR1MI   tipo principalmente engenharia civil
+         00:38:58.345 - 00:39:00.305
+ADR1MI   principalmente até brincadeira do todo engenheiro civil vai virar uber
+         00:39:00.470 - 00:39:03.680
+ADR1MI   porque não tem emprego
+         00:39:03.960 - 00:39:05.590
+DISF     (HES)
+         00:39:06.470 - 00:39:07.230
+ADR1MI   o conformismo ele tá ligado
+         00:39:07.835 - 00:39:10.125
+ADR1MI   pode ser cultural
+         00:39:11.315 - 00:39:12.415
+ADR1MI   mas
+         00:39:12.770 - 00:39:13.810
+ADR1MI   não sei é muito palpável você perceber que
+         00:39:14.965 - 00:39:17.545
+DISF     (HES)
+         00:39:18.100 - 00:39:18.510
+ADR1MI   em alguns casos 
+         00:39:18.530 - 00:39:19.420
+ADR1MI   poucas pessoas até em questões de movimentações sociais ou
+         00:39:20.240 - 00:39:23.850
+ADR1MI   na atual no atual governo as pessoas
+         00:39:24.190 - 00:39:27.190
+ADR1MI   reclamam do que tá acontecendo mas não vão fazer nada sobre
+         00:39:27.425 - 00:39:29.945
+ADR1MI   só sabem tá ali sentadinha reclamando do que tá acontecendo
+         00:39:30.810 - 00:39:33.720
+ADR1MI   mas não se movem
+         00:39:34.060 - 00:39:35.090
+ADR1MI   pra poder fazer alguma coisa
+         00:39:35.180 - 00:39:36.230
+ADR1MI   em seu conformismo (    )
+         00:39:36.610 - 00:39:39.440
+DOCPC    cê acha que isso é mais evidente 
+         00:39:40.010 - 00:39:42.650
+DOCPC    agora num num momento que a gente tá vivendo esse conformismo
+         00:39:42.975 - 00:39:46.785
+DOCPC    ou que a população brasileira sempre foi assim?
+         00:39:47.215 - 00:39:50.415
+ADR1MI   acredito que sempre tenha sido
+         00:39:50.540 - 00:39:52.980
+ADR1MI   só que às vezes a situação tá melhorzinha
+         00:39:53.415 - 00:39:56.185
+ADR1MI   e
+         00:39:56.645 - 00:39:57.385
+ADR1MI   mantém o conformismo
+         00:39:57.890 - 00:39:59.270
+ADR1MI   mas também a situação tá piora aí você vê reclamar mais mas continuam a fazer nada
+         00:39:59.515 - 00:40:04.405
+DOCPC    é o que acontece hoje né
+         00:40:05.645 - 00:40:07.385
+ADR1MI   é principalmente
+         00:40:07.650 - 00:40:08.690
+DISF     (HES)
+         00:40:10.035 - 00:40:11.085
+DOCPC    aqui no estado de Sergipe em relação a fala agora
+         00:40:11.825 - 00:40:15.235
+DOCPC    você já percebeu alguma diferença no modo como as pessoas falam?
+         00:40:15.695 - 00:40:18.855
+ADR1MI   já em diverso em
+         00:40:19.810 - 00:40:21.430
+ADR1MI   tanto em relação a classe social
+         00:40:21.625 - 00:40:23.925
+ADR1MI   também muda
+         00:40:24.600 - 00:40:26.360
+ADR1MI   a forma de
+         00:40:26.955 - 00:40:27.735
+ADR1MI   diálogo ou 
+         00:40:27.980 - 00:40:29.090
+ADR1MI   sotaques também
+         00:40:29.250 - 00:40:30.630
+ADR1MI   ou gírias
+         00:40:30.875 - 00:40:31.825
+DISF     (HES)
+         00:40:32.675 - 00:40:33.725
+ADR1MI   (   )
+         00:40:35.735 - 00:40:36.825
+ADR1MI   isso
+         00:40:37.115 - 00:40:37.375
+DOCPC    essas essas diferenças que você 
+         00:40:38.060 - 00:40:40.400
+DOCPC    percebe que você disse que é em relação a classe social mas em relação a localidade assim?
+         00:40:40.655 - 00:40:46.225
+ADR1MI   também envolve
+         00:40:43.075 - 00:40:43.765
+DOCPC    cê vem de Estância
+         00:40:46.585 - 00:40:48.395
+DOCPC    veio pra cá pra Aracaju o que cê percebeu você sentiu diferença
+         00:40:48.625 - 00:40:51.745
+ADR1MI   Aracaju tem
+         00:40:52.130 - 00:40:52.900
+ADR1MI   por mais que seja só um interior um pouquinho mais desenvolvido
+         00:40:53.410 - 00:40:57.460
+DISF     (HES)
+         00:40:57.605 - 00:40:58.245
+ADR1MI   tem um contato muito mais globalizado
+         00:40:58.360 - 00:41:00.420
+ADR1MI   até porque e tem pessoas que vão ter
+         00:41:00.615 - 00:41:03.115
+ADR1MI   gírias que sei lá vieram de São Paulo são usadas mais de um ano
+         00:41:03.510 - 00:41:06.970
+ADR1MI   ou alguma coisa assim
+         00:41:07.245 - 00:41:08.325
+DISF     (HES)
+         00:41:08.840 - 00:41:09.480
+ADR1MI   e quando o interior é mais restritivo
+         00:41:09.685 - 00:41:12.495
+ADR1MI   eles tem um
+         00:41:12.940 - 00:41:13.930
+ADR1MI   uma própria conversa por exemplo eu tenho um amigo que veio da Gameleira 
+         00:41:14.880 - 00:41:18.520
+ADR1MI   que é perto de exatamente perto de Campo do Brito
+         00:41:18.765 - 00:41:21.955
+DOCPC    o que é Gameleira?
+         00:41:19.640 - 00:41:20.510
+ADR1MI   ele às vezes a gente ficava tirando onda porque ele fala igual aquelas idosas fofoqueira do interior
+         00:41:22.640 - 00:41:28.120
+ADR1MI   aí ele fala "ah tal pessoa é sumica"
+         00:41:28.745 - 00:41:31.125
+DISF     (HES)
+         00:41:31.280 - 00:41:31.970
+ADR1MI   em vez de dizer que a pessoa é sumitíca  
+         00:41:32.170 - 00:41:33.850
+ADR1MI   ou oitenta um oito uma coisa assim
+         00:41:34.085 - 00:41:36.555
+DOCPC    e esse seu amigo estuda aqui na UFS?
+         00:41:37.335 - 00:41:39.015
+ADR1MI   estuda
+         00:41:38.930 - 00:41:39.720
+DOCPC    ele usa formas como oito oitenta mesmo aqui?
+         00:41:39.920 - 00:41:43.920
+ADR1MI   sim até porque é recente né tipo a inserção dele na UFS
+         00:41:43.945 - 00:41:47.995
+DOCPC    ah ele tá no
+         00:41:48.475 - 00:41:49.825
+ADR1MI   mas já mudou muito o a forma dele falar
+         00:41:48.885 - 00:41:52.425
+DISF     (HES)
+         00:41:53.430 - 00:41:54.120
+DOCPC    você acha que tinha traços você disse que Estância não é um interior tão interior como esse do seu amigo mas você percebe que
+         00:41:54.720 - 00:42:03.060
+DOCPC    sua fala seu modo de falar mudou depois que cê veio pra Aracaju depois que você veio pra UFS
+         00:42:03.720 - 00:42:08.910
+ADR1MI   sim sim meu modo de falar
+         00:42:08.990 - 00:42:10.530
+ADR1MI   ( )
+         00:42:11.385 - 00:42:12.235
+ADR1MI   com muitas coisas também na cabeça
+         00:42:12.475 - 00:42:14.385
+ADR1MI   eu sempre fui uma criança fora da caixinha
+         00:42:14.785 - 00:42:16.695
+ADR1MI   mas quando cê muda aquele ambiente que te restringia a certos pensamentos
+         00:42:17.235 - 00:42:22.005
+ADR1MI   não querendo chegar naquele naquela ideia
+         00:42:22.655 - 00:42:24.945
+ADR1MI   que há só porque você só morava no interior vai ser aquela coisa
+         00:42:25.465 - 00:42:28.505
+ADR1MI   cabeça fechada e etc
+         00:42:28.620 - 00:42:29.910
+ADR1MI   não isso
+         00:42:30.470 - 00:42:30.940
+ADR1MI   mas
+         00:42:31.520 - 00:42:32.210
+ADR1MI   tem
+         00:42:33.070 - 00:42:33.810
+ADR1MI   questões que realmentem mudam gírias também principalmente
+         00:42:34.245 - 00:42:37.815
+ADR1MI   a questão da globalização também engloba então
+         00:42:38.325 - 00:42:40.595
+ADR1MI   também tá muito atrelado a isso
+         00:42:40.695 - 00:42:42.095
+DOCPC    envolve a língua também além de
+         00:42:42.210 - 00:42:44.210
+ADR1MI   sim
+         00:42:43.585 - 00:42:43.955
+DOCPC    outras coisas
+         00:42:44.410 - 00:42:45.450
+DISF     (HES)
+         00:42:46.105 - 00:42:46.405
+DOCPC    você acredita que estando em outro lugar ou em contato com pessoas de outro lugar
+         00:42:46.470 - 00:42:51.310
+DISF     (HES)
+         00:42:51.750 - 00:42:52.180
+DOCPC    dá pra identificar 
+         00:42:52.280 - 00:42:53.620
+DOCPC    a origem daquela pessoa só pelo modo de como ela fala?
+         00:42:53.890 - 00:42:56.920
+ADR1MI   sotaque sim
+         00:42:57.470 - 00:42:58.540
+ADR1MI   mas também vai depender muito
+         00:42:59.660 - 00:43:01.510
+ADR1MI   é igual a sotaque mineiro
+         00:43:01.660 - 00:43:02.980
+ADR1MI   tem
+         00:43:03.465 - 00:43:04.375
+ADR1MI   mineiro que tem o s limpo e tem outros mineirinho mesmo que a gente fala que
+         00:43:04.605 - 00:43:08.775
+ADR1MI   as pessoas
+         00:43:09.165 - 00:43:09.945
+ADR1MI   já tomam como 
+         00:43:10.080 - 00:43:11.510
+ADR1MI   característica
+         00:43:11.960 - 00:43:13.080
+ADR1MI   porque eu tenho professores do meu curso que são mineiros mas tem formas de falar distintas
+         00:43:13.645 - 00:43:18.615
+DISF     (HES)
+         00:43:20.030 - 00:43:20.660
+ADR1MI   mas
+         00:43:20.760 - 00:43:21.210
+ADR1MI   em relação a pessoas porque
+         00:43:21.630 - 00:43:23.210
+ADR1MI   a gente é o que é pelo que o meio nos proporciona
+         00:43:23.415 - 00:43:26.435
+DOCPC    sim
+         00:43:26.540 - 00:43:26.910
+DISF     (HES)
+         00:43:28.110 - 00:43:28.570
+ADR1MI   o principal foco assim
+         00:43:28.765 - 00:43:30.385
+DOCPC    cê disse que dá pra gente perceber diferença dentro de um mesmo estado né
+         00:43:31.280 - 00:43:36.630
+ADR1MI   sim
+         00:43:36.370 - 00:43:36.680
+DOCPC    mas
+         00:43:36.840 - 00:43:37.890
+DISF     (HES)
+         00:43:38.510 - 00:43:38.830
+DOCPC    em relação a regiões você acha que dá pra identificar
+         00:43:38.885 - 00:43:42.855
+DOCPC    a fala do nordeste a fala do sul e sudeste?
+         00:43:43.200 - 00:43:46.310
+ADR1MI   acho que o nordestino 
+         00:43:46.510 - 00:43:47.530
+ADR1MI   nordestinos e sulistas dá pra você comparar assim
+         00:43:47.715 - 00:43:51.035
+ADR1MI   muito e acho que dá pra saber
+         00:43:51.210 - 00:43:52.840
+ADR1MI   assim vai ter aqueles que eles vão tratar como nordestinos sei lá um sotaque
+         00:43:53.390 - 00:43:56.900
+ADR1MI   solteropolitano
+         00:43:57.020 - 00:43:58.080
+ADR1MI   que é mais característico também com
+         00:43:58.215 - 00:44:00.195
+ADR1MI   realmente o que é um sotaque baiano entre aspas
+         00:44:00.380 - 00:44:02.700
+ADR1MI   e um sulista vai seguir "ah (    )
+         00:44:03.635 - 00:44:05.905
+ADR1MI   ou
+         00:44:06.435 - 00:44:07.025
+ADR1MI   piar
+         00:44:07.455 - 00:44:08.355
+ADR1MI   eu tenho alguns amigos do 
+         00:44:08.430 - 00:44:09.700
+ADR1MI   do sul então (    ) de algumas gírias
+         00:44:09.830 - 00:44:12.060
+DOCPC    piar?
+         00:44:12.270 - 00:44:12.970
+DOCPC    o que é piar?
+         00:44:13.095 - 00:44:13.645
+ADR1MI   piar é
+         00:44:13.675 - 00:44:14.955
+ADR1MI   criança tipo alguém muito jovem
+         00:44:15.720 - 00:44:18.170
+DISF     (EST)
+         00:44:18.750 - 00:44:19.420
+DOCPC    e um um
+         00:44:20.120 - 00:44:21.990
+DOCPC    traço assim do sotaque de Salvador que você destaca
+         00:44:22.080 - 00:44:25.600
+ADR1MI   disgraça
+         00:44:26.080 - 00:44:26.940
+DISF     ((RISOS))
+         00:44:27.085 - 00:44:27.685
+ADR1MI   barril
+         00:44:28.390 - 00:44:29.780
+ADR1MI   ou
+         00:44:30.620 - 00:44:31.460
+ADR1MI   eu vejo muito quando
+         00:44:32.285 - 00:44:33.405
+ADR1MI   tô na casa de minha vó tipo em vez de não saber o nome da pessoa e falar 'oh (    )"
+         00:44:33.500 - 00:44:37.490
+ADR1MI   pera aê
+         00:44:38.520 - 00:44:38.910
+DOCPC    hum você você acha que as pessoas acham que moram na capital falam diferente das que moram no interior
+         00:44:39.660 - 00:44:45.460
+ADR1MI   sim
+         00:44:45.615 - 00:44:45.965
+DOCPC    como
+         00:44:47.185 - 00:44:47.725
+ADR1MI   quando eu tinha falado sobre
+         00:44:47.240 - 00:44:48.930
+ADR1MI   aquilo da globalização acho que
+         00:44:49.140 - 00:44:50.820
+ADR1MI   não sei quando eu tenho uma certa diferença quando eu vou pra Estância tem um jeito das pessoas falarem 
+         00:44:52.660 - 00:44:57.770
+ADR1MI   e quando tô aqui
+         00:44:57.950 - 00:44:58.960
+ADR1MI   é uma coisa muito mais
+         00:44:59.330 - 00:45:01.030
+ADR1MI   se diz ser mais homogênea
+         00:45:01.785 - 00:45:03.435
+DOCPC    aqui em Aracaju?
+         00:45:03.885 - 00:45:05.385
+ADR1MI   sim porque não não homogênea
+         00:45:05.400 - 00:45:07.960
+ADR1MI   porque
+         00:45:08.135 - 00:45:08.835
+ADR1MI   trata de alguns sotaques que são de outros locais não sotaques mas girías principalmente de outros locais como eu tinha citado do humano
+         00:45:09.860 - 00:45:17.175
+DISF     (EST)
+         00:45:14.462 - 00:45:14.842
+ADR1MI   ou sei lá um boto fé
+         00:45:17.707 - 00:45:19.587
+ADR1MI   num sei assim
+         00:45:19.862 - 00:45:20.822
+ADR1MI   que é de outros locais também acredito
+         00:45:21.117 - 00:45:23.227
+ADR1MI   e quando eu tô em Estância eu tô mais
+         00:45:24.087 - 00:45:25.637
+ADR1MI   num sei
+         00:45:26.297 - 00:45:27.157
+DOCPC    mais uniforme
+         00:45:27.462 - 00:45:28.532
+ADR1MI   é em Estância é mais uniforme em relação a
+         00:45:28.742 - 00:45:31.362
+ADR1MI   (   )
+         00:45:31.907 - 00:45:32.457
+ADR1MI   num sei classes tipo
+         00:45:32.807 - 00:45:34.327
+ADR1MI   num tem muita eu nçao vejo muita diferença das pessoas falando
+         00:45:34.802 - 00:45:38.112
+ADR1MI   aqui sempre tem uma gíria nova
+         00:45:38.682 - 00:45:40.272
+ADR1MI   ou dependendo do grupo de pessoas também sempre tem
+         00:45:40.512 - 00:45:42.822
+ADR1MI   as gírias eu no meu grupo de amigos tento
+         00:45:42.972 - 00:45:45.372
+ADR1MI   jeitos e modos da gente falar coisas específicas também
+         00:45:45.457 - 00:45:48.277
+ADR1MI   então
+         00:45:48.467 - 00:45:49.227
+ADR1MI   sei lá acho que
+         00:45:49.682 - 00:45:50.472
+ADR1MI   vai depender do grupo
+         00:45:50.742 - 00:45:51.832
+ADR1MI   ou do meio como um todo
+         00:45:52.242 - 00:45:53.672
+DOCPC    cê acha que aqui tem mais 
+         00:45:54.272 - 00:45:56.412
+DOCPC    gírias assim diferentes é mais
+         00:45:56.547 - 00:45:58.617
+DOCPC    heterogêneo porque
+         00:45:58.717 - 00:46:00.257
+DOCPC    em Aracaju tem gente de muitas regiões?
+         00:46:00.522 - 00:46:03.172
+ADR1MI   sim
+         00:46:03.132 - 00:46:03.742
+ADR1MI   a UFS também que traz pessoas que tenham que tenham
+         00:46:03.892 - 00:46:08.042
+ADR1MI   tem um amigo do
+         00:46:08.262 - 00:46:09.342
+ADR1MI   da
+         00:46:09.417 - 00:46:10.027
+ADR1MI   da minha turma
+         00:46:10.237 - 00:46:11.097
+ADR1MI   que é do Espírito Santo
+         00:46:11.442 - 00:46:12.412
+ADR1MI   ele tem o jeito dele de falar
+         00:46:12.692 - 00:46:14.222
+ADR1MI   tem pessoas que são de Salvador outras pessoas são daqui do estado
+         00:46:14.992 - 00:46:18.682
+ADR1MI   a menina que é do Mato Grosso
+         00:46:18.812 - 00:46:20.022
+DOCPC    o que mais chama sua atenção quando as pessoas estão falando?
+         00:46:21.772 - 00:46:24.652
+ADR1MI   acho muito bonito 
+         00:46:28.780 - 00:46:30.520
+ADR1MI   a dicção
+         00:46:31.745 - 00:46:32.705
+ADR1MI   porque a minha é péssima
+         00:46:33.130 - 00:46:34.320
+ADR1MI   deixe eu ver eu acho que
+         00:46:35.470 - 00:46:36.560
+ADR1MI   quando as pessoas falam eu go/ acho que tem alguns sotaques que ouve e são bonitinho
+         00:46:36.830 - 00:46:40.190
+DOCPC    quais?
+         00:46:41.585 - 00:46:42.055
+DISF     (HES)
+         00:46:43.260 - 00:46:43.970
+ADR1MI   assim não comigo porque toda vez que vou pra Salvador todo mundo zoa o meu t
+         00:46:43.980 - 00:46:47.390
+ADR1MI   porque
+         00:46:47.960 - 00:46:48.600
+ADR1MI   assim o meu t é muito misturado
+         00:46:48.945 - 00:46:50.685
+DOCPC    o t como?
+         00:46:51.065 - 00:46:52.165
+ADR1MI   t porque falam que sergipano fala com t
+         00:46:52.400 - 00:46:54.610
+ADR1MI   puxado
+         00:46:55.610 - 00:46:56.430
+ADR1MI   tipo enquanto
+         00:46:56.795 - 00:46:58.025
+ADR1MI   o soteropolitano falaria tia
+         00:46:58.195 - 00:47:00.155
+ADR1MI   ou 
+         00:47:00.840 - 00:47:01.560
+ADR1MI   tia principalmente eu falaria tia
+         00:47:02.195 - 00:47:04.345
+DISF     (EST)
+         00:47:03.075 - 00:47:03.405
+DOCPC    sim
+         00:47:04.865 - 00:47:05.295
+DISF     (HES)
+         00:47:06.755 - 00:47:08.005
+DOCPC    é a próxima pergunta inclusive
+         00:47:08.785 - 00:47:10.685
+DOCPC    tem relação falar oito muito 
+         00:47:10.880 - 00:47:13.630
+DOCPC    biscoito e oitenta é comum onde você mora?
+         00:47:13.830 - 00:47:17.220
+ADR1MI   não mas já  tive contato com pessoas que falaram até meu amigo que eu falei da Gameleira e em Estância
+         00:47:17.530 - 00:47:25.430
+DISF     ((RISOS))
+         00:47:22.290 - 00:47:23.250
+ADR1MI   tinha 
+         00:47:25.670 - 00:47:26.380
+ADR1MI   quando eu tava na
+         00:47:26.520 - 00:47:27.640
+ADR1MI   quarta série
+         00:47:27.885 - 00:47:28.795
+ADR1MI   eu tinha um amigo que ele falava igual a avó dele basicamente
+         00:47:28.795 - 00:47:31.295
+ADR1MI   doido oitenta
+         00:47:31.440 - 00:47:32.420
+DISF     (HES)
+         00:47:34.015 - 00:47:34.685
+DOCPC    essas palavras esse esse tipo  de pronúncia é comum aqui na universidade?
+         00:47:34.835 - 00:47:39.205
+ADR1MI   não
+         00:47:39.395 - 00:47:39.885
+ADR1MI   que eu tenha visto
+         00:47:40.245 - 00:47:41.105
+DOCPC    o que é que acha que ela não é comum? 
+         00:47:42.020 - 00:47:44.230
+ADR1MI   ah tanto que quando as pessoas ingressam aqui acabam
+         00:47:45.310 - 00:47:47.720
+ADR1MI   se entrosando com grupos distintos de pessoas
+         00:47:47.950 - 00:47:50.280
+ADR1MI   elas acabam tendo
+         00:47:50.930 - 00:47:52.180
+ADR1MI   como aquele meu amigo mesmo
+         00:47:52.310 - 00:47:53.860
+ADR1MI   ele
+         00:47:54.020 - 00:47:54.630
+ADR1MI   ele agora mudou muito a forma dele falar
+         00:47:54.870 - 00:47:57.560
+ADR1MI   e as gírias que ele usa
+         00:47:58.390 - 00:47:59.630
+DISF     (HES)
+         00:48:00.685 - 00:48:01.055
+ADR1MI   de quando ele entrou no primeiro período quando a gente tinha contato agora ele é uma pessoa um pouco diferente
+         00:48:01.025 - 00:48:06.285
+DOCPC    em que período ele tá?
+         00:48:06.615 - 00:48:07.965
+ADR1MI   terceiro também
+         00:48:08.025 - 00:48:09.055
+DOCPC    o que é que você acha desse modo assim de falar?
+         00:48:10.505 - 00:48:12.725
+ADR1MI   eu acho interessante eu acho diversificado eu gosto da diversidade em relação tanto a fala
+         00:48:13.640 - 00:48:17.550
+ADR1MI   porque
+         00:48:17.710 - 00:48:18.260
+ADR1MI   hoje em dia eu me como eu falei ele falava daquela parada do sumico
+         00:48:18.560 - 00:48:22.650
+ADR1MI   ou do
+         00:48:23.070 - 00:48:23.830
+ADR1MI   dessas coisas assim
+         00:48:24.025 - 00:48:25.075
+ADR1MI   e a gente 
+         00:48:25.275 - 00:48:25.915
+ADR1MI   começou a falar
+         00:48:26.020 - 00:48:27.020
+ADR1MI   tanto pra tirar onda brincar assim tornar aquilo 
+         00:48:27.355 - 00:48:30.265
+ADR1MI   não
+         00:48:30.805 - 00:48:31.795
+ADR1MI   desconfortável pra ele
+         00:48:31.995 - 00:48:33.385
+ADR1MI   quanto
+         00:48:33.975 - 00:48:34.785
+ADR1MI   como eu já tinha falado também lá no início que eu gosto  de aprender muito então
+         00:48:35.115 - 00:48:38.395
+ADR1MI   acho que aprender formas das pessoas falarem coisas distintas acho muito interessante
+         00:48:38.740 - 00:48:42.130
+DOCPC    você acha q/ aliás
+         00:48:43.860 - 00:48:45.560
+DOCPC    falar planta bloco planeta e flanela é comum onde você mora?
+         00:48:45.855 - 00:48:50.345
+ADR1MI   não que eu tenha notado porque eu não tenho muito contato com as pessoas de onde eu moro
+         00:48:51.880 - 00:48:54.690
+ADR1MI   mas
+         00:48:55.070 - 00:48:56.040
+DISF     (HES)
+         00:48:56.970 - 00:48:57.900
+ADR1MI   já ouvi em casos isolados
+         00:48:58.250 - 00:48:59.720
+ADR1MI   muito isolados assim
+         00:49:00.150 - 00:49:01.240
+DOCPC    onde?
+         00:49:01.590 - 00:49:02.230
+ADR1MI   alguns funcionários algumas senhoras que passam ou comentam "ah tal prantinha aqui" não sei o que só muito isolado raramente eu vejo
+         00:49:02.940 - 00:49:12.390
+DOCPC    cê acha que esse tipo de pronúncia é típica de alguma localidade?
+         00:49:12.650 - 00:49:16.970
+ADR1MI   não sei dizer
+         00:49:18.675 - 00:49:19.665
+DOCPC    cê diria que falar planta por exemplo tem alguma relação com o nível de escolaridade da pessoa?
+         00:49:21.500 - 00:49:28.260
+ADR1MI   pode tá relacionado a aquela questão de clase sobre 
+         00:49:30.910 - 00:49:34.450
+ADR1MI   também o contato e o nível educacional
+         00:49:34.765 - 00:49:38.055
+ADR1MI   mas não sei eu uma vez a professora
+         00:49:39.145 - 00:49:41.945
+ADR1MI   de espanhol eu tinha citado sobre o oito e oitenta
+         00:49:42.210 - 00:49:44.690
+ADR1MI   como
+         00:49:44.875 - 00:49:45.485
+ADR1MI   as situações dos números
+         00:49:45.655 - 00:49:46.985
+ADR1MI   em espanhol
+         00:49:47.605 - 00:49:48.465
+ADR1MI   um oito e etc poderia ter um certa ligação
+         00:49:48.610 - 00:49:52.140
+DISF     (EST)
+         00:49:50.390 - 00:49:50.750
+ADR1MI   até porque
+         00:49:52.290 - 00:49:53.090
+ADR1MI   o brasil tá muito diversificado em relação por mais que tenha sido colonizado por portugueses
+         00:49:53.275 - 00:49:58.505
+ADR1MI   a gente teve contato com espanhóis holandeses então
+         00:49:58.685 - 00:50:01.405
+DOCPC    cê acha que pode ter influenciado
+         00:50:02.020 - 00:50:04.080
+DOCPC    na língua né
+         00:50:04.275 - 00:50:05.225
+DOCPC    falar tia dia dente  e médico é comum onde você mora?
+         00:50:06.425 - 00:50:11.555
+ADR1MI   sim minha mãe
+         00:50:11.745 - 00:50:12.705
+DISF     ((RISOS))
+         00:50:12.610 - 00:50:13.150
+DOCPC    essa esse tipo de pronúncia é comum aqui na UFS?
+         00:50:15.215 - 00:50:18.955
+ADR1MI   já ouvi muito o tipo também que muitas pessoas falam
+         00:50:19.690 - 00:50:23.150
+DISF     (HES)
+         00:50:23.900 - 00:50:24.490
+ADR1MI   eu mesmo falo muito
+         00:50:24.485 - 00:50:25.705
+DOCPC    mas você fala tipo ou tipo?
+         00:50:26.605 - 00:50:28.755
+DISF     (HES)
+         00:50:26.730 - 00:50:27.090
+ADR1MI   eu falo tipo
+         00:50:28.495 - 00:50:29.505
+ADR1MI   é que às vezes tev/ tem coisas que não fazem sentido mas quando eu tô falando às vezes tipo mas eu falo tia
+         00:50:30.920 - 00:50:36.560
+DISF     (HES)
+         00:50:36.760 - 00:50:37.120
+ADR1MI   e assim vai
+         00:50:37.430 - 00:50:38.630
+ADR1MI   não tia mas quando parece que tô tentando falar a palavra fica mais forçado do que realmente é
+         00:50:38.745 - 00:50:44.145
+DISF     (EST)
+         00:50:43.835 - 00:50:44.325
+ADR1MI   mas vai nessa
+         00:50:44.370 - 00:50:46.110
+DISF     (HES)
+         00:50:46.625 - 00:50:46.905
+ADR1MI   o que é que você acha desse jeito de falar?
+         00:50:46.850 - 00:50:48.600
+ADR1MI   aí então como eu tinha falado eu acho interessante eu gosto sei lá
+         00:50:49.425 - 00:50:52.735
+ADR1MI   tanto que
+         00:50:53.235 - 00:50:53.865
+ADR1MI   ninguém reclame até porque é o jeito de uma certa pessoa falar então tá tudo tranquilo
+         00:50:54.015 - 00:50:58.080
+DOCPC    o tia
+         00:50:59.090 - 00:51:00.330
+DOCPC    ele é típico de alguma localidade?
+         00:51:00.655 - 00:51:03.565
+ADR1MI   olha o mais suave 
+         00:51:04.175 - 00:51:05.865
+ADR1MI   já vi em Salvador muito
+         00:51:07.455 - 00:51:09.345
+ADR1MI   mas também tem
+         00:51:09.935 - 00:51:11.135
+ADR1MI   cariocas né
+         00:51:11.350 - 00:51:12.450
+ADR1MI   que o sotaque é muito mais
+         00:51:13.385 - 00:51:14.595
+ADR1MI   puxado
+         00:51:15.015 - 00:51:15.765
+DISF     (HES)
+         00:51:17.280 - 00:51:17.970
+DOCPC    cê acha que o tia
+         00:51:18.190 - 00:51:19.900
+DOCPC    tem alguma relação com o nível de escolaridade da pessoa?
+         00:51:20.120 - 00:51:22.860
+ADR1MI   não eu acho que isso tá mais relacionado a
+         00:51:23.375 - 00:51:25.605
+ADR1MI   a localidade
+         00:51:27.255 - 00:51:28.195
+DISF     (HES)
+         00:51:30.055 - 00:51:31.125
+DOCPC    você acha que doido
+         00:51:31.315 - 00:51:33.205
+DOCPC    e doido tem o mesmo significado?
+         00:51:33.325 - 00:51:35.225
+ADR1MI   sim
+         00:51:35.325 - 00:51:35.615
+DOCPC    tipo
+         00:51:37.415 - 00:51:38.125
+DOCPC    você você usa essa expressão?
+         00:51:38.495 - 00:51:41.035
+ADR1MI   não
+         00:51:41.510 - 00:51:41.960
+ADR1MI   mas muitos amigos usam
+         00:51:42.250 - 00:51:43.990
+ADR1MI   doido tão coisa aqui não sei o quê
+         00:51:44.345 - 00:51:46.215
+DISF     (HES)
+         00:51:46.315 - 00:51:47.045
+DOCPC    cê acha que doido ou doido cabem da mesma forma em qualquer contexto?
+         00:51:47.175 - 00:51:53.185
+ADR1MI   creio que sim
+         00:51:53.945 - 00:51:55.155
+ADR1MI   acho que só doido deve ter mais  
+         00:51:55.595 - 00:51:57.625
+ADR1MI   mais uma entonação na minha cabeça é muito mais
+         00:51:59.435 - 00:52:02.035
+ADR1MI   tipo
+         00:52:02.280 - 00:52:02.690
+DISF     (HES)
+         00:52:03.990 - 00:52:04.890
+ADR1MI   mais gritante eu não sei tipo
+         00:52:06.205 - 00:52:07.795
+ADR1MI   só imagino alguém gritando "doido você não sabe o que aconteceu" ou alguma coisa assim
+         00:52:07.985 - 00:52:11.355
+DOCPC    tem então pra você tem mais a 
+         00:52:12.355 - 00:52:13.915
+ADR1MI   tal pessoa é muito doido
+         00:52:13.450 - 00:52:14.700
+DOCPC    um aspecto enfático né
+         00:52:14.990 - 00:52:16.500
+ADR1MI   é isso exatamente é dessa mesma forma que eu tava procurandoeu tava 
+         00:52:16.530 - 00:52:19.070
+DISF     ((RISOS))
+         00:52:19.125 - 00:52:20.465
+DOCPC    você quando cê fala de você mais outra pessoa cê usa nós ou a gente?
+         00:52:20.570 - 00:52:26.580
+ADR1MI   acho que é muito equilibrado
+         00:52:28.470 - 00:52:29.840
+ADR1MI   que às vezes eu tento me policiar
+         00:52:30.170 - 00:52:31.640
+ADR1MI   não sei porquê
+         00:52:31.960 - 00:52:32.940
+ADR1MI   mas eu falo a gente e nós assim
+         00:52:33.185 - 00:52:35.405
+ADR1MI   não sei acho mais equilibrado acho muito equilibrado o uso
+         00:52:36.620 - 00:52:39.930
+DOCPC    você tenta se policiar porque você acha uma forma melhor que a outra?
+         00:52:40.080 - 00:52:44.160
+ADR1MI   não
+         00:52:44.475 - 00:52:45.025
+ADR1MI   não sei porque também isso
+         00:52:45.365 - 00:52:46.885
+ADR1MI   não não julgo minha cabeça
+         00:52:47.180 - 00:52:48.920
+DISF     ((RISOS))
+         00:52:49.065 - 00:52:49.805
+DISF     (HES)
+         00:52:50.900 - 00:52:51.510
+DOCPC    cê
+         00:52:51.580 - 00:52:52.100
+DOCPC    o que é que você acha de frases como nós comemO a gente vamos e nós vai?
+         00:52:53.275 - 00:52:58.225
+ADR1MI   ah costume de fala
+         00:52:58.855 - 00:52:59.845
+DISF     (HES)
+         00:53:00.195 - 00:53:00.925
+ADR1MI   nada de mais
+         00:53:02.105 - 00:53:02.815
+DOCPC    cê vê alguma
+         00:53:03.105 - 00:53:04.275
+ADR1MI   contanto que eu entenda
+         00:53:03.705 - 00:53:05.295
+ADR1MI   é como eu sempre falo
+         00:53:05.395 - 00:53:06.575
+ADR1MI   tem pessoas que são meio chatinhas é tipo "ah escreva certo tal coisa"
+         00:53:06.720 - 00:53:09.960
+ADR1MI   ou ficar falando que tal pessoa está escrevendo muito errado
+         00:53:10.255 - 00:53:12.685
+ADR1MI   eu falo que a partir do momento que você entende o que a pessoa tá querendo falar
+         00:53:13.055 - 00:53:17.155
+ADR1MI   aquilo já é uma comunicação
+         00:53:17.270 - 00:53:18.650
+ADR1MI   então você não deveria tá julgando a forma que tal pessoa tá falando ou escrevendo  até porque você não sabe 
+         00:53:18.875 - 00:53:23.735
+ADR1MI   o nível de escolaridade
+         00:53:23.870 - 00:53:24.980
+ADR1MI   cê não sabe aquele ambiente em que a pessoa tá inserida
+         00:53:25.255 - 00:53:27.335
+DISF     (HES)
+         00:53:27.550 - 00:53:27.860
+ADR1MI   e n motivos
+         00:53:28.330 - 00:53:29.620
+DOCPC    cê acha que por exemplo a gente vamos
+         00:53:30.475 - 00:53:33.375
+DOCPC    e nós comemo o uso das duas tem alguma relação com o nível de escolaridade de quem fala?
+         00:53:33.570 - 00:53:38.980
+ADR1MI   tem
+         00:53:39.720 - 00:53:40.350
+ADR1MI   sim relacionado mas também pode ser em relação a costume tem n motivos pra isso acontecer
+         00:53:40.690 - 00:53:46.720
+DOCPC    você
+         00:53:47.590 - 00:53:49.180
+DOCPC    ah é
+         00:53:50.610 - 00:53:51.570
+DOCPC    a escolarização
+         00:53:52.395 - 00:53:54.095
+DOCPC    tem uma relação mais direta com a escolha de uma forma ou da outra?
+         00:53:54.240 - 00:53:58.210
+ADR1MI   acho que
+         00:53:58.980 - 00:54:00.170
+ADR1MI   depende muito do uso também tá relacionado até porque você não vai virar pra
+         00:54:00.230 - 00:54:03.870
+ADR1MI   uma banca de tcc virar "doido tal coisa aqui essa"
+         00:54:04.135 - 00:54:07.105
+ADR1MI   ponta
+         00:54:07.225 - 00:54:08.155
+ADR1MI   tal coisa
+         00:54:08.425 - 00:54:09.155
+ADR1MI   poder falar
+         00:54:09.455 - 00:54:10.185
+DOCPC    então pra você tem a ver com contexto
+         00:54:11.025 - 00:54:12.925
+ADR1MI   (    )
+         00:54:11.610 - 00:54:12.930
+ADR1MI   sim
+         00:54:13.085 - 00:54:13.445
