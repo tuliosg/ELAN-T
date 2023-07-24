@@ -31,8 +31,7 @@ def tagger(entrevista):
                 if verifica_token(token) == False:
                     temp.append(f"{token.orth_}_{token.pos_}{token.whitespace_}")
                 else:
-                    temp.append(token.orth_)
-                    temp.append(token.whitespace_)
+                    temp.append(f"{token.orth_}{token.whitespace_}")
             ent_etiquetada.append(''.join(temp))
         else:
             ent_etiquetada.append(linha)
