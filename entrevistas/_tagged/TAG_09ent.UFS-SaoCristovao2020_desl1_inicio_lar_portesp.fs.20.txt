@@ -1,0 +1,2239 @@
+TIPO DE AMOSTRA: ENT
+DOCUMENTADOR(A): PALOMA
+COMUNIDADE: UFS
+ANO: 2020
+DESLOCAMENTO: I
+TEMPO DE CURSO: INÍCIO
+INF: LAR1FI
+SEXO: MAS
+IDADE: 20
+CIDADE NATAL: ARACAJU, SE
+GRAVAÇÃO: CABINE
+QUALIDADE DO ÁUDIO: VOZ AUDÍVEL, SEM RUÍDOS EXTERNOS
+
+DOCVIT   Qual_DET o_DET seu_DET nome_NOUN?
+         00:00:02.630 - 00:00:03.440
+LAR1FI   Larissa_PROPN
+         00:00:03.560 - 00:00:03.960
+DOCVIT   Larissa_PROPN qual_PRON a_DET sua_DET idade_NOUN?
+         00:00:04.780 - 00:00:06.250
+LAR1FI   eu_PRON tenho_VERB vinte_NUM anos_NOUN
+         00:00:06.320 - 00:00:07.390
+DOCVIT   vinte_NUM anos_NOUN
+         00:00:07.750 - 00:00:09.030
+DOCVIT   fez_VERB agora_ADV fez_VERB esse_DET ano_NOUN?
+         00:00:09.270 - 00:00:10.800
+LAR1FI   sim_ADV
+         00:00:10.470 - 00:00:10.730
+DOCVIT   em_ADP que_PRON cidade_NOUN você_PRON nasceu_VERB?
+         00:00:11.755 - 00:00:13.215
+LAR1FI   Aracaju_PROPN
+         00:00:13.440 - 00:00:14.640
+LAR1FI   sou_AUX daqui_ADV mesma_PRON
+         00:00:15.035 - 00:00:16.155
+DOCVIT   mora_VERB aqui_ADV atualmente_ADV?
+         00:00:16.280 - 00:00:17.640
+LAR1FI   moro_VERB em_ADP Socorro_PROPN
+         00:00:17.755 - 00:00:18.845
+DOCVIT   Socorro_NOUN
+         00:00:19.425 - 00:00:20.445
+DOCVIT   seu_DET pais_NOUN nasceram_VERB aqui_ADV em_ADP Aracaju_PROPN?
+         00:00:20.860 - 00:00:22.800
+LAR1FI   sim_ADV
+         00:00:22.415 - 00:00:22.765
+DOCVIT   você_PRON mora_VERB com_ADP seus_DET pais_NOUN?
+         00:00:22.945 - 00:00:24.075
+LAR1FI   não_ADV moro_VERB com_ADP minha_DET com_ADP meus_DET irmãos_NOUN
+         00:00:24.055 - 00:00:26.075
+DOCVIT   certo_ADJ e_CCONJ seus_DET pais_NOUN?
+         00:00:26.340 - 00:00:27.870
+LAR1FI   meus_DET pais_NOUN moram_VERB em_ADP Aracaju_PROPN
+         00:00:27.950 - 00:00:29.800
+LAR1FI   só_ADV que_SCONJ são_AUX separados_VERB mas_CCONJ moram_VERB no_ADP mesmo_ADJ bairro_NOUN só_ADV que_PRON são_AUX separados_VERB
+         00:00:29.960 - 00:00:33.200
+DISF     (EST)
+         00:00:31.390 - 00:00:31.910
+DOCVIT   certo_ADJ aí_ADV cê_NOUN mora_VERB com_ADP seus_DET irmãos_NOUN e_CCONJ em_ADP Socorro_PROPN
+         00:00:33.655 - 00:00:35.960
+LAR1FI   isso_PRON
+         00:00:35.015 - 00:00:35.645
+DISF     (HES)
+         00:00:37.197 - 00:00:37.567
+DOCVIT   qual_PRON o_DET nome_NOUN dos_ADP seus_DET pais_NOUN?
+         00:00:37.560 - 00:00:38.645
+DISF     (HES)
+         00:00:39.412 - 00:00:39.992
+LAR1FI   José_PROPN Luis_PROPN e_CCONJ Patrícia_PROPN
+         00:00:39.980 - 00:00:41.755
+DOCVIT   qual_PRON o_DET nível_NOUN de_ADP escolaridade_NOUN deles_PRON?
+         00:00:44.335 - 00:00:46.265
+LAR1FI   minha_DET mãe_NOUN concluiu_VERB o_DET ensino_NOUN médio_ADJ e_CCONJ meu_DET pai_NOUN não_ADV terminou_VERB o_DET ensino_NOUN fundamental_ADJ
+         00:00:46.555 - 00:00:51.085
+DOCVIT   certo_ADJ
+         00:00:51.720 - 00:00:52.520
+DOCVIT   a_DET profissão_NOUN de_ADP cada_DET um_NUM 
+         00:00:52.820 - 00:00:54.600
+DISF     (HES)
+         00:00:54.755 - 00:00:55.095
+LAR1FI   minha_DET mãe_NOUN é_AUX varredora_ADJ e_CCONJ meu_DET pai_NOUN é_AUX feirante_ADJ
+         00:00:55.080 - 00:00:57.935
+DOCVIT   certo_ADJ
+         00:00:58.540 - 00:00:59.090
+DOCVIT   você_PRON mora_VERB com_ADP seus_DET irmãos_NOUN né
+         00:01:00.470 - 00:01:02.320
+LAR1FI   isso_PRON
+         00:01:02.250 - 00:01:02.720
+DOCVIT   qual_PRON o_DET curso_NOUN que_PRON você_PRON faz_VERB?
+         00:01:02.850 - 00:01:04.240
+LAR1FI   eu_PRON faço_VERB português_NOUN espanhol_ADJ
+         00:01:04.560 - 00:01:05.900
+DOCVIT   está_AUX em_ADP qual_DET período_NOUN?
+         00:01:06.335 - 00:01:07.235
+LAR1FI   primeiro_ADJ período_NOUN
+         00:01:07.180 - 00:01:07.990
+DOCVIT   por_ADP que_PRON você_PRON veio_VERB estudar_VERB na_ADP UFS?
+         00:01:09.100 - 00:01:11.110
+LAR1FI   ah_ADV por_SCONJ ser_AUX uma_DET universidade_NOUN federal_ADJ 
+         00:01:12.350 - 00:01:14.460
+LAR1FI   e_CCONJ tem_VERB renome_NOUN né
+         00:01:14.760 - 00:01:16.500
+LAR1FI    e_CCONJ por_SCONJ ser_AUX pública_ADJ
+         00:01:16.795 - 00:01:18.155
+LAR1FI   que_SCONJ aí_ADV não_ADV teria_VERB muitas_DET despesas_NOUN seria_AUX só_ADV o_DET necessário_ADJ
+         00:01:18.410 - 00:01:21.960
+DOCVIT   certo_ADJ ficou_VERB feliz_ADJ em_SCONJ entrar_VERB na_ADP UFS?
+         00:01:22.320 - 00:01:24.590
+LAR1FI   muito_ADV feliz_ADJ
+         00:01:24.220 - 00:01:24.980
+DISF     ((RISOS))
+         00:01:24.945 - 00:01:25.465
+DOCVIT   cê_PROPN imaginaria_VERB que_SCONJ 
+         00:01:26.000 - 00:01:27.630
+DOCVIT   passaria_VERB sempre_ADV foi_AUX seu_DET objetivo_NOUN
+         00:01:28.360 - 00:01:30.820
+LAR1FI   então_ADV
+         00:01:31.415 - 00:01:32.285
+DISF     (HES)
+         00:01:32.602 - 00:01:33.002
+LAR1FI   como_ADP eu_PRON passei_VERB depois_ADV do_ADP ensino_NOUN médio_ADJ eu_PRON não_ADV tipo_NOUN não_ADV foi_VERB no_ADP ano_NOUN seguinte_ADJ que_PRON eu_PRON concluí_VERB o_DET ensino_NOUN médio_ADJ
+         00:01:33.010 - 00:01:37.260
+DISF     (HES)
+         00:01:37.230 - 00:01:37.650
+LAR1FI   quando_ADV eu_PRON eu_PRON fiz_VERB duas_NUM vezes_NOUN o_DET enem_NOUN primeira_ADP vez_NOUN que_SCONJ eu_PRON fiz_VERB eu_PRON
+         00:01:37.650 - 00:01:41.000
+LAR1FI   tava_AUX saindo_VERB do_ADP ensino_NOUN médio_ADJ aí_ADV eu_PRON fiquei_VERB muito_ADV triste_ADJ mas_CCONJ
+         00:01:41.325 - 00:01:43.835
+LAR1FI   é_AUX assim_ADV mesmo_ADV né aí_ADV eu_PRON fui_AUX outro_DET ano_NOUN estudei_VERB fiz_VERB pré-seed_NOUN e_CCONJ aí_ADV e_CCONJ consegui_VERB passar_VERB
+         00:01:44.730 - 00:01:49.830
+LAR1FI   ( )
+         00:01:49.955 - 00:01:50.885
+DOCVIT   então_ADV você_PRON vem_VERB da_ADP uni/_PROPN da_ADP
+         00:01:50.925 - 00:01:52.565
+DOCVIT   escola_NOUN pública_ADJ
+         00:01:52.735 - 00:01:53.685
+LAR1FI   isso_PRON escola_NOUN pública_ADJ
+         00:01:53.435 - 00:01:54.475
+DOCVIT   certo_ADJ
+         00:01:54.970 - 00:01:55.420
+DISF     (HES)
+         00:01:56.835 - 00:01:57.665
+DOCVIT   você_PRON vem_VERB de_ADP ônibus_NOUN pra_ADP UFS?
+         00:01:57.650 - 00:02:00.070
+LAR1FI   escolar_ADJ transporte_NOUN escolar_ADJ
+         00:02:00.075 - 00:02:02.030
+DOCVIT   transporte_NOUN escolar_ADJ
+         00:02:02.015 - 00:02:02.975
+DOCVIT   que_SCONJ é_AUX locado_VERB lá_ADV pelo_ADP 
+         00:02:03.840 - 00:02:05.500
+LAR1FI   pelo_ADP pelo_ADP munícipio_NOUN de_ADP Socorro_PROPN
+         00:02:05.425 - 00:02:07.425
+DOCVIT   certo_ADJ
+         00:02:07.400 - 00:02:08.130
+DOCVIT   você_PRON trabalha_VERB ou_CCONJ já_ADV trabalhou_VERB?
+         00:02:08.700 - 00:02:10.320
+LAR1FI   já_ADV trabalhei_VERB como_ADP jovem_ADJ aprendiz_NOUN
+         00:02:10.615 - 00:02:12.165
+LAR1FI   atualmente_ADV só_ADV estou_AUX só_ADV estudando_VERB
+         00:02:12.495 - 00:02:13.965
+DOCVIT   como_ADV foi_SCONJ essa_DET experiência_NOUN pra_ADP você_PRON?
+         00:02:14.385 - 00:02:15.845
+LAR1FI   foi_AUX muito_ADV boa_ADJ porque_SCONJ eu_PRON tive_VERB uma_DET vivência_NOUN na_ADP empresa_NOUN
+         00:02:16.840 - 00:02:20.540
+DISF     (HES)
+         00:02:20.540 - 00:02:20.860
+LAR1FI    fiz_VERB pelo_ADP curso_NOUN do_ADP SENAC também_ADV e_CCONJ a_DET pessoa_NOUN tem_AUX amplia_VERB o_DET sentido_NOUN sabe_VERB das_ADP coisas_NOUN
+         00:02:20.920 - 00:02:25.750
+DISF     (HES)
+         00:02:25.840 - 00:02:26.300
+LAR1FI   tem_VERB uma_DET nova_ADJ visão_NOUN de_SCONJ como_ADV é_VERB como_ADV funciona_VERB uma_DET empresa_NOUN assim_ADV apesar_ADV de_ADP não_ADV ser_AUX a_DET área_NOUN que_PRON eu_PRON pretendia_VERB seguir_VERB mas_CCONJ
+         00:02:26.340 - 00:02:32.540
+LAR1FI   foi_AUX bom_ADJ uma_DET experiência_NOUN para_SCONJ quem_PRON tava_AUX na_ADP
+         00:02:32.830 - 00:02:35.420
+DISF     (HES)
+         00:02:36.480 - 00:02:37.380
+LAR1FI   na_ADP adolescência_NOUN
+         00:02:37.995 - 00:02:38.925
+DOCVIT   foi_AUX seu_DET primeiro_ADJ emprego_NOUN e_CCONJ tal_ADV
+         00:02:39.410 - 00:02:40.785
+LAR1FI   isso_PRON primeiro_ADJ emprego_NOUN
+         00:02:40.015 - 00:02:41.215
+DOCVIT   conseguiu_VERB como_SCONJ entrar_VERB lá_ADV?
+         00:02:41.650 - 00:02:43.180
+DISF     (HES)
+         00:02:43.575 - 00:02:44.075
+LAR1FI   minha_DET irmã_NOUN trabalhou_VERB lá_ADV e_CCONJ ela_PRON conhecia_VERB já_ADV o_DET pessoal_NOUN que_PRON trabalhava_VERB lá_ADV e_CCONJ aí_ADV mandou_VERB meu_DET currículo_NOUN e_CCONJ
+         00:02:44.090 - 00:02:49.670
+LAR1FI   aceitaram_VERB
+         00:02:49.980 - 00:02:50.740
+DOCVIT   certo_ADJ
+         00:02:51.075 - 00:02:51.645
+DOCVIT   você_PRON acha_VERB que_SCONJ trabalhar_VERB e_CCONJ estudar_VERB pode_VERB dá_VERB certo_ADJ?
+         00:02:52.145 - 00:02:54.745
+LAR1FI   então_ADV
+         00:02:55.440 - 00:02:56.110
+LAR1FI   poder_NOUN pode_VERB
+         00:02:56.440 - 00:02:57.450
+LAR1FI   porém_CCONJ a_DET pessoa_NOUN tem_AUX que_SCONJ ter_VERB muita_DET força_NOUN de_ADP vontade_NOUN
+         00:02:57.620 - 00:02:59.850
+LAR1FI   e_CCONJ domínio_NOUN e_CCONJ depende_VERB muito_ADV como_ADP a_DET pessoa_NOUN consegue_VERB administrar_VERB seu_DET tempo_NOUN porque_SCONJ por_ADP exemplo_NOUN pa/_PROPN eu_PRON trabalhei_VERB pela_ADP manhã_NOUN e_CCONJ estudei_VERB à_ADP tarde_NOUN no_ADP meu_DET terceiro_ADJ ano_NOUN do_ADP ensino_NOUN médio_ADJ
+         00:02:59.940 - 00:03:07.670
+LAR1FI   e_CCONJ foi_AUX uma_DET loucura_NOUN porque_SCONJ eu_PRON não_ADV conseguia_VERB dormir_VERB direito_NOUN 
+         00:03:08.220 - 00:03:11.870
+LAR1FI   porque_SCONJ como_ADP eu_PRON também_ADV tinha_VERB os_DET trabalhos_NOUN do_ADP curso_NOUN que_PRON eu_PRON fazia_VERB curso_NOUN porque_SCONJ jovem_ADJ aprendiz_NOUN tinha_VERB os_DET cursos_NOUN
+         00:03:12.000 - 00:03:16.190
+DISF     (HES)
+         00:03:16.635 - 00:03:17.355
+LAR1FI   também_ADV tinha_VERB os_DET trabalhos_NOUN da_ADP escola_NOUN e_CCONJ aí_ADV eu_PRON ficava_VERB muito_ADV atarefada_VERB só_ADV que_SCONJ também_ADV tinha_VERB um_DET pouco_ADV da_ADP minha_DET
+         00:03:17.360 - 00:03:21.770
+LAR1FI   da_ADP minha_DET parte_NOUN que_SCONJ eu_PRON não_ADV num_ADP que_PRON eu_PRON tinha_VERB aquele_DET
+         00:03:22.030 - 00:03:24.995
+LAR1FI   aquela_DET força_NOUN de_ADP vontade_NOUN sabe_VERB de_SCONJ tentar_VERB seguir_VERB de_SCONJ ficar_VERB no_ADP pé_NOUN e_CCONJ tal_ADV
+         00:03:25.545 - 00:03:29.355
+DOCVIT   sim_ADV
+         00:03:28.935 - 00:03:29.485
+LAR1FI   mas_CCONJ aí_ADV mas_CCONJ gente_NOUN mesmo_ADV tem_AUX que_SCONJ tentar_VERB não_ADV é_AUX tipo_NOUN não_ADV quer_VERB dizer_VERB que_SCONJ o_DET trabalho_NOUN vai_AUX atrapalhar_VERB mas_CCONJ é_AUX você_PRON tentar_VERB fazer_VERB suas_DET coisas_NOUN
+         00:03:29.505 - 00:03:36.355
+DOCVIT   esforço_NOUN né?
+         00:03:36.715 - 00:03:37.595
+LAR1FI   sim_ADV esforço_NOUN pessoal_ADJ
+         00:03:37.580 - 00:03:38.710
+DOCVIT   hoje_ADV em_ADP dia_NOUN você_PRON trabalha_VERB?
+         00:03:38.760 - 00:03:40.290
+LAR1FI   não_ADV
+         00:03:40.520 - 00:03:41.060
+DOCVIT   só_ADV estuda_VERB
+         00:03:41.520 - 00:03:42.170
+LAR1FI   só_ADV estudo_NOUN
+         00:03:42.210 - 00:03:42.810
+DOCVIT   então_ADV tá_AUX mais_ADV tranquilo_ADJ pra_ADP você_PRON
+         00:03:42.975 - 00:03:44.375
+LAR1FI   tá_AUX muito_ADV melhor_ADV
+         00:03:44.360 - 00:03:45.240
+LAR1FI   e_CCONJ inclusive_ADV eu_PRON acho_VERB que_SCONJ pra_ADP mim_PRON não_ADV daria_VERB pra_SCONJ trabalhar_VERB e_CCONJ estudar_VERB por_SCONJ ser_AUX o_DET ensino_NOUN superior_ADJ que_PRON é_AUX mais_ADV
+         00:03:45.365 - 00:03:50.865
+DISF     (HES)
+         00:03:51.120 - 00:03:51.430
+LAR1FI   e_CCONJ tem_VERB mais_ADV
+         00:03:51.470 - 00:03:51.810
+DISF     (HES)
+         00:03:51.910 - 00:03:52.540
+LAR1FI   é_AUX mais_ADV exigente_ADJ e_CCONJ também_ADV tem_VERB os_DET projetos_NOUN fora_ADV da_ADP
+         00:03:52.530 - 00:03:55.220
+LAR1FI   sala_NOUN de_ADP aula_NOUN
+         00:03:55.615 - 00:03:56.405
+DOCVIT   certo_ADJ
+         00:03:56.795 - 00:03:57.445
+DOCVIT   há_VERB quanto_DET tempo_NOUN você_PRON mora_VERB no_ADP seu_DET bairro_NOUN
+         00:03:58.925 - 00:04:01.665
+DOCVIT   e_CCONJ na_ADP sua_DET cidade_NOUN que_PRON é_AUX Socorro_PROPN né_PROPN?
+         00:04:01.820 - 00:04:03.460
+LAR1FI   desde_ADP quando_ADV eu_PRON nasci_VERB eu_PRON só_ADV saí_VERB por_ADP três_NUM anos_NOUN mas_CCONJ depois_ADV eu_PRON retornei_VERB pra_ADP o_DET mesmo_PRON
+         00:04:03.625 - 00:04:08.455
+LAR1FI   bairro_NOUN
+         00:04:08.685 - 00:04:09.065
+DOCVIT   sau_NOUN por_ADP três_NUM anos_NOUN e_CCONJ foi_VERB pra_ADP onde_PRON?
+         00:04:09.550 - 00:04:11.310
+LAR1FI   sim_ADV
+         00:04:10.645 - 00:04:11.235
+LAR1FI   fui_AUX fui_AUX pro_ADP Bugio_PROPN Aracaju_PROPN
+         00:04:11.415 - 00:04:13.435
+DOCVIT   sou_AUX do_ADP Bugio_NOUN também_ADV
+         00:04:13.875 - 00:04:15.035
+LAR1FI   morei_VERB lá_ADV é_AUX eu_PRON morei_VERB lá_ADV três_NUM anos_NOUN mais_ADV ou_ADP menos_ADV
+         00:04:13.900 - 00:04:16.575
+DOCVIT   gostou_VERB do_ADP Bugio_NOUN?
+         00:04:16.910 - 00:04:17.810
+LAR1FI   gostei_VERB
+         00:04:17.825 - 00:04:18.465
+DOCVIT   prefere_VERB o_DET Bugio_PROPN ou_CCONJ 
+         00:04:19.480 - 00:04:20.970
+LAR1FI   então_ADV por_ADP meio_NOUN de_ADP locomoção_NOUN e_CCONJ tal_ADV tem_VERB mais_DET coisas_NOUN é_AUX melhor_ADJ o_DET Bugio_PROPN mas_CCONJ 
+         00:04:21.340 - 00:04:26.410
+LAR1FI   por_SCONJ ser_AUX o_DET bairro_NOUN que_PRON eu_PRON nasci_VERB
+         00:04:26.510 - 00:04:28.140
+LAR1FI   eu_PRON prefiro_VERB o_DET conjunto_NOUN Jardim_PROPN porque_SCONJ tem_VERB né conhecimento_NOUN melhor_ADJ
+         00:04:28.250 - 00:04:31.190
+DOCVIT   como_ADV foi_AUX a_DET sua_DET infância_NOUN
+         00:04:33.285 - 00:04:34.965
+DOCVIT   onde_PRON você_PRON mora_VERB?
+         00:04:35.330 - 00:04:36.670
+LAR1FI   foi_AUX uma_DET infância_NOUN muito_ADV boa_ADJ porque_SCONJ como_ADV é_AUX lá_ADV tem_VERB em_ADP frente_NOUN onde_PRON eu_PRON morava_VERB tinha_VERB uma_NUM uma_DET fazendinha_NOUN sabe_VERB aí_ADV a_DET gente_PRON ia_AUX ficava_VERB lá_ADV brincando_VERB subia_VERB no_ADP pé_NOUN de_ADP manga_NOUN  
+         00:04:37.725 - 00:04:47.535
+LAR1FI   essas_DET coisas_NOUN de_ADP criança_NOUN e_CCONJ aí_ADV tipo_NOUN foi_AUX uma_DET infância_NOUN muito_ADV boa_ADJ
+         00:04:47.730 - 00:04:49.850
+LAR1FI   deu_VERB pra_SCONJ aproveitar_VERB bastante_ADV
+         00:04:50.100 - 00:04:51.040
+DOCVIT   foi_AUX você_PRON foi_AUX voltada_VERB
+         00:04:51.900 - 00:04:53.590
+DOCVIT   foi_AUX criada_VERB assim_ADV na_ADP natureza_NOUN no_ADP sítio_NOUN né
+         00:04:53.700 - 00:04:56.860
+LAR1FI   sim_ADV sim_ADV brincando_VERB
+         00:04:55.025 - 00:04:56.885
+DOCVIT   cê_PROPN acha_VERB que_SCONJ mudou_VERB muito_ADV em_ADP relação_NOUN aos_ADP dias_NOUN de_ADP hoje_ADV? 
+         00:04:57.240 - 00:04:59.470
+LAR1FI   mudou_VERB bastante_ADV hoje_ADV em_ADP dia_NOUN as_DET crianças_NOUN mal_ADV sai_VERB na_ADP rua_NOUN
+         00:04:59.670 - 00:05:02.280
+LAR1FI   e_CCONJ quando_ADV sai_VERB a_DET mãe_NOUN fica_VERB no_ADP pé_NOUN
+         00:05:02.480 - 00:05:04.540
+LAR1FI   fica_VERB com_ADP medo_NOUN por_ADP causa_NOUN da_ADP violência_NOUN e_CCONJ também_ADV né_VERB e_CCONJ quando_ADV sai_VERB porque_SCONJ a_DET maioria_NOUN nem_CCONJ sai_VERB fica_VERB só_ADV no_ADP celular_NOUN no_ADP vídeo_NOUN game_ADJ hoje_ADV em_ADP dia_NOUN
+         00:05:04.895 - 00:05:11.985
+DOCVIT   na_ADP sua_DET infância_NOUN você_PRON tinha_AUX celular_VERB?
+         00:05:12.865 - 00:05:14.455
+LAR1FI   não_ADV
+         00:05:14.665 - 00:05:15.215
+LAR1FI   fui_AUX ter_AUX celular_VERB eu_PRON acho_VERB que_SCONJ
+         00:05:15.315 - 00:05:16.525
+LAR1FI   uns_DET doze_NUM anos_NOUN?
+         00:05:16.935 - 00:05:18.015
+LAR1FI   por_ADP aí_ADV
+         00:05:18.810 - 00:05:19.300
+DOCVIT   e_CCONJ mudou_VERB?
+         00:05:19.550 - 00:05:20.370
+DOCVIT   depois_ADV que_SCONJ você_PRON teve_VERB acesso_NOUN ao_ADP ceular_NOUN?
+         00:05:20.655 - 00:05:22.585
+LAR1FI   não_ADV porque_SCONJ era_AUX aquele_DET celular_NOUN antigo_ADJ né que_SCONJ é_AUX só_ADV pra_ADP ligação_NOUN
+         00:05:21.415 - 00:05:25.290
+LAR1FI   tinha_VERB aquele_DET joguinho_NOUN da_ADP cobrinha_NOUN aquele_DET joguinho_NOUN tipo_NOUN não_ADV tinha_VERB aqueles_DET jogos_NOUN que_PRON tem_VERB hoje_ADV em_ADP dia_NOUN os_DET jogos_NOUN
+         00:05:25.425 - 00:05:30.625
+DOCVIT   sim_ADV
+         00:05:27.850 - 00:05:28.250
+DOCVIT   qual_PRON a_DET memória_NOUN mais_ADV marcante_ADJ da_ADP sua_DET infância_NOUN nesse_ADP lugar_NOUN?
+         00:05:31.820 - 00:05:34.670
+DISF     (HES)
+         00:05:35.855 - 00:05:36.165
+LAR1FI   a_DET memória_NOUN era_AUX quando_ADV tipo_NOUN
+         00:05:36.140 - 00:05:37.480
+LAR1FI   que_SCONJ chovia_VERB aí_ADV eu_PRON e_CCONJ meus_DET irmãos_NOUN ia/_VERB como_SCONJ essa_DET fazendinha_NOUN tinha_VERB meio_NOUN que_SCONJ um_DET lagozinho_ADV a_DET gente_PRON ia_VERB pra_ADP beira_NOUN desse_ADP lago_NOUN e_CCONJ ficava_VERB pegando_VERB barro_NOUN e_CCONJ fazia_VERB aqueles_PRON
+         00:05:37.555 - 00:05:45.485
+LAR1FI   potinhos_NOUN de_ADP barro_NOUN sabe_VERB
+         00:05:45.955 - 00:05:47.385
+LAR1FI   e_CCONJ pegava_VERB flores_NOUN e_CCONJ colocava_VERB e_CCONJ eu_PRON me_PRON lembro_VERB muito_ADV disso_PRON que_SCONJ a_DET gente_NOUN fazia_VERB muito_ADV isso_PRON sem_ADP minha_DET mãe_NOUN lsaber_PROPN lógico_ADJ né que_SCONJ a_DET gente_NOUN tava_AUX mexendo_VERB na_ADP areia_NOUN se_SCONJ minha_DET mãe_NOUN soubesse_VERB já_ADV sabe_VERB (risos) 
+         00:05:47.655 - 00:05:55.655
+DOCVIT   sim_ADV
+         00:05:53.400 - 00:05:54.100
+DISF     ((RISOS))
+         00:05:54.265 - 00:05:56.355
+DOCVIT   exatamente_ADV
+         00:05:56.565 - 00:05:57.825
+DOCVIT   você_PRON gosta_VERB de_SCONJ morar_VERB onde_ADV você_PRON tá_AUX lá_ADV agora_ADV?
+         00:05:58.590 - 00:06:00.780
+LAR1FI   gosto_VERB
+         00:06:00.750 - 00:06:01.520
+DOCVIT   se_SCONJ você_PRON tivesse_VERB oportunidade_NOUN você_PRON moraria_VERB em_ADP outro_DET lugar_NOUN?
+         00:06:03.580 - 00:06:06.580
+DISF     ((HES))
+         00:06:07.385 - 00:06:08.045
+LAR1FI   moraria_VERB sim_ADV por_ADP meio_NOUN da_PRON por_ADP causa_NOUN da_ADP locomoção_NOUN como_ADP eu_PRON falei_VERB e_CCONJ por_ADP lá_ADV assim_ADV não_ADV é_VERB que_SCONJ seja_AUX um_DET bairro_NOUN perigoso_ADJ mas_CCONJ não_ADV é_AUX um_DET bairro_NOUN tão_ADV seguro_ADJ sabe_VERB
+         00:06:08.030 - 00:06:16.455
+DOCVIT   certo_ADJ
+         00:06:16.565 - 00:06:17.305
+DOCVIT   você_PRON moraria_VERB em_ADP qual_PRON lugar_NOUN se_SCONJ você_PRON pudesse_VERB escolher_VERB?
+         00:06:17.570 - 00:06:20.910
+LAR1FI   moraria_VERB aqui_ADV
+         00:06:21.195 - 00:06:21.980
+DISF     (HES)
+         00:06:22.075 - 00:06:22.495
+LAR1FI    no_ADP Rosa_PROPN Elze_PROPN porque_SCONJ também_ADV seria_AUX melhor_ADJ na_ADP locomoção_NOUN da_ADP faculdade_NOUN né estaria_AUX perto_ADV e_CCONJ me_PRON ajudaria_VERB bastante_ADV
+         00:06:22.520 - 00:06:28.290
+DOCVIT   só_ADV por_ADP esse_DET motivo_NOUN pela_ADP locomoção_NOUN?
+         00:06:28.585 - 00:06:30.545
+LAR1FI   é_AUX e_CCONJ por_SCONJ não_ADV ser_AUX um_DET bairro_NOUN muito_ADV perigoso_ADJ e_CCONJ tem_VERB o_DET 
+         00:06:30.530 - 00:06:34.080
+DISF     (HES)
+         00:06:34.690 - 00:06:35.280
+DISF     (HES)
+         00:06:37.910 - 00:06:38.940
+LAR1FI   o_DET campus_NOUN aqui_ADV como_ADV é_AUX o_DET nome_NOUN?
+         00:06:39.600 - 00:06:41.660
+DISF     (HES)
+         00:06:41.660 - 00:06:42.420
+DOCVIT   o_DET terminal_NOUN?
+         00:06:42.375 - 00:06:43.095
+LAR1FI   terminal_NOUN isso_PRON o_DET terminal_NOUN do_ADP campus_NOUN e_CCONJ aí_ADV seria_AUX muito_ADV mais_ADV fácil_ADJ pra_SCONJ me_PRON locomover_VERB
+         00:06:43.040 - 00:06:46.700
+DOCVIT   certo_ADJ
+         00:06:47.115 - 00:06:48.145
+DOCVIT   o_PRON que_PRON você_PRON mais_ADV gosta_VERB de_SCONJ fazer_VERB no_ADP local_NOUN onde_PRON você_PRON mora_VERB?
+         00:06:48.475 - 00:06:51.785
+LAR1FI   então_ADV atualmente_ADV eu_PRON não_ADV saio_VERB de_ADP casa_NOUN e_CCONJ quando_ADV eu_PRON tô_AUX em_ADP casa_NOUN porque_SCONJ às_ADP vezes_NOUN eu_PRON fico_VERB muito_ADV aqui_ADV só_ADV vou_VERB pra_ADP casa_NOUN pra_SCONJ dormir_VERB ou_CCONJ comer_VERB mesmo_ADV mas_CCONJ
+         00:06:53.225 - 00:06:59.190
+LAR1FI   eu_PRON não_ADV tenho_AUX saído_VERB muito_ADV então_ADV não_ADV tem_VERB o_PRON que_PRON fazer_VERB lá_ADV
+         00:06:59.465 - 00:07:02.705
+DOCVIT   então_ADV pelo_ADP conjunto_NOUN jardim_NOUN você_PRON não_ADV costuma_VERB se_PRON locomover_VERB né
+         00:07:02.650 - 00:07:06.250
+LAR1FI   não_ADV
+         00:07:04.865 - 00:07:05.335
+LAR1FI   não_ADV
+         00:07:05.665 - 00:07:06.155
+DOCVIT   o_PRON que_PRON é_AUX mais_ADV atrativo_ADJ
+         00:07:07.665 - 00:07:09.445
+DOCVIT   para_ADP os_DET moradores_NOUN da_ADP sua_DET comunidade_NOUN?
+         00:07:09.530 - 00:07:12.030
+LAR1FI   só_ADV quando_ADV o_DET governo_NOUN
+         00:07:13.395 - 00:07:14.970
+DISF     (HES)
+         00:07:14.977 - 00:07:15.967
+LAR1FI   faz_VERB alguma_DET festa_NOUN porque_SCONJ lá_ADV área_NOUN de_ADP lazer_NOUN 
+         00:07:16.095 - 00:07:18.585
+LAR1FI   os_PRON que_PRON tem_VERB são_AUX muito_ADV precários_ADJ porque_SCONJ são_AUX as_DET praças_NOUN mas_CCONJ área_NOUN de_ADP lazer_NOUN mesmo_ADV não_ADV existe_VERB lá_ADV
+         00:07:18.720 - 00:07:22.840
+DOCVIT   certo_ADJ
+         00:07:23.705 - 00:07:24.585
+DOCVIT   não_ADV tem_VERB mais_ADV nada_PRON assim_ADV de_ADP atrativo_NOUN?
+         00:07:25.100 - 00:07:26.890
+LAR1FI   nada_PRON
+         00:07:26.890 - 00:07:27.430
+DOCVIT   que_SCONJ você_PRON exerga_VERB né_PROPN
+         00:07:27.415 - 00:07:28.865
+LAR1FI   é_AUX do_ADP meu_DET ponto_NOUN de_ADP vista_NOUN não_ADV tem_VERB nada_PRON
+         00:07:28.150 - 00:07:29.915
+DOCVIT   e_CCONJ o_PRON que_PRON é_AUX chato_ADJ pros_ADJ moradores_NOUN da_ADP do_ADP conjunto_NOUN jardim_NOUN
+         00:07:30.775 - 00:07:34.185
+LAR1FI   a_DET falta_NOUN de_ADP segurança_NOUN
+         00:07:34.935 - 00:07:36.255
+LAR1FI   por_SCONJ ser_AUX um_DET bairro_NOUN um_DET pouco_ADV mais_ADV distante_ADJ aí_ADV tem_VERB todo_DET aquele_DET negócio_NOUN de_ADP
+         00:07:36.720 - 00:07:41.410
+LAR1FI   falta_NOUN de_ADP segunraça_NOUN mesmo_ADJ dos_PRON dos_ADP assaltos_NOUN e_CCONJ tal_ADV
+         00:07:42.340 - 00:07:45.280
+LAR1FI   essas_DET coisas_NOUN
+         00:07:45.385 - 00:07:46.275
+DOCVIT   é_AUX um_NUM dos_ADP problemas_NOUN que_PRON você_PRON destaca_VERB tem_VERB mais_ADV? o_PRON que_PRON é_AUX que_SCONJ você_PRON observa_VERB lá_ADV de_ADP problema_NOUN
+         00:07:46.240 - 00:07:50.680
+LAR1FI   isso_PRON bastante_ADV
+         00:07:47.545 - 00:07:48.595
+DISF     (HES)
+         00:07:50.565 - 00:07:51.560
+LAR1FI   o_DET transporte_NOUN público_ADJ também_ADV
+         00:07:52.755 - 00:07:54.755
+LAR1FI   agora_ADV não_ADV tanto_NOUN mas_CCONJ já_ADV teve_VERB um_NUM época_NOUN que_PRON quase_ADV não_ADV tinha_VERB transporte_NOUN público_ADJ e_CCONJ era_AUX muito_ADV difícil_ADJ hoje_ADV em_ADP dia_NOUN tem_VERB mais_ADV
+         00:07:55.430 - 00:08:02.490
+LAR1FI   tá_AUX mais_ADV fácil_ADJ de_SCONJ se_PRON locomover_VERB e_CCONJ tal_ADV mas_CCONJ por_ADP exemplo_NOUN o_DET centro_NOUN os_DET ônibus_NOUN são_AUX péssimos_ADJ pra_SCONJ conseguir_VERB ônibus_NOUN
+         00:08:03.215 - 00:08:09.095
+LAR1FI   aí_ADV mas_CCONJ mesmo_ADV assim_ADV ainda_ADV é_AUX melhor_ADJ né
+         00:08:09.380 - 00:08:11.950
+LAR1FI   (    )
+         00:08:12.040 - 00:08:12.380
+DOCVIT   você_PRON demora_VERB muito_DET tempo_NOUN pra_SCONJ conseguir_VERB transporte_NOUN lá_ADV pro_ADP ônibus_NOUN chegar_VERB
+         00:08:12.725 - 00:08:16.455
+LAR1FI   olha_VERB o_DET ônibus_NOUN do_ADP centro_NOUN você_PRON tem_AUX que_SCONJ olhar_VERB a_ADP hora_NOUN que_SCONJ ele_PRON vai_AUX passar_VERB porque_SCONJ ele_PRON passa_VERB em_ADP torno_NOUN de_ADP meia_NOUN e_CCONJ meia_NUM hora_NOUN
+         00:08:16.855 - 00:08:22.645
+LAR1FI   esse_DET ônibus_NOUN aí_ADV se_SCONJ você_PRON tipo_NOUN 
+         00:08:22.805 - 00:08:24.455
+LAR1FI   chegar_VERB e_CCONJ tiver_VERB passado_VERB você_PRON tem_AUX que_SCONJ esperar_VERB muito_ADV ou_CCONJ você_PRON pode_VERB pegar_VERB uma_DET lotação_NOUN
+         00:08:24.735 - 00:08:28.795
+LAR1FI   que_PRON é_AUX o_PRON que_PRON ajuda_VERB bastante_ADV agora_ADV pro_ADP ônibus_NOUN do_ADP terminal_NOUN do_ADP rodoviário_NOUN é_AUX mais_ADV fácil_ADJ porque_SCONJ você_PRON pode_VERB tem_VERB em_ADP quinze_NUM em_ADP quinze_NUM minutos_NOUN
+         00:08:28.970 - 00:08:35.440
+DOCVIT   certo_ADJ
+         00:08:36.230 - 00:08:37.250
+DOCVIT   você_PRON já_ADV viajou_VERB pra_ADP fora_ADV do_ADP seu_DET estado_NOUN?
+         00:08:38.090 - 00:08:40.700
+LAR1FI   não_ADV
+         00:08:40.130 - 00:08:40.640
+DOCVIT   tem_VERB vontade_NOUN?
+         00:08:42.930 - 00:08:43.960
+LAR1FI   tenho_VERB
+         00:08:44.130 - 00:08:44.790
+DOCVIT   quais_DET lugares_NOUN você_PRON já_ADV visitou_VERB?
+         00:08:47.445 - 00:08:49.525
+DISF     (HES)
+         00:08:50.615 - 00:08:51.185
+LAR1FI   como_ADP assim_ADV? tipo_NOUN fora_ADV do_ADP estado_NOUN ou_CCONJ não_ADV 
+         00:08:51.210 - 00:08:53.930
+DOCVIT   aqui_ADV no_ADP estado_NOUN né_ADJ já_ADV que_SCONJ você_PRON não_ADV viajou_VERB pra_ADP fora_ADV
+         00:08:53.870 - 00:08:56.640
+LAR1FI   aqui_ADV mesmo_ADV
+         00:08:54.100 - 00:08:54.530
+LAR1FI   ah_ADV eu_PRON já_ADV fui_AUX já_ADV para_ADP os_DET interiores_NOUN tipo_NOUN Itaporanga_PROPN que_PRON eu_PRON tenho_VERB família_NOUN lá_ADV em_ADP Itaporanga_PROPN
+         00:08:57.120 - 00:09:01.520
+DISF     (HES)
+         00:09:01.465 - 00:09:02.015
+LAR1FI   São_PROPN Cristóvão_PROPN que_PRON é_AUX aqui_ADV né
+         00:09:02.235 - 00:09:03.540
+DISF     (HES)
+         00:09:04.120 - 00:09:05.160
+LAR1FI   Malhador_NOUN também_ADV já_ADV fui_AUX
+         00:09:05.875 - 00:09:07.525
+DOCVIT   certo_DET viajou_VERB pra_ADP esses_DET lugares_NOUN por_ADP quê_PRON?
+         00:09:07.815 - 00:09:10.245
+LAR1FI   pra_ADP Itaporanga_PROPN por_ADP causa_NOUN das_ADP fes/_PROPN
+         00:09:11.065 - 00:09:12.570
+DISF     (HES)
+         00:09:12.530 - 00:09:12.990
+LAR1FI   da_ADP minha_DET família_NOUN que_SCONJ eu_PRON tenho_VERB lá_ADV e_CCONJ pra_ADP Malhador_NOUN por_ADP causa_NOUN de_ADP uma_DET festa_NOUN que_PRON tinha_VERB lá_ADV aí_ADV eu_PRON fui_AUX lá_ADV
+         00:09:12.855 - 00:09:17.305
+LAR1FI   (   )
+         00:09:18.030 - 00:09:18.360
+DOCVIT   sua_DET família_NOUN de_ADP Itaporanga_PROPN você_PRON é_AUX próxima_ADJ? 
+         00:09:18.705 - 00:09:20.975
+LAR1FI   sim_ADV por_ADP parte_NOUN de_ADP pai_NOUN
+         00:09:21.015 - 00:09:22.035
+LAR1FI   minha_DET vó_NOUN meus_DET primos_NOUN
+         00:09:22.310 - 00:09:23.780
+DOCVIT   aí_ADV você_PRON sempre_ADV vai_VERB lá_ADV
+         00:09:23.960 - 00:09:25.300
+LAR1FI   sim_ADV sempre_ADV
+         00:09:24.715 - 00:09:25.875
+DISF     (HES)
+         00:09:28.420 - 00:09:29.170
+DOCVIT   tem_VERB alguma_DET viagem_NOUN que_PRON você_PRON sonha_VERB em_SCONJ fazer_VERB?
+         00:09:29.230 - 00:09:31.380
+DISF     (HES)
+         00:09:32.195 - 00:09:33.425
+LAR1FI   depois_ADV que_SCONJ eu_PRON entrei_VERB aqui_ADV na_ADP universidade_NOUN tipo_NOUN ampliou_VERB muito_ADV meus_DET horinzontes_NOUN aí_ADV eu_PRON estou_AUX pensando_VERB em_ADP como_ADP eu_PRON curso_NOUN espanhol_ADJ em_SCONJ ir_VERB
+         00:09:34.055 - 00:09:41.315
+LAR1FI   em_ADP países_NOUN que_PRON falam_VERB espanhol_NOUN mesmo_ADV para_SCONJ poder_VERB fazer_VERB pesquisas_NOUN ou_CCONJ então_ADV pra_ADP lazer_NOUN aí_ADV eu_PRON tô_AUX 
+         00:09:41.420 - 00:09:47.590
+DISF     (HES)
+         00:09:47.870 - 00:09:48.430
+LAR1FI   pesquisando_VERB mais_ADV sabe_VERB ainda_ADV não_ADV tenho_VERB nenhum_PRON
+         00:09:48.430 - 00:09:50.440
+LAR1FI   país_NOUN certo_ADJ para_SCONJ ir_VERB 
+         00:09:50.705 - 00:09:52.465
+DOCVIT   mas_CCONJ fora_ADV fora_ADV esses_DET países_NOUN de_ADP assim_ADV língua_NOUN espanhola_ADJ
+         00:09:52.545 - 00:09:56.595
+DOCVIT   você_PRON não_ADV pensa_VERB em_ADP nenhum_DET outro_DET assim_ADV que_SCONJ você_PRON tenha_VERB muita_DET vontade_NOUN de_SCONJ ir_VERB
+         00:09:57.135 - 00:10:00.475
+LAR1FI   ah_ADV queria_VERB ir_VERB pra_ADP Natal_PROPN
+         00:09:59.425 - 00:10:00.945
+LAR1FI   eu_PRON acho_VERB lá_ADV muito_ADV bonito_ADJ
+         00:10:01.165 - 00:10:02.515
+LAR1FI   mas_CCONJ tipo_NOUN não_ADV tem_VERB nennhum_VERB nenhum_DET motivo_NOUN específico_ADJ só_ADV pra_ADP passear_VERB mesmo_ADV
+         00:10:02.790 - 00:10:07.430
+DOCVIT   lazer_NOUN né?
+         00:10:07.830 - 00:10:09.210
+LAR1FI   isso_PRON
+         00:10:08.520 - 00:10:09.280
+DOCVIT   por_ADP que_SCONJ Natal_PROPN?
+         00:10:11.660 - 00:10:12.720
+LAR1FI   por_ADP causa_NOUN das_ADP praias_NOUN acho_VERB lá_ADV muito_ADV bonito_ADJ
+         00:10:13.620 - 00:10:15.440
+DOCVIT   certo_ADJ
+         00:10:16.615 - 00:10:17.175
+DOCVIT   o_PRON que_PRON você_PRON gosta_VERB de_SCONJ fazer_VERB no_ADP seu_DET final_NOUN de_ADP semana_NOUN?
+         00:10:18.220 - 00:10:20.480
+DISF     ((RISOS))
+         00:10:21.655 - 00:10:21.995
+LAR1FI   dormir_VERB
+         00:10:22.100 - 00:10:22.650
+DISF     ((RISOS))
+         00:10:23.210 - 00:10:24.430
+DOCVIT   só_ADV dormir_VERB
+         00:10:25.170 - 00:10:26.300
+LAR1FI   é_VERB porque_SCONJ tipo_NOUN assim_ADV a_DET hora_NOUN que_SCONJ eu_PRON tenho_VERB um_DET pouco_ADV mais_ADV de_ADP tempo_NOUN
+         00:10:26.485 - 00:10:29.875
+LAR1FI   é_AUX tempo_NOUN porque_SCONJ tempo_NOUN não_ADV tá_AUX tendo_VERB mais_ADV mas_CCONJ tipo_NOUN
+         00:10:30.370 - 00:10:34.010
+LAR1FI   eu_PRON aproveito_VERB pra_SCONJ acordar_VERB tarde_ADV aí_ADV a_DET tarde_NOUN eu_PRON
+         00:10:34.540 - 00:10:37.800
+LAR1FI   eu_PRON pego_VERB e_CCONJ assisto_VERB alguma_DET coisa_NOUN algum_DET documentário_NOUN alguma_DET coisa_NOUN que_PRON os_DET professores_NOUN passam_VERB
+         00:10:38.000 - 00:10:43.260
+DISF     (HES)
+         00:10:43.315 - 00:10:44.055
+LAR1FI   depois_ADV termino_NOUN as_DET atividades_NOUN
+         00:10:45.405 - 00:10:46.705
+DOCVIT   você_PRON queria_VERB esse_DET tempo_NOUN pra_ADP você_PRON né?
+         00:10:47.785 - 00:10:49.645
+LAR1FI   é_AUX
+         00:10:49.035 - 00:10:49.405
+DOCVIT   quais_DET lugares_NOUN você_PRON costuma_VERB frequentar_VERB por_ADP lazer_NOUN?
+         00:10:50.520 - 00:10:52.970
+LAR1FI   shopping_NOUN
+         00:10:53.955 - 00:10:54.775
+LAR1FI   parques_NOUN
+         00:10:55.235 - 00:10:56.010
+DISF     (HES)
+         00:10:56.137 - 00:10:56.907
+LAR1FI   praias_NOUN também_ADV gosto_VERB muito_ADV de_ADP praias_NOUN
+         00:10:57.715 - 00:10:59.325
+DOCVIT   você_PRON costuma_VERB frequentar_VERB museu_NOUN cinema_ADJ teatro_NOUN 
+         00:11:00.930 - 00:11:03.890
+LAR1FI   sim_ADV
+         00:11:03.210 - 00:11:03.850
+LAR1FI   museu_NOUN e_CCONJ teatro_NOUN não_ADV mas_CCONJ cinema_NOUN sim_ADV
+         00:11:04.480 - 00:11:06.960
+DOCVIT   você_PRON vai_VERB com_ADP frequência_NOUN?
+         00:11:08.425 - 00:11:09.635
+DOCVIT   cinema_NOUN
+         00:11:09.840 - 00:11:10.760
+LAR1FI   sim_ADV
+         00:11:10.900 - 00:11:11.630
+LAR1FI   assim_ADV ia_AUX né agora_ADV tô_AUX um_DET pouco_ADV sem_ADP tempo_NOUN mas_CCONJ eu_PRON ia_AUX muito_ADV pra_ADP o_DET cinema_NOUN
+         00:11:11.825 - 00:11:16.735
+DOCVIT   você_PRON disse_VERB que_SCONJ gosta_VERB de_ADP praia_NOUN né?
+         00:11:17.100 - 00:11:19.140
+DISF     (EST)
+         00:11:18.475 - 00:11:19.005
+DOCVIT   por_ADP qual_DET motivo_NOUN o_PRON que_PRON mais_ADV sua_DET chama_VERB atenção_NOUN na_ADP praia_NOUN?
+         00:11:19.480 - 00:11:22.630
+DISF     (HES)
+         00:11:23.835 - 00:11:25.045
+LAR1FI   eu_PRON acho_VERB que_SCONJ a_DET imensidão_NOUN que_PRON se_PRON tem_VERB uma_DET noção_NOUN tipo_NOUN você_PRON tá_AUX lá_ADV com_ADP os_DET pés_NOUN na_ADP água_NOUN mas_CCONJ tem_VERB uma_DET noção_NOUN que_PRON tem_VERB um_DET mundo_NOUN 
+         00:11:26.150 - 00:11:33.270
+LAR1FI   abaixo_ADV de_ADP você_PRON é_AUX uma_DET coisa_NOUN muito_ADV maior_ADJ
+         00:11:33.480 - 00:11:35.740
+LAR1FI   acho_VERB que_SCONJ é_AUX isso_PRON
+         00:11:36.000 - 00:11:37.140
+DOCVIT   você_PRON gosta_VERB de_SCONJ ler_VERB livro_NOUN?
+         00:11:38.050 - 00:11:39.390
+LAR1FI   sim_ADV
+         00:11:39.620 - 00:11:40.300
+LAR1FI   tô_AUX eu_PRON já_ADV gostava_VERB mais_ADV mas_CCONJ tipo_NOUN agora_ADV eu_PRON tô_AUX tendo_VERB leituras_NOUN mais_ADV obrigatórias_ADJ sabe_VERB
+         00:11:41.410 - 00:11:45.530
+LAR1FI   mas_CCONJ eu_PRON gosto_VERB muito_ADV de_ADP livros_NOUN
+         00:11:45.820 - 00:11:47.270
+DOCVIT   você_PRON tem_VERB um_DET favorito_NOUN?
+         00:11:47.675 - 00:11:49.145
+LAR1FI   eu_PRON tenho_VERB a_DET trilogia_NOUN
+         00:11:49.890 - 00:11:51.390
+LAR1FI   a_DET trilogia_NOUN que_PRON eu_PRON que_PRON eu_PRON li_VERB e_CCONJ me_PRON apaixonei_VERB 
+         00:11:51.510 - 00:11:55.180
+LAR1FI   mas_CCONJ não_ADV é_AUX muito_ADV didática_ADJ não_ADV mas_CCONJ eu_PRON gostei_VERB muito_ADV
+         00:11:55.305 - 00:11:58.405
+DOCVIT   não_ADV não_ADV pode_VERB falar_VERB
+         00:11:58.925 - 00:12:00.105
+LAR1FI   que_PRON é_AUX a_ADP cinquenta_NUM tons_NOUN a_DET trilogia_NOUN tipo_NOUN e_CCONJ eu_PRON me_PRON apaixonei_VERB por_ADP essa_DET história_NOUN
+         00:11:59.935 - 00:12:05.225
+LAR1FI   mas_CCONJ é_AUX muito_ADV boa_ADJ
+         00:12:05.750 - 00:12:06.530
+DOCVIT   já_ADV assistiu_VERB o_DET filme_NOUN?
+         00:12:06.330 - 00:12:07.250
+LAR1FI   sim_ADV os_DET filmes_NOUN
+         00:12:07.250 - 00:12:08.370
+DISF     (HES)
+         00:12:10.230 - 00:12:10.600
+DOCVIT   você_PRON lê_VERB algo_PRON pela_ADP internet_PROPN?
+         00:12:10.570 - 00:12:12.300
+DISF     (HES)
+         00:12:13.167 - 00:12:13.717
+LAR1FI   eu_PRON leio_VERB mas_CCONJ eu_PRON não_ADV consigo_VERB ler_VERB por_ADP muito_DET tempo_NOUN porque_SCONJ eu_PRON tenho_VERB miopia_NOUN 
+         00:12:13.700 - 00:12:17.205
+LAR1FI   aí_ADV meus_DET olhos_NOUN ficam_VERB doendo_VERB e_CCONJ eu_PRON não_ADV consigo_VERB ler_VERB o_DET PDF não_ADV  
+         00:12:17.510 - 00:12:21.430
+DOCVIT   faz_VERB muito_DET uso_NOUN de_ADP rede_NOUN social_ADJ lê_VERB algum_DET texto_NOUN por_ADP rede_NOUN social_ADJ?
+         00:12:21.970 - 00:12:25.670
+LAR1FI   sim_ADV
+         00:12:24.970 - 00:12:25.620
+LAR1FI   os_DET textos_NOUN que_PRON tem_VERB no_ADP instagram_NOUN
+         00:12:25.835 - 00:12:27.535
+DOCVIT   sim_ADV
+         00:12:27.725 - 00:12:28.290
+DOCVIT   chama_VERB sua_DET atenção_NOUN esses_DET textos_NOUN?
+         00:12:29.620 - 00:12:31.175
+LAR1FI   a_SCONJ depender_VERB do_ADP tema_NOUN
+         00:12:31.325 - 00:12:32.395
+LAR1FI   porque_SCONJ tem_VERB textos_NOUN que_PRON eu_PRON passo_VERB 
+         00:12:32.760 - 00:12:34.900
+LAR1FI   só_ADV passo_NOUN mas_CCONJ têm_VERB textos_NOUN que_PRON tipo_NOUN 
+         00:12:35.260 - 00:12:37.240
+LAR1FI   se_SCONJ for_VERB temas_NOUN 
+         00:12:37.590 - 00:12:38.950
+LAR1FI   por_ADP exemplo_NOUN desse_ADP novo_ADJ governo_NOUN ou_CCONJ tema_NOUN feministas_ADJ eu_PRON gosto_VERB de_SCONJ ler_VERB sim_ADV
+         00:12:39.010 - 00:12:43.260
+LAR1FI   eu_PRON paro_VERB para_SCONJ ler_VERB
+         00:12:43.625 - 00:12:45.505
+DOCVIT   sua_DET família_NOUN tem_VERB o_DET hábito_NOUN de_SCONJ ler_VERB?
+         00:12:46.305 - 00:12:48.315
+LAR1FI   só_ADV minha_DET irmã_NOUN
+         00:12:48.780 - 00:12:49.520
+LAR1FI   que_SCONJ ela_PRON tá_AUX se_PRON formando_VERB em_ADP história_NOUN e_CCONJ aí_ADV ela_PRON né lê_VERB muito_ADV
+         00:12:50.270 - 00:12:54.000
+DOCVIT   você_PRON acha_VERB o_DET hábito_NOUN de_ADP leitura_NOUN importante_ADJ?
+         00:12:56.385 - 00:12:58.845
+LAR1FI   muito_ADV importante_ADJ
+         00:12:58.965 - 00:13:00.635
+LAR1FI   além_ADV de_ADP ampliar_VERB seu_DET vocabulário_NOUN você_PRON vai_AUX ter_VERB conhecimento_NOUN de_ADP mundo_NOUN por_ADP exemplo_NOUN dependendo_VERB dos_ADP textos_NOUN que_PRON você_PRON vai_AUX escolher_VERB ler_VERB né se_SCONJ for_VERB textos_NOUN mais_ADV voltados_VERB para_ADP o_PRON que_PRON tá_AUX acontecendo_VERB no_ADP país_NOUN vai_AUX ser_AUX muito_ADV bom_ADJ pra_SCONJ você_PRON ter_VERB um_DET conhecimento_NOUN do_PRON que_PRON tá_AUX acontecendo_VERB e_CCONJ não_ADV falar_VERB besteira_NOUN por_ADP aí_ADV  
+         00:13:01.010 - 00:13:15.080
+LAR1FI   porque_SCONJ tem_VERB pessoas_NOUN que_PRON lê_VERB um_NUM um_NUM que_PRON ver_VERB um_DET vídeo_NOUN e_CCONJ aí_ADV acha_VERB que_SCONJ já_ADV sabe_VERB tudo_PRON que_PRON tá_AUX acontecendo_VERB e_CCONJ vai_AUX falar_VERB besteira_NOUN não_ADV sabe_VERB o_PRON que_PRON tá_AUX acontecendo_VERB mesmo_ADV 
+         00:13:15.320 - 00:13:22.780
+LAR1FI   é_AUX é_AUX conhecimento_NOUN
+         00:13:23.200 - 00:13:24.680
+DOCVIT   essa_DET reflexão_NOUN que_PRON você_PRON tem_VERB hoje_ADV
+         00:13:25.040 - 00:13:27.230
+DOCVIT   foi_AUX por_ADP influência_NOUN da_ADP sua_DET irmã_NOUN que_PRON cursa_VERB história_NOUN
+         00:13:27.765 - 00:13:30.115
+LAR1FI   sim_ADV ela_PRON me_PRON influencia_VERB muito_ADV me_PRON influencia_VERB muito_ADV porque_SCONJ
+         00:13:31.380 - 00:13:35.060
+DISF     (HES)
+         00:13:35.465 - 00:13:35.905
+LAR1FI   a_DET minha_DET única_ADJ irmã_NOUN que_PRON tá_AUX na_ADP faculdade_NOUN porque_SCONJ eu_PRON tenho_VERB cinco_NUM irmãos_NOUN e_CCONJ ela_PRON é_AUX a_DET única_ADJ aí_ADV tipo_NOUN sabe_VERB aquele_DET
+         00:13:35.910 - 00:13:40.250
+LAR1FI   aquela_DET pessoa_NOUN que_PRON sempre_ADV me_PRON deu_VERB aquela_DET luz_NOUN
+         00:13:41.225 - 00:13:44.095
+LAR1FI   que_SCONJ sempre_ADV lhe_PRON ajudou_VERB que_SCONJ sempre_ADV puxou_VERB seu_DET pé_NOUN pra_ADV você_PRON tentar_VERB sempre_ADV foi_AUX ela_PRON
+         00:13:44.380 - 00:13:48.360
+DOCVIT   sua_DET inspiração_NOUN né
+         00:13:49.125 - 00:13:50.275
+LAR1FI   é_AUX inspiração_NOUN
+         00:13:49.890 - 00:13:50.820
+DOCVIT   seus_DET outros_DET irmãos_NOUN fazem_VERB o_PRON que_PRON?
+         00:13:50.850 - 00:13:52.770
+DISF     (HES)
+         00:13:53.247 - 00:13:53.737
+LAR1FI   eu_PRON tenho_VERB uma_DET irmã_NOUN minha_DET que_PRON tem_VERB um_DET salão_NOUN e_CCONJ outro_DET irmão_NOUN tá_AUX no_ADP ensino_NOUN médio_ADJ
+         00:13:53.760 - 00:13:57.385
+LAR1FI   e_CCONJ eu_PRON tenho_VERB cinco_NUM irmãos_NOUN né o/_ADJ eu_PRON tenho_VERB quatro_NUM irmãos_NOUN
+         00:13:57.640 - 00:14:00.480
+LAR1FI   o_DET outro_DET irmão_NOUN faleceu_VERB
+         00:14:00.575 - 00:14:01.985
+DISF     (HES)
+         00:14:02.730 - 00:14:03.510
+LAR1FI   aí_ADV tem_VERB uma_DET minha_DET irmã_NOUN Jéssica_PROPN mais_ADV velha_ADJ está_VERB
+         00:14:03.530 - 00:14:06.460
+DISF     (HES)
+         00:14:06.490 - 00:14:07.260
+LAR1FI   terminando_VERB concluindo_VERB a_DET faculdade_PROPN história_PROPN 
+         00:14:07.330 - 00:14:10.030
+LAR1FI   minha_DET irmã_NOUN Luísa_PROPN tem_VERB um_DET salão_NOUN e_CCONJ Felipe_PROPN só_ADV trabalha_VERB 
+         00:14:10.740 - 00:14:14.740
+LAR1FI   e_CCONJ André_PROPN mais_ADV novo_ADJ tá_AUX no_ADP ensino_NOUN médio_ADJ ainda_ADV
+         00:14:15.070 - 00:14:17.380
+DOCVIT   certo_ADJ
+         00:14:18.215 - 00:14:19.095
+DOCVIT   todos_PRON são_AUX filhos_NOUN de_ADP seu_DET pai_NOUN e_CCONJ sua_DET mãe_NOUN juntos_ADV?
+         00:14:19.940 - 00:14:23.010
+LAR1FI   sim_ADV sim_ADV
+         00:14:22.515 - 00:14:23.545
+DISF     (HES)
+         00:14:26.660 - 00:14:27.100
+DOCVIT   você_PRON acha_VERB que_SCONJ a_DET educação_NOUN pública_ADJ deve_VERB ser_AUX assegurada_VERB pelo_ADP governo_NOUN?
+         00:14:27.110 - 00:14:30.680
+LAR1FI   com_ADP certeza_NOUN
+         00:14:30.895 - 00:14:32.195
+LAR1FI   ah_ADV porque_SCONJ
+         00:14:33.230 - 00:14:34.100
+LAR1FI    o_DET governo_NOUN diz_VERB né que_SCONJ tá_AUX lá_ADV atuando_VERB mas_CCONJ a_DET gente_NOUN sabe_VERB que_SCONJ na_ADP realidade_NOUN não_ADV é_VERB assim_ADV né_VERB que_SCONJ tem_VERB muita_DET precariedade_NOUN
+         00:14:34.295 - 00:14:41.305
+LAR1FI   que_SCONJ tem_VERB escolas_NOUN que_PRON tem_VERB por_ADP exemplo_NOUN como_ADV eu_PRON tô_AUX estudando_VERB muito_ADV espanhol_ADJ aí_ADV a_DET gente_NOUN ver_VERB muito_ADV que_SCONJ tem_VERB muitas_DET escolas_NOUN que_PRON não_ADV tem_VERB nem_ADV professor_NOUN de_ADP espanhol_NOUN apesar_SCONJ que_SCONJ não_ADV é_AUX obrigatório_ADJ mas_CCONJ
+         00:14:41.620 - 00:14:51.210
+LAR1FI   mas_CCONJ aqui_ADV em_ADP Sergipe_PROPN tá_AUX sido_AUX mantido_VERB o_DET ensino_NOUN de_ADP espanhol_NOUN mas_CCONJ não_ADV é_AUX obrigatório_ADJ
+         00:14:51.560 - 00:14:54.940
+DISF     (HES)
+         00:14:55.115 - 00:14:55.395
+LAR1FI   á_PRON foi_AUX tirado_VERB
+         00:14:55.390 - 00:14:56.100
+LAR1FI   porém_CCONJ essas_DET escolas_NOUN que_PRON manteram_VERB não_ADV tem_VERB professores_NOUN muitas_ADP vezes_NOUN e_CCONJ os_PRON que_PRON tem_VERB
+         00:14:56.715 - 00:15:01.300
+DISF     (HES)
+         00:15:01.315 - 00:15:02.425
+LAR1FI   não_ADV tem_VERB tempo_NOUN  para_SCONJ dar_VERB o_DET conteúdo_NOUN completo_ADJ
+         00:15:02.425 - 00:15:04.705
+LAR1FI   e_CCONJ também_ADV fora_ADV tipo_NOUN por_ADP exemplo_NOUN educação_NOUN física_ADJ mesmo_ADV as_DET quadras_NOUN de_ADP esportes_NOUN mesmo_ADV 
+         00:15:05.210 - 00:15:09.860
+LAR1FI   são_AUX muito_ADV precárias_ADJ
+         00:15:10.325 - 00:15:12.035
+LAR1FI   e_CCONJ também_ADV
+         00:15:12.760 - 00:15:13.670
+LAR1FI   por_ADP exemplo_NOUN no_ADP meu_DET ensino_NOUN médio_ADJ
+         00:15:13.785 - 00:15:15.240
+DISF     (HES)
+         00:15:15.290 - 00:15:15.690
+LAR1FI    eles_PRON tinham_VERB o_DET almoço_NOUN porém_CCONJ
+         00:15:15.675 - 00:15:17.605
+LAR1FI   às_ADP vezes_NOUN não_ADV tinha_VERB ou_CCONJ ou_CCONJ lanche_NOUN mesmo_ADV da_ADP tarde_NOUN não_ADV existia_VERB
+         00:15:17.875 - 00:15:21.925
+LAR1FI   fora_ADV também_ADV que_SCONJ
+         00:15:22.230 - 00:15:23.290
+DISF     (HES)
+         00:15:24.235 - 00:15:24.875
+LAR1FI   as_DET condições_NOUN das_ADP escolas_NOUN que_PRON estão_AUX hoje_ADV em_ADP dia_NOUN
+         00:15:24.920 - 00:15:26.960
+LAR1FI   as_DET escolas_NOUN praticamente_ADV caindo_VERB aos_ADP pedaços_NOUN muitas_DET escolas_NOUN as_PRON de_ADP interior_NOUN por_ADP 
+         00:15:27.290 - 00:15:31.160
+LAR1FI   principalmente_ADV
+         00:15:31.580 - 00:15:32.230
+DOCVIT   você_PRON tá_AUX cursando_VERB espanhol_ADJ vai_AUX ser_AUX professora_NOUN de_ADP espanhol_NOUN português_ADJ espanhol_ADJ
+         00:15:32.715 - 00:15:36.815
+LAR1FI   isso_PRON
+         00:15:35.650 - 00:15:36.320
+DOCVIT   você_PRON observando_VERB essa_DET situação_NOUN do_ADP espanhol_NOUN não_ADV ser_AUX obrigatório_ADJ
+         00:15:37.535 - 00:15:41.610
+DISF     (EST)
+         00:15:41.660 - 00:15:42.130
+DOCVIT   você_PRON acha_VERB um_DET risco_NOUN você_PRON acha_VERB importante_ADJ ter_VERB o_DET espanhol_NOUN?
+         00:15:42.470 - 00:15:46.270
+LAR1FI   é_AUX muito_ADV importante_ADJ quanto_ADV mais_DET conhecimento_NOUN você_PRON puder_VERB adquirir_VERB durante_ADP seu_DET ensino_NOUN médio_ADJ
+         00:15:46.220 - 00:15:51.020
+LAR1FI   é_AUX melhor_ADJ
+         00:15:51.630 - 00:15:52.340
+LAR1FI   e_CCONJ essa_DET opção_NOUN de_SCONJ tirar_VERB o_DET espanhol_NOUN foi_AUX uma_DET coisa_NOUN que_SCONJ 
+         00:15:52.545 - 00:15:57.115
+LAR1FI   andou_VERB pra_ADP trás_ADV
+         00:15:57.990 - 00:15:58.840
+LAR1FI   simplesmente_ADV um_NUM passo_NOUN para_ADP trás_ADV
+         00:15:59.065 - 00:16:01.205
+LAR1FI   é_AUX lutar_VERB né para_SCONJ que_SCONJ volte_VERB
+         00:16:02.435 - 00:16:04.035
+DOCVIT   a_DET educação_PROPN pública_PROPN melhorou_VERB ou_CCONJ piorou_VERB nos_ADP últimos_ADJ anos_NOUN?
+         00:16:05.445 - 00:16:08.885
+LAR1FI   deu_VERB deu_VERB uma_DET melhorada_NOUN sim_ADV
+         00:16:10.195 - 00:16:12.475
+LAR1FI   se_SCONJ a_DET gente_NOUN for_AUX olhar_VERB o_DET ponto_NOUN histórico_ADJ deu_VERB uma_DET melhorada_NOUN bastante_ADV os_DET professores_NOUN podem_VERB ampliar_VERB mais_DET tipo_NOUN tem_VERB recursos_NOUN na_ADP internet_PROPN tem_VERB recursos_NOUN de_ADP vídeo_NOUN e_CCONJ tal_ADV
+         00:16:12.645 - 00:16:21.615
+LAR1FI   e_CCONJ tem_VERB muitas_DET escolas_NOUN que_PRON tem_VERB auditório_NOUN isso_PRON pode_VERB ajudar_VERB a_SCONJ levar_VERB os_DET alunos_NOUN
+         00:16:22.090 - 00:16:25.820
+LAR1FI   mas_CCONJ esses_DET novos_ADJ modelos_NOUN que_PRON estão_AUX tendo_VERB por_ADP aí_ADV tá_AUX tendo_VERB um_DET pezinho_NOUN pra_ADP trás_ADV né mas_CCONJ 
+         00:16:26.605 - 00:16:32.525
+LAR1FI   os_DET professores_NOUN sempre_ADV tentam_VERB melhorar_VERB o_DET máximo_NOUN 
+         00:16:32.895 - 00:16:35.455
+DOCVIT   então_ADV você_PRON acha_VERB que_SCONJ a_DET melhora_NOUN
+         00:16:36.505 - 00:16:38.155
+LAR1FI   sim_ADV
+         00:16:38.410 - 00:16:38.880
+DOCVIT   é_AUX devido_ADV
+         00:16:38.745 - 00:16:39.695
+DOCVIT   aos_ADP professores_NOUN
+         00:16:39.830 - 00:16:41.120
+LAR1FI   é_AUX lutar_VERB
+         00:16:41.195 - 00:16:42.215
+LAR1FI   sempre_ADV pra_SCONJ tentar_VERB melhorar_VERB
+         00:16:42.465 - 00:16:43.545
+DOCVIT   você_PRON considera_VERB importante_ADJ que_SCONJ as_DET bolsas_NOUN
+         00:16:44.635 - 00:16:47.545
+DOCVIT   como_ADP pibic_PROPN pibid_PROPN as_DET bolsas_NOUN auxílios_NOUN
+         00:16:47.700 - 00:16:51.150
+DOCVIT   que_PRON são_AUX ofertadas_VERB na_ADP universidade_NOUN
+         00:16:51.845 - 00:16:53.965
+DOCVIT   tenham_VERB como_ADP critério_NOUN de_ADP escolha_NOUN a_DET vulnerabilidade_NOUN socioeconômica_ADJ para_ADP as_DET pessoas_NOUN com_ADP baixa_ADJ renda_NOUN?
+         00:16:54.075 - 00:17:00.185
+LAR1FI   com_ADP certeza_NOUN é_AUX muito_ADV importante_ADJ isso_PRON
+         00:17:00.350 - 00:17:02.420
+DOCVIT   por_ADP quê_PRON?
+         00:17:02.775 - 00:17:03.695
+LAR1FI   porque_SCONJ são_AUX essas_DET pessoas_NOUN que_PRON realmente_ADV precisam_VERB que_SCONJ por_ADP mais_ADV que_SCONJ esteja_VERB numa_ADP universidade_NOUN pública_ADJ a_DET gente_PRON vê_VERB que_SCONJ tem_VERB pessoas_NOUN que_PRON não_ADV precisam_VERB está_AUX aqui_ADV
+         00:17:04.215 - 00:17:12.405
+LAR1FI   poderia_VERB pagar_VERB uma_DET particular_ADJ poderia_VERB se_PRON manter_VERB
+         00:17:12.560 - 00:17:15.470
+LAR1FI   mas_CCONJ estão_AUX aqui_ADV usando_VERB uma_DET vaga_NOUN que_PRON realmente_ADV precisaria_VERB 
+         00:17:15.690 - 00:17:18.900
+LAR1FI   e_CCONJ e_CCONJ essas_DET bolsas_NOUN iriam_AUX ajudar_VERB muito_ADV no_ADP meio_NOUN de_ADP transporte_NOUN e_CCONJ (   ) tem_VERB alunos_NOUN mesmo_ADV por_ADP exemplo_NOUN eu_PRON estudo_NOUN a_DET tarde_NOUN mas_CCONJ tô_AUX aqui_ADV pela_ADP manhã_NOUN
+         00:17:19.595 - 00:17:27.145
+LAR1FI   porque_SCONJ tive_AUX que_SCONJ vim_VERB pela_ADP manhã_NOUN e_CCONJ tem_VERB alunos_NOUN que_PRON tem_AUX que_SCONJ vim_VERB pela_ADP manhã_NOUN por_ADP causa_NOUN de_ADP projetos_NOUN
+         00:17:27.390 - 00:17:31.630
+LAR1FI   e_CCONJ e_CCONJ por_ADP isso_PRON gastam_VERB meio_ADV de_ADP transporte_NOUN que_PRON pode_VERB ter_VERB mas_CCONJ 
+         00:17:32.010 - 00:17:35.930
+LAR1FI   por_ADP exemplo_NOUN pra_ADP minha_DET parte_NOUN não_ADV tem_VERB pela_ADP manhã_NOUN só_ADV tem_VERB a_DET tarde_NOUN e_CCONJ a_DET noite_NOUN
+         00:17:36.090 - 00:17:38.940
+LAR1FI   então_ADV pega_VERB o_DET coletivo_NOUN aí_ADV chega_VERB aqui_ADV tem_AUX que_SCONJ almoçar_VERB às_ADP vezes_NOUN trás_ADV de_ADP casa_NOUN (   ) dentro_ADV de_ADP casa_NOUN 
+         00:17:39.430 - 00:17:44.670
+LAR1FI   e_CCONJ essas_DET bolsas_NOUN irão_AUX ajudar_VERB bastante_ADV tudo_PRON na_ADP alimentação_NOUN em_SCONJ se_PRON manter_VERB eu_PRON mesma_ADJ não_ADV consegui_VERB nenhuma_DET bolsa_NOUN ainda_ADV e_CCONJ tá_AUX  
+         00:17:45.140 - 00:17:51.610
+LAR1FI   complicado_ADJ viu_VERB porque_SCONJ são_AUX vários_DET várias_DET impressões_NOUN várias_DET xerox_NOUN e_CCONJ 
+         00:17:51.860 - 00:17:56.250
+LAR1FI   e_CCONJ também_ADV tem_VERB esses_DET projetos_NOUN que_PRON eu_PRON tô_AUX tentando_VERB né e_CCONJ tá_AUX muito_ADV complicado_ADJ sem_ADP bolsa_NOUN
+         00:17:56.775 - 00:18:01.875
+DOCVIT   você_PRON tá_AUX tentando_VERB a_DET bolsa_NOUN
+         00:18:01.925 - 00:18:02.865
+LAR1FI   sim_ADV tô_AUX tentando_VERB
+         00:18:02.885 - 00:18:04.155
+DOCVIT   você_PRON considera_VERB importante_ADJ as_DET políticas_NOUN para_SCONJ garantir_VERB o_DET acesso_NOUN e_CCONJ a_DET permanência_NOUN dos_ADP alunos_NOUN na_ADP educação_PROPN básica_ADJ?
+         00:18:06.090 - 00:18:13.550
+DOCVIT   por_ADP exemplo_NOUN o_DET transp/_PROPN transporte_NOUN escolar_ADJ plano_ADJ nacional_ADJ do_ADP livro_NOUN didático_ADJ a_DET merenda_NOUN
+         00:18:13.810 - 00:18:18.890
+DISF     (EST)
+         00:18:17.625 - 00:18:18.265
+LAR1FI   muito_ADV importante_ADJ necessário_ADJ na_ADP verdade_NOUN né_VERB nem_CCONJ é_VERB que_SCONJ nem_CCONJ é_AUX uma_DET questão_NOUN de_ADP necessário_NOUN deveria_VERB ser_AUX
+         00:18:19.220 - 00:18:24.710
+LAR1FI   além_ADV de_ADP ter_VERB os_DET professores_NOUN
+         00:18:25.230 - 00:18:27.090
+DISF     (HES)
+         00:18:27.200 - 00:18:27.750
+LAR1FI   ter_VERB esses_DET planos_NOUN porque_SCONJ como_ADV é_AUX que_SCONJ o_DET aluno_NOUN vai_AUX chegar_VERB lá_ADV com_ADP fome_NOUN
+         00:18:27.925 - 00:18:32.385
+LAR1FI   ou_CCONJ não_ADV conseguir_VERB chegar_VERB lá_ADV porque_SCONJ às_ADP vezes_NOUN escola_NOUN de_ADP bairro_NOUN não_ADV é_AUX boa_ADJ né aí_ADV tem_AUX que_SCONJ pegar_VERB uma_DET escola_NOUN em_ADP outro_DET bairro_NOUN e_CCONJ como_ADV é_AUX que_SCONJ faz_VERB? tem_AUX que_SCONJ ter_VERB o_DET transporte_NOUN é_AUX importante_ADJ
+         00:18:32.840 - 00:18:41.770
+DOCVIT   você_PRON foi_AUX aluna_NOUN de_ADP escola_PROPN pública_PROPN então_ADV você_PRON se_PRON beneficiou_VERB com_ADP
+         00:18:42.160 - 00:18:45.720
+DOCVIT   com_ADP todos_DET esses_DET programas_NOUN?
+         00:18:45.970 - 00:18:47.210
+LAR1FI   o_DET transporte_NOUN não_ADV porque_SCONJ como_SCONJ eu_PRON estudei_VERB em_ADP escola_NOUN de_ADP bairro_NOUN não_ADV precisa_VERB de_ADP transporte_NOUN mas_CCONJ o_DET livro_NOUN didático_ADJ foi_AUX muito_ADV importante_ADJ
+         00:18:47.480 - 00:18:53.920
+DISF     (HES)
+         00:18:54.590 - 00:18:54.940
+LAR1FI   a_DET merenda_NOUN
+         00:18:55.130 - 00:18:56.450
+LAR1FI   a_DET merenda_NOUN era_AUX muito_ADV boa_ADJ importante_ADJ
+         00:18:56.670 - 00:18:58.600
+DOCVIT   quais_PRON os_DET pontos_NOUN negativos_ADJ e_CCONJ os_DET positivos_ADJ os_DET quais_PRON você_PRON observa_VERB na_ADP escola_NOUN pública_ADJ? 
+         00:19:00.075 - 00:19:05.775
+DISF     (HES)
+         00:19:07.585 - 00:19:08.375
+LAR1FI   os_DET negativos_NOUN são_AUX a_DET precariedade_NOUN das_ADP escolas_NOUN
+         00:19:08.650 - 00:19:11.950
+DISF     (HES)
+         00:19:12.435 - 00:19:12.975
+LAR1FI   a_DET parte_NOUN da_ADP merenda_NOUN escolar_ADJ
+         00:19:13.060 - 00:19:14.880
+DISF     (HES)
+         00:19:15.840 - 00:19:16.460
+LAR1FI   além_ADV da_ADP 
+         00:19:19.780 - 00:19:20.540
+DISF     (HES)
+         00:19:20.500 - 00:19:21.300
+LAR1FI   dos_ADP professores_NOUN não_ADV tem_VERB aquele_PRON aquele_DET plano_NOUN de_SCONJ es/_VERB por_ADP exemplo_NOUN
+         00:19:21.455 - 00:19:25.375
+LAR1FI   os_DET professores_NOUN querem_VERB dar_VERB um_DET projeto_NOUN na_ADP escola_NOUN aí_ADV não_ADV tem_VERB aquela-_VERB a_DET escola_NOUN não_ADV tem_VERB como_SCONJ ajudar_VERB não_ADV é_VERB nem_CCONJ que_SCONJ os_DET diretores_NOUN não_ADV queiram_VERB porque_SCONJ não_ADV tem_VERB aquele_DET dinheiro_NOUN necessário_ADJ para_SCONJ ajudar_VERB
+         00:19:25.950 - 00:19:35.230
+DISF     (HES)
+         00:19:35.640 - 00:19:36.220
+LAR1FI   para_ADP os_DET museus_NOUN e_CCONJ tal_ADV essas_DET coisas_NOUN os_DET professores_NOUN querem_VERB mas_CCONJ não_ADV tem_VERB condições_NOUN
+         00:19:36.240 - 00:19:40.390
+LAR1FI   e_CCONJ os_DET positivos_NOUN é_VERB que_SCONJ sempre_ADV tem_VERB alguém_PRON querendo_VERB melhorar_VERB
+         00:19:41.290 - 00:19:45.170
+LAR1FI   isso_PRON seria_AUX isso_PRON é_AUX o_PRON que_PRON é_AUX essencial_ADJ sempre_ADV tem_VERB alguém_PRON querendo_VERB melhorar_VERB
+         00:19:45.460 - 00:19:49.320
+DOCVIT   você_PRON acha_VERB que_SCONJ o_DET brasil_PROPN investe_VERB o_DET suficiente_NOUN em_ADP educação_NOUN? 
+         00:19:50.310 - 00:19:54.070
+LAR1FI   não_ADV
+         00:19:53.570 - 00:19:54.010
+LAR1FI   acha_VERB que_SCONJ educação_NOUN é_AUX gasto_VERB e_CCONJ não_ADV investimento_NOUN
+         00:19:54.870 - 00:19:57.440
+DOCVIT   então_ADV pra_ADP você_PRON deveriam_VERB investir_VERB mais_ADV
+         00:19:58.695 - 00:20:01.225
+LAR1FI   muito_ADV mais_ADV
+         00:20:00.350 - 00:20:01.410
+DOCVIT   o_PRON que_PRON você_PRON pensa_VERB sobre_ADP o_DET governo_NOUN federal_ADJ financiar_VERB o_DET acesso_NOUN de_ADP estudantes_NOUN
+         00:20:02.870 - 00:20:07.930
+DOCVIT   ao_ADP ensino_NOUN superior_ADJ
+         00:20:08.350 - 00:20:09.750
+DOCVIT   em_ADP instituições_NOUN privadas_ADJ?
+         00:20:09.980 - 00:20:11.610
+LAR1FI   olhe_VERB eu_PRON acho_VERB que_SCONJ é_AUX uma_NUM assim_ADV
+         00:20:12.805 - 00:20:15.515
+LAR1FI   eu_PRON acho_VERB bom_ADJ
+         00:20:16.040 - 00:20:16.980
+LAR1FI   eu_PRON não_ADV tenho_VERB nenhum_DET posicionamento_NOUN quanto_ADV a_ADP isso_PRON não_ADV num_ADP num_ADP nunca_NOUN pesquisei_VERB então_ADV não_ADV tenho_VERB como_SCONJ falar_VERB com_ADP relação_NOUN a_ADP isso_PRON
+         00:20:17.720 - 00:20:23.780
+DOCVIT   mas_CCONJ você_PRON acha_VERB bom_ADJ o_DET governo_NOUN financiar_VERB
+         00:20:24.830 - 00:20:27.240
+LAR1FI   é_AUX eu_PRON acho_VERB não_ADV é_VERB que_SCONJ seria_AUX uma_DET pioridade_NOUN mas_CCONJ pra_ADP quem_PRON não_ADV consegiu_VERB e_CCONJ e_CCONJ não_ADV tem_VERB  
+         00:20:26.530 - 00:20:33.480
+DISF     (HES)
+         00:20:34.285 - 00:20:34.875
+LAR1FI   não_ADV consegue_VERB acha_VERB que_SCONJ não_ADV vai_AUX conseguir_VERB entendeu_VERB numa_ADP pública_NOUN eu_PRON acho_VERB que_SCONJ é_AUX melhor_ADJ deixar_VERB essa_DET pessoa_NOUN
+         00:20:34.860 - 00:20:40.660
+LAR1FI   disprovida_NOUN disprovida_NOUN não_ADV não_ADV sei_VERB qual_ADV seria_AUX a_DET palavra_NOUN
+         00:20:40.825 - 00:20:43.530
+LAR1FI   des/_NOUN desassistida_VERB né ela_PRON quer_VERB é_AUX uma_DET ajuda_NOUN
+         00:20:44.950 - 00:20:48.980
+DOCVIT   certo_ADJ
+         00:20:49.810 - 00:20:50.840
+DOCVIT   muitos_DET jovens_NOUN ingressam_VERB na_ADP universidade_NOUN por_ADP meio_NOUN dos_ADP programas_NOUN como_ADP prouni_PROPN e_CCONJ fies_PROPN 
+         00:20:51.175 - 00:20:56.225
+DOCVIT   e_CCONJ você_PRON eu_PRON quero_VERB saber_VERB se_SCONJ você_PRON considera_VERB
+         00:20:56.900 - 00:20:59.380
+DOCVIT   que_SCONJ esses_DET programas_NOUN diminui_VERB a_DET desigualdade_NOUN social_ADJ entre_ADP os_DET jovens_NOUN
+         00:20:59.850 - 00:21:03.580
+LAR1FI   eu_PRON acho_VERB que_SCONJ diminui_VERB
+         00:21:08.850 - 00:21:10.340
+LAR1FI   não_ADV sei_VERB mas_CCONJ eu_PRON acho_VERB que_SCONJ diminui_VERB sim_ADV
+         00:21:11.485 - 00:21:14.075
+DOCVIT   diminui_VERB a_DET desigualdade_NOUN social_ADJ entre_ADP os_DET jovens_NOUN
+         00:21:15.790 - 00:21:18.430
+LAR1FI   tudo_PRON é_AUX um_DET
+         00:21:18.645 - 00:21:19.485
+LAR1FI   uma_DET ajuda_NOUN
+         00:21:20.060 - 00:21:21.160
+LAR1FI   eu_PRON não_ADV sei_VERB depende_VERB dos_ADP critérios_NOUN que_PRON eles_PRON utilizam_VERB
+         00:21:21.415 - 00:21:24.265
+LAR1FI   como_ADP eu_PRON falei_VERB eu_PRON nunca_ADV pesquisei_VERB com_ADP relação_NOUN a_ADP isso_PRON aí_ADV eu_PRON não_ADV sei_VERB explicar_VERB 
+         00:21:24.595 - 00:21:27.655
+LAR1FI   não_ADV sei_VERB conversar_VERB sobre_ADP
+         00:21:28.140 - 00:21:29.190
+DOCVIT   certo_ADJ
+         00:21:29.530 - 00:21:30.300
+DOCVIT   você_PRON concorda_VERB ou_CCONJ não_ADV
+         00:21:31.330 - 00:21:33.130
+DOCVIT   que_SCONJ a_DET política_NOUN de_ADP cotas_NOUN para_ADP o_DET ingresso_NOUN de_ADP negros_NOUN e_CCONJ negras_ADJ na_ADP universidade_NOUN
+         00:21:33.425 - 00:21:37.675
+DOCVIT   diminui_VERB a_DET desigualdade_NOUN 
+         00:21:37.895 - 00:21:39.935
+DOCVIT   entre_ADP brancos_NOUN e_CCONJ negros_NOUN?
+         00:21:40.380 - 00:21:41.960
+LAR1FI   ai_ADV isso_PRON é_AUX complicado_ADJ
+         00:21:43.415 - 00:21:45.450
+LAR1FI   porque_SCONJ tem_VERB pessoas_NOUN que_PRON acham_VERB que_SCONJ
+         00:21:45.640 - 00:21:48.280
+DISF     (HES)
+         00:21:48.817 - 00:21:49.277
+LAR1FI   essas_DET 
+         00:21:49.310 - 00:21:50.075
+LAR1FI   cotas_NOUN não_ADV se/_VERB
+         00:21:50.680 - 00:21:51.940
+DISF     (HES)
+         00:21:51.912 - 00:21:52.562
+LAR1FI   não_ADV diminui_VERB nada_PRON né
+         00:21:52.582 - 00:21:53.992
+LAR1FI   não_ADV não_ADV adianta_VERB em_ADP nada_PRON
+         00:21:54.245 - 00:21:55.595
+LAR1FI   mas_CCONJ do_ADP meu_DET ponto_NOUN de_ADP vista_NOUN eu_PRON acho_VERB que_SCONJ é_AUX uma_DET forma_NOUN de_SCONJ tentar_VERB
+         00:21:56.205 - 00:21:59.925
+LAR1FI   amenizar_VERB os_DET estragos_NOUN
+         00:22:00.180 - 00:22:01.460
+LAR1FI   que_PRON foi_AUX feito_VERB as_DET pessoas_NOUN as_DET pessoas_NOUN negras_ADJ nesse_ADP país_NOUN tão_ADV racista_ADJ tão_ADV homofóbico_ADJ tão_ADV tão_ADV
+         00:22:01.635 - 00:22:07.575
+LAR1FI   tudo_PRON de_ADP ruim_NOUN que_PRON tem_VERB
+         00:22:07.750 - 00:22:08.950
+LAR1FI   eu_PRON acho_VERB que_SCONJ seria_AUX tipo_NOUN uma_DET tentativa_NOUN
+         00:22:09.275 - 00:22:11.145
+LAR1FI   sabe_VERB de_SCONJ tentar_VERB amenizar_VERB
+         00:22:11.525 - 00:22:13.085
+LAR1FI    e_CCONJ eu_PRON acho_VERB que_SCONJ tudo_PRON que_PRON vem_VERB pra_ADP  tentar_VERB ajudar_VERB uma_DET pessoa_NOUN que_PRON tá_AUX sofrendo_VERB
+         00:22:13.980 - 00:22:18.320
+LAR1FI   que_PRON sofreu_VERB muito_ADV 
+         00:22:18.605 - 00:22:20.005
+LAR1FI   é_AUX plausível_ADJ então_ADV eu_PRON não_ADV acho_VERB que_SCONJ seria_AUX ruim_ADJ que_SCONJ é_AUX ruim_ADJ então_ADV tem_AUX que_SCONJ ajudar_VERB sim_ADV
+         00:22:20.150 - 00:22:25.000
+DOCVIT   então_ADV você_PRON concorda_VERB que_SCONJ diminui_VERB a_DET desigualdade_NOUN entre_ADP brancos_NOUN e_CCONJ negros_NOUN
+         00:22:25.980 - 00:22:30.390
+LAR1FI   sim_ADV
+         00:22:29.005 - 00:22:29.425
+LAR1FI   sim_ADV
+         00:22:30.030 - 00:22:30.310
+DOCVIT   como_ADV foi_AUX a_DET experiência_NOUN de_SCONJ começar_VERB um_DET curso_NOUN superior_ADJ?
+         00:22:33.140 - 00:22:36.560
+LAR1FI   foi_AUX um_DET
+         00:22:38.990 - 00:22:39.680
+LAR1FI   assim_ADV eu_PRON cheguei_VERB com_ADP uma_DET visão_NOUN que_PRON seria_AUX as/_PROPN que_SCONJ
+         00:22:39.890 - 00:22:44.370
+LAR1FI   deixe_VERB eu_PRON explicar_VERB
+         00:22:45.755 - 00:22:46.985
+LAR1FI   que_SCONJ é_AUX assim_ADV quando_ADV eu_PRON saí_VERB da_ADP da_PRON do_ADP ensino_NOUN médio_ADJ a_DET gente_NOUN tem_VERB uma_DET visão_NOUN sabe_VERB 
+         00:22:47.185 - 00:22:52.125
+LAR1FI   que_PRON é_AUX é_AUX o_DET ensino_NOUN médio_ADJ é_AUX uma_DET coisa_NOUN por_ADP exemplo_NOUN
+         00:22:52.260 - 00:22:55.000
+LAR1FI   a_DET gente_NOUN estuda_VERB uma_DET semana_NOUN antes_ADV da_ADP prova_NOUN
+         00:22:55.340 - 00:22:58.440
+LAR1FI   e_CCONJ aqui_ADV não_ADV aqui_ADV você_PRON tem_AUX quei_VERB ir_AUX pegando_VERB no_ADP assunto_NOUN e_CCONJ ir_VERB tipo_NOUN revisando_VERB porque_SCONJ
+         00:22:58.705 - 00:23:02.665
+LAR1FI   às_ADP vezes_NOUN os_DET professores_NOUN consideram_VERB que_SCONJ a_DET gente_NOUN estudou_VERB uma_DET coisa_NOUN no_ADP ensino_NOUN médio_ADJ
+         00:23:03.000 - 00:23:06.770
+LAR1FI   que_SCONJ a_DET gente_NOUN não_ADV estudou_VERB ou_CCONJ se_PRON estudou_VERB foi_AUX muito_ADV por_ADP cima_NOUN ou_CCONJ se_PRON estudou_VERB que_SCONJ não_ADV seja_AUX por_ADP cima_NOUN a_DET gente_NOUN não_ADV nos_PRON lembramos_VERB né_ADV porque_SCONJ foi_AUX ensino_NOUN médio_ADJ
+         00:23:07.040 - 00:23:14.470
+LAR1FI   aí_ADV eles_PRON desconsideram_VERB esse_DET assunto_NOUN
+         00:23:14.980 - 00:23:16.370
+DISF     (HES)
+         00:23:17.155 - 00:23:17.845
+LAR1FI   por_ADP mais_ADV que_SCONJ eles_PRON sejam_AUX tentem_VERB ajudar_VERB a_DET gente_NOUN mas_CCONJ não_ADV tem_VERB tempo_NOUN para_SCONJ revisar_VERB esse_DET assunto_NOUN porque_SCONJ não_ADV tem_VERB tempo_NOUN mesmo_ADV
+         00:23:17.980 - 00:23:24.380
+LAR1FI   então_ADV a_DET gente_NOUN tem_AUX que_SCONJ tem_AUX que_SCONJ por_ADP exemplo_NOUN buscar_VERB muito_ADV o_DET conhecimento_NOUN buscar_VERB muito_ADV querer_VERB parte_NOUN muito_ADV do_ADP aluno_NOUN em_ADP si_PRON 
+         00:23:24.825 - 00:23:31.805
+LAR1FI   por_ADP exemplo_NOUN
+         00:23:32.030 - 00:23:32.630
+LAR1FI   a_DET gente_NOUN é_AUX muito_ADV livre_ADJ pra_SCONJ fazer_VERB o_PRON que_PRON quer_VERB
+         00:23:33.065 - 00:23:34.815
+LAR1FI   é_AUX muito_ADV livre_ADJ você_PRON escolhe_VERB o_PRON que_PRON você_PRON quer_VERB e_CCONJ se_SCONJ você_PRON quer_VERB continuar_VERB continue_VERB se_SCONJ você_PRON não_ADV quer_VERB faça_VERB o_PRON que_PRON quiser_VERB porque_SCONJ assim_ADV no_ADP ensino_NOUN médio_ADJ era_AUX meio_NOUN obrigatório_ADJ né
+         00:23:35.275 - 00:23:42.435
+LAR1FI   e_CCONJ está_AUX lá_ADV mas_CCONJ aqui_ADV a_DET pessoa_NOUN é_AUX muito_ADV livre_ADJ pra_SCONJ escolher_VERB
+         00:23:42.970 - 00:23:45.740
+LAR1FI   então_ADV é_AUX só_ADV eu_PRON acho_VERB que_SCONJ essa_DET liberdade_NOUN em_ADP si_PRON
+         00:23:46.000 - 00:23:48.430
+LAR1FI   ajuda_VERB e_CCONJ atrapalha_VERB ao_ADP mesmo_ADJ tempo_NOUN porque_SCONJ o_DET aluno_NOUN não_ADV tem_VERB essa_DET noção_NOUN por_ADP enquanto_NOUN
+         00:23:48.950 - 00:23:53.790
+LAR1FI   no_ADP primeiro_ADJ período_NOUN como_ADV estou_AUX no_ADP primeiro_ADJ período_NOUN mas_CCONJ
+         00:23:54.015 - 00:23:56.205
+LAR1FI   vai_AUX buscando_VERB vai_VERB
+         00:23:57.105 - 00:23:58.065
+LAR1FI   a_DET pessoa_NOUN tem_AUX que_SCONJ ter_VERB muita_DET noção_NOUN do_PRON que_PRON quer_VERB pra_ADP si_PRON mesma_ADJ
+         00:23:58.200 - 00:24:01.280
+DOCVIT   certo_ADJ
+         00:24:01.990 - 00:24:02.390
+DOCVIT   você_PRON sente_VERB ou_CCONJ sentiu_VERB alguma_DET dificuldade_NOUN no_ADP seu_DET curso_NOUN?
+         00:24:03.575 - 00:24:07.045
+LAR1FI   sinto_VERB por_ADP causa_NOUN da_ADP carência_NOUN do_ADP ensino_NOUN médio_ADJ
+         00:24:07.605 - 00:24:10.075
+LAR1FI   de_SCONJ lembrar_VERB de_ADP tudo_PRON que_PRON aconteceu_VERB no_ADP meu_DET ensino_NOUN médio_ADJ que_PRON assim_ADV o_DET ensino_NOUN médio_ADJ é_AUX aquela_DET parte_NOUN 
+         00:24:10.235 - 00:24:13.525
+LAR1FI   de_SCONJ tá_AUX na_ADP adolescente_NOUN e_CCONJ tá_AUX meio_ADJ que_SCONJ aproveitando_VERB mas_CCONJ 
+         00:24:13.675 - 00:24:16.475
+LAR1FI   não_ADV aproveitando_VERB didaticamente_ADV aproveitando_VERB curtindo_VERB mesmo_ADV
+         00:24:16.540 - 00:24:20.080
+LAR1FI   aquele_DET momento_NOUN aí_ADV sinto_VERB por_ADP causa_NOUN disso_PRON muitos_DET assuntos_NOUN que_PRON eu_PRON deveria_VERB ter_AUX aprendido_VERB ou_CCONJ deveria_VERB ter_VERB
+         00:24:20.595 - 00:24:26.025
+DISF     (HES)
+         00:24:26.622 - 00:24:27.312
+LAR1FI   usufruido_ADJ o_DET máximo_NOUN eu_PRON num_ADP
+         00:24:27.340 - 00:24:28.895
+LAR1FI   não_ADV utilizei_VERB
+         00:24:29.485 - 00:24:30.650
+DOCVIT   fora_ADV essa_DET questão_NOUN da_ADP dificuldade_NOUN de_ADP
+         00:24:31.315 - 00:24:33.445
+DOCVIT   de_SCONJ retornar_VERB os_DET assuntos_NOUN né_VERB
+         00:24:33.765 - 00:24:35.825
+DISF     (EST)
+         00:24:36.042 - 00:24:36.302
+DOCVIT   tem_VERB outra_DET você_PRON observa_VERB outra_PRON?
+         00:24:36.050 - 00:24:38.380
+LAR1FI   não_ADV por_ADP enquanto_NOUN não_ADV
+         00:24:39.350 - 00:24:40.600
+LAR1FI   ao_ADP meu_DET ver_VERB por_ADP enquanto_NOUN não_ADV
+         00:24:41.500 - 00:24:43.140
+DOCVIT   por_ADP que_PRON você_PRON escolheu_VERB esse_DET curso_NOUN?
+         00:24:43.805 - 00:24:45.825
+DISF     (HES)
+         00:24:47.010 - 00:24:47.550
+LAR1FI   porque_SCONJ eu_PRON gosto_VERB muito_ADV de_ADP português_NOUN
+         00:24:47.570 - 00:24:49.080
+LAR1FI   e_CCONJ o_DET espanhol_NOUN por_ADP mais_ADV que_SCONJ eu_PRON tive_VERB só_ADV três_NUM anos_NOUN
+         00:24:49.780 - 00:24:52.370
+LAR1FI   e_CCONJ foi_AUX três_NUM anos_NOUN que_PRON parece_VERB que_SCONJ passou_VERB 
+         00:24:52.720 - 00:24:54.350
+LAR1FI   voando_VERB sabe_VERB mas_CCONJ eu_PRON gostei_VERB bastante_ADV do_ADP espanhol_NOUN
+         00:24:54.510 - 00:24:57.880
+LAR1FI   e_CCONJ também_ADV porque_SCONJ
+         00:24:58.190 - 00:24:59.290
+DISF     (HES)
+         00:24:59.285 - 00:25:00.335
+LAR1FI   você_PRON
+         00:25:01.282 - 00:25:01.862
+DISF     (HES)
+         00:25:01.837 - 00:25:02.167
+LAR1FI   como_ADP eu_PRON sonho_NOUN em_SCONJ ser_AUX professora_NOUN você_PRON vê_VERB uma_DET pessoa_NOUN aprendendo_VERB você_PRON você_PRON conseguir_VERB ajudar_VERB uma_DET pessoa_NOUN
+         00:25:02.170 - 00:25:07.185
+LAR1FI   é_AUX uma_DET coisa_NOUN tão_ADV gratificante_ADJ que_SCONJ não_ADV tem_VERB como_SCONJ medir_VERB
+         00:25:07.655 - 00:25:10.615
+LAR1FI   é_AUX muito_ADV bom_ADJ você_PRON conseguir_VERB ajudar_VERB outra_DET pessoa_NOUN
+         00:25:10.800 - 00:25:13.190
+DOCVIT   com_ADP certeza_NOUN
+         00:25:13.780 - 00:25:14.750
+DOCVIT   a_DET infraestrutura_NOUN da_ADP UFS atende_VERB as_DET necessidades_NOUN do_ADP seu_DET curso_NOUN?
+         00:25:15.640 - 00:25:19.450
+LAR1FI   no_ADP meu_DET curso_NOUN
+         00:25:22.230 - 00:25:23.390
+LAR1FI   como_ADP meu_DET curso_NOUN é_AUX muito_ADV teórico_ADJ por_ADP enquanto_NOUN eu_PRON acho_VERB que_SCONJ sim_ADV
+         00:25:24.135 - 00:25:27.825
+LAR1FI   porém_CCONJ às_ADP vezes_NOUN quando_ADV tem_VERB palestras_NOUN o_DET miniauditório_NOUN não_ADV atende_VERB a_ADP todos_DET os_DET alunos_NOUN
+         00:25:29.205 - 00:25:35.635
+LAR1FI   aí_ADV eu_PRON acho_VERB que_SCONJ isso_PRON e_CCONJ também_ADV a_DET falta_NOUN de_ADP um_DET
+         00:25:36.165 - 00:25:39.125
+LAR1FI   assim_ADV eu_PRON ouvi_VERB falar_VERB eu_PRON ouvi_VERB falar_VERB me_PRON falaram_VERB que_SCONJ tem_VERB um_NUM
+         00:25:39.450 - 00:25:43.730
+LAR1FI   laboratório_NOUN de_ADP informática_NOUN para_ADP o_DET meu_DET curso_NOUN porém_CCONJ para_SCONJ você_PRON conseguir_VERB entrar_VERB nesse_ADP laboratório_NOUN você_PRON tem_AUX que_SCONJ marcar_VERB hora_NOUN
+         00:25:43.870 - 00:25:49.940
+LAR1FI   e_CCONJ o_DET laboratório_NOUN de_ADP lá_ADV é_AUX lagardo_NOUN não_ADV tem_VERB ninguém_PRON que_SCONJ cuide_VERB que_SCONJ limpe_VERB aí_ADV
+         00:25:50.220 - 00:25:54.300
+LAR1FI   eu_PRON acho_VERB que_SCONJ é_AUX isso_PRON falta_NOUN de_ADP zelo_NOUN pelas_ADP coisas_NOUN que_PRON tem_VERB
+         00:25:54.750 - 00:25:57.670
+DOCVIT   certo_ADJ
+         00:25:58.630 - 00:25:59.120
+DOCVIT   o_PRON que_PRON você_PRON pensa_VERB em_SCONJ fazer_VERB depois_ADV que_SCONJ terminar_VERB a_DET graduação_NOUN?
+         00:26:00.580 - 00:26:04.420
+DOCVIT   você_PRON quer_VERB ingressar_VERB no_ADP mercado_NOUN de_ADP trabalho_NOUN logo_ADV de_ADP imediato_NOUN
+         00:26:04.735 - 00:26:08.125
+DOCVIT   ou_CCONJ quer_VERB fazer_VERB uma_DET especialização_NOUN ou_CCONJ mestrado_NOUN
+         00:26:08.410 - 00:26:11.210
+LAR1FI   eu_PRON penso_VERB em_SCONJ fazer_VERB mestrado_VERB
+         00:26:11.335 - 00:26:13.055
+LAR1FI    e_CCONJ logo_ADV após_SCONJ doutourado_VERB
+         00:26:13.610 - 00:26:14.930
+LAR1FI   ser_AUX doutora_NOUN
+         00:26:15.815 - 00:26:16.590
+DOCVIT   certo_ADJ
+         00:26:18.405 - 00:26:18.925
+DOCVIT   e_CCONJ o_DET mercado_NOUN de_ADP trabalho_NOUN?
+         00:26:19.370 - 00:26:21.230
+LAR1FI   sim_ADV e_CCONJ logo_ADV após_ADP eu_PRON pretendo_VERB fazer_VERB algum_DET
+         00:26:21.905 - 00:26:25.475
+DISF     (HES)
+         00:26:26.055 - 00:26:26.825
+DISF     (HES)
+         00:26:28.677 - 00:26:29.157
+LAR1FI   concursos_NOUN e_CCONJ se_SCONJ eu_PRON conseguir_VERB ingressar_VERB na_ADP federal_NOUN mesmo_ADV
+         00:26:29.180 - 00:26:32.625
+LAR1FI   na_ADP polícia_NOUN federal_ADJ
+         00:26:32.885 - 00:26:34.035
+DOCVIT   se_SCONJ surgir_VERB algum_DET trabalho_NOUN agora_ADV você_PRON aceita_VERB?
+         00:26:34.275 - 00:26:36.655
+DISF     (HES)
+         00:26:37.290 - 00:26:38.080
+LAR1FI   que_SCONJ eu_PRON teria_AUX que_SCONJ sair_VERB do_ADP curso_NOUN?
+         00:26:38.150 - 00:26:39.700
+DOCVIT   não_ADV pra_SCONJ simular_VERB os_DET dois_NUM 
+         00:26:40.115 - 00:26:42.405
+LAR1FI   acho_VERB que_SCONJ inicialmente_ADV eu_PRON não_ADV aceitaria_VERB
+         00:26:42.575 - 00:26:44.275
+LAR1FI   por_ADP conta_NOUN que_SCONJ como_ADP eu_PRON comentei_VERB
+         00:26:44.480 - 00:26:46.460
+DISF     (HES)
+         00:26:46.435 - 00:26:47.055
+LAR1FI   não_ADV conseguiria_VERB
+         00:26:47.425 - 00:26:48.380
+DISF     (HES)
+         00:26:48.407 - 00:26:49.107
+LAR1FI   conciliar_VERB porque_SCONJ eu_PRON tô_AUX muito_ADV
+         00:26:49.710 - 00:26:51.520
+DISF     (HES)
+         00:26:51.490 - 00:26:51.890
+LAR1FI   meu_DET curso_NOUN pede_VERB muita_DET leitura_NOUN e_CCONJ muita_DET dedicação_NOUN inicialmente_ADV
+         00:26:51.955 - 00:26:56.125
+LAR1FI   e_CCONJ como_ADV eu_PRON falei_VERB como_ADP eu_PRON tô_AUX com_ADP carência_NOUN do_PRON dos_ADP meus_DET assuntos_NOUN do_ADP meu_DET ensino_NOUN médio_ADJ eu_PRON tenho_AUX que_SCONJ correr_VERB muito_ADV atrás_ADV
+         00:26:56.550 - 00:27:03.320
+LAR1FI   porém_CCONJ se_SCONJ fosse_AUX um_DET projeto_NOUN por_ADP exemplo_NOUN uma_DET bolsa_NOUN do_ADP pibic_PROPN ou_CCONJ do_ADP 
+         00:27:03.900 - 00:27:08.170
+DISF     (HES)
+         00:27:08.280 - 00:27:08.860
+LAR1FI   eu_PRON aceitaria_VERB alguma_DET bolsa_NOUN assim_ADV com_ADP um_DET projeto_NOUN
+         00:27:08.920 - 00:27:11.550
+DOCVIT   voltada_VERB ao_ADP plano_NOUN acadêmico_ADJ
+         00:27:11.905 - 00:27:13.515
+LAR1FI   isso_PRON que_PRON me_PRON ajudasse_VERB mais_ADV não_ADV para_SCONJ me_PRON atrapalhar_VERB
+         00:27:13.065 - 00:27:16.325
+DOCVIT   certo_ADJ
+         00:27:16.690 - 00:27:17.340
+DOCVIT   o_DET bairro_NOUN que_PRON você_PRON mora_VERB
+         00:27:18.665 - 00:27:20.035
+DOCVIT   você_PRON acha_VERB violento_ADJ?
+         00:27:20.315 - 00:27:21.295
+LAR1FI   violento_ADJ eu_PRON não_ADV sei_VERB se_SCONJ é_AUX a_DET questão_NOUN de_ADP insegurança_NOUN por_ADP meio_NOUN de_ADP assaltos_NOUN consideraria_VERB violento_ADJ considera_VERB?
+         00:27:23.110 - 00:27:29.320
+LAR1FI   ou_CCONJ não_ADV?
+         00:27:30.000 - 00:27:30.760
+DOCVIT   sim_ADV é_AUX a_DET sua_DET visão_NOUN de_ADP violência_NOUN assim_ADV
+         00:27:30.975 - 00:27:33.465
+LAR1FI   se_SCONJ for_AUX considerado_VERB violento_ADJ então_ADV ele_PRON é_AUX
+         00:27:34.085 - 00:27:36.395
+LAR1FI   está_AUX sendo_AUX né_VERB porque_SCONJ às_ADP vezes_NOUN tem_VERB aqueles_DET assaltos_NOUN 
+         00:27:36.515 - 00:27:39.885
+LAR1FI   que_SCONJ a_DET pessoa_NOUN fica_VERB com_ADP medo_NOUN de_SCONJ sair_VERB e_CCONJ tal_ADV e_CCONJ aí_ADV eu_PRON considero_VERB um_DET pouco_ADV violento_ADJ sim_ADV
+         00:27:40.085 - 00:27:44.115
+DOCVIT   você_PRON concorda_VERB ou_CCONJ não_ADV 
+         00:27:45.665 - 00:27:47.515
+DOCVIT   com_ADP o_DET ditado_NOUN bandido_NOUN bom_ADJ é_AUX bandido_NOUN morto_VERB?
+         00:27:47.875 - 00:27:50.125
+LAR1FI   ai_ADV eu_PRON não_ADV concordo_VERB não_ADV
+         00:27:51.825 - 00:27:53.125
+LAR1FI   eu_PRON acho_VERB que_SCONJ todo_DET mundo_NOUN tem_VERB uma_DET chance_NOUN de_ADP
+         00:27:53.430 - 00:27:55.830
+LAR1FI   uma_DET chance_NOUN
+         00:27:57.875 - 00:27:59.355
+LAR1FI   de_ADP tipo_NOUN melhorar_VERB
+         00:27:59.460 - 00:28:00.460
+LAR1FI   de_SCONJ tentar_VERB melhorar_VERB o_DET máximo_NOUN porque_SCONJ eu_PRON acho_VERB que_SCONJ todo_DET mundo_NOUN tem_VERB aquela_DET
+         00:28:01.405 - 00:28:04.405
+LAR1FI   por_ADP exemplo_NOUN como_ADV tem_VERB a_ADP
+         00:28:05.080 - 00:28:06.650
+DISF     (HES)
+         00:28:06.600 - 00:28:07.380
+LAR1FI   as_DET pessoas_NOUN que_PRON entendem_VERB nós_PRON
+         00:28:07.705 - 00:28:09.175
+LAR1FI   oportunidades_NOUN na_ADP vida_NOUN aí_ADV elas_PRON acham_VERB que_SCONJ indo_VERB por_ADP esse_DET caminho_NOUN
+         00:28:10.530 - 00:28:15.430
+LAR1FI   será_AUX melhor_ADJ
+         00:28:16.075 - 00:28:16.935
+LAR1FI   porém_CCONJ não_ADV é_AUX
+         00:28:17.180 - 00:28:17.890
+DISF     (HES)
+         00:28:18.165 - 00:28:18.855
+LAR1FI   por_ADP exemplo_NOUN
+         00:28:18.850 - 00:28:19.530
+LAR1FI   meu_DET irmão_NOUN mesmo_ADV Felipe_PROPN ele_PRON já_ADV
+         00:28:19.765 - 00:28:21.705
+LAR1FI   já_ADV assaltou_VERB 
+         00:28:22.030 - 00:28:22.990
+LAR1FI   já_ADV fez_VERB muita_DET coisa_NOUN errada_VERB e_CCONJ hoje_ADV em_ADP dia_NOUN ele_PRON já_ADV voltou_VERB né_NOUN vamo_NOUN falar_VERB assim_ADV
+         00:28:23.285 - 00:28:28.445
+DISF     (HES)
+         00:28:28.955 - 00:28:29.275
+LAR1FI   hoje_ADV em_ADP dia_NOUN ele_PRON é_AUX pai_NOUN e_CCONJ não_ADV faz_VERB mais_DET coisa_NOUN errada_VERB e_CCONJ se_SCONJ fosse_AUX esse_DET negócio_NOUN de_ADP bandido_NOUN bom_ADJ bandido_NOUN morto_VERB ele_PRON teria_AUX estaria_AUX morto_ADJ e_CCONJ eu_PRON não_ADV teria_VERB meus_DET sobrinhos_NOUN entendeu_VERB e_CCONJ aí_ADV  
+         00:28:29.320 - 00:28:36.540
+LAR1FI   depende_VERB do_ADP ponto_NOUN de_ADP vista_NOUN mas_CCONJ eu_PRON acho_VERB que_SCONJ não_ADV eu_PRON acho_VERB que_SCONJ todo_DET mundo_NOUN tem_VERB uma_DET chance_NOUN
+         00:28:36.960 - 00:28:40.770
+DOCVIT   você_PRON tem_AUX sobrinho_NOUN já_ADV?
+         00:28:41.690 - 00:28:42.780
+LAR1FI   sim_ADV dois_NUM sobrinhos_NOUN
+         00:28:42.760 - 00:28:43.720
+DOCVIT   qual_PRON sua_DET relação_NOUN com_ADP ele_PRON?
+         00:28:43.745 - 00:28:44.915
+LAR1FI   ai_CCONJ Davi_PROPN 
+         00:28:45.465 - 00:28:47.425
+LAR1FI   ele_PRON anda_VERB muito_ADV lá_ADV em_ADP casa_NOUN por_ADP mais_ADV que_SCONJ não_ADV more_ADV no_ADP mesmo_ADJ bairro_NOUN mas_CCONJ ele_PRON anda_VERB muito_ADV lá_ADV em_ADP casa_NOUN é_AUX um_DET amor_NOUN fala_VERB pelo_ADP whatsapp_PROPN conversa_PROPN muito_ADV e_CCONJ Henrique_PROPN ele_PRON é_AUX mais_ADV novo_ADJ ele_PRON só_ADV meses_NOUN ainda_ADV não_ADV tem_VERB como_SCONJ ele_PRON ir_VERB lá_ADV pra_ADP casa_NOUN
+         00:28:47.560 - 00:28:57.890
+LAR1FI   por_ADP causa_NOUN da_ADP mãe_NOUN né
+         00:28:58.120 - 00:28:58.980
+LAR1FI   mas_CCONJ a_DET relação_NOUN é_AUX muito_ADV boa_ADJ de_ADP tia_NOUN mesmo_ADV
+         00:28:59.395 - 00:29:01.755
+LAR1FI   ele_PRON anda_VERB muito_ADV lá_ADV em_ADP casa_NOUN
+         00:29:01.920 - 00:29:02.980
+DOCVIT   a_DET questão_NOUN do_ADP seu_DET irmão_NOUN né que_SCONJ você_PRON disse_VERB que_SCONJ já_ADV assaltou_VERB  
+         00:29:03.845 - 00:29:06.585
+DISF     (EST)
+         00:29:06.530 - 00:29:06.960
+DOCVIT   como_ADV você_PRON se_PRON sentiu_VERB diante_ADV dessa_ADP situação_NOUN?
+         00:29:06.810 - 00:29:09.430
+LAR1FI   nossa_DET na_ADP época_NOUN foi_AUX terrível_ADJ
+         00:29:09.595 - 00:29:11.295
+LAR1FI   foi_AUX uma_NUM
+         00:29:11.490 - 00:29:12.190
+LAR1FI   uma_DET coisa_NOUN que_PRON abalou_VERB muito_ADV nossa_DET família_NOUN
+         00:29:12.325 - 00:29:14.415
+DISF     (HES)
+         00:29:15.117 - 00:29:16.297
+LAR1FI   acarretou_VERB muitas_DET brigas_NOUN muitos_DET sentimentos_NOUN e_CCONJ tal_ADV por_ADP conta_NOUN desse_PRON desse_ADP 
+         00:29:16.470 - 00:29:21.015
+LAR1FI   desse_ADP negócio_NOUN dele_SCONJ assaltar_VERB dele_PRON usar_VERB drogas_NOUN aí_ADV 
+         00:29:21.170 - 00:29:24.630
+LAR1FI   foi_AUX um_DET abalo_NOUN mas_CCONJ ainda_ADV bem_ADV que_SCONJ ele_PRON melhorou_VERB
+         00:29:25.695 - 00:29:28.605
+LAR1FI   está_AUX bem_ADV melhor_ADJ agora_ADV
+         00:29:29.275 - 00:29:30.175
+DOCVIT   certo_ADJ
+         00:29:30.740 - 00:29:31.400
+DOCVIT   qual_PRON o_DET papel_NOUN da_ADP segurança_NOUN pública_ADJ?
+         00:29:32.805 - 00:29:34.975
+LAR1FI   é_AUX proteger_VERB a_DET sociedade_NOUN primeiramente_ADV
+         00:29:38.080 - 00:29:40.830
+DISF     (HES)
+         00:29:40.870 - 00:29:41.640
+DISF     (HES)
+         00:29:43.350 - 00:29:44.160
+LAR1FI   é_AUX proteger_VERB as_DET pessoas_NOUN tentar_VERB
+         00:29:44.810 - 00:29:47.870
+LAR1FI   eu_PRON acho_VERB que_SCONJ é_AUX isso_PRON
+         00:29:48.215 - 00:29:49.215
+DOCVIT   você_PRON acha_VERB que_SCONJ a_DET segurança_NOUN pública_ADJ
+         00:29:50.350 - 00:29:52.780
+DOCVIT   de_ADP Aracaju_PROPN de_ADP Socorro_PROPN de_ADP São_PROPN Cristóvão_PROPN
+         00:29:53.080 - 00:29:56.440
+DOCVIT   tem_AUX conseguido_VERB proteger_VERB os_DET cidadãos_NOUN?
+         00:29:56.735 - 00:29:58.885
+LAR1FI   eu_PRON acho_VERB que_SCONJ eles_PRON tentam_VERB o_DET máximo_NOUN possível_ADJ porque_SCONJ é_AUX assim_ADV é_AUX aquela_DET história_NOUN muitas_DET pessoas_NOUN são_AUX assaltadas_VERB 
+         00:30:00.760 - 00:30:06.770
+LAR1FI   por_ADP exemplo_NOUN e_CCONJ não_ADV prestam_VERB boletim_NOUN de_ADP ocorrência_NOUN
+         00:30:07.070 - 00:30:09.780
+LAR1FI   aí_ADV não_ADV tem_VERB como_SCONJ eles_PRON saberem_VERB qual_PRON o_DET bairro_NOUN que_PRON está_AUX tendo_VERB aquela_DET situação_NOUN de_ADP
+         00:30:10.240 - 00:30:14.220
+LAR1FI   de_ADP
+         00:30:14.505 - 00:30:15.115
+LAR1FI   de_ADP
+         00:30:15.325 - 00:30:16.075
+LAR1FI   ser_AUX perigoso_ADJ ou_CCONJ de_SCONJ de_SCONJ ter_VERB aquela_DET
+         00:30:16.555 - 00:30:18.965
+LAR1FI   coisa_NOUN sabe_VERB eu_PRON sei_VERB também_ADV que_SCONJ tem_AUX que_SCONJ procurar_VERB
+         00:30:19.415 - 00:30:21.565
+LAR1FI   se_SCONJ a_DET pessoa_NOUN presta_VERB boletim_NOUN for_AUX lá_ADV avisar_VERB e_CCONJ tal_ADV que_SCONJ ela_PRON tá_AUX precisando_VERB de_ADP uma_DET segurança_NOUN maior_ADJ
+         00:30:21.755 - 00:30:27.175
+LAR1FI   eu_PRON acho_VERB que_SCONJ eles_PRON iriam_AUX tentar_VERB ajudar_VERB
+         00:30:27.660 - 00:30:29.550
+DOCVIT   e_CCONJ você_PRON acha_VERB que_SCONJ as_DET pessoas_NOUN não_ADV prestam_VERB o_DET BO por_ADP quê_PRON?
+         00:30:29.760 - 00:30:33.090
+LAR1FI   eu_PRON acho_VERB
+         00:30:29.880 - 00:30:30.530
+LAR1FI   porque_SCONJ acha_VERB que_SCONJ não_ADV terá_VERB
+         00:30:33.330 - 00:30:34.680
+DISF     (HES)
+         00:30:34.645 - 00:30:34.895
+LAR1FI   que_SCONJ não_ADV fará_VERB
+         00:30:34.915 - 00:30:36.275
+LAR1FI   que_SCONJ não_ADV terá_VERB mudança_NOUN que_PRON eles_PRON não_ADV iriam_AUX 
+         00:30:37.325 - 00:30:39.575
+LAR1FI   mas_CCONJ
+         00:30:39.905 - 00:30:40.225
+LAR1FI   a_DET pessoa_NOUN ir_VERB por_ADP achismo_NOUN num_ADP
+         00:30:40.770 - 00:30:42.930
+LAR1FI   não_ADV muda_VERB nada_PRON também_ADV
+         00:30:43.345 - 00:30:44.715
+DOCVIT   a_DET polícia_NOUN é_AUX ágil_ADJ?
+         00:30:46.205 - 00:30:47.565
+DOCVIT   consegue_VERB atender_VERB as_DET demandas_NOUN da_ADP população_NOUN?
+         00:30:47.730 - 00:30:49.940
+LAR1FI   eu_PRON ainda_ADV acredito_VERB muito_ADV na_ADP polícia_NOUN tem_VERB muita_DET gente_NOUN que_PRON já_ADV perdeu_VERB a_DET fé_NOUN né mas_CCONJ eu_PRON acredito_VERB muito_ADV então_ADV acho_VERB que_SCONJ sim_ADV
+         00:30:52.280 - 00:30:58.000
+LAR1FI   eu_PRON acho_VERB que_SCONJ eles_PRON tentam_VERB o_DET máximo_NOUN possível_ADJ
+         00:30:58.250 - 00:31:00.630
+DOCVIT   você_PRON já_ADV foi_AUX assistida_VERB pela_ADP polícia_NOUN?
+         00:31:02.870 - 00:31:05.100
+LAR1FI   não_ADV
+         00:31:05.520 - 00:31:06.250
+LAR1FI   não_ADV nunca_ADV precisei_VERB não_ADV
+         00:31:06.800 - 00:31:07.830
+DOCVIT   você_PRON concorda_VERB com_ADP o_DET ditado_NOUN
+         00:31:10.720 - 00:31:12.500
+DOCVIT   se_SCONJ as_DET mulheres_NOUN não_ADV usassem_VERB roupas_NOUN tão_ADV curtas_ADJ
+         00:31:12.995 - 00:31:15.665
+DOCVIT   haveria_VERB menos_DET violência_NOUN contra_ADP a_DET mulher_NOUN?
+         00:31:15.975 - 00:31:17.825
+LAR1FI   não_ADV
+         00:31:18.215 - 00:31:18.815
+LAR1FI   acho_VERB que_SCONJ isso_PRON não_ADV tem_VERB nada_PRON a_SCONJ ver_VERB com_ADP roupa_NOUN
+         00:31:19.060 - 00:31:20.680
+LAR1FI   não_ADV tem_VERB nada_PRON a_SCONJ ver_VERB com_ADP o_DET local_NOUN que_PRON você_PRON está_AUX
+         00:31:21.345 - 00:31:23.735
+LAR1FI   com_ADP a_DET hora_NOUN que_SCONJ você_PRON saiu_VERB de_ADP casa_NOUN não_ADV tem_VERB nada_PRON a_SCONJ ver_VERB
+         00:31:24.015 - 00:31:26.145
+LAR1FI   tem_VERB a_SCONJ ver_VERB com_ADP
+         00:31:26.325 - 00:31:27.565
+LAR1FI   a_DET cultura_NOUN
+         00:31:28.730 - 00:31:29.630
+LAR1FI   que_SCONJ existe_VERB aqui_ADV
+         00:31:29.875 - 00:31:31.165
+DOCVIT   então_ADV a_DET roupa_NOUN não_ADV
+         00:31:33.895 - 00:31:35.245
+LAR1FI   não_ADV define_VERB nada_PRON
+         00:31:35.395 - 00:31:36.305
+DOCVIT   certo_ADJ
+         00:31:36.995 - 00:31:37.705
+DOCVIT   você_PRON acha_VERB que_SCONJ as_DET mulheres_NOUN atualmente_ADV tem_AUX conquistado_VERB muito_DET espaço_NOUN na_ADP sociedade_NOUN? por_ADP quê_PRON?
+         00:31:38.555 - 00:31:43.575
+LAR1FI   tem_AUX conseguido_VERB sim_ADV por_ADP meio_NOUN das_ADP lutas_NOUN
+         00:31:45.210 - 00:31:48.300
+DISF     (HES)
+         00:31:49.460 - 00:31:50.180
+LAR1FI   porque_SCONJ essa_DET nova_ADJ geração_NOUN que_PRON está_AUX se_PRON formando_VERB que_SCONJ é_AUX a_DET nossa_DET
+         00:31:51.185 - 00:31:54.195
+DISF     (HES)
+         00:31:54.255 - 00:31:55.065
+LAR1FI   tá_AUX vindo_VERB com_ADP a_DET cabeça_NOUN diferente_ADJ
+         00:31:55.505 - 00:31:57.025
+LAR1FI   tá_AUX tentando_VERB se_SCONJ impor_VERB mais_ADV na_ADP sociedade_NOUN
+         00:31:57.440 - 00:32:00.190
+LAR1FI   tentando_VERB muitas_DET mulheres_NOUN muito_ADV muito_ADV 
+         00:32:00.580 - 00:32:04.030
+LAR1FI   radical_ADJ mas_CCONJ a_DET maioria_NOUN sabe_VERB conversar_VERB sabe_VERB expor_VERB seu_DET ponto_NOUN de_ADP vista_NOUN sabe_VERB 
+         00:32:04.250 - 00:32:09.230
+LAR1FI   é_AUX tentar_VERB conve/_PROPN convencer_VERB muitas_DET pessoas_NOUN que_PRON tem_AUX que_SCONJ é_AUX da_ADP geração_NOUN passada_ADJ que_PRON é_AUX 
+         00:32:09.600 - 00:32:15.250
+LAR1FI   as_DET coisas_NOUN mudaram_VERB que_SCONJ não_ADV é_AUX mais_ADV como_ADP antigamente_ADV
+         00:32:15.520 - 00:32:18.150
+DOCVIT   certo_ADJ
+         00:32:19.690 - 00:32:20.610
+DOCVIT   a_DET violência_NOUN atinge_VERB homens_NOUN e_CCONJ mulheres_NOUN da_ADP mesma_ADJ forma_NOUN?
+         00:32:21.395 - 00:32:24.405
+LAR1FI   claro_ADV que_SCONJ não_ADV as_DET mulheres_NOUN sofrem_VERB muito_ADV mais_ADV é_AUX muito_ADV mais_ADV vulnerável_ADJ
+         00:32:24.585 - 00:32:28.415
+LAR1FI   somos_AUX muito_ADV mais_ADV vulneráveis_ADJ
+         00:32:28.575 - 00:32:29.655
+DOCVIT   por_ADP que_PRON você_PRON acha_VERB que_SCONJ isso_PRON acontece_VERB?
+         00:32:30.260 - 00:32:31.560
+LAR1FI   como_ADP eu_PRON falei_VERB por_ADP causa_NOUN da_ADP cultura_NOUN
+         00:32:33.155 - 00:32:34.635
+LAR1FI   machista_ADJ que_PRON existe_VERB nesse_ADP país_NOUN 
+         00:32:34.820 - 00:32:36.790
+LAR1FI   acho_VERB que_SCONJ a_DET cultura_NOUN é_AUX o_DET principal_ADJ e_CCONJ também_ADV por_ADP falta_NOUN de_ADP educação_NOUN muitas_ADP vezes_NOUN na_ADP família_NOUN que_PRON às_ADP vezes_NOUN os_DET pais_NOUN não_ADV educam_VERB os_DET filhos_NOUN da_ADP forma_NOUN assim_ADV até_ADV tentam_VERB mas_CCONJ
+         00:32:38.280 - 00:32:47.440
+LAR1FI   pela_ADP vivência_NOUN com_ADP o_DET filho_NOUN tem_VERB na_ADP na_ADP casa_NOUN dele_PRON de_ADP que_SCONJ o_DET  pai_NOUN sai_VERB o_DET pai_NOUN bate_VERB na_ADP mãe_NOUN que_PRON o_DET pai_NOUN bebe_VERB 
+         00:32:47.570 - 00:32:55.230
+LAR1FI   e_CCONJ a_DET mãe_NOUN tem_AUX que_SCONJ tá_AUX lá_ADV servindo_VERB ao_ADP pai_NOUN ele_PRON tem_VERB essa_DET visão_NOUN e_CCONJ acha_VERB que_SCONJ esse_PRON é_AUX o_DET certo_ADJ
+         00:32:55.430 - 00:33:00.680
+LAR1FI   e_CCONJ depois_ADV pra_ADP mudar_VERB a_DET cabeça_NOUN dele_PRON é_AUX muito_ADV mais_ADV complicado_ADJ
+         00:33:01.150 - 00:33:04.490
+DOCVIT   você_PRON como_ADP mulher_NOUN sabendo_VERB disso_PRON que_SCONJ a_DET violência_NOUN 
+         00:33:05.640 - 00:33:09.080
+DOCVIT   atinge_VERB mais_ADV as_DET mulheres_NOUN né
+         00:33:09.515 - 00:33:11.875
+DOCVIT   como_ADV você_PRON concorda_VERB
+         00:33:12.050 - 00:33:13.410
+DOCVIT   você_PRON se_PRON sente_VERB confortável_ADJ com_ADP essa_DET situação_NOUN?
+         00:33:14.055 - 00:33:16.695
+LAR1FI   não_ADV
+         00:33:16.070 - 00:33:16.600
+LAR1FI   o_DET medo_NOUN é_AUX constante_ADJ
+         00:33:16.960 - 00:33:18.220
+DOCVIT   é_AUX recorrente_ADJ de_ADP uns_DET tempos_NOUN pra_ADP cá_ADV ouvirmos_VERB a_DET frase_NOUN
+         00:33:20.580 - 00:33:24.310
+DOCVIT   a_DET comunidade_NOUN de_ADP gays_NOUN e_CCONJ lésbicas_NOUN tem_AUX ganhado_VERB muitos_DET privilégios_NOUN
+         00:33:24.610 - 00:33:28.510
+DOCVIT   você_PRON concorda_VERB com_ADP essa_DET frase_NOUN ou_CCONJ não_ADV e_CCONJ por_ADP quê_PRON?
+         00:33:28.985 - 00:33:31.885
+LAR1FI   não_ADV porque_SCONJ num_ADP num_ADP estamos_AUX num_ADP estamos_AUX ganhando_VERB privilégios_NOUN estamos_VERB
+         00:33:33.490 - 00:33:37.970
+LAR1FI   conquistando_VERB e_CCONJ tendo_VERB privilégios_NOUN que_SCONJ não_ADV tendo_VERB privilégios_NOUN né tendo_VERB direitos_NOUN que_PRON deveríamos_VERB ter_AUX tido_VERB a_ADP todo_DET tempo_NOUN não_ADV é_AUX estando_AUX
+         00:33:38.380 - 00:33:45.920
+DOCVIT   então_ADV não_ADV é_AUX privilégio_NOUN ao_ADP seu_DET ver_VERB
+         00:33:48.420 - 00:33:51.030
+LAR1FI   é_AUX direito_NOUN
+         00:33:50.090 - 00:33:50.970
+DOCVIT   certo_ADJ
+         00:33:52.615 - 00:33:53.245
+DOCVIT   recentemente_ADV
+         00:33:54.395 - 00:33:55.595
+DOCVIT   o_DET supremo_PROPN tribunal_PROPN federal_PROPN decretou_VERB que_SCONJ a_DET homofobia_NOUN é_AUX crime_NOUN
+         00:33:55.960 - 00:33:59.380
+DOCVIT   você_PRON concordou_VERB com_ADP essa_DET conquista_NOUN de_ADP toda_DET comunidade_NOUN LGBTQI+
+         00:33:59.925 - 00:34:04.165
+LAR1FI   é_AUX um_DET pequeno_ADJ passo_NOUN mas_CCONJ 
+         00:34:04.320 - 00:34:06.470
+LAR1FI   é_AUX um_DET pequeno_ADJ passo_NOUN não_ADV na_ADP verdade_NOUN é_AUX um_DET passo_NOUN porém_CCONJ a_DET gente_NOUN sabe_VERB que_SCONJ não_ADV existe_VERB
+         00:34:06.590 - 00:34:11.270
+DISF     (HES)
+         00:34:11.290 - 00:34:12.140
+LAR1FI   não_ADV deveria_VERB existir_VERB essa_PRON esse_PRON é_AUX a_DET mesma_ADJ lei_NOUN que_PRON a_PRON do_ADP racismo_NOUN não_ADV é_AUX está_AUX na_ADP mesma_ADJ lei_NOUN
+         00:34:12.740 - 00:34:18.820
+LAR1FI   a_DET gente_NOUN sabe_VERB que_SCONJ o_DET racismo_NOUN ainda_ADV existe_VERB
+         00:34:19.080 - 00:34:20.750
+LAR1FI   porém_CCONJ ao_ADP mesmo_NOUN tem_VERB uma_DET punição_NOUN então_ADV eu_PRON espero_VERB que_SCONJ aconteça_VERB o_DET mesmo_PRON com_ADP essa_DET nova_NOUN com_ADP esse_DET novo_ADJ decreto_NOUN
+         00:34:21.230 - 00:34:28.710
+LAR1FI   que_SCONJ tenha_VERB punição_NOUN
+         00:34:29.030 - 00:34:29.970
+LAR1FI   de_ADP verdade_NOUN
+         00:34:30.185 - 00:34:30.985
+DOCVIT   a_DET questão_NOUN de_ADP gênero_NOUN tem_AUX ganhado_VERB muita_DET evidência_NOUN na_ADP mídia_NOUN né ultimamente_ADV
+         00:34:33.210 - 00:34:37.170
+DOCVIT   drag_X queens_DET cantoras_NOUN como_ADP Pabllo_PROPN Vittar_PROPN 
+         00:34:37.735 - 00:34:40.575
+DOCVIT   mulheres_NOUN e_CCONJ homens_NOUN transsexuais_ADJ como_ADP Tammy_PROPN Miranda_PROPN que_SCONJ
+         00:34:40.930 - 00:34:44.580
+DOCVIT   era_AUX a_DET filha_NOUN e_CCONJ agora_ADV é_AUX filho_NOUN né de_ADP Gretchen_PROPN
+         00:34:45.000 - 00:34:48.190
+DOCVIT   já_ADV tem_AUX aparecido_VERB nas_ADP novelas_NOUN né tá_AUX ganhando_VERB destaque_NOUN na_ADP mídia_NOUN aí_ADV mesmo_ADV
+         00:34:48.800 - 00:34:53.270
+DOCVIT   você_PRON acha_VERB que_SCONJ isso_PRON 
+         00:34:53.940 - 00:34:55.600
+DOCVIT   acontece_VERB por_ADP qual_DET motivo_NOUN?
+         00:34:56.445 - 00:34:58.195
+DOCVIT   quais_DET motivos_NOUN você_PRON considera_VERB que_SCONJ levou_VERB a_ADP essas_DET pessoas_NOUN a_SCONJ terem_VERB visibilidade_NOUN nos_ADP meios_NOUN de_ADP comunicação_NOUN?
+         00:34:58.485 - 00:35:03.775
+LAR1FI   acredito_VERB que_SCONJ a_DET luta_NOUN
+         00:35:04.965 - 00:35:06.285
+LAR1FI   que_SCONJ está_AUX existindo_VERB não_ADV é_AUX nem_ADV luta_NOUN acho_VERB a_DET luta_NOUN em_ADP si_PRON também_ADV mas_CCONJ a_DET reviravolta_NOUN que_PRON tá_AUX acontecendo_VERB na_ADP na_ADP sociedade_NOUN tipo_NOUN as_DET pessoas_NOUN tão_ADV tentando_VERB realmente_ADV abrir_VERB os_DET olhos_NOUN
+         00:35:06.430 - 00:35:15.880
+LAR1FI   tentando_VERB enxergar_VERB que_SCONJ não_ADV é_AUX só_ADV aquele_DET padrão_NOUN homem_NOUN mulher_ADJ
+         00:35:16.370 - 00:35:19.310
+LAR1FI   rosa_PROPN e_CCONJ rosa_PROPN e_CCONJ azul_ADJ tem_VERB tipo_NOUN outras_DET cores_NOUN as_DET pessoas_NOUN
+         00:35:19.710 - 00:35:23.570
+LAR1FI   tem_VERB pontos_NOUN de_ADP vista_NOUN diferentes_DET tem_VERB vivências_NOUN diferentes_ADJ as_DET pessoas_NOUN não_ADV são_AUX aquele_DET padrão_NOUN e_CCONJ eu_PRON acho_VERB que_SCONJ por_ADP isso_PRON os_DET meios_NOUN de_ADP comunicações_NOUN
+         00:35:24.240 - 00:35:30.980
+LAR1FI   estão_AUX tentando_VERB se_SCONJ adaptar_VERB mas_CCONJ não_ADV só_ADV por_SCONJ é_AUX querer_VERB por_SCONJ querer_VERB incluir_VERB aquela_DET pessoa_NOUN 
+         00:35:31.720 - 00:35:39.210
+LAR1FI   mas_CCONJ para_SCONJ conquistar_VERB aquele_DET público_NOUN também_ADV porque_SCONJ tudo_PRON tem_VERB um_DET um_DET meio_NOUN financeiro_ADJ que_PRON eles_PRON querem_VERB não_ADV é_AUX só_ADV aquela_DET parte_NOUN de_SCONJ querer_VERB
+         00:35:39.840 - 00:35:47.230
+DISF     (HES)
+         00:35:47.610 - 00:35:47.970
+LAR1FI   conquistar_VERB aquela_DET pessoa_NOUN de_SCONJ querer_VERB falar_VERB que_SCONJ ela_PRON é_AUX realmente_ADV importante_ADJ pra_ADP sociedade_NOUN tipo_NOUN tudo_PRON tem_VERB uma_DET coisa_NOUN por_ADP trás_ADV 
+         00:35:48.000 - 00:35:52.970
+DOCVIT   então_ADV você_PRON acha_VERB que_SCONJ não_ADV é_AUX só_ADV por_ADP integração_NOUN mas_CCONJ também_ADV visando_VERB o_DET lucro_NOUN
+         00:35:54.030 - 00:35:59.190
+LAR1FI   não_ADV
+         00:35:57.425 - 00:35:57.835
+LAR1FI   isso_PRON
+         00:35:58.335 - 00:35:59.195
+DOCVIT   por_ADP que_PRON você_PRON pensa_VERB dessa_ADP forma_NOUN?
+         00:36:01.030 - 00:36:02.540
+LAR1FI   porque_SCONJ é_AUX o_DET Brasil_PROPN nada_PRON é_VERB como_SCONJ parece_VERB ser_AUX sempre_ADV tem_VERB alguma_DET coisa_NOUN por_ADP trás_ADV
+         00:36:03.790 - 00:36:09.240
+DISF     ((RISOS))
+         00:36:04.590 - 00:36:05.530
+DOCVIT   você_PRON considera_VERB a_DET discussão_NOUN de_ADP gênero_NOUN
+         00:36:11.520 - 00:36:13.830
+DOCVIT   ou_CCONJ até_ADP mesmo_NOUN o_DET empoderamento_NOUN feminino_ADJ necessários_ADJ ou_CCONJ mimimi_NOUN
+         00:36:14.040 - 00:36:17.800
+LAR1FI   muito_ADV necessário_ADJ importantes_ADJ
+         00:36:18.125 - 00:36:20.275
+DOCVIT   por_ADP quê_PRON?
+         00:36:21.445 - 00:36:22.075
+LAR1FI   porque_SCONJ
+         00:36:23.750 - 00:36:24.840
+DISF     (HES)
+         00:36:24.860 - 00:36:25.420
+LAR1FI   como_ADV tem_VERB essa_DET discussão_NOUN
+         00:36:25.555 - 00:36:26.965
+LAR1FI   além_ADV das_ADP pessoas_NOUN da_ADP geração_NOUN passada_ADJ que_PRON vai_AUX ver_VERB tentar_VERB mudar_VERB a_DET mente_NOUN pra_SCONJ quem_PRON realmente_ADV importa_VERB né_ADP
+         00:36:27.110 - 00:36:33.410
+LAR1FI   vai_AUX também_ADV
+         00:36:33.850 - 00:36:34.770
+DISF     (HES)
+         00:36:34.780 - 00:36:35.080
+LAR1FI   para_ADP as_DET gerações_NOUN que_PRON estão_AUX vindo_VERB vai_AUX também_ADV elas_PRON vão_VERB também_ADV
+         00:36:35.080 - 00:36:38.040
+DISF     (HES)
+         00:36:38.065 - 00:36:38.585
+LAR1FI   ver_VERB que_SCONJ existe_VERB essa_DET luta_NOUN que_PRON como_ADP já_ADV existiu_VERB antes_ADV da_ADP gente_NOUN né na_ADP nova_ADJ geração_NOUN teve_VERB também_ADV feminista_ADJ
+         00:36:38.670 - 00:36:43.640
+LAR1FI   porém_CCONJ nessa_SCONJ nova_ADJ geração_NOUN está_AUX tendo_VERB muita_DET
+         00:36:44.280 - 00:36:47.330
+DISF     (HES)
+         00:36:47.310 - 00:36:47.700
+LAR1FI    visibilidade_NOUN por_ADP meio_NOUN da_ADP mídia_NOUN acho_VERB que_SCONJ a_DET internet_PROPN também_ADV  ajuda_VERB a_DET visibilidade_NOUN e_CCONJ tal_ADV
+         00:36:47.700 - 00:36:51.770
+LAR1FI   e_CCONJ e_CCONJ também_ADV tão_ADV ajudando_VERB as_DET crianças_NOUN de_ADP cinco_NUM anos_NOUN de_ADP dez_NUM anos_NOUN de_ADP quinte_ADV anos_NOUN
+         00:36:52.200 - 00:36:57.160
+LAR1FI   também_ADV vendo_VERB isso_PRON acontecer_VERB e_CCONJ já_ADV vai_AUX ter_VERB um_DET novo_ADJ pensamento_NOUN com_ADP relacão_NOUN a_ADP isso_PRON vai_AUX ajudar_VERB bastante_ADV
+         00:36:57.510 - 00:37:03.510
+DOCVIT   quanto_ADV a_DET expressão_NOUN mimimi_ADJ como_ADV você_PRON enxerga_VERB ela_PRON?
+         00:37:04.160 - 00:37:07.550
+DISF     ((SUSPIRO))
+         00:37:09.350 - 00:37:09.670
+LAR1FI   expressão_NOUN mimimi_ADJ acho_VERB que_SCONJ é_AUX um_DET
+         00:37:10.465 - 00:37:12.355
+LAR1FI   povo_NOUN que_PRON não_ADV tem_VERB argumentos_NOUN pra_SCONJ falar_VERB sobre_ADP e_CCONJ fala_VERB que_SCONJ é_AUX mimimi_NOUN fala_VERB que_SCONJ é_AUX blá_ADP blá_PROPN blá_ADP
+         00:37:12.605 - 00:37:17.255
+LAR1FI   não_ADV tem_VERB argumentos_NOUN para_SCONJ argumentar_VERB
+         00:37:17.515 - 00:37:19.125
+DOCVIT   então_ADV você_PRON contra_ADP a_ADP essa_DET expressão_NOUN
+         00:37:19.935 - 00:37:21.675
+LAR1FI   isso_PRON
+         00:37:21.060 - 00:37:21.550
+DOCVIT   você_PRON já_ADV teve_VERB algum_DET problema_NOUN de_ADP saúde_NOUN?
+         00:37:23.510 - 00:37:25.580
+DOCVIT   qual_PRON?
+         00:37:26.080 - 00:37:26.920
+DISF     (HES)
+         00:37:27.382 - 00:37:27.892
+LAR1FI   não_ADV
+         00:37:28.130 - 00:37:28.725
+LAR1FI   não_ADV
+         00:37:29.300 - 00:37:29.830
+DOCVIT   a_DET saúde_NOUN pública_ADJ é_AUX um_DET direito_NOUN que_PRON deve_VERB ser_AUX assegurado_VERB pelo_ADP governo_NOUN
+         00:37:31.710 - 00:37:35.230
+LAR1FI   sim_ADV
+         00:37:35.620 - 00:37:36.080
+DOCVIT   por_ADP que_PRON?
+         00:37:38.150 - 00:37:38.810
+LAR1FI   por_ADP que_PRON são_AUX direitos_NOUN pre/_PROPN
+         00:37:40.305 - 00:37:41.950
+DISF     (HES)
+         00:37:41.975 - 00:37:42.575
+LAR1FI   principal_ADJ das_ADP pessoas_NOUN né que_SCONJ é_AUX educação_NOUN saúde_NOUN e_CCONJ lazer_NOUN
+         00:37:43.045 - 00:37:46.675
+LAR1FI   por_ADP mais_ADV que_SCONJ não_ADV aconteça_VERB dessa_ADP forma_NOUN né
+         00:37:47.690 - 00:37:49.750
+LAR1FI   deveria_VERB ser_AUX assim_ADV
+         00:37:50.075 - 00:37:51.655
+DOCVIT   certo_ADJ
+         00:37:51.345 - 00:37:52.085
+DOCVIT   a_DET saúde_NOUN pública_ADJ funciona_VERB no_ADP Brasil_PROPN?
+         00:37:52.550 - 00:37:54.900
+LAR1FI   rapaz_ADJ funcionar_VERB funciona_VERB não_ADV né
+         00:37:56.180 - 00:37:59.300
+LAR1FI   tá_AUX tentando_VERB tenta_VERB porém_CCONJ não_ADV existe_VERB assim_ADV
+         00:37:59.655 - 00:38:03.045
+DOCVIT   quais_PRON os_DET pontos_NOUN negativos_ADJ 
+         00:38:04.845 - 00:38:06.565
+DOCVIT   e_CCONJ os_DET positivos_NOUN do_ADP SUS?
+         00:38:06.870 - 00:38:08.590
+DISF     (HES)
+         00:38:10.602 - 00:38:11.242
+LAR1FI   a_DET longa_ADJ fila_NOUN de_ADP espera_VERB 
+         00:38:11.270 - 00:38:12.705
+LAR1FI   que_SCONJ muitas_DET pessoas_NOUN morrem_VERB nessa_ADP fila_NOUN
+         00:38:12.895 - 00:38:14.935
+LAR1FI   isso_PRON é_AUX muito_ADV negativo_ADJ
+         00:38:15.420 - 00:38:16.700
+LAR1FI   positivo_ADJ é_VERB que_SCONJ
+         00:38:17.385 - 00:38:18.775
+DISF     (HES)
+         00:38:19.045 - 00:38:19.965
+LAR1FI   tem_VERB
+         00:38:20.170 - 00:38:20.710
+DISF     (HES)
+         00:38:21.080 - 00:38:21.580
+LAR1FI   as_DET consultas_NOUN tem_VERB
+         00:38:21.595 - 00:38:22.985
+DISF     (HES)
+         00:38:22.965 - 00:38:23.615
+LAR1FI   os_DET exames_NOUN
+         00:38:23.665 - 00:38:24.495
+LAR1FI   porém_CCONJ como_ADV tem_VERB essas_DET filas_NOUN muitas_DET pessoas_NOUN não_ADV conseguem_VERB chegar_VERB lá_ADV
+         00:38:25.280 - 00:38:28.780
+LAR1FI   vivas_ADJ
+         00:38:28.840 - 00:38:29.530
+LAR1FI   né
+         00:38:29.860 - 00:38:30.150
+DOCVIT   você_PRON acha_VERB que_SCONJ há_VERB tem_VERB problemas_NOUN no_ADP funcionamento_NOUN do_ADP SUS?
+         00:38:31.770 - 00:38:34.610
+LAR1FI   sim_ADV
+         00:38:34.905 - 00:38:35.435
+DOCVIT   quais_PRON?
+         00:38:35.965 - 00:38:36.485
+LAR1FI   tem_VERB a_DET corrupção_NOUN que_PRON manda_VERB investimento_NOUN e_CCONJ tem_VERB aqueles_DET desvios_NOUN 
+         00:38:37.490 - 00:38:41.940
+LAR1FI   e_CCONJ eu_PRON acho_VERB que_SCONJ a_DET corrupção_NOUN é_AUX o_DET pior_ADJ problema_NOUN que_PRON existe_VERB porque_SCONJ
+         00:38:42.230 - 00:38:45.440
+LAR1FI   deixa_VERB de_ADP
+         00:38:45.700 - 00:38:46.530
+LAR1FI   é_AUX aquela_DET verba_NOUN parar_VERB 
+         00:38:46.660 - 00:38:48.740
+LAR1FI   ajudar_VERB
+         00:38:49.285 - 00:38:50.055
+LAR1FI   e_CCONJ eles_PRON
+         00:38:50.235 - 00:38:50.835
+LAR1FI   levam_VERB para_ADP eles_PRON o_DET dinheiro_NOUN né_VERB que_SCONJ deveria_VERB ser_AUX para_ADP a_DET população_NOUN
+         00:38:51.090 - 00:38:54.310
+DOCVIT   como_ADV você_PRON acha_VERB que_SCONJ o_DET SUS pode_VERB ser_AUX melhorado_VERB?
+         00:38:55.755 - 00:38:58.355
+LAR1FI   se_SCONJ as_DET verbas_NOUN que_PRON realmente_ADV são_AUX destinadas_VERB para_ADP eles_PRON realmente_ADV chegassem_VERB lá_ADV  
+         00:39:00.510 - 00:39:04.550
+LAR1FI   já_ADV mudaria_VERB muita_DET coisa_NOUN mudaria_VERB bastante_ADV diminuiria_VERB as_DET filas_NOUN iria_AUX ampliar_VERB o_DET sistema_NOUN
+         00:39:04.830 - 00:39:10.570
+LAR1FI   acho_VERB que_SCONJ acho_VERB que_SCONJ a_DET ampliação_NOUN realmente_ADV e_CCONJ e_CCONJ  
+         00:39:10.825 - 00:39:15.065
+LAR1FI   além_ADV de_ADP fazerem_VERB construírem_VERB os_DET postos_NOUN de_ADP saúde_NOUN né botando_VERB pra_SCONJ funcionar_VERB
+         00:39:15.590 - 00:39:19.260
+LAR1FI   e_CCONJ aí_ADV iria_VERB
+         00:39:19.560 - 00:39:20.270
+LAR1FI   aí_ADV ia_AUX melhorar_VERB bastante_ADV
+         00:39:20.480 - 00:39:21.300
+DOCVIT   você_PRON acha_VERB que_SCONJ a_DET quantidade_NOUN de_ADP médicos_NOUN
+         00:39:23.205 - 00:39:24.995
+DOCVIT   e_CCONJ especialistas_NOUN do_ADP SUS 
+         00:39:25.175 - 00:39:27.305
+DOCVIT   é_AUX suficiente_ADJ para_SCONJ atender_VERB a_DET demanda_NOUN da_ADP população_NOUN?
+         00:39:27.715 - 00:39:30.395
+LAR1FI   acho_VERB que_SCONJ deveria_VERB aumentar_VERB
+         00:39:31.090 - 00:39:33.010
+LAR1FI   acho_VERB que_SCONJ não_ADV não_ADV é_AUX suficiente_ADJ não_ADV
+         00:39:33.410 - 00:39:35.575
+DOCVIT   no_ADP bairro_NOUN onde_PRON você_PRON mora_VERB
+         00:39:37.440 - 00:39:39.000
+DOCVIT   a_ADP uma_DET unidade_NOUN de_ADP saúde_NOUN da_ADP família_NOUN?
+         00:39:39.105 - 00:39:40.995
+LAR1FI   sim_ADV
+         00:39:41.200 - 00:39:41.530
+DOCVIT   você_PRON faz_VERB uso_NOUN conhece_VERB frequenta_VERB 
+         00:39:43.200 - 00:39:45.180
+LAR1FI   conheço_VERB já_ADV fui_AUX
+         00:39:45.175 - 00:39:46.585
+LAR1FI   mas_CCONJ não_ADV frequento_VERB muito_ADV não_ADV mas_CCONJ existe_VERB
+         00:39:46.815 - 00:39:48.885
+DOCVIT   alguém_PRON da_ADP sua_DET família_NOUN usa_VERB?
+         00:39:49.325 - 00:39:50.925
+LAR1FI   sim_ADV
+         00:39:51.000 - 00:39:51.400
+LAR1FI   já_ADV tive_VERB serviço_NOUN de_ADP dentistas_NOUN
+         00:39:51.535 - 00:39:54.105
+DISF     (HES)
+         00:39:54.732 - 00:39:55.122
+LAR1FI   ginecologista_ADJ
+         00:39:55.070 - 00:39:56.465
+LAR1FI   e_CCONJ também_ADV quando_ADV uma_DET pessoa_NOUN tá_AUX com_ADP 
+         00:39:56.635 - 00:39:58.725
+LAR1FI   urgência_NOUN pode_VERB ir_VERB lá_ADV que_SCONJ eles_PRON também_ADV atendem_VERB 
+         00:39:59.345 - 00:40:01.875
+LAR1FI   com_ADP urgência_NOUN
+         00:40:02.015 - 00:40:02.725
+DOCVIT   alguém_PRON da_ADP sua_DET família_NOUN precisou_VERB?
+         00:40:03.665 - 00:40:05.535
+LAR1FI   já_ADV
+         00:40:05.695 - 00:40:06.365
+LAR1FI   meu_DET irmão_NOUN minha_DET irmã_NOUN
+         00:40:06.455 - 00:40:08.205
+DOCVIT   e_CCONJ você_PRON já_ADV precisou_VERB usar_VERB algum_DET serviço_NOUN do_ADP SUS?
+         00:40:08.995 - 00:40:12.075
+LAR1FI   já_ADV precisei_VERB usar_VERB dentista_NOUN e_CCONJ 
+         00:40:12.980 - 00:40:16.430
+LAR1FI   eu_PRON tive_VERB uma_DET infecção_NOUN urinária_ADJ agora_ADV me_PRON lembrei_VERB e_CCONJ foi_VERB pelo_ADP SUS também_ADV
+         00:40:17.690 - 00:40:21.680
+LAR1FI   apesar_ADV da_DET demora_NOUN da_ADP fila_NOUN mas_CCONJ
+         00:40:22.060 - 00:40:24.090
+LAR1FI   aconteceu_VERB né
+         00:40:24.590 - 00:40:25.440
+DISF     ((RISOS))
+         00:40:25.425 - 00:40:25.775
+DOCVIT   como_ADV você_PRON descreve_VERB essa_DET experiência_NOUN?
+         00:40:25.795 - 00:40:27.935
+LAR1FI   eu_PRON acho_VERB que_SCONJ fiquei_VERB na_ADP fila_NOUN do_ADP posto_NOUN
+         00:40:28.450 - 00:40:31.030
+LAR1FI   no_ADP posto_NOUN não_ADV é_AUX o_DET posto_NOUN
+         00:40:31.295 - 00:40:32.425
+DISF     (HES)
+         00:40:33.207 - 00:40:33.817
+LAR1FI   acho_VERB que_SCONJ umas_DET três_NUM horas_NOUN na_ADP fila_NOUN
+         00:40:33.880 - 00:40:35.485
+LAR1FI   para_SCONJ chegar_VERB lá_ADV para_ADP
+         00:40:35.730 - 00:40:37.470
+DISF     (HES)
+         00:40:37.585 - 00:40:38.145
+LAR1FI   ficou_VERB na_ADP fila_NOUN né
+         00:40:38.300 - 00:40:38.880
+LAR1FI   teve_VERB o_DET atendimento_NOUN é_VERB porque_SCONJ eu_PRON não_ADV conheço_VERB muito_ADV como_ADV funciona_VERB eu_PRON sei_VERB que_SCONJ vai_VERB para_ADP fila_NOUN faz_VERB
+         00:40:39.345 - 00:40:43.410
+DISF     (HES)
+         00:40:43.652 - 00:40:44.072
+LAR1FI    eh fala_VERB com_ADP a_DET primeira_ADJ recepcionista_NOUN
+         00:40:44.337 - 00:40:46.177
+LAR1FI   depois_ADV vai_VERB para_ADP outra_DET outro_DET outro_DET lugar_NOUN e_CCONJ vai_VERB para_SCONJ esperar_VERB o_DET médico_NOUN acho_VERB que_SCONJ pega_VERB a_DET senha_NOUN né para_SCONJ esperar_VERB o_DET médico_NOUN
+         00:40:46.600 - 00:40:52.635
+LAR1FI   demorou_VERB bastante_ADV e_CCONJ quando_ADV foi_VERB lá_ADV nem_ADV olhou_VERB pra_ADP minha_DET cara_NOUN falou_VERB comigo_PRON e_CCONJ tal_ADV tal_ADV
+         00:40:53.260 - 00:40:57.450
+LAR1FI   olhou_VERB se_PRON tava_AUX com_ADP minha_DET dor_NOUN era_AUX muito_ADV forte_ADJ era_AUX uma_DET médica_NOUN
+         00:40:57.650 - 00:41:00.900
+LAR1FI   olhou_VERB se_SCONJ tava_VERB muito_ADV forte_ADJ 
+         00:41:01.170 - 00:41:02.530
+LAR1FI   e_CCONJ depois_ADV me_PRON receitou_VERB um_DET um_DET remédio_NOUN 
+         00:41:02.915 - 00:41:05.115
+LAR1FI   que_SCONJ não_ADV tinha_VERB lá_ADV tive_AUX que_SCONJ comprar_VERB
+         00:41:05.570 - 00:41:07.410
+DOCVIT   mas_CCONJ você_PRON melhorou_VERB ou_CCONJ passou_VERB muito_DET tempo_NOUN lá_ADV?
+         00:41:07.900 - 00:41:09.950
+DOCVIT   tomando_VERB remédio_NOUN
+         00:41:10.040 - 00:41:11.350
+LAR1FI   não_ADV melhorou_VERB eu_PRON acho_VERB que_SCONJ não_ADV como_ADV era_AUX infecção_NOUN urinaria_ADJ não_ADV era_AUX muito_ADV forte_ADJ ela_PRON só_ADV passou_VERB um_DET remédio_NOUN e_CCONJ aí_ADV eu_PRON fui_AUX pra_ADP casa_NOUN e_CCONJ com_ADP uma_NUM semana_NOUN eu_PRON já_ADV tava_AUX melhor_ADV já_ADV
+         00:41:11.040 - 00:41:18.270
+DOCVIT   não_ADV ficou_VERB lá_ADV né_ADV não_ADV precisou_VERB
+         00:41:18.770 - 00:41:20.850
+LAR1FI   não_ADV não_ADV precisei_VERB ficar_VERB não_ADV
+         00:41:19.645 - 00:41:20.915
+LAR1FI   mas_CCONJ meu_DET irmão_NOUN ficou_VERB
+         00:41:21.465 - 00:41:22.525
+LAR1FI   o_PRON que_PRON eu_PRON comentei_VERB que_SCONJ faleceu_VERB
+         00:41:22.680 - 00:41:23.820
+LAR1FI   ele_PRON nasceu_VERB com_ADP 
+         00:41:24.615 - 00:41:26.895
+LAR1FI   paralisia_NOUN cerebral_ADJ
+         00:41:27.430 - 00:41:28.790
+LAR1FI   aí_ADV ele_PRON com_ADP seis_NUM anos_NOUN quan/_ADP não_ADV com_ADP cinco_NUM anos_NOUN foi_AUX seis_NUM anos_NOUN
+         00:41:29.455 - 00:41:33.555
+LAR1FI   teve_VERB infecção_NOUN no_ADP rim_NOUN foi_AUX no_ADP ruim_NOUN foi_AUX foi_AUX no_ADP rim_NOUN
+         00:41:33.990 - 00:41:37.030
+LAR1FI   aí_ADV precisou_VERB ir_VERB pro_ADP João_PROPN Alves_PROPN que_PRON é_AUX o_DET hospital_NOUN público_ADJ
+         00:41:37.385 - 00:41:39.895
+LAR1FI   e_CCONJ nisso_PRON apesar_ADV dele_PRON como_SCONJ ser_AUX criança_ADJ ele_PRON tinha_VERB todo_DET privilégio_NOUN sabe_VERB privilégio_NOUN não_ADV
+         00:41:40.565 - 00:41:45.360
+DISF     (HES)
+         00:41:45.470 - 00:41:46.070
+LAR1FI   como_ADV é_AUX que_SCONJ fala_VERB
+         00:41:46.435 - 00:41:47.085
+DOCVIT   preferência_NOUN
+         00:41:47.870 - 00:41:48.750
+LAR1FI   preferência_ADJ isso_PRON
+         00:41:48.695 - 00:41:49.495
+LAR1FI   a_DET preferência_NOUN de_SCONJ ser_AUX criança_ADJ e_CCONJ ser_AUX deficiente_ADJ
+         00:41:49.780 - 00:41:52.510
+LAR1FI   eu_PRON não_ADV pude_VERB visitar_VERB ele_PRON porque_SCONJ eu_PRON era_AUX de_ADP menor_ADJ não_ADV podia_VERB visitar_VERB na_ADP hora_NOUN que_SCONJ ele_PRON tava_VERB
+         00:41:53.050 - 00:41:56.450
+DISF     (HES)
+         00:41:56.647 - 00:41:57.227
+LAR1FI   mas_CCONJ ele_PRON foi_AUX bem_ADV atend/_PROPN como_ADP ele_PRON foi_AUX atendido_VERB eu_PRON não_ADV sei_VERB como_ADP eu_PRON não_ADV tive_VERB vivência_NOUN lá_ADV eu_PRON não_ADV sei_VERB explicar_VERB como_ADV foi_VERB mas_CCONJ ele_PRON precisou_VERB sim_ADV do_ADP SUS  
+         00:41:57.230 - 00:42:04.115
+LAR1FI   e_CCONJ ele_PRON faleceu_VERB lá_ADV porque_SCONJ a_DET infecção_NOUN ficou_VERB muito_ADV séria_ADJ se_PRON agravou_VERB muito_ADV
+         00:42:05.120 - 00:42:09.390
+DOCVIT   ele_PRON faleceu_VERB devido_ADV à_ADP infecção_NOUN
+         00:42:09.840 - 00:42:12.000
+LAR1FI   a_DET infecção_NOUN
+         00:42:11.485 - 00:42:12.615
+DOCVIT   mas_CCONJ mesno_NOUN você_PRON achando_VERB que_SCONJ ele_PRON teve_VERB
+         00:42:13.365 - 00:42:16.445
+DOCVIT   um_DET uma_DET boa_ADJ assistência_NOUN né por_ADP parte_NOUN do_ADP hospital_NOUN
+         00:42:16.830 - 00:42:20.710
+DOCVIT   você_PRON acha_VERB que_SCONJ
+         00:42:21.015 - 00:42:22.515
+DOCVIT   podiam_VERB ter_AUX feito_VERB mais_ADV para_SCONJ que_SCONJ a_DET infecção_NOUN não_ADV piorasse_VERB
+         00:42:23.175 - 00:42:26.655
+LAR1FI   acho_VERB que_SCONJ sim_ADV
+         00:42:26.785 - 00:42:27.695
+LAR1FI   podiam_VERB ter_AUX feito_VERB sim_ADV
+         00:42:27.980 - 00:42:29.390
+LAR1FI   mas_CCONJ como_ADV como_SCONJ eu_PRON falei_VERB eu_PRON não_ADV pude_VERB visitar_VERB então_ADV eu_PRON não_ADV num_ADP sei_VERB como_ADV falar_VERB como_ADV foi_AUX a_DET experiência_NOUN dele_PRON 
+         00:42:30.050 - 00:42:35.790
+DOCVIT   como_ADV foi_VERB pra_ADP você_PRON
+         00:42:37.430 - 00:42:39.040
+DOCVIT   saber_VERB que_SCONJ seu_DET irmão_NOUN estava_AUX nessa_ADP situação_NOUN
+         00:42:39.570 - 00:42:41.770
+LAR1FI   nossa_DET foi_AUX terrível_ADJ porque_SCONJ uma_DET criança_NOUN né 
+         00:42:42.055 - 00:42:44.185
+LAR1FI   e_CCONJ tipo_NOUN o_DET pior_NOUN é_VERB que_SCONJ ele_PRON não_ADV podia_VERB falar_VERB quando_ADV tava_VERB com_ADP o_DET dor_NOUN não_ADV podia_VERB expressar_VERB porque_SCONJ como_SCONJ ele_PRON tinha_VERB deficiência_NOUN não_ADV tinha_VERB
+         00:42:44.400 - 00:42:50.260
+LAR1FI   essa_DET expressão_NOUN né_ADJ de_SCONJ falar_VERB ele_PRON não_ADV falava_VERB ainda_ADV tava_AUX começando_VERB a_SCONJ falar_VERB e_CCONJ aí_ADV não_ADV tinha_VERB como_ADP
+         00:42:50.650 - 00:42:55.090
+LAR1FI   ele_PRON expressar_VERB que_SCONJ tava_AUX com_ADP dor_NOUN
+         00:42:55.345 - 00:42:56.955
+LAR1FI   porque_SCONJ não_ADV estava_VERB ou_CCONJ que_SCONJ tava_AUX incomodando_VERB alguma_DET coisa_NOUN
+         00:42:57.285 - 00:42:59.485
+LAR1FI   não_ADV tinha_VERB como_SCONJ falar_VERB
+         00:42:59.650 - 00:43:00.410
+DOCVIT   como_ADV você_PRON ficaram_VERB sabendo_VERB da_ADP infecção_NOUN?
+         00:43:00.455 - 00:43:02.595
+LAR1FI   como_SCONJ ele_PRON é_AUX meu_DET irmão_NOUN por_ADP parte_NOUN de_ADP pai_NOUN só_ADV eu_PRON não_ADV tinha_VERB muita_DET convivência_NOUN com_ADP ele_PRON
+         00:43:03.710 - 00:43:08.080
+LAR1FI   eu_PRON só_ADV fiquei_VERB sabendo_VERB quando_ADV ele_PRON tava_AUX internado_ADJ então_ADV minha_DET madrasta_NOUN não_ADV falou_VERB como_SCONJ aconteceu_VERB
+         00:43:08.650 - 00:43:12.480
+DOCVIT   entendi_VERB
+         00:43:13.940 - 00:43:14.760
+DISF     (HES)
+         00:43:16.825 - 00:43:17.625
+DOCVIT   aqui_ADV no_ADP estado_NOUN de_ADP Sergipe_PROPN
+         00:43:17.930 - 00:43:19.660
+DOCVIT   você_PRON já_ADV percebeu_VERB alguma_DET diferença_NOUN no_ADP modo_NOUN com_ADP as_DET pessoas_NOUN falam_VERB?
+         00:43:20.000 - 00:43:23.750
+LAR1FI   oxe_NOUN
+         00:43:25.870 - 00:43:26.450
+LAR1FI   porque_SCONJ como_ADP eu_PRON nasci_VERB aqui_ADV não_ADV tem_VERB como_SCONJ eu_PRON perceber_VERB essa_DET diferença_NOUN
+         00:43:26.625 - 00:43:29.685
+DOCVIT   então_ADV você_PRON não_ADV é_AUX capaz_ADJ de_SCONJ imitar_VERB ou_CCONJ caracterizar_VERB essa_DET fala_VERB porque_SCONJ você_PRON não_ADV percebe_VERB
+         00:43:30.650 - 00:43:35.610
+LAR1FI   isso_PRON
+         00:43:34.985 - 00:43:35.575
+DOCVIT   você_PRON acredita_VERB que_SCONJ estando_AUX em_ADP outro_DET lugar_NOUN
+         00:43:37.505 - 00:43:40.375
+DOCVIT   ou_CCONJ em_ADP contato_NOUN com_ADP pessoas_NOUN de_ADP outro_DET lugar_NOUN 
+         00:43:40.565 - 00:43:43.035
+DOCVIT   outras_DET pessoas_NOUN podem_VERB identificar_VERB de_ADP onde_PRON você_PRON é_AUX?
+         00:43:43.505 - 00:43:46.655
+DOCVIT   qual_PRON sua_DET origem_NOUN
+         00:43:46.905 - 00:43:48.075
+DOCVIT   apenas_ADV pela_ADP maneira_NOUN como_ADV você_PRON fala_VERB?
+         00:43:48.295 - 00:43:50.415
+LAR1FI   eu_PRON acho_VERB que_SCONJ eles_PRON conseguiram_VERB falar_VERB que_SCONJ eu_PRON sou_AUX nordestina_ADJ
+         00:43:51.240 - 00:43:54.550
+LAR1FI   é_VERB e_CCONJ se_SCONJ for_VERB pra_SCONJ falar_VERB que_SCONJ é_AUX de_ADP Sergipe_PROPN ou_CCONJ não_ADV teria_AUX que_SCONJ ser_AUX algum_DET
+         00:43:54.730 - 00:44:00.020
+LAR1FI   algum_DET estado_NOUN próximo_ADJ por_ADP exemplo_NOUN Bahia_PROPN Recife_PROPN que_SCONJ eles_PRON iriam_AUX perceber_VERB mas_CCONJ se_SCONJ for_VERB por_ADP exemplo_NOUN pra_ADP São_PROPN Paulo_PROPN eles_PRON iriam_AUX falar_VERB que_SCONJ eu_PRON era_AUX nordestina_ADJ mas_CCONJ não_ADV ia_AUX conseguir_VERB identificar_VERB o_DET estado_NOUN
+         00:44:01.060 - 00:44:11.120
+DOCVIT   certo_ADJ
+         00:44:12.070 - 00:44:12.440
+DOCVIT   você_PRON acha_VERB que_SCONJ as_DET pessoas_NOUN que_PRON moram_VERB na_ADP capital_NOUN falam_VERB diferente_ADV das_PRON que_PRON moram_VERB no_ADP interior_NOUN?
+         00:44:14.450 - 00:44:19.330
+DOCVIT   como_ADV?
+         00:44:19.500 - 00:44:20.110
+LAR1FI   acho_VERB que_SCONJ existe_VERB um_DET sotaque_NOUN tipo_ADJ
+         00:44:20.910 - 00:44:23.330
+LAR1FI   eu_PRON não_ADV sei_VERB explicar_VERB mas_CCONJ tem_VERB um_DET sotaquezinho_NOUN sabe_VERB quem_PRON mora_VERB porque_SCONJ assim_ADV como_ADP eu_PRON moro_VERB aqui_ADV tem_VERB muita_DET gente_NOUN que_PRON vem_VERB do_ADP interior_NOUN e_CCONJ tem_VERB o_DET sotaque_NOUN diferente_ADJ
+         00:44:23.955 - 00:44:32.465
+LAR1FI   mas_CCONJ eu_PRON não_ADV sei_VERB explicar_VERB
+         00:44:33.010 - 00:44:34.200
+LAR1FI   é_AUX um_DET sotaque_NOUN diferente_ADJ
+         00:44:34.500 - 00:44:35.820
+DOCVIT   você_PRON percebe_VERB a_DET diferença_NOUN né?
+         00:44:36.285 - 00:44:38.205
+LAR1FI   isso_PRON
+         00:44:37.570 - 00:44:38.170
+DOCVIT   o_PRON que_PRON mais_ADV chama_VERB sua_DET atenção_NOUN quando_ADV as_DET pessoas_NOUN estão_AUX falando_VERB?
+         00:44:40.515 - 00:44:43.675
+LAR1FI   acho_VERB que_SCONJ a_DET forma_NOUN que_PRON eles_PRON puxam_VERB o_DET r_PROPN eu_PRON acho_VERB interessante_ADJ
+         00:44:44.420 - 00:44:49.020
+LAR1FI   e_CCONJ também_ADV quando_ADV é_AUX as_DET pessoas_NOUN de_ADP São_PROPN Paulo_PROPN acho_VERB muito_ADV engraçado_ADJ o_DET jeito_NOUN que_PRON falam_VERB por_ADP causa_NOUN do_ADP r_PROPN mesmo_ADV eles_PRON puxam_VERB o_DET r_NOUN diferente_ADJ
+         00:44:49.690 - 00:44:55.630
+LAR1FI   enrolam_VERB muito_ADV a_DET língua_NOUN
+         00:44:55.905 - 00:44:57.075
+DOCVIT   você_PRON acha_VERB que_SCONJ seu_DET modo_NOUN de_SCONJ falar_VERB mudou_VERB depois_ADV que_SCONJ você_PRON entrou_VERB na_ADP universidade_NOUN?
+         00:44:59.120 - 00:45:03.630
+LAR1FI   uma_DET professora_NOUN minha_DET tava_AUX comentando_VERB sobre_ADP isso_PRON que_PRON ela_PRON falou_VERB assim_ADV
+         00:45:04.700 - 00:45:07.990
+DISF     (HES)
+         00:45:08.025 - 00:45:08.715
+LAR1FI   que_SCONJ o_DET ambiente_NOUN que_PRON nós_PRON estamos_AUX não_ADV nos_PRON permite_VERB falar_VERB 
+         00:45:09.640 - 00:45:12.050
+LAR1FI   cometer_VERB tantos_DET erros_NOUN
+         00:45:12.260 - 00:45:13.450
+LAR1FI   porque_SCONJ assim_ADV estamos_VERB em_ADP um_DET ambiente_NOUN universitário_ADJ e_CCONJ
+         00:45:14.370 - 00:45:17.050
+LAR1FI   por_ADP isso_PRON deveríamos_VERB
+         00:45:17.325 - 00:45:18.665
+LAR1FI   tentar_VERB se_PRON adaptar_VERB a_ADP esse_DET ambiente_NOUN
+         00:45:18.890 - 00:45:20.970
+LAR1FI   e_CCONJ sim_ADV minha_DET minha_DET fala_VERB mudo_NOUN bastante_ADV 
+         00:45:21.365 - 00:45:25.005
+DOCVIT   então_ADV você_PRON concorda_VERB com_ADP sua_DET professora_NOUN
+         00:45:25.190 - 00:45:27.020
+LAR1FI   unrum_PROPN concordo_VERB
+         00:45:26.760 - 00:45:27.580
+DOCVIT   falar_VERB oito_NUM
+         00:45:29.205 - 00:45:30.455
+DOCVIT   muito_ADV
+         00:45:30.665 - 00:45:31.555
+DOCVIT   biscoito_NOUN
+         00:45:31.915 - 00:45:33.065
+DOCVIT   oitenta_NUM
+         00:45:33.145 - 00:45:34.285
+DOCVIT   é_AUX comum_ADJ onde_PRON você_PRON mora_VERB?
+         00:45:34.580 - 00:45:35.990
+LAR1FI   não_ADV
+         00:45:36.480 - 00:45:37.250
+LAR1FI   não_ADV é_AUX comum_ADJ não_ADV a_DET gente_NOUN não_ADV fala_VERB assim_ADV não_ADV
+         00:45:38.040 - 00:45:39.980
+DOCVIT   mas_CCONJ você_PRON já_ADV ouviu_VERB muito_ADV lá_ADV
+         00:45:40.495 - 00:45:42.445
+LAR1FI   já_ADV
+         00:45:41.755 - 00:45:42.395
+LAR1FI   já_ADV ouvi_VERB sim_ADV
+         00:45:42.570 - 00:45:43.510
+LAR1FI   assim_ADV lá_ADV não_ADV sei_VERB mas_CCONJ
+         00:45:43.695 - 00:45:45.425
+LAR1FI   tipo_NOUN de_ADP pessoas_NOUN mais_ADV idosas_ADJ já_ADV ouvi_VERB
+         00:45:45.575 - 00:45:47.635
+LAR1FI   mais_ADV velhas_ADJ já_ADV ouvi_VERB sim_ADV
+         00:45:47.930 - 00:45:49.670
+LAR1FI   falar_VERB assim_ADV
+         00:45:49.955 - 00:45:50.545
+DOCVIT   é_AUX uma_DET coisa_NOUN que_PRON chama_VERB sua_DET atenção_NOUN também_ADV?
+         00:45:51.365 - 00:45:53.655
+LAR1FI   (EST)
+         00:45:52.805 - 00:45:53.595
+LAR1FI   mas_CCONJ eu_PRON não_ADV posso_VERB corrigir_VERB
+         00:45:54.585 - 00:45:55.655
+LAR1FI   eu_PRON sei_VERB mas_CCONJ eu_PRON não_ADV posso_VERB corrigr_NOUN
+         00:45:55.755 - 00:45:57.275
+LAR1FI   apenas_ADV concordo_VERB
+         00:45:57.500 - 00:45:58.400
+DISF     ((RISOS))
+         00:45:58.390 - 00:45:58.970
+DOCVIT   falar_VERB essas_DET mesmas_ADJ palavras_NOUN é_AUX comum_ADJ aqui_ADV na_ADP UFS?
+         00:46:01.130 - 00:46:04.110
+LAR1FI   não_ADV
+         00:46:04.295 - 00:46:04.705
+LAR1FI   não_ADV nunca_ADV ouvi_VERB ninguém_PRON falar_VERB assim_ADV
+         00:46:05.755 - 00:46:07.825
+DOCVIT   nunca_ADV ouviu_VERB né
+         00:46:09.275 - 00:46:10.695
+DOCVIT   o_PRON que_PRON você_PRON acha_VERB desse_ADP jeito_NOUN de_SCONJ falar_VERB?
+         00:46:11.700 - 00:46:13.740
+LAR1FI   oh_ADP assim_ADV as_DET pessoas_NOUN que_PRON já_ADV ouvi_VERB falar_VERB assim_ADV  são_AUX do_ADP interior_NOUN
+         00:46:15.495 - 00:46:18.360
+LAR1FI   de_ADP Itaporanga_PROPN que_PRON é_AUX onde_ADV a_DET minha_DET
+         00:46:18.670 - 00:46:20.490
+DISF     (HES)
+         00:46:20.565 - 00:46:20.905
+LAR1FI   minha_DET avó_NOUN mora_VERB
+         00:46:20.890 - 00:46:21.810
+LAR1FI   e_CCONJ eu_PRON acho_VERB que_SCONJ é_AUX por_ADP causa_NOUN do_ADP ambiente_NOUN que_PRON eles_PRON vivem_VERB o_DET local_NOUN e_CCONJ
+         00:46:22.535 - 00:46:26.295
+LAR1FI   por_SCONJ estar_AUX no_ADP interior_NOUN e_CCONJ as_DET pessoas_NOUN falarem_VERB assim_ADV aí_ADV as_DET crianças_NOUN vão_AUX ouvindo_VERB e_CCONJ replicando_VERB e_CCONJ por_ADP isso_PRON que_SCONJ eles_PRON falam_VERB
+         00:46:26.800 - 00:46:32.820
+DOCVIT   certo_ADJ
+         00:46:34.725 - 00:46:35.415
+DOCVIT   falar_VERB pranta_NOUN
+         00:46:36.675 - 00:46:38.115
+DOCVIT   broco_NOUN
+         00:46:38.380 - 00:46:39.250
+DOCVIT   praneta_NOUN
+         00:46:39.580 - 00:46:40.570
+DOCVIT   franela_NOUN
+         00:46:40.960 - 00:46:41.760
+DOCVIT   é_AUX comum_ADJ onde_PRON você_PRON mora_VERB?
+         00:46:42.535 - 00:46:44.725
+LAR1FI   não_ADV
+         00:46:44.165 - 00:46:44.665
+DOCVIT   nunca_ADV ouviu_VERB
+         00:46:46.385 - 00:46:47.475
+LAR1FI   já_ADV ouvi_VERB minha_DET vó_NOUN falando_VERB
+         00:46:47.485 - 00:46:49.425
+DOCVIT   só_ADV sua_DET avó_NOUN
+         00:46:50.780 - 00:46:51.740
+LAR1FI   sim_ADV só_ADV minha_DET avó_NOUN
+         00:46:51.945 - 00:46:52.965
+DOCVIT   em_ADP ônibus_NOUN você_PRON escuta_VERB as_DET pessoas_NOUN falarem_VERB desse_ADP jeito_NOUN?
+         00:46:53.990 - 00:46:56.540
+DOCVIT   o_DET ônibus_NOUN da_ADP sua_DET comunidade_NOUN
+         00:46:56.970 - 00:46:58.530
+LAR1FI   ah_ADV sim_ADV
+         00:46:56.970 - 00:46:58.530
+LAR1FI   já_ADV escutei_VERB as_DET pessoas_NOUN falarem_VERB tipo_NOUN assim_ADV
+         00:46:58.855 - 00:47:00.995
+LAR1FI   não_ADV é_AUX frequente_ADJ mas_CCONJ eu_PRON ouvi_VERB sim_ADV
+         00:47:01.250 - 00:47:03.230
+DOCVIT   você_PRON acha_VERB que_SCONJ esse_DET jeito_NOUN de_SCONJ falar_VERB é_AUX típico_ADJ de_ADP alguma_DET localidade_NOUN?
+         00:47:04.700 - 00:47:08.160
+LAR1FI   não_ADV
+         00:47:09.665 - 00:47:10.285
+LAR1FI   não_ADV sei_VERB explicar_VERB não_ADV sei_VERB informar_VERB isso_PRON não_ADV sei_VERB falar_VERB
+         00:47:10.355 - 00:47:13.870
+DOCVIT   mas_CCONJ assim_ADV no_ADP seu_DET achismo_NOUN você_PRON acha_VERB que_SCONJ
+         00:47:15.450 - 00:47:18.740
+DOCVIT   as_DET pessoas_NOUN que_PRON falam_VERB assim_ADV é_AUX típico_ADJ de_ADP uma_DET região_NOUN de_ADP uma_DET determinada_ADJ região_NOUN
+         00:47:19.150 - 00:47:22.720
+LAR1FI   acho_VERB que_SCONJ sim_ADV pode_VERB ser_AUX por_ADP exemplo_NOUN de_ADP interior_NOUN de_ADP regiões_NOUN distantes_ADJ
+         00:47:24.090 - 00:47:28.250
+LAR1FI   acho_VERB que_SCONJ sim_ADV
+         00:47:28.430 - 00:47:29.110
+DOCVIT   você_PRON acha_VERB que_SCONJ esse_DET modo_NOUN de_SCONJ falar_VERB tem_VERB alguma_DET relação_NOUN com_ADP a_DET escolarização_NOUN da_ADP pessoa_NOUN?
+         00:47:30.650 - 00:47:34.980
+LAR1FI   sim_ADV com_ADP certeza_NOUN
+         00:47:35.350 - 00:47:36.540
+LAR1FI   é_AUX como_ADV você_PRON tocou_VERB nisso_PRON realmente_ADV meu_DET pai_NOUN que_PRON não_ADV concluiu_VERB o_DET ensino_NOUN fundamental_ADJ ele_PRON realmente_ADV fala_VERB algumas_DET coisas_NOUN erradas_VERB
+         00:47:37.430 - 00:47:44.460
+DOCVIT   então_ADV você_PRON acha_VERB que_SCONJ é_AUX por_ADP causa_NOUN da_ADP escolarização_NOUN
+         00:47:45.880 - 00:47:47.720
+LAR1FI   é_AUX por_ADP causa_NOUN da_ADP escolaridade_NOUN isso_PRON mesmo_ADV
+         00:47:46.865 - 00:47:49.215
+DOCVIT   falar_VERB tia_NOUN 
+         00:47:50.665 - 00:47:51.885
+DOCVIT   dia_NOUN
+         00:47:52.050 - 00:47:52.730
+DOCVIT   dente_NOUN
+         00:47:53.235 - 00:47:54.175
+DOCVIT   médico_NOUN
+         00:47:54.540 - 00:47:55.530
+DOCVIT   é_AUX comum_ADJ onde_PRON você_PRON mora_VERB?
+         00:47:55.830 - 00:47:57.360
+LAR1FI   é_AUX comum_ADJ no_ADP nordeste_NOUN né nordeste_NOUN não_ADV
+         00:47:58.190 - 00:48:00.410
+LAR1FI   do_ADP centro_NOUN oeste_ADJ que_PRON é_AUX
+         00:48:00.705 - 00:48:02.445
+LAR1FI   que_SCONJ as_DET pessoas_NOUN falam_VERB assim_ADV né é_AUX mais_ADV comum_ADJ
+         00:48:02.750 - 00:48:04.840
+LAR1FI   mas_CCONJ eu_PRON num_ADP ouvi_VERB muito_ADV não_ADV mas_CCONJ tem_VERB pessoas_NOUN que_PRON replicam_VERB mas_CCONJ não_ADV sendo_AUX comum_ADJ aqui_ADV
+         00:48:05.100 - 00:48:09.330
+DOCVIT   você_PRON acha_VERB que_SCONJ são_AUX pessoas_NOUN de_ADP fora_ADV que_PRON falam_VERB
+         00:48:10.155 - 00:48:11.525
+LAR1FI   isso_PRON
+         00:48:11.595 - 00:48:12.315
+DOCVIT   escuta_VERB muito_ADV aqui_ADV na_ADP ufs_PROPN?
+         00:48:13.355 - 00:48:14.955
+LAR1FI   não_ADV
+         00:48:15.250 - 00:48:15.870
+LAR1FI   são_AUX pessoas_NOUN que_PRON vem_VERB de_ADP fora_ADV mesmo_ADV que_SCONJ já_ADV que_SCONJ tão_ADV chegando_VERB aqui_ADV agora_ADV
+         00:48:16.955 - 00:48:21.365
+LAR1FI   falam_VERB assim_ADV
+         00:48:21.565 - 00:48:22.445
+DOCVIT   e_CCONJ você_PRON percebe_VERB
+         00:48:22.415 - 00:48:23.585
+LAR1FI   percebo_VERB
+         00:48:23.585 - 00:48:24.575
+DOCVIT   que_SCONJ é_AUX de_ADP fora_ADV
+         00:48:24.535 - 00:48:25.445
+DISF     (EST)
+         00:48:24.870 - 00:48:25.360
+DOCVIT   o_PRON que_PRON você_PRON acha_VERB desse_ADP jeito_NOUN de_SCONJ falar_VERB?
+         00:48:27.555 - 00:48:29.885
+LAR1FI   eu_PRON acho_VERB engraçado_ADJ
+         00:48:30.595 - 00:48:31.715
+LAR1FI   eu_PRON acho_VERB engraçado_ADJ
+         00:48:32.070 - 00:48:32.810
+LAR1FI   e_CCONJ eu_PRON sei_VERB que_SCONJ não_ADV é_AUX uma_DET coisa_NOUN errada_VERB 
+         00:48:33.010 - 00:48:36.170
+LAR1FI   porque_SCONJ é_VERB como_ADV eu_PRON falei_VERB é_AUX da_ADP cultura_NOUN deles_PRON
+         00:48:36.745 - 00:48:39.185
+LAR1FI   eles_PRON vão_AUX tipo_NOUN
+         00:48:39.450 - 00:48:40.510
+LAR1FI   depois_ADV vendo_VERB que_SCONJ
+         00:48:40.585 - 00:48:41.955
+LAR1FI   não_ADV está_AUX correto_ADJ para_SCONJ ser_AUX falado_VERB mas_CCONJ não_ADV é_AUX errado_VERB não_ADV é_AUX totalmente_ADV errado_VERB
+         00:48:42.065 - 00:48:46.205
+DOCVIT   você_PRON acha_VERB que_SCONJ esse_DET jeito_NOUN de_SCONJ falar_VERB é_AUX típico_ADJ de_ADP alguma_DET localidade_NOUN?
+         00:48:47.470 - 00:48:50.850
+LAR1FI   sim_ADV
+         00:48:51.375 - 00:48:51.865
+LAR1FI   falei_VERB já_ADV
+         00:48:52.125 - 00:48:52.645
+DOCVIT   isso_PRON
+         00:48:52.870 - 00:48:53.350
+DOCVIT   você_PRON acha_VERB que_SCONJ esse_DET modo_NOUN de_SCONJ falar_VERB tem_VERB alguma_DET relação_NOUN com_ADP a_DET escolarização_NOUN?
+         00:48:54.825 - 00:48:58.635
+LAR1FI   sim_ADV
+         00:48:59.015 - 00:48:59.725
+DOCVIT   você_PRON acha_VERB que_SCONJ esse_DET modo_NOUN de_ADP falar_VERB é_AUX considerado_VERB mais_ADV bonito_ADJ?
+         00:49:03.730 - 00:49:07.540
+LAR1FI   não_ADV não_ADV acho_VERB bonito_ADJ não_ADV
+         00:49:07.870 - 00:49:09.250
+LAR1FI   mas_CCONJ eu_PRON acho_VERB que_SCONJ tem_VERB pessoas_NOUN que_PRON acham_VERB bonito_ADJ mas_CCONJ eu_PRON não_ADV achso_PROPN não_ADV
+         00:49:09.535 - 00:49:13.080
+DOCVIT   você_PRON acha_VERB que_SCONJ doido_VERB 
+         00:49:14.780 - 00:49:16.360
+DOCVIT   e_CCONJ doido_VERB
+         00:49:16.525 - 00:49:17.475
+DOCVIT   tem_VERB o_DET mesmo_ADJ significado_NOUN?
+         00:49:17.565 - 00:49:18.915
+DISF     (HES)
+         00:49:21.095 - 00:49:21.505
+LAR1FI   rapaz_NOUN doido_VERB eu_PRON acho_VERB que_SCONJ entre_ADP as_DET pessoas_NOUN
+         00:49:21.775 - 00:49:25.365
+LAR1FI   mais_ADV jovens_NOUN não_ADV acho_VERB que_SCONJ é_AUX doido_ADJ tipo_NOUN a_DET pessoa_NOUN tem_VERB distúrbios_NOUN mentais_ADJ deve_VERB ser_AUX doido_VERB uma_DET pessoa_NOUN 
+         00:49:25.465 - 00:49:30.785
+LAR1FI   pertubada_VERB entre_ADP si_PRON e_CCONJ doido_VERB uma_DET pessoa_NOUN como_ADP distúrbios_NOUN mentais_ADJ mesmo_ADV eu_PRON acho_VERB que_SCONJ é_AUX isso_PRON
+         00:49:31.260 - 00:49:36.540
+DOCVIT   você_PRON utiliza_VERB essas_DET palavras_NOUN nos_ADP mesmos_ADJ contextos_NOUN?
+         00:49:39.060 - 00:49:41.890
+LAR1FI   eu_PRON sou_AUX uso_NOUN doido_ADJ não_ADV uso_NOUN doido_ADJ
+         00:49:42.690 - 00:49:44.640
+DOCVIT   não_ADV usa_VERB doido_VERB
+         00:49:44.840 - 00:49:46.270
+LAR1FI   não_ADV só_ADV uso_NOUN doido_ADJ
+         00:49:45.765 - 00:49:46.735
+DOCVIT   então_ADV você_PRON não_ADV costuma_VERB falar_VERB
+         00:49:47.570 - 00:49:49.090
+DOCVIT   doido_ADJ como_SCONJ giria_VERB que_SCONJ você_PRON falou_VERB 
+         00:49:49.365 - 00:49:52.315
+LAR1FI   não_ADV
+         00:49:49.435 - 00:49:49.905
+LAR1FI   não_ADV não_ADV
+         00:49:51.175 - 00:49:52.265
+DOCVIT   quando_ADV você_PRON está_AUX falando_VERB sobre_ADP você_PRON
+         00:49:54.525 - 00:49:56.905
+DOCVIT   junto_ADV mais_ADV alguém_PRON
+         00:49:57.090 - 00:49:58.260
+DOCVIT   você_PRON fala_VERB mais_ADV nós_PRON 
+         00:49:58.730 - 00:50:00.530
+DOCVIT   ou_CCONJ fala_VERB mais_ADV a_DET gente_NOUN
+         00:50:00.665 - 00:50:02.045
+LAR1FI   depende_VERB de_ADP onde_PRON eu_PRON estivermos_VERB porque_SCONJ o_DET ambiente_NOUN fala_VERB muito_ADV de_ADP como_ADP a_DET gente_NOUN fala_VERB entre_ADP si_PRON eu_PRON acho_VERB que_SCONJ aqui_ADV na_ADP UFS eu_PRON não_ADV falaria_VERB mais_ADV a_DET gente_NOUN 
+         00:50:03.580 - 00:50:11.645
+LAR1FI   (   )
+         00:50:12.140 - 00:50:12.780
+LAR1FI   ou_CCONJ nois_PROPN não_ADV falaria_VERB nós_PRON falaria_VERB nois_ADJ 
+         00:50:13.425 - 00:50:15.965
+LAR1FI   eu_PRON não_ADV sei_VERB dependeria_VERB do_ADP contexto_NOUN da_ADP frase_NOUN em_ADP si_PRON
+         00:50:16.150 - 00:50:19.310
+DOCVIT   mas_CCONJ no_ADP dia_NOUN a_ADP dia_NOUN você_PRON se_PRON vê_VERB mais_ADV falando_VERB nós_PRON ou_CCONJ a_DET gente_NOUN
+         00:50:19.835 - 00:50:23.465
+LAR1FI   eu_PRON acho_VERB que_SCONJ a_DET gente_NOUN fala_VERB mais_ADV a_DET gente_NOUN
+         00:50:25.995 - 00:50:27.255
+LAR1FI   eh a_DET gente_NOUN fala_VERB mais_ADV a_DET gente_NOUN
+         00:50:27.550 - 00:50:29.120
+DOCVIT   certo_ADJ
+         00:50:30.825 - 00:50:31.525
+DOCVIT   você_PRON acha_VERB que_SCONJ é_AUX melhor_ADJ usar_VERB nós_PRON ou_CCONJ a_DET gente_NOUN
+         00:50:32.080 - 00:50:35.700
+LAR1FI   eu_PRON acho_VERB que_SCONJ
+         00:50:36.780 - 00:50:37.850
+DISF     (HES)
+         00:50:38.155 - 00:50:38.915
+LAR1FI   o_DET brasileiro_NOUN em_ADP si_PRON não_ADV usa_VERB nós_PRON 
+         00:50:39.050 - 00:50:40.840
+LAR1FI   tá_AUX mais_ADV usando_VERB o_DET a_DET gente_NOUN agora_ADV nu/_NOUN não_ADV usa_VERB nós_PRON
+         00:50:41.485 - 00:50:43.825
+DOCVIT   então_ADV pra_ADP você_PRON é_AUX melhor_ADJ usar_VERB
+         00:50:45.830 - 00:50:47.730
+DOCVIT   o_DET a_DET gente_PRON?
+         00:50:48.295 - 00:50:49.115
+LAR1FI   o_DET correto_NOUN seria_AUX usar_VERB o_DET nós_PRON né mas_CCONJ como_ADV é_AUX uma_DET coisa_NOUN mais_ADV comum_ADJ corriqueira_ADJ a_DET gente_NOUN usa_VERB mais_ADV o_DET a_DET gente_NOUN mesmo_ADV
+         00:50:49.050 - 00:50:55.610
+DOCVIT   certo_ADJ
+         00:50:56.240 - 00:50:56.930
+DOCVIT   o_PRON que_PRON você_PRON acha_VERB de_ADP construções_NOUN como_ADP
+         00:50:57.980 - 00:51:00.690
+DOCVIT   nós_PRON comemo_PROPN a_DET gente_NOUN vamo_VERB nós_PRON vai_AUX
+         00:51:00.940 - 00:51:04.620
+LAR1FI   eu_PRON acho_VERB feio_ADJ
+         00:51:05.435 - 00:51:06.595
+LAR1FI   muito_ADV feio_ADJ
+         00:51:06.840 - 00:51:07.850
+LAR1FI   mas_CCONJ dependendo_VERB da_ADP pessoa_NOUN que_PRON utilizar_VERB a_DET gente_NOUN não_ADV pode_VERB 
+         00:51:08.790 - 00:51:11.140
+LAR1FI   julgar_VERB né
+         00:51:12.020 - 00:51:12.380
+DOCVIT   você_PRON acha_VERB que_SCONJ essas_DET formas_NOUN determinam_VERB de_ADP onde_PRON o_DET falante_NOUN é_AUX a_DET região_NOUN do_ADP país_NOUN o_DET estado_NOUN
+         00:51:14.640 - 00:51:20.290
+LAR1FI   acho_VERB que_SCONJ a_DET região_NOUN e_CCONJ país_NOUN
+         00:51:21.590 - 00:51:23.300
+LAR1FI   acho_VERB que_SCONJ não_ADV acho_VERB que_SCONJ determina_VERB é_VERB se_SCONJ a_DET pessoa_NOUN é_AUX do_ADP interior_NOUN ou_CCONJ ou_CCONJ
+         00:51:23.610 - 00:51:28.020
+LAR1FI   de_ADP metrópole_NOUN ou_CCONJ ou_CCONJ cidade_NOUN mais_ADV
+         00:51:28.680 - 00:51:31.250
+LAR1FI   popular_ADJ popularizada_VERB
+         00:51:32.120 - 00:51:33.640
+DOCVIT   você_PRON acha_VERB que_SCONJ a_DET escolarização_NOUN tem_VERB relação_NOUN com_ADP a_DET escolha_NOUN com_ADP uma_NUM dessas_ADP formas_NOUN
+         00:51:35.820 - 00:51:40.950
+LAR1FI   sim_ADV com_ADP certeza_NOUN
+         00:51:39.610 - 00:51:41.060
+DOCVIT   como_ADV você_PRON enxerga_VERB isso_PRON?
+         00:51:42.990 - 00:51:44.550
+LAR1FI   que_SCONJ se_SCONJ a_DET pessoa_NOUN tivesse_VERB
+         00:51:45.555 - 00:51:47.270
+DISF     (HES)
+         00:51:47.305 - 00:51:47.755
+LAR1FI   por_ADP exemplo_NOUN estudado_VERB concluido_VERB o_DET ensino_NOUN médio_ADJ ou_CCONJ estado_NOUN na_ADP universidade_NOUN nenhuma_DET pessoa_NOUN construiria_VERB uma_DET frase_NOUN assim_ADV
+         00:51:48.310 - 00:51:55.290
+LAR1FI   saberia_VERB que_SCONJ tem_AUX que_SCONJ ter_VERB a_DET concordância_NOUN verbal_ADJ e_CCONJ tal_ADV
+         00:51:55.830 - 00:51:59.810
+LAR1FI   acho_VERB que_SCONJ é_AUX por_ADP causa_NOUN da_ADP escolarização_NOUN
+         00:52:00.175 - 00:52:01.545
+DOCVIT   certo_ADJ
+         00:52:02.720 - 00:52:03.390

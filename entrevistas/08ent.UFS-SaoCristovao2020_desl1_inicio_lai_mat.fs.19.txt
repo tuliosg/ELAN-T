@@ -1,0 +1,2475 @@
+TIPO DE AMOSTRA: ENT
+DOCUMENTADOR(A): PALOMA
+COMUNIDADE: UFS
+ANO: 2020
+DESLOCAMENTO: I
+TEMPO DE CURSO: INÍCIO
+INF: LAI1HI
+SEXO: MAS
+IDADE: 19
+CIDADE NATAL: ARACAJU, SE
+GRAVAÇÃO: CABINE
+QUALIDADE DO ÁUDIO: VOZ AUDÍVEL, COM PRESENÇA DE RUÍDOS DO EQUIPAMENTO (PROVAVELMENTE MAU CONTATO COM CELULAR)
+
+DOCPC    Qual o seu nome?
+         00:00:02.330 - 00:00:03.060
+LAI1FI   Laís Vitória Batista Santos
+         00:00:03.370 - 00:00:05.250
+DOCPC    quantos anos você tem Laís?
+         00:00:05.800 - 00:00:07.190
+LAI1FI   dezenove anos
+         00:00:07.320 - 00:00:08.360
+DISF     (HES)
+         00:00:09.357 - 00:00:09.757
+DOCPC    você nasceu aqui em Sergipe?
+         00:00:09.770 - 00:00:12.455
+LAI1FI   sim eu nasci aqui em Aracaju
+         00:00:13.195 - 00:00:15.555
+DISF     (HES)
+         00:00:16.860 - 00:00:17.280
+DOCPC    e
+         00:00:17.280 - 00:00:18.030
+DOCPC    onde você mora?
+         00:00:18.310 - 00:00:19.200
+LAI1FI   eu morava em Jandaira Bahia
+         00:00:19.450 - 00:00:21.730
+LAI1FI   mas devido ao curso eu vim morar aqui de novo
+         00:00:21.975 - 00:00:25.515
+LAI1FI   fui embora quando eu tinha uns oito meses
+         00:00:25.950 - 00:00:28.120
+DISF     (HES)
+         00:00:31.200 - 00:00:31.800
+DISF     (HES)
+         00:00:33.580 - 00:00:34.800
+DOCPC    então você não tem nenhuma memória né daqui de Aracaju
+         00:00:35.390 - 00:00:39.020
+DISF     (HES)
+         00:00:39.370 - 00:00:39.850
+DOCPC    e porque
+         00:00:39.965 - 00:00:40.505
+DOCPC    você voltou pra aqui pro estado?
+         00:00:40.980 - 00:00:44.420
+LAI1FI   eu voltei porque eu passei para o curso
+         00:00:45.135 - 00:00:48.075
+LAI1FI   superior
+         00:00:48.200 - 00:00:49.030
+LAI1FI   e devido a isso precisei
+         00:00:49.530 - 00:00:51.720
+LAI1FI   mudar de cidade
+         00:00:52.090 - 00:00:53.160
+DISF     (HES)
+         00:00:54.580 - 00:00:54.920
+DOCPC    você
+         00:00:54.980 - 00:00:55.990
+DOCPC    fez o Enem pra cá né?
+         00:00:57.225 - 00:00:59.565
+DOCPC    mas você tinha uma outra 
+         00:00:59.700 - 00:01:01.810
+DISF     (HES)
+         00:01:01.880 - 00:01:02.560
+DOCPC    universidade em mente ou você escolheu especificamente a UFS?
+         00:01:02.925 - 00:01:06.675
+LAI1FI   eu sempre quis estudar aqui na UFS
+         00:01:07.085 - 00:01:09.205
+DOCPC    por que?
+         00:01:10.100 - 00:01:10.810
+LAI1FI   e por isso
+         00:01:10.100 - 00:01:10.950
+DISF     ((RISOS))
+         00:01:10.900 - 00:01:11.530
+DISF     (HES)
+         00:01:12.165 - 00:01:12.725
+LAI1FI   não sei dizer exatamente o porquê
+         00:01:13.440 - 00:01:16.140
+LAI1FI   mas eu sempre tive essa vontade
+         00:01:16.475 - 00:01:18.255
+LAI1FI   já tive tios que estudaram aqui a esposa de um tio também
+         00:01:18.550 - 00:01:23.140
+LAI1FI   e ainda na formação dela no dia da colação de grau
+         00:01:23.490 - 00:01:27.790
+LAI1FI   eu afirmei que iria estudar aqui
+         00:01:28.075 - 00:01:29.955
+LAI1FI   e isso se realizou 
+         00:01:30.180 - 00:01:31.980
+DOCPC    e como foi pra você ter passado na universidade que você queria?
+         00:01:32.575 - 00:01:37.885
+LAI1FI   foi muito gratificante muito mesmo fiquei muito feliz
+         00:01:38.095 - 00:01:41.615
+DISF     (HES)
+         00:01:42.595 - 00:01:43.125
+DOCPC    matemática era a sua opção de curso?
+         00:01:43.140 - 00:01:45.100
+DISF     (HES)
+         00:01:45.755 - 00:01:46.545
+LAI1FI   não eu não sei assim exatamente porque eu não tinha um curso em mente durante o ensino médio
+         00:01:47.310 - 00:01:52.210
+LAI1FI   mas era uma das minhas opções 
+         00:01:52.615 - 00:01:54.865
+DOCPC    qual era a sua outra opção?
+         00:01:56.025 - 00:01:57.615
+DISF     (HES)
+         00:01:58.040 - 00:01:58.290
+LAI1FI   ciência da computação
+         00:01:58.340 - 00:01:59.475
+DISF     (HES)
+         00:02:01.180 - 00:02:01.830
+DOCPC    aqui em Aracaju você mora com familiares ou mora sozinha?
+         00:02:02.590 - 00:02:07.070
+LAI1FI   eu moro com um tio meu
+         00:02:07.545 - 00:02:09.125
+DOCPC    tem
+         00:02:10.880 - 00:02:11.350
+DOCPC    muita gente da sua família aqui ou só esse tio com quem você mora?
+         00:02:11.580 - 00:02:15.430
+LAI1FI   tem mais outros dois tios apenas tios
+         00:02:16.120 - 00:02:18.960
+DISF     (HES)
+         00:02:20.222 - 00:02:20.632
+DOCPC    sua mãe 
+         00:02:20.620 - 00:02:22.015
+DISF     (HES)
+         00:02:22.520 - 00:02:23.030
+DOCPC    continua morando
+         00:02:23.130 - 00:02:24.340
+DISF     (HES)
+         00:02:24.547 - 00:02:24.897
+DOCPC    em
+         00:02:24.900 - 00:02:25.465
+LAI1FI   Jandaira Bahia
+         00:02:25.710 - 00:02:26.900
+DOCPC    Jandaira Bahia né
+         00:02:26.375 - 00:02:27.790
+LAI1FI   isso
+         00:02:27.585 - 00:02:28.285
+DOCPC    e com que frequência você a vê?
+         00:02:28.640 - 00:02:30.780
+LAI1FI   geralmente quando ela vem me visitar ou
+         00:02:31.695 - 00:02:35.525
+LAI1FI   quando dá recesso das férias
+         00:02:35.775 - 00:02:38.195
+LAI1FI   ou férias que eu vou pra lá
+         00:02:38.650 - 00:02:40.320
+DOCPC    e quando tem algum feriado assim você fica aqui em Aracaju ou você vai pra lá?
+         00:02:42.060 - 00:02:46.620
+LAI1FI   feriado também eu vou
+         00:02:47.035 - 00:02:48.355
+LAI1FI   pra lá
+         00:02:48.500 - 00:02:49.010
+DISF     (HES)
+         00:02:50.730 - 00:02:51.620
+DOCPC    eu perguntei
+         00:02:51.940 - 00:02:52.740
+DOCPC    seu nome idade e tal
+         00:02:53.305 - 00:02:54.185
+DOCPC    qual seu gênero Laís?
+         00:02:54.330 - 00:02:55.750
+LAI1FI   gênero feminino
+         00:02:55.805 - 00:02:56.985
+DOCPC    é rorientação sexual?
+         00:02:57.340 - 00:02:58.860
+LAI1FI   bissexual
+         00:02:58.895 - 00:02:59.855
+DOCPC    ok
+         00:03:01.030 - 00:03:01.740
+DISF     (HES)
+         00:03:02.180 - 00:03:03.030
+DOCPC    você tem irmãos?
+         00:03:03.840 - 00:03:04.960
+LAI1FI   não
+         00:03:05.345 - 00:03:06.065
+DISF     (HES)
+         00:03:07.045 - 00:03:07.455
+LAI1FI   parte de pai
+         00:03:07.650 - 00:03:08.510
+LAI1FI   tenho mais
+         00:03:09.050 - 00:03:10.045
+LAI1FI   nunca conheci também
+         00:03:11.000 - 00:03:12.490
+DOCPC    você é da sua mãe filha única né
+         00:03:13.480 - 00:03:15.830
+LAI1FI   isso
+         00:03:15.390 - 00:03:15.790
+DOCPC    qual a escolaridade da sua mãe?
+         00:03:16.915 - 00:03:19.255
+LAI1FI   ela tem pós graduação
+         00:03:19.660 - 00:03:21.240
+DOCPC    em que área?
+         00:03:22.400 - 00:03:23.235
+LAI1FI   pedagogia
+         00:03:23.510 - 00:03:24.850
+LAI1FI   ela
+         00:03:25.025 - 00:03:25.655
+LAI1FI   ela é professora de pedagogia
+         00:03:26.105 - 00:03:27.575
+LAI1FI   é formada em pedagogia professora do ensino básico
+         00:03:28.295 - 00:03:30.845
+DISF     (HES)
+         00:03:32.345 - 00:03:33.015
+DOCPC    você aqui em Aracaju
+         00:03:35.315 - 00:03:37.475
+LAI1FI   São Cristóvão Aracaju
+         00:03:38.310 - 00:03:39.430
+DISF     ((RISOS))
+         00:03:39.015 - 00:03:39.515
+DOCPC    como é que você vem aqui pra UFS?
+         00:03:40.055 - 00:03:41.845
+LAI1FI   eu venho de transporte público
+         00:03:42.165 - 00:03:44.265
+DOCPC    o da setransp mesmo né?
+         00:03:45.220 - 00:03:47.160
+LAI1FI   isso
+         00:03:46.685 - 00:03:47.285
+DOCPC    atualmente você
+         00:03:48.030 - 00:03:49.990
+DOCPC    trabalha ou apenas estuda?
+         00:03:50.345 - 00:03:52.655
+LAI1FI   eu estou estagiando agora 
+         00:03:53.025 - 00:03:54.575
+LAI1FI   não no curso de matemática em si e sim de outro curso que também eu faço
+         00:03:55.565 - 00:03:59.465
+LAI1FI   simultaneamente
+         00:03:59.850 - 00:04:00.610
+DOCPC    qual outro curso que você faz?
+         00:04:01.455 - 00:04:03.315
+LAI1FI   técnico em informática
+         00:04:03.490 - 00:04:04.940
+LAI1FI   pelo instituto federal
+         00:04:05.090 - 00:04:06.370
+DOCPC    e como é a rotina de conciliar dois cursos?
+         00:04:07.400 - 00:04:10.620
+LAI1FI   cansativa porém
+         00:04:10.995 - 00:04:13.025
+LAI1FI   gratificante
+         00:04:13.145 - 00:04:14.195
+LAI1FI   que eu gosto de es/
+         00:04:14.675 - 00:04:16.085
+LAI1FI   estudar
+         00:04:16.415 - 00:04:17.235
+LAI1FI   dessa área
+         00:04:17.860 - 00:04:18.730
+LAI1FI   e pra mim é bem legal
+         00:04:19.190 - 00:04:20.500
+DISF     (HES)
+         00:04:21.980 - 00:04:22.410
+DOCPC    por que você decidiu fazer o técnico em informática?
+         00:04:22.790 - 00:04:27.210
+LAI1FI   inicialmente foi por medo de não passar aqui
+         00:04:27.965 - 00:04:30.965
+DISF     (HES)
+         00:04:31.620 - 00:04:32.430
+LAI1FI   ficar sem ter o que fazer
+         00:04:32.650 - 00:04:34.030
+LAI1FI   mas
+         00:04:35.085 - 00:04:35.855
+LAI1FI   depois quando eu passei
+         00:04:36.365 - 00:04:38.245
+LAI1FI   eu também tnha tido uma experiência durante o ensino médio
+         00:04:39.050 - 00:04:43.140
+DISF     (HES)
+         00:04:43.515 - 00:04:44.125
+LAI1FI   sobre
+         00:04:44.170 - 00:04:44.950
+LAI1FI   construção de dese/ de aplicativo desenho movimento foi um concurso
+         00:04:45.525 - 00:04:49.795
+LAI1FI   e aí
+         00:04:50.405 - 00:04:51.465
+LAI1FI   durante o concurso ficou aquela ideia
+         00:04:51.780 - 00:04:54.200
+LAI1FI   aí quando eu tava procurando um curso que 
+         00:04:54.515 - 00:04:57.195
+LAI1FI   subiu
+         00:04:57.470 - 00:04:58.050
+LAI1FI   não substituisse o da ufs mas que não me deixasse 
+         00:04:58.405 - 00:05:02.335
+DISF     (EST)
+         00:04:59.655 - 00:05:00.115
+LAI1FI   sem fazer nada
+         00:05:02.465 - 00:05:03.425
+LAI1FI   e aí eu achei esse
+         00:05:03.960 - 00:05:05.380
+LAI1FI   que era o técnino em informática pra desenvolvimento
+         00:05:05.575 - 00:05:08.375
+LAI1FI   de softwares
+         00:05:08.660 - 00:05:10.090
+LAI1FI   e eu me inscrevi mas
+         00:05:11.020 - 00:05:12.520
+LAI1FI   sem a pretensão de continuar a intenção era quando começar na UFS trancar
+         00:05:12.935 - 00:05:17.945
+LAI1FI   só que como eu acabei gostando muito do curso
+         00:05:18.380 - 00:05:22.360
+LAI1FI   eu tranquei oh eu não tranquei durante 
+         00:05:22.820 - 00:05:26.490
+LAI1FI   o curso ia ficar pesado
+         00:05:27.430 - 00:05:29.455
+DISF     (EST)
+         00:05:28.150 - 00:05:28.550
+LAI1FI   mas eu tava gostando e ia continuar
+         00:05:29.675 - 00:05:31.415
+DISF     (HES)
+         00:05:32.095 - 00:05:32.405
+DOCPC    você disse que participou de um concurso num foi de desenvolvimento de software 
+         00:05:32.440 - 00:05:36.920
+LAI1FI   isso
+         00:05:37.065 - 00:05:37.845
+DOCPC    como foi?
+         00:05:37.450 - 00:05:38.090
+LAI1FI   foi bem legal e puxado mas na verdade no final nós não conseguimos entregar
+         00:05:39.235 - 00:05:45.235
+LAI1FI   por conta do tempo
+         00:05:45.740 - 00:05:47.210
+LAI1FI   era o tec innovation challenge
+         00:05:47.720 - 00:05:49.720
+LAI1FI   é um concurso pra meninas
+         00:05:50.045 - 00:05:51.715
+LAI1FI   pra incentivá-las a 
+         00:05:52.075 - 00:05:53.845
+LAI1FI   entrar nessa área 
+         00:05:54.085 - 00:05:55.345
+DOCPC    que bacana
+         00:05:55.510 - 00:05:56.610
+LAI1FI   participou mais eu e mais outras quatro colegas
+         00:05:56.635 - 00:05:59.275
+LAI1FI   é um concurso
+         00:05:59.990 - 00:06:01.350
+LAI1FI   a nível internacional
+         00:06:01.595 - 00:06:03.095
+LAI1FI   e
+         00:06:03.880 - 00:06:04.630
+LAI1FI   não conseguimos entregar o proje/ o projeto
+         00:06:05.790 - 00:06:09.215
+LAI1FI   mas ficou como experiência e foi muito interessante
+         00:06:09.510 - 00:06:12.795
+DOCPC    voce considera importante concursos desse tipo que incentivem meninas a irem pra exatas?
+         00:06:13.955 - 00:06:20.965
+LAI1FI   sim
+         00:06:21.330 - 00:06:21.930
+LAI1FI   com certeza
+         00:06:22.225 - 00:06:23.455
+LAI1FI   porque eu acredito que nem sempre seja uma questão de
+         00:06:24.085 - 00:06:28.045
+LAI1FI   não gostar da área mas talvez
+         00:06:29.060 - 00:06:31.310
+LAI1FI   de não se sentir
+         00:06:31.790 - 00:06:33.030
+LAI1FI   com eu posso dizer incentivada a participar desse tipo de coisa
+         00:06:34.045 - 00:06:37.545
+LAI1FI   eu acho que esse tipo de conhecimento na área de tecnologia
+         00:06:38.430 - 00:06:41.690
+LAI1FI   é importante independemente de gênero de idade
+         00:06:42.185 - 00:06:45.045
+DISF     (HES)
+         00:06:45.760 - 00:06:46.530
+LAI1FI   porque é o modo de como a gente tá vivendo hoje 
+         00:06:47.430 - 00:06:50.010
+LAI1FI   mas
+         00:06:50.565 - 00:06:51.295
+LAI1FI   eu acho que pra meninas é muito importante
+         00:06:51.815 - 00:06:54.365
+DOCPC    você faz dois cursos na área de exatas
+         00:06:55.945 - 00:06:58.895
+DISF     (HES)
+         00:06:59.037 - 00:06:59.417
+DOCPC    e como é 
+         00:06:59.440 - 00:07:00.685
+DOCPC    a presença feminina nesses dois cursos você sente que tem
+         00:07:01.050 - 00:07:04.770
+DOCPC    muita diferença entre homens e mulheres nos dois cursos?
+         00:07:04.915 - 00:07:08.735
+LAI1FI   então o curso de matemática que eu faço é licenciatura 
+         00:07:09.450 - 00:07:13.490
+LAI1FI   então eu acho que por ser licenciatura
+         00:07:13.775 - 00:07:15.835
+LAI1FI   tem mais presença feminina
+         00:07:15.980 - 00:07:17.640
+LAI1FI   mas o curso 
+         00:07:18.115 - 00:07:19.405
+LAI1FI   técnico em informática
+         00:07:19.555 - 00:07:20.995
+LAI1FI   na minha turma no ano 
+         00:07:21.510 - 00:07:23.450
+LAI1FI   anterior dois mil e dezoito
+         00:07:24.035 - 00:07:25.545
+LAI1FI   quando começamos éramos vinte alunos e apenas
+         00:07:25.805 - 00:07:28.935
+LAI1FI   quatro meninas não três na turma
+         00:07:29.295 - 00:07:32.015
+DISF     (HES)
+         00:07:32.690 - 00:07:33.410
+LAI1FI   como foi juntando com outras turmas acabou que
+         00:07:34.455 - 00:07:37.465
+LAI1FI   no final estamos com cinquenta por cento
+         00:07:37.855 - 00:07:40.575
+DISF     (EST)
+         00:07:40.385 - 00:07:40.845
+LAI1FI   mas no início a diferença era muito grande
+         00:07:40.870 - 00:07:44.190
+LAI1FI   não a nível de conhecimento claro
+         00:07:44.745 - 00:07:46.675
+LAI1FI   mas de presença mesmo 
+         00:07:46.915 - 00:07:49.245
+DOCPC    sim
+         00:07:48.785 - 00:07:49.245
+DOCPC    e
+         00:07:49.820 - 00:07:50.140
+DOCPC    como você se sente assim tando em um ambiente majoritariamente masculino?
+         00:07:50.855 - 00:07:55.805
+DISF     (HES)
+         00:07:56.875 - 00:07:57.335
+LAI1FI   era meio que afrontoso
+         00:07:57.890 - 00:07:59.160
+DISF     ((RISOS))
+         00:07:59.090 - 00:08:02.870
+LAI1FI   mas era legal
+         00:08:02.880 - 00:08:03.770
+LAI1FI   eu sempre tive muitos amigos meninos
+         00:08:04.135 - 00:08:06.645
+LAI1FI   então
+         00:08:07.035 - 00:08:07.755
+LAI1FI   eu me sentia confortável normal
+         00:08:08.680 - 00:08:11.170
+DISF     (EST)
+         00:08:10.290 - 00:08:11.030
+DISF     (HES)
+         00:08:12.290 - 00:08:13.060
+DOCPC    e
+         00:08:14.810 - 00:08:15.140
+DOCPC    futuramente
+         00:08:15.520 - 00:08:16.550
+DOCPC    pensando no mercado de trabalho e tal
+         00:08:16.770 - 00:08:19.430
+DOCPC    você pretende dar aula de matemática ou você pretende
+         00:08:19.795 - 00:08:24.855
+DOCPC    trabalhar em algo relacionado a matemática
+         00:08:25.030 - 00:08:27.450
+LAI1FI   eu penso em conciliar as duas coisas utilizar a informática
+         00:08:27.915 - 00:08:31.845
+LAI1FI   pra ensinar matemática
+         00:08:32.265 - 00:08:33.675
+LAI1FI   mas caso eu não
+         00:08:34.005 - 00:08:35.545
+LAI1FI   atue como professora digo
+         00:08:35.800 - 00:08:38.340
+LAI1FI   estando em uma sala de aula
+         00:08:38.625 - 00:08:40.575
+LAI1FI   de qualquer forma eu pretendo passar 
+         00:08:40.755 - 00:08:42.875
+LAI1FI   o conhecimento
+         00:08:43.690 - 00:08:44.980
+LAI1FI   de informática de tecnologia pra outras pessoas
+         00:08:45.430 - 00:08:49.205
+LAI1FI   ensinando mesmo
+         00:08:49.455 - 00:08:50.835
+DISF     (EST)
+         00:08:50.110 - 00:08:50.820
+DISF     (HES)
+         00:08:51.670 - 00:08:52.330
+DOCPC    ensinar é algo que
+         00:08:52.370 - 00:08:54.700
+LAI1FI   que me
+         00:08:55.715 - 00:08:56.195
+LAI1FI   que me deixa
+         00:08:56.670 - 00:08:57.830
+DOCPC    que você gosta
+         00:08:56.675 - 00:08:57.745
+LAI1FI   sim
+         00:08:57.895 - 00:08:58.305
+DOCPC    e por que assim?
+         00:08:59.235 - 00:09:00.585
+DOCPC    você sente vontade de ensinar
+         00:09:00.955 - 00:09:02.850
+LAI1FI   porque eu acho que o conhecimento é 
+         00:09:03.565 - 00:09:06.925
+DISF     (HES)
+         00:09:08.830 - 00:09:09.570
+LAI1FI   como eu posso
+         00:09:09.705 - 00:09:10.145
+LAI1FI   dizer
+         00:09:10.500 - 00:09:10.880
+DISF     (HES)
+         00:09:11.595 - 00:09:12.275
+LAI1FI   num sei ele
+         00:09:12.790 - 00:09:13.760
+LAI1FI   liberta as pessoas sabe
+         00:09:14.200 - 00:09:15.770
+LAI1FI   eu
+         00:09:16.320 - 00:09:16.850
+LAI1FI   vivi em um lugar que assim
+         00:09:17.660 - 00:09:19.320
+LAI1FI   eu sentia que as pessoas não se sentiam
+         00:09:20.005 - 00:09:22.555
+LAI1FI   não sentia
+         00:09:23.075 - 00:09:24.135
+LAI1FI   assim motivada pra
+         00:09:24.620 - 00:09:26.460
+LAI1FI   pra algo mais sabe por mais conhecimento
+         00:09:27.025 - 00:09:29.815
+LAI1FI   por crescer
+         00:09:30.015 - 00:09:31.075
+LAI1FI   essas coisas então
+         00:09:31.370 - 00:09:32.950
+LAI1FI   eu acho que
+         00:09:33.275 - 00:09:34.135
+LAI1FI   isso liberta
+         00:09:34.780 - 00:09:35.750
+LAI1FI   quando você
+         00:09:35.970 - 00:09:37.010
+LAI1FI   percebe que
+         00:09:37.145 - 00:09:38.155
+LAI1FI   aquilo pode te levar pra outro lugares pra outras experiências
+         00:09:38.335 - 00:09:42.415
+LAI1FI   mesmo que depois você sempre volte pro mesmo lugar 
+         00:09:42.775 - 00:09:45.225
+LAI1FI   não digo
+         00:09:45.685 - 00:09:46.715
+LAI1FI   em
+         00:09:46.945 - 00:09:47.225
+LAI1FI   conhecimento mas pra mesma cidade mesmo local
+         00:09:47.630 - 00:09:50.040
+LAI1FI   mas você tem muita
+         00:09:50.230 - 00:09:51.780
+LAI1FI   muita
+         00:09:52.330 - 00:09:52.610
+LAI1FI   facilidade em se comunicar e tal
+         00:09:53.335 - 00:09:55.985
+DOCPC    é a questão de contribuir com o conhecimento
+         00:09:56.575 - 00:09:59.215
+LAI1FI   de contribuir
+         00:09:58.460 - 00:09:59.250
+LAI1FI   exato
+         00:09:59.740 - 00:10:00.180
+DISF     (HES)
+         00:10:00.917 - 00:10:01.317
+DOCPC    você disse que
+         00:10:01.360 - 00:10:02.985
+DOCPC    morou
+         00:10:03.730 - 00:10:04.780
+DOCPC    desde criancinha
+         00:10:05.440 - 00:10:06.920
+DOCPC    lá na Bahia e venho pra cá
+         00:10:07.275 - 00:10:09.595
+DOCPC    pra estudar
+         00:10:09.770 - 00:10:10.600
+LAI1FI   isso
+         00:10:10.760 - 00:10:11.170
+DOCPC    se você
+         00:10:10.760 - 00:10:11.630
+DOCPC    pudesse escolher
+         00:10:11.920 - 00:10:13.150
+DOCPC    além da Bahia de Aracaju em que outra cidade você moraria?
+         00:10:13.730 - 00:10:18.495
+LAI1FI   ah eu não pensei nisso
+         00:10:19.105 - 00:10:20.885
+LAI1FI   mas
+         00:10:21.340 - 00:10:22.140
+LAI1FI   eu sempre quis morar em Aracaju
+         00:10:22.335 - 00:10:24.545
+LAI1FI   sempre quis
+         00:10:24.985 - 00:10:25.955
+LAI1FI   então eu não sei em outro lugar qual seria
+         00:10:26.605 - 00:10:29.765
+LAI1FI   eu acho que devido ao trabalho eu iria pra qualquer lugar
+         00:10:29.880 - 00:10:32.690
+LAI1FI   mas
+         00:10:33.250 - 00:10:34.070
+LAI1FI   por
+         00:10:35.305 - 00:10:35.865
+LAI1FI   prazer eu que/ eu gosto de morar aqui
+         00:10:36.110 - 00:10:38.480
+DOCPC    e por que assim você gosta tanto de Aracaju?
+         00:10:39.700 - 00:10:42.600
+LAI1FI   eu não sei porquê mas
+         00:10:43.365 - 00:10:45.405
+DISF     ((RISOS))
+         00:10:44.030 - 00:10:44.530
+LAI1FI   quando eu tinha férias eu vinha pra cá
+         00:10:46.040 - 00:10:48.060
+LAI1FI   eu tinha alguns amigos
+         00:10:48.235 - 00:10:49.555
+LAI1FI   e eu sempre gostei daqui foi tipo 
+         00:10:50.110 - 00:10:53.190
+LAI1FI   tipo a UfS eu sempre 
+         00:10:53.415 - 00:10:55.325
+DISF     (EST)
+         00:10:54.195 - 00:10:54.795
+LAI1FI   quis estudar na UFS não sabia o porquê
+         00:10:55.385 - 00:10:57.665
+LAI1FI   mas eu sempre quis
+         00:10:57.770 - 00:10:58.750
+DOCPC    você mencionou que tinha amigos né que vinha pra cá nas férias
+         00:10:59.695 - 00:11:03.645
+LAI1FI   isso
+         00:11:03.685 - 00:11:03.985
+DISF     (HES)
+         00:11:04.180 - 00:11:04.780
+DOCPC    então esses amigos você fez antes do curso daqui?
+         00:11:04.895 - 00:11:08.895
+LAI1FI   sim
+         00:11:09.340 - 00:11:10.020
+LAI1FI   eu
+         00:11:10.245 - 00:11:10.825
+LAI1FI   como eu sempre vinha pra mesmo 
+         00:11:11.190 - 00:11:12.810
+LAI1FI   a mesma casa que é a casa desse tio que moro
+         00:11:13.005 - 00:11:15.625
+LAI1FI   então
+         00:11:15.940 - 00:11:16.770
+LAI1FI   ali na vila que é uma vila
+         00:11:17.040 - 00:11:19.020
+LAI1FI   a gente se conhecia e brincava essas coisas
+         00:11:19.265 - 00:11:22.125
+LAI1FI   aí muitos alguns
+         00:11:22.300 - 00:11:23.640
+LAI1FI   sempre
+         00:11:24.385 - 00:11:24.965
+LAI1FI   moraram no mesmo lugar na mesma vila e
+         00:11:25.190 - 00:11:27.920
+LAI1FI   eu que acabei
+         00:11:28.640 - 00:11:29.610
+LAI1FI   ficando amiga
+         00:11:30.260 - 00:11:31.110
+DOCPC    mesmo você vindo só 
+         00:11:31.390 - 00:11:32.940
+LAI1FI    só nas férias 
+         00:11:32.950 - 00:11:34.330
+DOCPC    só nas férias a amizade permaneceu
+         00:11:33.785 - 00:11:36.025
+LAI1FI   sim
+         00:11:35.990 - 00:11:36.610
+DOCPC    e lá lá na Bahia 
+         00:11:37.405 - 00:11:39.835
+DOCPC    você mantém contato com as pessoas
+         00:11:40.235 - 00:11:42.495
+DOCPC    com quem você brincava que cresceram com você
+         00:11:42.610 - 00:11:45.790
+LAI1FI   sim sim
+         00:11:46.145 - 00:11:46.955
+LAI1FI   hoje devido ao tempo a gente conversa um pouco menos
+         00:11:47.975 - 00:11:51.025
+LAI1FI   mas eu mantenho contato
+         00:11:51.495 - 00:11:53.085
+DISF     (HES)
+         00:11:54.625 - 00:11:55.045
+DOCPC    cê já viajou pra fora da Bahia de Sergipe
+         00:11:55.240 - 00:11:58.640
+LAI1FI   não ainda não
+         00:11:58.830 - 00:12:00.770
+DISF     ((RISOS))
+         00:12:00.795 - 00:12:01.355
+DOCPC    qual a viagem dos seus sonhos?
+         00:12:01.600 - 00:12:03.070
+LAI1FI   no momento é a bienal de 
+         00:12:04.300 - 00:12:07.170
+LAI1FI   São Paulo
+         00:12:08.270 - 00:12:09.050
+DISF     (EST)
+         00:12:09.785 - 00:12:10.925
+LAI1FI   Bienal do Livro em São Paulo
+         00:12:11.210 - 00:12:13.480
+DOCPC    sim sim
+         00:12:12.410 - 00:12:13.450
+DOCPC    tem uma bienal que acontece em Salvador a do
+         00:12:14.065 - 00:12:18.545
+DISF     (EST)
+         00:12:19.330 - 00:12:19.550
+DOCPC    do Pelourinho
+         00:12:20.235 - 00:12:20.965
+LAI1FI   ah eu não conheço
+         00:12:21.415 - 00:12:22.765
+DOCPC    mas bienal assim literatura é algo que lhe interessa
+         00:12:23.485 - 00:12:26.455
+LAI1FI   sim também eu sempre gostei de ler
+         00:12:26.645 - 00:12:28.975
+DISF     (HES)
+         00:12:29.815 - 00:12:30.295
+DOCPC    qual o gênero que você gosta de ler?
+         00:12:31.870 - 00:12:33.520
+DOCPC    geralmente eu gosto de drama de romance essas coisas
+         00:12:33.820 - 00:12:36.800
+DOCPC    qual o
+         00:12:38.945 - 00:12:40.775
+DOCPC    seu livro favorito
+         00:12:41.315 - 00:12:42.375
+LAI1FI   a culpa é das estrelas
+         00:12:42.530 - 00:12:44.060
+LAI1FI   eu amo os livros de Jonh Green
+         00:12:46.130 - 00:12:47.280
+DOCPC    então
+         00:12:48.620 - 00:12:49.140
+DOCPC    dentre todos a culpa é das estrelas
+         00:12:49.385 - 00:12:51.335
+DOCPC    é o seu favorito
+         00:12:51.495 - 00:12:52.875
+LAI1FI   sim
+         00:12:52.500 - 00:12:52.900
+DOCPC    sobre o que é esse livro?
+         00:12:53.155 - 00:12:54.495
+LAI1FI   ele é um livro sobre
+         00:12:54.900 - 00:12:57.680
+LAI1FI   é um livro de romance drama
+         00:12:58.155 - 00:12:59.905
+DISF     (HES)
+         00:13:00.695 - 00:13:01.365
+LAI1FI   de uma menina que tinha câncer
+         00:13:01.985 - 00:13:04.165
+LAI1FI   e
+         00:13:04.820 - 00:13:05.370
+LAI1FI   ela acabou conhecendo um rapaz
+         00:13:05.550 - 00:13:07.330
+DISF     (EST)
+         00:13:07.095 - 00:13:07.495
+LAI1FI   sem spoiler por favor
+         00:13:07.645 - 00:13:09.010
+DISF     ((RISOS))
+         00:13:08.950 - 00:13:09.880
+LAI1FI   e esse rapaz também tinha câncer e conta a história deles juntos
+         00:13:10.325 - 00:13:14.505
+LAI1FI   durante
+         00:13:15.010 - 00:13:15.930
+LAI1FI   durante quanto eles estavam
+         00:13:16.395 - 00:13:17.625
+LAI1FI   alguns
+         00:13:18.475 - 00:13:19.355
+LAI1FI   um só morreu
+         00:13:19.730 - 00:13:20.580
+DISF     ((PIGARRO)
+         00:13:21.290 - 00:13:21.650
+DISF     (HES)
+         00:13:21.915 - 00:13:22.635
+DOCPC    esse filme esse livro foi transformado em filme né?
+         00:13:22.780 - 00:13:26.110
+LAI1FI   sim
+         00:13:26.550 - 00:13:26.850
+DOCPC    você gostou do filme?
+         00:13:26.855 - 00:13:28.045
+LAI1FI   gostei
+         00:13:28.305 - 00:13:29.075
+LAI1FI   mas faltou algumas coisas do livro
+         00:13:29.275 - 00:13:30.945
+DOCPC    tipo  o que o que você sentiu falta do
+         00:13:31.535 - 00:13:34.335
+DOCPC    livro no filme
+         00:13:34.600 - 00:13:35.800
+LAI1FI   acho que todo filme sempre falta alguma coisa do livro tem poucos detalhes
+         00:13:36.945 - 00:13:41.515
+LAI1FI   mas eu acho que geralmente era tipo
+         00:13:42.375 - 00:13:45.540
+LAI1FI   pedaços da história que não foram contados direito essas coisas
+         00:13:45.840 - 00:13:50.160
+LAI1FI   nada de que eu lembre agora específico
+         00:13:51.405 - 00:13:53.655
+DISF     (HES)
+         00:13:54.655 - 00:13:55.445
+DOCPC    cinema também é algo que você gosta então
+         00:13:56.105 - 00:13:58.045
+LAI1FI   sim
+         00:13:58.190 - 00:13:58.650
+LAI1FI   gosto bastante
+         00:13:58.805 - 00:13:59.695
+DOCPC    qual seu gênero favorito no cinema?
+         00:14:00.015 - 00:14:02.735
+LAI1FI   também é romance e drama
+         00:14:03.320 - 00:14:05.490
+LAI1FI   eu também gosto de terror mas eu tenho muito medo
+         00:14:06.080 - 00:14:08.960
+DISF     ((RISOS))
+         00:14:08.960 - 00:14:09.540
+DOCPC    qual então o último filme de terror que você assistiu?
+         00:14:11.540 - 00:14:14.160
+LAI1FI   ai
+         00:14:15.060 - 00:14:15.610
+LAI1FI   de terror eu não lembro
+         00:14:16.350 - 00:14:17.480
+LAI1FI   realmente não lembro agora de t/
+         00:14:18.570 - 00:14:20.620
+DOCPC    mas tem algum que você gosta
+         00:14:20.060 - 00:14:22.000
+DISF     (HES)
+         00:14:24.180 - 00:14:25.040
+LAI1FI   não eu gosto mais os de romance
+         00:14:26.620 - 00:14:28.550
+LAI1FI   com certeza
+         00:14:29.020 - 00:14:29.700
+DOCPC    qual seu filme de romance favorito?
+         00:14:30.645 - 00:14:32.915
+LAI1FI   eu gostei muito da culpa é das estrelas assisti mais de dez vezes
+         00:14:33.175 - 00:14:36.915
+LAI1FI   mas o último que eu gostei bastante foi o
+         00:14:37.640 - 00:14:42.025
+LAI1FI   com amor Simon
+         00:14:42.360 - 00:14:43.340
+DOCPC    qual?
+         00:14:44.485 - 00:14:44.825
+LAI1FI   com amor Simon
+         00:14:45.340 - 00:14:46.500
+DOCPC    ah sim é sobre o que?
+         00:14:46.545 - 00:14:48.215
+LAI1FI   ele é também ele sobre um rapaz
+         00:14:48.765 - 00:14:52.025
+LAI1FI   que é gay
+         00:14:52.710 - 00:14:53.610
+LAI1FI   e ele não tem coragem de contar pra família
+         00:14:54.295 - 00:14:56.865
+LAI1FI   por medo de não ser aceito
+         00:14:57.055 - 00:14:58.765
+LAI1FI   é
+         00:14:59.625 - 00:14:59.935
+DOCPC    tem o livro né?
+         00:15:01.575 - 00:15:02.405
+LAI1FI   sim
+         00:15:02.675 - 00:15:03.195
+DOCPC    você chegou a ler?
+         00:15:03.350 - 00:15:04.200
+LAI1FI   não
+         00:15:04.820 - 00:15:05.430
+LAI1FI   não li eu
+         00:15:06.110 - 00:15:07.400
+LAI1FI   tentei pegar emprestado mas não consegui
+         00:15:07.760 - 00:15:10.100
+DOCPC    mas quer ler ainda
+         00:15:10.565 - 00:15:11.415
+LAI1FI   sim
+         00:15:11.505 - 00:15:11.955
+DOCPC    você acha o hábito de leitura importante?
+         00:15:13.135 - 00:15:16.035
+LAI1FI   muito
+         00:15:16.490 - 00:15:17.160
+LAI1FI   eu acho que
+         00:15:17.490 - 00:15:18.670
+LAI1FI   melhora muito o vocabulário
+         00:15:20.300 - 00:15:22.005
+LAI1FI   essas coisas
+         00:15:22.150 - 00:15:22.850
+LAI1FI   é muito importante
+         00:15:23.695 - 00:15:24.605
+DISF     (HES)
+         00:15:25.775 - 00:15:26.375
+DOCPC    você lembra quando foi que em que momento você
+         00:15:26.550 - 00:15:30.350
+DOCPC    começou a gostar de ler?
+         00:15:31.495 - 00:15:32.655
+LAI1FI   não assim em que momento eu comecei a gostar mas eu lembro que
+         00:15:33.640 - 00:15:37.950
+LAI1FI   eu ganhei de minha mãe um
+         00:15:38.470 - 00:15:40.440
+LAI1FI   um livrinho
+         00:15:40.710 - 00:15:41.780
+LAI1FI   ele era sobre 
+         00:15:42.350 - 00:15:43.570
+LAI1FI   uma bailarina
+         00:15:44.165 - 00:15:45.145
+LAI1FI   eu tenho ele até hoje
+         00:15:45.580 - 00:15:47.150
+LAI1FI   ele era baila/ ele era sobre uma bailarina cega
+         00:15:47.550 - 00:15:50.320
+LAI1FI   e ela falava que
+         00:15:50.710 - 00:15:52.320
+LAI1FI   era como as borboletas e ela
+         00:15:52.860 - 00:15:55.010
+LAI1FI   sentia
+         00:15:55.220 - 00:15:55.900
+LAI1FI   com o coração essas coisas eu gostava (dele)
+         00:15:56.125 - 00:15:58.485
+DOCPC    na escola
+         00:15:59.625 - 00:16:00.680
+DISF     (HES)
+         00:16:00.737 - 00:16:01.397
+DOCPC    você
+         00:16:02.630 - 00:16:03.190
+DOCPC    teve incentivo pra leitura?
+         00:16:03.430 - 00:16:05.090
+LAI1FI   sim eu até participei durante o ensino médio de um projeto de incentivo a leitura
+         00:16:05.595 - 00:16:09.835
+LAI1FI   no qual a gente ia arrecadava livro de doação
+         00:16:10.180 - 00:16:13.670
+LAI1FI   e deixava
+         00:16:13.980 - 00:16:15.230
+LAI1FI   disponível pra a comunidade escolar 
+         00:16:15.550 - 00:16:17.990
+LAI1FI   utilizar
+         00:16:18.595 - 00:16:19.275
+DOCPC    mas não era na biblioteca da escola era outro espaço?
+         00:16:20.000 - 00:16:23.030
+LAI1FI   era na verdade a bi/ a escola nem tinha biblioteca
+         00:16:23.340 - 00:16:26.840
+LAI1FI   então a gente
+         00:16:27.385 - 00:16:28.125
+LAI1FI   teve essa ideia
+         00:16:28.770 - 00:16:29.960
+LAI1FI   na verdade foi uma professora que teve
+         00:16:30.050 - 00:16:32.040
+LAI1FI   e a gente
+         00:16:32.370 - 00:16:33.670
+LAI1FI   a/ começou a ajudar e participar
+         00:16:33.915 - 00:16:35.815
+DOCPC    e ocmo foi a experiência de participar desse projeto?
+         00:16:36.660 - 00:16:39.490
+LAI1FI   foi bem interessante
+         00:16:40.020 - 00:16:41.380
+LAI1FI   foi bem legal
+         00:16:41.625 - 00:16:42.635
+LAI1FI   era
+         00:16:43.205 - 00:16:43.965
+LAI1FI   a gente sempre tava
+         00:16:44.260 - 00:16:45.390
+LAI1FI   tentando doação essas coisas
+         00:16:45.600 - 00:16:47.840
+LAI1FI   e deixava sempre arrumado e disponível para todo mundo
+         00:16:48.395 - 00:16:51.465
+LAI1FI   não precisava de nenhuma 
+         00:16:51.815 - 00:16:53.555
+LAI1FI   nenhum
+         00:16:54.160 - 00:16:55.190
+LAI1FI   como posso dizer cadastro nada era só chegar e pegar tipo
+         00:16:55.935 - 00:17:00.075
+LAI1FI   aquele de esqueceu um livro  no
+         00:17:00.240 - 00:17:02.360
+LAI1FI   no lugar e alguém pegar
+         00:17:02.695 - 00:17:04.275
+LAI1FI   era tipo isso
+         00:17:04.720 - 00:17:05.930
+DOCPC    sim sim
+         00:17:05.630 - 00:17:06.300
+DOCPC    era difícil conseguir doações de livros?
+         00:17:06.650 - 00:17:09.410
+LAI1FI   um pouco
+         00:17:10.075 - 00:17:10.965
+LAI1FI   um pouco
+         00:17:11.825 - 00:17:12.345
+LAI1FI   geralmente quando alguém que era conseguia mais quando alguém já tava querendo se desfazer
+         00:17:12.800 - 00:17:17.390
+LAI1FI   de alguns
+         00:17:17.580 - 00:17:18.190
+LAI1FI   e teve uma vez que a gente conseguiu 
+         00:17:19.330 - 00:17:21.520
+LAI1FI   uma
+         00:17:21.970 - 00:17:22.930
+LAI1FI   uma
+         00:17:24.305 - 00:17:25.485
+LAI1FI   como é
+         00:17:25.960 - 00:17:26.330
+LAI1FI   uma
+         00:17:27.240 - 00:17:27.530
+LAI1FI   uma parceria
+         00:17:28.230 - 00:17:29.090
+LAI1FI   com uma editora e ela acabou mandando alguns livros algumas caixas de livro
+         00:17:29.285 - 00:17:33.770
+DOCPC    que legal
+         00:17:34.030 - 00:17:35.140
+DISF     ((PIGARRO))
+         00:17:34.925 - 00:17:35.515
+DISF     (HES)
+         00:17:36.385 - 00:17:37.005
+DOCPC    falando um pouquinho de escola e de educação
+         00:17:37.380 - 00:17:40.460
+DOCPC    cê acha que a educação pública é algo
+         00:17:41.155 - 00:17:43.945
+DOCPC    que tem que ser assegurado pelo governo?
+         00:17:44.045 - 00:17:45.915
+LAI1FI   com certeza
+         00:17:46.235 - 00:17:47.595
+LAI1FI   com toda certeza
+         00:17:48.080 - 00:17:49.370
+LAI1FI   eu acho que isso é muito importante não apenas
+         00:17:49.710 - 00:17:53.260
+LAI1FI   por como posso dizer
+         00:17:53.800 - 00:17:55.450
+LAI1FI   pela necessidade mesmo de se ter uma educação mas também por por questões de
+         00:17:55.900 - 00:18:00.860
+DISF     (HES)
+         00:18:01.927 - 00:18:02.807
+LAI1FI   soci/ sociais
+         00:18:02.930 - 00:18:04.375
+LAI1FI   porque aqui no Brasil principalmente
+         00:18:04.720 - 00:18:07.130
+DISF     (HES)
+         00:18:07.410 - 00:18:07.860
+LAI1FI   nem todo mundo tem acesso a todo tipo de coisa e 
+         00:18:07.880 - 00:18:11.490
+LAI1FI   e eu acho que a educação é o básico é o mínimo
+         00:18:11.835 - 00:18:14.305
+LAI1FI   pra
+         00:18:14.695 - 00:18:15.175
+LAI1FI   que o governo pode oferecer
+         00:18:15.260 - 00:18:16.800
+DOCPC    você acha que
+         00:18:18.085 - 00:18:19.545
+DOCPC    nos últimos anos
+         00:18:19.760 - 00:18:20.710
+DOCPC    a educação pública no Brasil tem melhorado?
+         00:18:21.030 - 00:18:24.270
+LAI1FI   então
+         00:18:26.175 - 00:18:26.845
+LAI1FI   eu acho que sempre foi complicado a questão da educação pública
+         00:18:27.440 - 00:18:31.055
+LAI1FI   mas eu não tenho visto muita melhora não
+         00:18:32.305 - 00:18:34.280
+DISF     ((RISOS))
+         00:18:34.440 - 00:18:34.770
+DOCPC    qual os pontos que precisam ser melhorado? na sua opinião?
+         00:18:36.490 - 00:18:40.385
+LAI1FI   qualidade principalmente
+         00:18:40.880 - 00:18:42.930
+LAI1FI   eu acho que
+         00:18:43.610 - 00:18:44.690
+LAI1FI   teve uma grande questão de
+         00:18:44.945 - 00:18:47.145
+LAI1FI   ampliar
+         00:18:48.290 - 00:18:49.140
+DISF     (HES)
+         00:18:49.380 - 00:18:49.930
+DISF     (HES)
+         00:18:50.610 - 00:18:51.430
+LAI1FI   a quantidade de escolas a quantidade
+         00:18:52.365 - 00:18:54.705
+LAI1FI   ampliar
+         00:18:54.910 - 00:18:55.480
+LAI1FI   e mas esqueceram um pouco da qualidade
+         00:18:56.230 - 00:18:59.340
+LAI1FI   eu acho que isso foi muito importante com certeza
+         00:19:00.130 - 00:19:03.430
+LAI1FI   mas
+         00:19:03.965 - 00:19:04.545
+LAI1FI   qualidade também é essencial
+         00:19:05.020 - 00:19:06.550
+LAI1FI   porque
+         00:19:07.210 - 00:19:08.140
+LAI1FI   a gente sabe que a es/ a
+         00:19:08.280 - 00:19:10.590
+LAI1FI   a escola pública
+         00:19:11.140 - 00:19:12.390
+LAI1FI   apesar de
+         00:19:12.750 - 00:19:14.110
+LAI1FI   de algumas serem muito boas mas são
+         00:19:14.315 - 00:19:17.095
+LAI1FI   algumas
+         00:19:17.220 - 00:19:18.440
+DISF     (HES)
+         00:19:18.025 - 00:19:18.575
+LAI1FI   não é a maioria
+         00:19:18.655 - 00:19:19.935
+LAI1FI   entendeu
+         00:19:20.510 - 00:19:20.920
+LAI1FI   acho que é isso
+         00:19:21.270 - 00:19:21.940
+DOCPC    você estudou em escola pública ou  particular?
+         00:19:22.460 - 00:19:25.320
+LAI1FI   pública a vida toda
+         00:19:25.615 - 00:19:26.845
+DISF     (HES)
+         00:19:27.405 - 00:19:28.345
+DOCPC    você
+         00:19:28.770 - 00:19:29.590
+DOCPC    como foi pra você sair da escola pública e engressar na universidade como foi o assim a
+         00:19:30.285 - 00:19:36.100
+DOCPC    preparação
+         00:19:36.305 - 00:19:37.155
+DOCPC    pro enem por exemplo?
+         00:19:37.315 - 00:19:38.385
+LAI1FI   sempre foi uma ( )
+         00:19:38.435 - 00:19:40.085
+LAI1FI   tudo público eu estudei
+         00:19:40.495 - 00:19:42.235
+LAI1FI   inicialmente eu
+         00:19:42.640 - 00:19:44.680
+LAI1FI   não sabia como eu iria me preparar
+         00:19:45.035 - 00:19:47.475
+LAI1FI   pra o enem
+         00:19:47.740 - 00:19:48.520
+LAI1FI   e então eu certamente eu iria estudar sozinhar em casa
+         00:19:49.105 - 00:19:53.045
+LAI1FI   então eu sabia que eu ia estudar
+         00:19:53.570 - 00:19:55.520
+LAI1FI   ia ter que estudar mais do que a média pra conseguir
+         00:19:55.915 - 00:19:59.025
+LAI1FI   e aí acabou que
+         00:19:59.365 - 00:20:00.745
+LAI1FI   eu consegui uma vaga porque eu estudava em sergipe
+         00:20:00.960 - 00:20:04.430
+LAI1FI   como
+         00:20:04.920 - 00:20:05.470
+LAI1FI   a educação pública da minha cidade
+         00:20:05.720 - 00:20:07.960
+LAI1FI   era tipo horrível
+         00:20:08.595 - 00:20:10.195
+LAI1FI   se
+         00:20:10.810 - 00:20:11.420
+LAI1FI   se a normalmente já é ruim lá era pior
+         00:20:11.850 - 00:20:15.070
+LAI1FI   e aí minha mãe conseguiu
+         00:20:15.680 - 00:20:17.290
+DISF     (HES)
+         00:20:17.810 - 00:20:18.140
+LAI1FI   devido
+         00:20:18.550 - 00:20:19.380
+LAI1FI   a gente nunca ter passado
+         00:20:19.810 - 00:20:21.650
+LAI1FI   necessidade
+         00:20:22.070 - 00:20:23.050
+LAI1FI   ela conseguiu pagar transporte pra mim mu/ estudar em outra cidade
+         00:20:23.620 - 00:20:27.370
+LAI1FI   era escola pública mas era uma escola pública um pouco melhor
+         00:20:27.730 - 00:20:30.760
+LAI1FI   e aí
+         00:20:31.430 - 00:20:32.150
+LAI1FI   eu estudava já nessa outra cidade
+         00:20:33.400 - 00:20:35.470
+LAI1FI   foi quando
+         00:20:35.890 - 00:20:36.850
+LAI1FI   lá surgiu o curso de preparação para o enem
+         00:20:37.430 - 00:20:40.270
+LAI1FI   público também
+         00:20:40.540 - 00:20:41.580
+LAI1FI   e aí acabou que eu fui morar também com parentes
+         00:20:42.070 - 00:20:44.370
+LAI1FI   e consegui fazer o curso durante a noite de preparação
+         00:20:45.690 - 00:20:49.170
+LAI1FI   eu estudava pela manhã
+         00:20:49.720 - 00:20:50.820
+DOCPC    qual cidade daqui de sergipe?
+         00:20:50.950 - 00:20:52.540
+LAI1FI   Indiaroba
+         00:20:53.250 - 00:20:53.970
+LAI1FI   é a cidade de Indiaroba
+         00:20:54.480 - 00:20:55.850
+DISF     (EST)
+         00:20:54.500 - 00:20:55.190
+LAI1FI   eu estudava em Indiaroba pela manhã e durante o último ano
+         00:20:56.370 - 00:20:59.280
+LAI1FI   eu estudava
+         00:20:59.510 - 00:21:00.250
+LAI1FI   eu passava a semana lá
+         00:21:00.670 - 00:21:02.110
+LAI1FI   e só no final de semana eu voltava pra casa
+         00:21:02.440 - 00:21:04.690
+LAI1FI   que eu fazia o curso a noite
+         00:21:05.090 - 00:21:06.380
+DOCPC    aí você acha que
+         00:21:08.220 - 00:21:10.150
+DOCPC    foi
+         00:21:11.190 - 00:21:12.030
+DOCPC    produtivo assim pra você o estudar de manhã e de noite era cansativo?
+         00:21:12.800 - 00:21:17.590
+LAI1FI   era cansativo mas
+         00:21:17.930 - 00:21:19.660
+LAI1FI   foi muito importante porque eu acho que talvez
+         00:21:20.070 - 00:21:22.460
+LAI1FI   sem esse tipo de preparação eu não conseguiria
+         00:21:23.080 - 00:21:25.530
+DISF     (HES)
+         00:21:26.870 - 00:21:27.280
+DOCPC    você fez um cursinho
+         00:21:27.610 - 00:21:29.190
+DISF     (HES)
+         00:21:29.510 - 00:21:29.920
+DOCPC    foi pre seed né?
+         00:21:29.910 - 00:21:31.600
+LAI1FI   exato
+         00:21:30.990 - 00:21:31.550
+DOCPC    você acha que esse tipo de política pública 
+         00:21:32.160 - 00:21:35.300
+DOCPC    tem que ser incentiva
+         00:21:35.590 - 00:21:36.910
+LAI1FI   com certeza com muita certeza
+         00:21:37.140 - 00:21:39.750
+LAI1FI   eu acho que a gente sabe que há
+         00:21:39.950 - 00:21:42.000
+LAI1FI   existe a necessidade da qualidade
+         00:21:42.350 - 00:21:44.050
+LAI1FI   mas
+         00:21:44.600 - 00:21:45.290
+DISF     (HES)
+         00:21:46.265 - 00:21:46.555
+LAI1FI   quanto mais incentivo 
+         00:21:46.660 - 00:21:48.500
+LAI1FI   às vezes a gente não precisa quando a gente quer não precisa tipo
+         00:21:49.030 - 00:21:53.360
+DISF     (HES)
+         00:21:54.045 - 00:21:54.365
+LAI1FI   de muito a gente precisa de um apoio e esse curso era
+         00:21:54.350 - 00:21:57.650
+LAI1FI   o apoio
+         00:21:57.840 - 00:21:58.590
+LAI1FI   era tipo 
+         00:21:58.870 - 00:21:59.550
+LAI1FI   a gente não poderia ter aula todo dia não ter todas as matérias
+         00:21:59.830 - 00:22:03.020
+LAI1FI   mas a gente sabia que tinha alguém também torcendo pela gente 
+         00:22:03.320 - 00:22:06.010
+DISF     (HES)
+         00:22:08.030 - 00:22:08.600
+DOCPC    na na educação básica o ensino médio ensino fundamental
+         00:22:09.230 - 00:22:12.750
+DOCPC    tem outras políticas que é pra garantir que a educação continue andando que o aluno vá pra  escola
+         00:22:13.080 - 00:22:19.000
+DOCPC    aí tem o
+         00:22:19.140 - 00:22:20.290
+DOCPC    o livro didático que é o pnld 
+         00:22:20.590 - 00:22:23.220
+DOCPC    tem a meran/ merenda escolar
+         00:22:23.470 - 00:22:25.830
+DISF     (HES)
+         00:22:25.855 - 00:22:26.395
+DISF     ((PIGARRO))
+         00:22:26.800 - 00:22:27.000
+LAI1FI   fundeb que garante essas coisas
+         00:22:27.450 - 00:22:29.770
+DOCPC    é e tem o da do transporte
+         00:22:29.840 - 00:22:32.160
+DOCPC    né
+         00:22:32.570 - 00:22:32.890
+LAI1FI   sim
+         00:22:32.990 - 00:22:33.470
+DISF     (HES)
+         00:22:33.800 - 00:22:34.100
+DOCPC    cê acha que são coisas importantes e que tem que continuar sendo valorizadas?
+         00:22:34.180 - 00:22:38.850
+LAI1FI   sim sim
+         00:22:39.050 - 00:22:39.970
+DISF     (HES)
+         00:22:40.565 - 00:22:41.185
+LAI1FI   esse tipo de coisa é muito importante eu sempre precisei de transporte escolar
+         00:22:41.250 - 00:22:45.330
+LAI1FI   na
+         00:22:45.870 - 00:22:46.500
+LAI1FI   inclusive quando eu morava na cidade porque como eu morava em sítio
+         00:22:47.370 - 00:22:50.720
+LAI1FI   u precisava me locomover pra chegar à escola
+         00:22:50.870 - 00:22:53.730
+LAI1FI   e
+         00:22:54.240 - 00:22:54.710
+LAI1FI   era sempre uma dificuldade
+         00:22:54.870 - 00:22:56.410
+LAI1FI   era
+         00:22:56.930 - 00:22:57.600
+LAI1FI   dia de chuva a gente não sabia como ia chegar
+         00:22:57.700 - 00:22:59.810
+LAI1FI   e esse tipo de de coisa ele garante pelo menos uma
+         00:23:00.080 - 00:23:03.530
+LAI1FI   um transporte
+         00:23:03.750 - 00:23:04.560
+LAI1FI   com uma melhor qualidade como eu falei qualidade importante
+         00:23:04.830 - 00:23:08.000
+LAI1FI   porque muitas vezes era um um transporte que
+         00:23:08.410 - 00:23:11.960
+LAI1FI   não conseguia
+         00:23:12.090 - 00:23:13.140
+LAI1FI   a/ a atender
+         00:23:13.390 - 00:23:14.590
+LAI1FI   a todo mundo e a atender
+         00:23:14.740 - 00:23:16.340
+LAI1FI   como deveria ser feito esse tipo de incentivo
+         00:23:16.730 - 00:23:19.360
+LAI1FI   principalmente financeiro
+         00:23:19.570 - 00:23:20.940
+LAI1FI   como geralmente é
+         00:23:21.140 - 00:23:22.290
+DISF     (HES)
+         00:23:22.755 - 00:23:23.435
+LAI1FI   ele contribui pra essas coisas pra que consiga
+         00:23:23.420 - 00:23:26.280
+LAI1FI   coisas melhores
+         00:23:26.400 - 00:23:27.260
+DOCPC    aqui na UFS é a gente tem algumas
+         00:23:28.310 - 00:23:32.200
+DOCPC    políticas alguns programas também que
+         00:23:32.360 - 00:23:34.590
+DOCPC    dão certo auxílio aos alunos na na licenciatura tem o pibid
+         00:23:35.020 - 00:23:39.270
+DOCPC    tem o pibic também tem o apoio pedagógico
+         00:23:39.590 - 00:23:42.930
+DISF     (HES)
+         00:23:43.290 - 00:23:43.750
+DOCPC    você acha importante que exista esses programas que
+         00:23:43.800 - 00:23:47.410
+DOCPC    colocam o aluno já na rotina da pesquisa da sala de aula e ainda dão retorno financeiro?
+         00:23:48.210 - 00:23:54.620
+LAI1FI   sim
+         00:23:55.090 - 00:23:55.730
+DISF     (HES)
+         00:23:55.950 - 00:23:56.410
+LAI1FI   eu acho muito importante
+         00:23:56.420 - 00:23:57.690
+LAI1FI   principalmente por 
+         00:23:57.970 - 00:23:59.390
+LAI1FI   colocar
+         00:23:59.870 - 00:24:00.790
+DISF     (HES)
+         00:24:01.420 - 00:24:01.940
+LAI1FI   os estudantes na experiência de
+         00:24:01.940 - 00:24:04.310
+LAI1FI   ver se é realmente é aquilo que ele
+         00:24:04.830 - 00:24:07.100
+LAI1FI   gosta que ele quer que ele se sente motivado pra fazer
+         00:24:07.170 - 00:24:10.250
+LAI1FI   mas também o auxílio financeiro eu acho importante porque
+         00:24:10.720 - 00:24:14.320
+DISF     (HES)
+         00:24:14.640 - 00:24:14.990
+LAI1FI   como muitos
+         00:24:15.270 - 00:24:16.290
+LAI1FI   geralmente
+         00:24:16.540 - 00:24:17.150
+LAI1FI   vem de outros lugares de outras cidades
+         00:24:17.350 - 00:24:19.250
+DISF     (HES)
+         00:24:19.860 - 00:24:20.560
+LAI1FI   nem sempre a família consegue contribuir com todos os custos
+         00:24:20.760 - 00:24:24.290
+LAI1FI   e isso é muito importante pra que
+         00:24:24.670 - 00:24:26.750
+LAI1FI   ele continue estudando
+         00:24:27.060 - 00:24:28.550
+LAI1FI   essas coisas
+         00:24:29.510 - 00:24:30.230
+DOCPC    você acha que
+         00:24:30.645 - 00:24:31.835
+DISF     (HES)
+         00:24:32.317 - 00:24:32.737
+DOCPC    esses programas ajudam a diminuir a desigualdade social aqui na UFS?
+         00:24:32.720 - 00:24:37.455
+LAI1FI   acho que sim
+         00:24:38.040 - 00:24:38.960
+LAI1FI   eu acho que sim
+         00:24:39.350 - 00:24:40.200
+LAI1FI   eu acho que não em nível 
+         00:24:41.590 - 00:24:43.500
+LAI1FI   uma disparidade muito grande
+         00:24:44.570 - 00:24:46.280
+LAI1FI   mas eu acho que reduz um pouco 
+         00:24:46.550 - 00:24:48.730
+DOCPC    o que é que você acha
+         00:24:50.490 - 00:24:52.180
+DISF     (HES)
+         00:24:52.170 - 00:24:52.850
+DOCPC    de programas como o  o prouni e como o o fies você acha que
+         00:24:52.840 - 00:24:57.650
+DOCPC    é importante que o governo invista
+         00:24:57.930 - 00:25:00.150
+DISF     (HES)
+         00:25:00.400 - 00:25:01.120
+DOCPC    nesse tipo de política que permite que os jovens  que não entram na universidade federal
+         00:25:01.510 - 00:25:07.500
+DOCPC    entrem em instituições privadas?
+         00:25:07.910 - 00:25:10.100
+LAI1FI   eu acho que sim também eu acho que eu apoio todo tipo de forma de ajudar a educação
+         00:25:11.090 - 00:25:15.560
+LAI1FI   porque
+         00:25:16.160 - 00:25:17.190
+LAI1FI   eu sei que geralmente
+         00:25:17.380 - 00:25:19.100
+LAI1FI   principalmente a universidade  as universidades federais
+         00:25:19.550 - 00:25:23.160
+LAI1FI   elas
+         00:25:23.520 - 00:25:24.120
+LAI1FI   elas tem uma
+         00:25:25.130 - 00:25:26.490
+LAI1FI   um rigor um pouco maior pra se conseguir entrar
+         00:25:26.930 - 00:25:29.370
+LAI1FI   e nem sempre a educação básica que a pessoa teve ela consegue garantir que ela consiga
+         00:25:29.770 - 00:25:35.070
+LAI1FI   acessar o nível superior
+         00:25:35.230 - 00:25:36.780
+DISF     (HES)
+         00:25:37.290 - 00:25:38.040
+LAI1FI   esse tipo de apoio geralmente ajuda muito nesse tipo de situação
+         00:25:38.700 - 00:25:42.860
+LAI1FI   porque
+         00:25:43.310 - 00:25:44.030
+LAI1FI   a pessoa sente a necessidade de crescer
+         00:25:44.850 - 00:25:47.010
+LAI1FI   mas nem sempre se vê com condições financeiras 
+         00:25:47.360 - 00:25:50.570
+LAI1FI   ou com
+         00:25:50.710 - 00:25:51.550
+LAI1FI   como posso dizer algo que faça com que
+         00:25:52.220 - 00:25:55.010
+LAI1FI   outro tipo de bolsa esse tipo de coisa
+         00:25:55.140 - 00:25:57.490
+DISF     (HES)
+         00:25:59.190 - 00:25:59.850
+DOCPC    você mencionou a questão da 
+         00:25:59.980 - 00:26:02.150
+DOCPC    da diferença de escola pública e tal tem as cotas né as cotas para escola pra aluno de escola pública
+         00:26:03.050 - 00:26:09.250
+DISF     (EST)
+         00:26:06.195 - 00:26:06.705
+DOCPC    e pra alunos e alunas
+         00:26:09.650 - 00:26:11.480
+DOCPC    negros e negras
+         00:26:11.570 - 00:26:12.650
+DOCPC    o que é que você acha disso?
+         00:26:12.920 - 00:26:14.620
+LAI1FI   eu acho que assim eu não tento falar muito sobre 
+         00:26:15.350 - 00:26:18.830
+LAI1FI   quanto a
+         00:26:19.050 - 00:26:19.850
+LAI1FI   tipo in/ indígenas ou negros 
+         00:26:20.360 - 00:26:23.480
+LAI1FI   ou
+         00:26:24.070 - 00:26:24.680
+LAI1FI   estudantes negros
+         00:26:24.770 - 00:26:25.940
+LAI1FI   porque
+         00:26:26.180 - 00:26:27.100
+LAI1FI   eu acho que teve sim durante a
+         00:26:27.440 - 00:26:29.750
+LAI1FI   o período histórico esse
+         00:26:30.420 - 00:26:32.870
+LAI1FI   um acesso menor a educação essas coisas que geram
+         00:26:33.870 - 00:26:37.220
+LAI1FI   igual a escola pública que geram
+         00:26:37.880 - 00:26:40.290
+LAI1FI   uma
+         00:26:40.760 - 00:26:41.730
+LAI1FI   uma ce/ e/
+         00:26:42.040 - 00:26:43.130
+LAI1FI   como posso dizer uma dificuldade mais pra
+         00:26:43.330 - 00:26:45.400
+LAI1FI   conhec/ pra a/
+         00:26:45.570 - 00:26:46.410
+LAI1FI   atingir o conhecimento
+         00:26:46.550 - 00:26:47.910
+LAI1FI   não chamando ninguém de burro algo do tipo é algo de
+         00:26:49.040 - 00:26:52.190
+LAI1FI   como posso dizer de entrar menos na escola
+         00:26:52.510 - 00:26:55.090
+LAI1FI   essas coisas
+         00:26:55.240 - 00:26:55.950
+LAI1FI   e eu acho que existe sim a necessidade
+         00:26:56.570 - 00:26:58.750
+LAI1FI   e quanto a escola pública
+         00:26:59.300 - 00:27:01.120
+LAI1FI   a diferença da privada
+         00:27:01.580 - 00:27:03.320
+DISF     (HES)
+         00:27:04.050 - 00:27:04.650
+LAI1FI   é muito 
+         00:27:05.680 - 00:27:06.830
+LAI1FI   pensar
+         00:27:08.490 - 00:27:09.240
+LAI1FI   é a questão da qualidade
+         00:27:11.000 - 00:27:12.410
+LAI1FI   e tipo
+         00:27:12.620 - 00:27:13.300
+LAI1FI   de teve um acesso maior
+         00:27:13.850 - 00:27:15.760
+LAI1FI   mas a qualidade ficou um pouco
+         00:27:16.010 - 00:27:18.300
+LAI1FI   prejudicada
+         00:27:18.970 - 00:27:19.770
+DISF     (HES)
+         00:27:21.570 - 00:27:22.240
+DOCPC    como aluna que vem da escola pública e tal com o foi pra você ingressar começar um um curso superior
+         00:27:22.460 - 00:27:30.170
+DOCPC    e técnico também cê sentiu alguma dificuldade
+         00:27:30.430 - 00:27:33.270
+LAI1FI   aqui eu senti muita dificuldade
+         00:27:34.340 - 00:27:36.280
+LAI1FI   muita
+         00:27:36.620 - 00:27:37.370
+LAI1FI   lá nem tanto no curso técnico nem tanto
+         00:27:37.680 - 00:27:41.340
+LAI1FI   porque
+         00:27:41.650 - 00:27:42.460
+LAI1FI   como os professores geralmente sabiam que
+         00:27:43.190 - 00:27:46.100
+LAI1FI   ninguém sabia nada
+         00:27:46.400 - 00:27:47.910
+LAI1FI   mas aqui eu senti muita dificuldade porque eu senti que
+         00:27:48.460 - 00:27:51.910
+LAI1FI   era necessário um pouco mais do conhecimento pra o que eu tinha adquirido
+         00:27:52.580 - 00:27:56.550
+LAI1FI   é isso
+         00:27:57.560 - 00:27:58.000
+DOCPC    no em relação às matérias 
+         00:27:58.290 - 00:28:01.470
+LAI1FI   exato
+         00:28:00.935 - 00:28:01.475
+LAI1FI   foi bem mais difícil
+         00:28:01.960 - 00:28:03.380
+DOCPC    e a rotina se você sentiu muito choque a gente sai do ensino médio pro ensino superior é uma coisa totalmente diferente né?
+         00:28:04.150 - 00:28:11.880
+DISF     (EST)
+         00:28:11.160 - 00:28:11.910
+DOCPC    como foi pra você
+         00:28:12.120 - 00:28:13.580
+DISF     (HES)
+         00:28:13.615 - 00:28:14.135
+DOCPC    esse período de transição?
+         00:28:14.180 - 00:28:16.260
+LAI1FI   na verdade pra mim não foi
+         00:28:16.930 - 00:28:18.770
+LAI1FI   muito impactante porque
+         00:28:19.140 - 00:28:21.140
+LAI1FI   pelo menos durante o ensino médio todo eu geralmente tava fazendo
+         00:28:21.910 - 00:28:25.820
+LAI1FI   tava estudando fazendo alguma outra coisa geralmente era projeto mesmo
+         00:28:26.000 - 00:28:29.770
+LAI1FI   e era manhã eu estudava pela manhã geralmente pela tarde tinha algo
+         00:28:30.270 - 00:28:34.720
+LAI1FI   a noite como quando foi o meu último ano
+         00:28:34.960 - 00:28:37.370
+LAI1FI   eu tava participando de um projeto
+         00:28:37.500 - 00:28:39.380
+LAI1FI   pra
+         00:28:39.680 - 00:28:40.320
+LAI1FI   ser apresentando aqui mesmo na cienart
+         00:28:40.590 - 00:28:42.920
+LAI1FI   projeto de pesquisa
+         00:28:43.580 - 00:28:45.020
+DISF     (HES)
+         00:28:45.560 - 00:28:46.350
+LAI1FI   aí era manhã tarde e noite praticamente todos os dias
+         00:28:46.750 - 00:28:50.300
+DOCPC    você  partici/ participa da cienart 
+         00:28:51.025 - 00:28:52.955
+LAI1FI   dois anos
+         00:28:53.050 - 00:28:54.000
+DISF     (HES)
+         00:28:54.470 - 00:28:55.270
+DOCPC    quais anos?
+         00:28:56.480 - 00:28:57.270
+LAI1FI   em dois mil e quinze e em dois mil e dezesete 
+         00:28:57.620 - 00:29:00.700
+DISF     (HES)
+         00:29:02.345 - 00:29:02.625
+DOCPC    qual foi o projeto?
+         00:29:02.680 - 00:29:03.720
+LAI1FI   um foi de pesquisa
+         00:29:04.130 - 00:29:06.150
+LAI1FI   de desenvolvimento de materiais didáticos
+         00:29:06.850 - 00:29:09.060
+LAI1FI   de
+         00:29:09.570 - 00:29:10.230
+LAI1FI   audio visuais
+         00:29:10.650 - 00:29:11.620
+DISF     (EST)
+         00:29:12.000 - 00:29:12.420
+LAI1FI   e o outro foi de pesquisa  na área de
+         00:29:12.520 - 00:29:16.860
+LAI1FI   edu e/ de
+         00:29:16.980 - 00:29:18.740
+LAI1FI   ai
+         00:29:18.930 - 00:29:19.540
+LAI1FI   educação física que era
+         00:29:20.060 - 00:29:22.330
+DISF     (HES)
+         00:29:21.110 - 00:29:21.510
+LAI1FI   como era a educação num era educação física como era
+         00:29:23.430 - 00:29:27.250
+LAI1FI   o esporte lá na cidade de Indiaroba que era onde eu estudava
+         00:29:27.550 - 00:29:31.280
+LAI1FI   como era o esporte lá tipo a gente fez todo um histórico 
+         00:29:32.430 - 00:29:36.230
+LAI1FI   de como era desde o começo até os dias atuais 
+         00:29:36.635 - 00:29:39.775
+DOCPC    e você acha que a experiência de ter participado da da cienart
+         00:29:40.520 - 00:29:44.640
+DOCPC    e antes disso né porque tem todo o período pra você preparar o projeto se reunir com seu professor
+         00:29:45.210 - 00:29:50.990
+DOCPC    cê acha que isso foi importante pra você acrescentou na sua formação?
+         00:29:51.250 - 00:29:55.750
+LAI1FI   sim acho que sim muito
+         00:29:56.080 - 00:29:57.880
+LAI1FI   principalmente na parte de comunicação que a gente tava 
+         00:29:57.980 - 00:30:01.820
+LAI1FI   tinha que lidar com o público e tinha que
+         00:30:02.150 - 00:30:04.700
+LAI1FI   fazer e chegar 
+         00:30:05.010 - 00:30:06.530
+LAI1FI   chamar as pessoas pra fazer a pesquisa
+         00:30:06.650 - 00:30:09.040
+LAI1FI   esse tipo de coisa
+         00:30:09.320 - 00:30:10.480
+DISF     (HES)
+         00:30:10.910 - 00:30:11.650
+LAI1FI   no dia da apresentação mesmo que tem um monte de gente e a gente tem que apresentar
+         00:30:11.720 - 00:30:16.300
+LAI1FI   foi bem legal
+         00:30:16.680 - 00:30:17.440
+DOCPC    você
+         00:30:17.830 - 00:30:18.970
+DOCPC    teve aqui na vivência aí apresentou o trabalho
+         00:30:19.680 - 00:30:22.090
+LAI1FI   sim
+         00:30:21.720 - 00:30:22.050
+DOCPC    e assim como foi essa experiência de você ter que ficar al
+         00:30:22.310 - 00:30:26.230
+DISF     (HES)
+         00:30:26.240 - 00:30:26.740
+DOCPC    explicando seu projeto pras pessoas e
+         00:30:26.785 - 00:30:29.770
+DOCPC    às vezes são pessoas que não conhecem a realidade da sua cidade então é algo completamente novo
+         00:30:29.980 - 00:30:35.530
+DOCPC    como foi?
+         00:30:35.900 - 00:30:36.610
+LAI1FI   primeiro ano foi um pouco
+         00:30:37.320 - 00:30:38.930
+LAI1FI   assustador
+         00:30:39.190 - 00:30:40.180
+DISF     ((RISOS))
+         00:30:40.150 - 00:30:40.710
+LAI1FI   mas foi sempre muito legal muito interessante a gente tinha apoio de professores de colegas também
+         00:30:40.820 - 00:30:47.060
+DISF     (HES)
+         00:30:47.460 - 00:30:48.140
+LAI1FI   foi bem interessante compartilhar também com outros estudantes de outros lugares
+         00:30:48.460 - 00:30:52.810
+LAI1FI   a gente se encontrava 
+         00:30:53.120 - 00:30:54.410
+DISF     (HES)
+         00:30:54.880 - 00:30:55.560
+LAI1FI   foi interessante foi bem
+         00:30:55.650 - 00:30:56.850
+LAI1FI   foi bem legal
+         00:30:57.110 - 00:30:57.770
+DISF     (HES)
+         00:30:59.580 - 00:31:00.260
+DOCPC    voltando um pouquinho pra 
+         00:31:01.360 - 00:31:03.800
+DOCPC    pros locais onde você
+         00:31:03.970 - 00:31:05.700
+DOCPC    morou
+         00:31:06.160 - 00:31:06.750
+DOCPC    lá na Bahia
+         00:31:06.950 - 00:31:08.100
+DOCPC    o bairro onde você morava era seguro?
+         00:31:08.710 - 00:31:11.680
+LAI1FI   sim era um sítio e mas era seguro
+         00:31:12.580 - 00:31:14.860
+LAI1FI   a gente considerava seguro
+         00:31:15.430 - 00:31:17.230
+LAI1FI   num tinha muito 
+         00:31:17.860 - 00:31:19.150
+LAI1FI   num tinha  assaltos essas coisas geralmente não aconteciam lá
+         00:31:19.580 - 00:31:23.980
+DISF     (HES)
+         00:31:25.230 - 00:31:26.270
+DOCPC    e em Indiaroba?
+         00:31:26.700 - 00:31:27.930
+LAI1FI   em Indiaroba já era um pouco mais
+         00:31:28.950 - 00:31:30.500
+LAI1FI   perigoso
+         00:31:30.660 - 00:31:31.520
+LAI1FI   principalmente quando a gente estudava a noite precisava sair
+         00:31:31.830 - 00:31:34.900
+DISF     (HES)
+         00:31:35.470 - 00:31:35.870
+LAI1FI   acontecia casos de roubo duran/ na volta esse tipo de situação
+         00:31:35.990 - 00:31:40.490
+DOCPC    você se sentia segura lá?
+         00:31:41.740 - 00:31:43.640
+LAI1FI   quando tava em casa um pouco mais quando tava na rua nem tanto
+         00:31:44.750 - 00:31:48.250
+DOCPC    e aqui em Aracaju?
+         00:31:49.550 - 00:31:51.610
+LAI1FI   eu num num sinto muito medo mas segurança também não sinto muito principalmente no trasporte público é que onde eu sinto  
+         00:31:53.080 - 00:32:01.260
+LAI1FI   um pouco mais de receio de medo essas coisas
+         00:32:01.530 - 00:32:03.970
+DOCPC    você concorda com o ditato bandido bom é bandido morto?
+         00:32:06.370 - 00:32:09.440
+LAI1FI   não
+         00:32:09.650 - 00:32:10.120
+LAI1FI   eu não concordo
+         00:32:10.550 - 00:32:11.620
+LAI1FI   eu acho que
+         00:32:12.400 - 00:32:13.590
+LAI1FI   educação
+         00:32:15.320 - 00:32:16.350
+LAI1FI   é muito importante pra
+         00:32:16.480 - 00:32:17.990
+LAI1FI   pra isso pra resolver a questão da 
+         00:32:18.440 - 00:32:21.270
+LAI1FI   da
+         00:32:22.210 - 00:32:22.730
+LAI1FI   da segurança pública
+         00:32:23.290 - 00:32:24.670
+LAI1FI   é muito melhor do que
+         00:32:24.890 - 00:32:26.360
+LAI1FI   matar
+         00:32:26.820 - 00:32:27.220
+DISF     (HES)
+         00:32:28.950 - 00:32:29.270
+DOCPC    em relação à segurança violência né
+         00:32:29.270 - 00:32:32.270
+DOCPC    a violência você acha que ela atinge
+         00:32:32.540 - 00:32:35.650
+DOCPC    todos
+         00:32:35.990 - 00:32:36.860
+DOCPC    do mesmo modo?
+         00:32:37.100 - 00:32:38.250
+DOCPC    ou ela atinge de modo diferente homens e mulheres?
+         00:32:38.550 - 00:32:41.080
+LAI1FI   de modo diferente homens e mulheres com certeza
+         00:32:41.630 - 00:32:44.530
+DOCPC    por quê?
+         00:32:45.050 - 00:32:45.610
+LAI1FI   eu acho que o fato de ser mulher acaba
+         00:32:46.085 - 00:32:50.035
+LAI1FI   mostrando ou mostrando não
+         00:32:50.960 - 00:32:53.240
+LAI1FI   mas aparentando para outras pessoas uma certa 
+         00:32:53.630 - 00:32:56.950
+LAI1FI   fragilidade ou algo do tipo
+         00:32:57.240 - 00:32:59.450
+LAI1FI   que
+         00:32:59.910 - 00:33:00.550
+LAI1FI   faz com que seja mais fácil 
+         00:33:01.040 - 00:33:03.590
+DISF     (HES)
+         00:33:04.175 - 00:33:04.485
+LAI1FI   atacá-la ou 
+         00:33:04.480 - 00:33:06.190
+LAI1FI   ou
+         00:33:06.470 - 00:33:07.350
+LAI1FI   ou roubá-la essas coisas
+         00:33:07.520 - 00:33:09.170
+DOCPC    e por que você acha que as mulheres são mais
+         00:33:10.050 - 00:33:13.160
+DOCPC    sucetíveis
+         00:33:13.800 - 00:33:14.930
+DOCPC    a violência?
+         00:33:15.310 - 00:33:16.090
+LAI1FI   acho que geralmente acho que principalmente pelo que falou porquê tipo
+         00:33:16.800 - 00:33:20.410
+LAI1FI   dias
+         00:33:20.900 - 00:33:21.390
+LAI1FI   de
+         00:33:21.650 - 00:33:22.190
+LAI1FI   tem essa questão de 
+         00:33:22.630 - 00:33:24.440
+DISF     (HES)
+         00:33:25.100 - 00:33:25.930
+LAI1FI   como posso dizer
+         00:33:27.480 - 00:33:28.540
+DISF     (HES)
+         00:33:29.285 - 00:33:30.085
+LAI1FI   de
+         00:33:30.430 - 00:33:30.830
+LAI1FI   as pessoas vi/ a verem como 
+         00:33:30.960 - 00:33:34.080
+LAI1FI   frágil ou como 
+         00:33:34.670 - 00:33:36.330
+LAI1FI   propriedade
+         00:33:37.140 - 00:33:38.410
+LAI1FI   da sociedade
+         00:33:39.530 - 00:33:41.150
+DISF     ((RISOS))
+         00:33:41.040 - 00:33:41.870
+LAI1FI   esse tipo de coisa
+         00:33:42.010 - 00:33:43.390
+DISF     (HES)
+         00:33:44.050 - 00:33:44.680
+DOCPC    por que você acha que a sociedade aliás
+         00:33:44.770 - 00:33:47.960
+DOCPC    por que as mulheres são vistas como frágeis e como propriedade da sociedade
+         00:33:48.570 - 00:33:53.740
+LAI1FI   aí porque
+         00:33:55.000 - 00:33:56.090
+LAI1FI   acho que pela
+         00:33:57.630 - 00:33:58.790
+LAI1FI   pela cultura que foi sendo
+         00:33:59.590 - 00:34:01.530
+LAI1FI   colocada durante todos esses anos 
+         00:34:01.920 - 00:34:04.190
+LAI1FI   acho que é isso
+         00:34:05.410 - 00:34:06.350
+LAI1FI   como foi como elas foram como nós fomos criadas desde criança
+         00:34:06.780 - 00:34:10.590
+LAI1FI   todo esse tempo
+         00:34:10.980 - 00:34:11.990
+LAI1FI   acho que não sei exatamente o porquê
+         00:34:12.950 - 00:34:15.580
+DOCPC    você concorda com o ditado se as mulheres não usassem roupas tão curtas haveria violência contra elas?
+         00:34:17.440 - 00:34:23.740
+LAI1FI   não
+         00:34:23.920 - 00:34:24.480
+LAI1FI   não mesmo
+         00:34:25.010 - 00:34:25.910
+LAI1FI   não concordo
+         00:34:26.240 - 00:34:27.020
+LAI1FI   eu acho que independente da roupa
+         00:34:27.515 - 00:34:29.915
+LAI1FI   todo mundo merece respeito
+         00:34:30.430 - 00:34:31.920
+LAI1FI   e respeito é básico
+         00:34:32.560 - 00:34:33.880
+LAI1FI   é básico mesmo
+         00:34:34.360 - 00:34:35.720
+LAI1FI   e não tem nada a ver com roupa
+         00:34:37.000 - 00:34:39.070
+LAI1FI   a pessoa pode estar coberta do da/
+         00:34:40.300 - 00:34:43.000
+LAI1FI   da cabeça aos pés
+         00:34:43.190 - 00:34:44.570
+LAI1FI   se alguém quiser atacar vai atacar indepentemente da roupa
+         00:34:45.330 - 00:34:48.090
+DISF     (HES)
+         00:34:49.970 - 00:34:50.690
+DOCPC    você acha que as mulheres atualmente tem conquistado
+         00:34:52.530 - 00:34:56.170
+DOCPC    mais espaço na sociedade
+         00:34:56.550 - 00:34:58.540
+LAI1FI   sim eu acho que sim e acho que isso é muito importante
+         00:34:58.700 - 00:35:01.330
+LAI1FI   muito importante pra mostrar mesmo que
+         00:35:01.870 - 00:35:04.470
+LAI1FI   não tem
+         00:35:04.780 - 00:35:05.840
+LAI1FI   essa de ah é mulher
+         00:35:06.160 - 00:35:07.570
+LAI1FI   ah
+         00:35:07.860 - 00:35:08.540
+LAI1FI   deveria tá em casa
+         00:35:09.040 - 00:35:10.530
+DISF     (HES)
+         00:35:11.025 - 00:35:11.605
+LAI1FI   não isso não é pra ela
+         00:35:11.795 - 00:35:13.445
+LAI1FI   esse tipo de coisa
+         00:35:14.100 - 00:35:15.030
+DISF     (HES)
+         00:35:16.920 - 00:35:17.410
+DOCPC    falando em em
+         00:35:18.850 - 00:35:20.720
+DOCPC    questão de gênero e entrando um pouco na questão de orientação sexual
+         00:35:21.060 - 00:35:25.720
+DISF     (HES)
+         00:35:26.320 - 00:35:27.100
+DOCPC    de uns tempos pra cá tem sido  muito comum
+         00:35:27.240 - 00:35:30.390
+DOCPC    ou o mais comum
+         00:35:30.570 - 00:35:31.410
+DOCPC    as pessoas dizerem que a comunidade LGBT
+         00:35:31.765 - 00:35:35.065
+DOCPC    tem conquistado muitos privilégios
+         00:35:35.380 - 00:35:39.330
+DOCPC    cê concorda com esse tipo de afirmação?
+         00:35:39.840 - 00:35:42.340
+LAI1FI   não
+         00:35:41.560 - 00:35:42.260
+LAI1FI   não concordo mesmo porque eu acho que respeito não é privilégio
+         00:35:42.610 - 00:35:45.400
+LAI1FI   acho que respeito é pra todo mundo
+         00:35:45.970 - 00:35:48.140
+LAI1FI   como um hétero quer respeito
+         00:35:48.450 - 00:35:51.270
+LAI1FI   um
+         00:35:51.400 - 00:35:52.230
+LAI1FI   LGBT também precisa dele
+         00:35:52.390 - 00:35:54.200
+LAI1FI   e acho que respeito é básico
+         00:35:54.660 - 00:35:56.390
+LAI1FI   pra todo mundo
+         00:35:56.950 - 00:35:58.040
+LAI1FI   independente se é mulher se é homem se é
+         00:35:58.720 - 00:36:01.440
+LAI1FI   LGBT se  não é
+         00:36:01.580 - 00:36:02.730
+LAI1FI   independente da cor de pele
+         00:36:03.280 - 00:36:04.630
+LAI1FI   do
+         00:36:04.890 - 00:36:05.720
+LAI1FI   de qualquer coisa respeito respeito
+         00:36:06.880 - 00:36:09.560
+LAI1FI   é o mínimo
+         00:36:09.850 - 00:36:10.860
+DOCPC    recentemente o STF
+         00:36:11.930 - 00:36:15.440
+DISF     (HES)
+         00:36:15.835 - 00:36:16.325
+DOCPC    decretou que a homofobia é crime
+         00:36:16.300 - 00:36:18.020
+DOCPC    o que é que você achou desse 
+         00:36:18.670 - 00:36:20.960
+DOCPC    dessa conquista?
+         00:36:22.540 - 00:36:23.460
+LAI1FI   achei muito importante fiquei muito feliz
+         00:36:24.090 - 00:36:26.780
+LAI1FI   eu acho que ainda precisa de alguns ajustes
+         00:36:27.280 - 00:36:29.900
+LAI1FI   na na lei
+         00:36:30.340 - 00:36:31.540
+LAI1FI   porque ainda chamam de racismo
+         00:36:31.720 - 00:36:33.660
+LAI1FI   e mas
+         00:36:34.340 - 00:36:36.030
+LAI1FI   eu acho que foi muito importante foi um passo 
+         00:36:36.880 - 00:36:39.150
+LAI1FI   importante
+         00:36:39.420 - 00:36:40.260
+LAI1FI   pra isso
+         00:36:40.530 - 00:36:41.010
+LAI1FI   porque
+         00:36:41.540 - 00:36:42.210
+LAI1FI   é meio que tentar garantir
+         00:36:43.540 - 00:36:45.880
+LAI1FI   o básico pra pessoa
+         00:36:46.180 - 00:36:47.720
+LAI1FI   não é nada de privilégio
+         00:36:47.990 - 00:36:49.460
+LAI1FI   é o mínimo
+         00:36:49.690 - 00:36:50.440
+DISF     (HES)
+         00:36:51.950 - 00:36:52.290
+DOCPC    você disse que precisa de alguns ajustes e mencionou que
+         00:36:52.680 - 00:36:56.230
+DISF     (HES)
+         00:36:56.715 - 00:36:57.135
+DOCPC    a lei da homofobia é meio que parecida porque
+         00:36:57.150 - 00:36:59.850
+DISF     (HES)
+         00:37:00.240 - 00:37:00.760
+DOCPC    toma como base a questão do racismo né
+         00:37:01.690 - 00:37:03.970
+DOCPC    a/ as duas noções estão próximas além dessa desse ponto que você mencionou você acha que tem
+         00:37:04.290 - 00:37:10.650
+DOCPC    outra coisa que precisa ser melhorada nessa lei?
+         00:37:10.950 - 00:37:13.390
+DISF     (HES)
+         00:37:14.610 - 00:37:14.890
+LAI1FI   num sei eu num eu num entrei exatamente mas eu vi que
+         00:37:15.780 - 00:37:19.150
+LAI1FI   ainda tá
+         00:37:19.710 - 00:37:21.030
+LAI1FI   tipo pega todas as penas de racismo essas coisas
+         00:37:21.410 - 00:37:25.260
+DISF     (EST)
+         00:37:24.590 - 00:37:25.160
+LAI1FI   mas eu acho que
+         00:37:25.470 - 00:37:26.460
+LAI1FI   tem que também
+         00:37:26.660 - 00:37:28.040
+LAI1FI   conhecer mais um pouco sobre a comunidade conversar mais com com a comunidade
+         00:37:28.400 - 00:37:32.670
+LAI1FI   e pra ver o que
+         00:37:33.190 - 00:37:35.240
+LAI1FI   as pessoas que passam por isso pensam nisso
+         00:37:35.460 - 00:37:38.040
+LAI1FI   eu acho que isso é muito importante
+         00:37:38.180 - 00:37:39.590
+LAI1FI   e tipo
+         00:37:39.980 - 00:37:40.720
+LAI1FI   dá lugar a quem sente dar lugar a quem passa por isso
+         00:37:41.680 - 00:37:45.570
+DOCPC    você enquanto mulher bissexual você se sentiu contemplada por essa lei?
+         00:37:47.220 - 00:37:53.180
+LAI1FI   me senti feliz
+         00:37:53.920 - 00:37:54.990
+LAI1FI   mas não me senti privilegiada me senti com o mínimo
+         00:37:55.430 - 00:37:58.850
+DISF     ((RISOS))
+         00:37:59.330 - 00:38:02.250
+DOCPC    a questão de gênero tem ganhado muito espaço né na nossa sociedade você acha que esse tipo de discussão
+         00:38:02.250 - 00:38:09.330
+DOCPC    assim como discussões sobre empoderamento feminino são pautas importantes ou como algumas pessoas costumam dizer
+         00:38:09.570 - 00:38:17.220
+DOCPC    é mimimi?
+         00:38:17.380 - 00:38:18.340
+LAI1FI   muito importante eu acho que é muito importante
+         00:38:18.760 - 00:38:21.520
+LAI1FI   quanto mais discutir
+         00:38:21.670 - 00:38:23.080
+LAI1FI   conversar sobre eu acho que 
+         00:38:23.390 - 00:38:25.690
+LAI1FI   chega mais próximo de se conseguir algo de se conseguir
+         00:38:26.840 - 00:38:30.910
+DISF     (HES)
+         00:38:31.160 - 00:38:31.890
+DISF     (HES)
+         00:38:32.880 - 00:38:34.090
+LAI1FI   como eu posso dizer não um consentimento é
+         00:38:34.090 - 00:38:36.460
+LAI1FI   poderia ser um consentimento um ajuste de ideias
+         00:38:36.780 - 00:38:39.300
+LAI1FI   porque eu acho muito difícil mudar a ideia de alguém
+         00:38:39.660 - 00:38:42.220
+LAI1FI   mas conversar pra chegar um ponto em comum
+         00:38:42.560 - 00:38:45.670
+DOCPC    então
+         00:38:47.200 - 00:38:47.940
+DOCPC    a lei somente da lei contra a homofobia não é suficiente pra mudar a situação 
+         00:38:48.030 - 00:38:54.020
+DISF     (HES)
+         00:38:54.270 - 00:38:55.190
+DOCPC    das pessoas LGBT da nossa sociedade
+         00:38:55.830 - 00:38:58.160
+LAI1FI   não
+         00:38:58.640 - 00:38:59.050
+LAI1FI   a lei em si
+         00:38:59.360 - 00:39:00.520
+LAI1FI   digamos assim é só a lei
+         00:39:00.830 - 00:39:02.070
+LAI1FI   mas o 
+         00:39:02.430 - 00:39:03.350
+LAI1FI    a vivência mesmo geralmente é muito diferente
+         00:39:04.130 - 00:39:07.180
+LAI1FI   principalmente por estarmos
+         00:39:07.750 - 00:39:09.910
+LAI1FI   com ela agora em vigor
+         00:39:10.270 - 00:39:11.920
+LAI1FI   começando não 
+         00:39:12.750 - 00:39:14.800
+LAI1FI   como o fato de 
+         00:39:15.250 - 00:39:17.160
+LAI1FI   da Maria da Penha
+         00:39:17.610 - 00:39:18.750
+LAI1FI   a lei existe
+         00:39:19.790 - 00:39:21.020
+LAI1FI   porém nem todos os casos são 
+         00:39:21.230 - 00:39:23.330
+LAI1FI   são
+         00:39:23.790 - 00:39:24.790
+LAI1FI   levados a frente e punidos como deveriam ser
+         00:39:24.980 - 00:39:28.400
+DISF     (HES)
+         00:39:29.840 - 00:39:30.490
+DOCPC    na na mídia
+         00:39:30.730 - 00:39:31.930
+DOCPC    muitos artistas LGBTs tem ganhado espaço 
+         00:39:32.390 - 00:39:36.570
+DOCPC    tem a Pabllo Vittar
+         00:39:36.630 - 00:39:38.900
+DOCPC    é homens trans como Thamy Miranda tem ganhado bastante espaço 
+         00:39:39.200 - 00:39:42.950
+DOCPC    você acha que isso aconteceu e tem  acontecido 
+         00:39:43.460 - 00:39:47.470
+DOCPC    por que a mídia tá preocupada em conscientizar as pessoas mostrar
+         00:39:47.860 - 00:39:52.570
+DOCPC    dár espaço as pessoas LGBTs ou você acha que isso acontece por outra questão
+         00:39:52.750 - 00:39:57.190
+DISF     (HES)
+         00:39:58.690 - 00:39:59.620
+LAI1FI   eu não pensei nisso
+         00:40:00.500 - 00:40:01.780
+LAI1FI   mas eu acho que
+         00:40:02.270 - 00:40:04.050
+LAI1FI   pode ser por uma questão de querer conscientizar sim
+         00:40:04.790 - 00:40:08.510
+LAI1FI   mas também pode ser por
+         00:40:09.200 - 00:40:11.070
+LAI1FI   sentir um pouco de pre/ de se sentir um pouco pressionada em falar mais sobre isso e dar ainda mais espaço a isso
+         00:40:12.480 - 00:40:19.080
+DOCPC    e por que tem existe essa necessidade agora de dar espaço as pessoas LGBTs?
+         00:40:20.520 - 00:40:26.700
+LAI1FI   eu acho que ficou muito tempo sem isso eu acho que a necessidade é urgente é tipo
+         00:40:27.370 - 00:40:33.120
+LAI1FI   feminismo
+         00:40:33.510 - 00:40:34.330
+LAI1FI   as pessoas tá aí
+         00:40:34.510 - 00:40:35.690
+LAI1FI   e como muitos
+         00:40:35.920 - 00:40:37.560
+LAI1FI   dizem é mimimi
+         00:40:38.180 - 00:40:39.830
+LAI1FI   mas é algo muito importante porque ninguém tá querendo ser melhor
+         00:40:40.220 - 00:40:44.490
+LAI1FI   tá querendo apenas
+         00:40:44.630 - 00:40:45.920
+LAI1FI   respeito que é o mínimo é tipo direitos iguais
+         00:40:46.570 - 00:40:49.560
+DISF     (HES)
+         00:40:51.160 - 00:40:52.070
+DOCPC    ainda relacionado a direitos mas indo pra outro aspecto a saúde pública
+         00:40:52.260 - 00:40:57.430
+DISF     (EST)
+         00:40:57.800 - 00:40:58.710
+DOCPC    em tese é um direito
+         00:40:58.820 - 00:40:59.720
+DOCPC    você acha que é algo que 
+         00:41:00.240 - 00:41:02.670
+DOCPC    o governo tem que investir
+         00:41:03.330 - 00:41:05.400
+LAI1FI   sim eu acho que sim é muito importante
+         00:41:05.870 - 00:41:08.140
+LAI1FI   porque
+         00:41:08.480 - 00:41:09.390
+LAI1FI   é como já tinha falado antes nem todo mundo tem acesso
+         00:41:10.460 - 00:41:14.610
+LAI1FI   a todos os tipos de
+         00:41:14.870 - 00:41:16.350
+LAI1FI   coisas e ambientes
+         00:41:16.780 - 00:41:17.850
+DISF     (HES)
+         00:41:18.340 - 00:41:19.200
+LAI1FI   a saúde pública
+         00:41:19.620 - 00:41:21.010
+LAI1FI   como geralmente passa na tv esse tipo 
+         00:41:21.300 - 00:41:24.570
+LAI1FI   de
+         00:41:24.850 - 00:41:25.780
+LAI1FI   de notícia
+         00:41:26.770 - 00:41:28.020
+DISF     (EST)
+         00:41:28.200 - 00:41:28.560
+LAI1FI   tem várias pessoas necessitando
+         00:41:29.110 - 00:41:31.200
+LAI1FI   e saúde é
+         00:41:31.460 - 00:41:32.450
+LAI1FI   é saúde né
+         00:41:32.570 - 00:41:33.660
+LAI1FI   é muito importante
+         00:41:34.020 - 00:41:34.950
+LAI1FI   pra
+         00:41:35.790 - 00:41:36.480
+LAI1FI   pra tudo
+         00:41:36.700 - 00:41:37.730
+LAI1FI   pra todo mundo
+         00:41:38.340 - 00:41:39.340
+LAI1FI    e acho que é muito importante mesmo
+         00:41:40.260 - 00:41:42.550
+LAI1FI   principalmente melhorar qualidade
+         00:41:42.710 - 00:41:44.530
+LAI1FI   qualidade e quantidade porque nem sempre tem
+         00:41:44.780 - 00:41:47.360
+LAI1FI   tem acesso pra todo mundo tem que ficar
+         00:41:48.030 - 00:41:50.140
+LAI1FI   dias horas
+         00:41:50.500 - 00:41:51.790
+LAI1FI   na fila esperando uma vaga
+         00:41:52.030 - 00:41:54.140
+DOCPC    você já precisou utilizar o SUS
+         00:41:55.210 - 00:41:57.480
+LAI1FI   sim
+         00:41:57.710 - 00:41:58.320
+LAI1FI   é geralmente eu tô
+         00:41:59.760 - 00:42:01.270
+LAI1FI   utilizando mais quando coisas não muito caras
+         00:42:01.720 - 00:42:05.630
+LAI1FI   indo pra o setor privado
+         00:42:06.300 - 00:42:08.390
+LAI1FI   porém
+         00:42:08.720 - 00:42:09.280
+LAI1FI   eu geralmente utilizo o SUS
+         00:42:09.590 - 00:42:11.250
+DOCPC    e o SUS consegue atender suas necessidades?
+         00:42:11.800 - 00:42:14.560
+LAI1FI   atualmente sim eu também não ando tendo muitos graças a Deus
+         00:42:15.310 - 00:42:18.840
+LAI1FI   mas
+         00:42:19.400 - 00:42:20.320
+LAI1FI   geralmente tá
+         00:42:21.120 - 00:42:22.160
+LAI1FI   ah as minhas
+         00:42:22.430 - 00:42:23.370
+LAI1FI   mas eu sei que muitas outras pessoas
+         00:42:23.590 - 00:42:25.560
+LAI1FI   não estão
+         00:42:25.820 - 00:42:26.650
+LAI1FI   o que é muito triste
+         00:42:27.610 - 00:42:29.020
+DOCPC    você percebe diferença percebeu diferença
+         00:42:30.030 - 00:42:33.360
+DOCPC    quando você precisou utilizar o SUS
+         00:42:33.590 - 00:42:36.080
+DOCPC    lá na Bahia
+         00:42:36.290 - 00:42:37.500
+DOCPC    em Indiaroba que é Sergipe né?
+         00:42:37.680 - 00:42:39.970
+DISF     (EST)
+         00:42:39.450 - 00:42:40.050
+DOCPC     e aqui em Aracaju?
+         00:42:40.220 - 00:42:42.160
+LAI1FI   ( )
+         00:42:43.205 - 00:42:43.815
+LAI1FI   não muita
+         00:42:45.935 - 00:42:46.785
+LAI1FI   mas
+         00:42:47.290 - 00:42:47.930
+LAI1FI   eu acho que talvez aqui seja um pouco melhor porque já devido também a quantidade
+         00:42:49.150 - 00:42:54.230
+LAI1FI   aqui tem um pouco mais de acesso lá era um pouco mais distante
+         00:42:54.970 - 00:42:58.740
+DISF     (HES)
+         00:42:59.480 - 00:43:00.080
+LAI1FI   nem sempre tinha médico essas coisas
+         00:43:00.390 - 00:43:02.740
+DISF     (EST)
+         00:43:03.465 - 00:43:04.115
+DISF     (HES)
+         00:43:04.765 - 00:43:05.045
+DOCPC    agora
+         00:43:05.040 - 00:43:05.720
+DOCPC    você cresceu na Bahia né apesar de ter nascido aqui e ter ido embora muito
+         00:43:06.380 - 00:43:11.470
+DOCPC    pequena
+         00:43:12.060 - 00:43:13.000
+DISF     (HES)
+         00:43:13.130 - 00:43:13.950
+DOCPC    você
+         00:43:14.350 - 00:43:14.870
+DOCPC    percebe alguma diferença no modo de falar das pessoas
+         00:43:15.340 - 00:43:18.840
+DOCPC    da Bahia e daqui?
+         00:43:19.190 - 00:43:20.320
+LAI1FI   da do lugar que eu moro nem tanto mas
+         00:43:21.580 - 00:43:25.390
+LAI1FI   já lá mais pra capital sim o sotaque é diferente 
+         00:43:26.360 - 00:43:30.620
+DOCPC    além do sotaque tem alguma outra coisa que chame sua atenção?
+         00:43:31.740 - 00:43:34.980
+LAI1FI   acho que o sotaque o jeito 
+         00:43:35.310 - 00:43:37.730
+LAI1FI   de se
+         00:43:38.080 - 00:43:39.190
+LAI1FI   arrumar
+         00:43:39.430 - 00:43:40.420
+LAI1FI   de
+         00:43:40.650 - 00:43:41.160
+LAI1FI   de se portar não
+         00:43:41.570 - 00:43:43.040
+LAI1FI   assim de se arrumar mesmo
+         00:43:43.320 - 00:43:44.860
+LAI1FI   das coisas que gosta das cores esse tipo de coisa
+         00:43:45.440 - 00:43:48.960
+DOCPC    você acredita que estando em um lugar 
+         00:43:49.980 - 00:43:52.950
+DOCPC    que não é onde você nasceu por exemplo
+         00:43:53.500 - 00:43:55.500
+DOCPC    as pessoas podem perceber que você não é dali só pelo modo de como você fala?
+         00:43:55.890 - 00:44:00.540
+LAI1FI   acho que sim
+         00:44:00.880 - 00:44:02.020
+LAI1FI   se você tiver muitas características de onde você veio eu acho que sim
+         00:44:02.380 - 00:44:07.320
+DOCPC    pensando na relação entre interior e capital
+         00:44:08.990 - 00:44:12.360
+DOCPC    você acha que as pessoas que moram no interior falam diferente das que moram na capital?
+         00:44:12.850 - 00:44:17.660
+DISF     (HES)
+         00:44:18.900 - 00:44:19.520
+LAI1FI   assim depende
+         00:44:21.460 - 00:44:22.900
+LAI1FI   eu acho que depende
+         00:44:23.450 - 00:44:25.020
+LAI1FI   muito assim do contato que
+         00:44:25.300 - 00:44:27.390
+LAI1FI   a pessoa teve 
+         00:44:27.770 - 00:44:28.730
+LAI1FI   com a capital mas eu acho que tem sim diferença
+         00:44:28.880 - 00:44:31.830
+LAI1FI   o jeito mesmo o tipo de vivência eu acho que
+         00:44:32.430 - 00:44:35.040
+LAI1FI   altera é que mexe muito com essas coisas 
+         00:44:35.140 - 00:44:37.900
+DOCPC    e você depois que você começou a estudar aqui
+         00:44:39.320 - 00:44:43.950
+DOCPC    você acha que seu modo de falar mudou?
+         00:44:44.520 - 00:44:46.560
+LAI1FI   acho que não
+         00:44:46.955 - 00:44:47.785
+LAI1FI    acho que eu sempre falei assim mesmo
+         00:44:48.030 - 00:44:49.680
+DOCPC    falar oito muito biscoito é comum em alguns dos lugares que você morou?
+         00:44:51.220 - 00:44:58.550
+DISF     ((RISOS))
+         00:44:53.490 - 00:44:55.130
+LAI1FI   ai
+         00:44:59.700 - 00:45:00.150
+LAI1FI   oito oito
+         00:45:02.570 - 00:45:03.350
+LAI1FI   acho que
+         00:45:04.430 - 00:45:05.130
+LAI1FI   sim acho que sim
+         00:45:05.760 - 00:45:06.900
+LAI1FI   num sei
+         00:45:07.430 - 00:45:07.920
+LAI1FI   eu lembro eu sei muita da diferença de m e m lá fala muito m 
+         00:45:08.710 - 00:45:13.530
+LAI1FI   e aqui é m essas coisas
+         00:45:13.820 - 00:45:15.570
+DOCPC    pra fazer referência a letra mesmo?
+         00:45:15.990 - 00:45:18.010
+LAI1FI   é
+         00:45:17.520 - 00:45:18.020
+LAI1FI   sim às vezes geralmente sim
+         00:45:18.320 - 00:45:20.500
+LAI1FI   é principalmente na educação básica no ensino fundamental
+         00:45:21.020 - 00:45:25.570
+DISF     (EST)
+         00:45:24.910 - 00:45:25.500
+LAI1FI   gerlamente a gente falava m
+         00:45:25.810 - 00:45:27.550
+LAI1FI   r
+         00:45:27.840 - 00:45:28.340
+LAI1FI   essas coisas
+         00:45:28.700 - 00:45:29.430
+DISF     ((RISOS))
+         00:45:29.400 - 00:45:29.880
+DOCPC    mas por exemplo você escuta oito aqui na UFS?
+         00:45:30.800 - 00:45:34.690
+LAI1FI   ai
+         00:45:35.750 - 00:45:36.150
+LAI1FI   acho que não
+         00:45:36.800 - 00:45:37.700
+LAI1FI   acho que não
+         00:45:38.065 - 00:45:38.945
+DOCPC    você acha que falar
+         00:45:39.990 - 00:45:41.550
+DOCPC    oito ao invés de oito
+         00:45:41.970 - 00:45:44.120
+DOCPC    tem alguma relação com  o local onde a pessoa mora ou com o nível de escolaridade dela?
+         00:45:44.500 - 00:45:50.380
+LAI1FI   aí acho que talvez os dois
+         00:45:51.160 - 00:45:53.350
+LAI1FI   num sei
+         00:45:53.900 - 00:45:54.570
+LAI1FI   eu num sei
+         00:45:55.670 - 00:45:56.550
+LAI1FI   num sei mesmo acho que os dois
+         00:45:56.760 - 00:45:58.220
+DOCPC    e pranta broco franela você acha que tem relação com o local onde a pessoa mora
+         00:45:59.100 - 00:46:06.630
+DOCPC    ou com o nível de escolaridade dela?
+         00:46:06.980 - 00:46:08.920
+LAI1FI   eu acho tem mais um pouco com o nível de escolaridade 
+         00:46:09.310 - 00:46:12.030
+LAI1FI   que talvez a 
+         00:46:12.825 - 00:46:13.935
+LAI1FI   a pessoa sempre ouviu mas não sabe como escreve essas coisas
+         00:46:14.350 - 00:46:17.780
+LAI1FI   e aí não
+         00:46:18.230 - 00:46:20.140
+LAI1FI   o som que a palavra tem 
+         00:46:21.070 - 00:46:23.500
+DISF     (EST)
+         00:46:23.870 - 00:46:24.720
+DOCPC    cê acha esses modos de falar feios ou bonitos ou pra você é neutro
+         00:46:25.480 - 00:46:30.460
+LAI1FI   acho que pra mim é neutro
+         00:46:31.200 - 00:46:32.830
+LAI1FI   eu acho que o modo de falar 
+         00:46:33.800 - 00:46:35.820
+LAI1FI   é neutro
+         00:46:36.470 - 00:46:37.200
+LAI1FI   é
+         00:46:37.930 - 00:46:38.180
+LAI1FI   os sotaque essas coisas
+         00:46:39.170 - 00:46:40.450
+LAI1FI   tipo
+         00:46:41.140 - 00:46:41.720
+LAI1FI   como posso dizer
+         00:46:42.330 - 00:46:43.060
+LAI1FI   as gírias locais 
+         00:46:43.930 - 00:46:45.330
+DISF     (EST)
+         00:46:45.300 - 00:46:45.740
+DOCPC    falar tia dia
+         00:46:46.970 - 00:46:49.870
+DOCPC    dente médico
+         00:46:50.150 - 00:46:52.280
+DISF     (HES)
+         00:46:50.220 - 00:46:50.440
+DOCPC    é comum
+         00:46:52.700 - 00:46:54.140
+DOCPC    era comum em algum dos lugares onde você morou?
+         00:46:54.460 - 00:46:57.270
+LAI1FI   eu acho que sim
+         00:46:59.210 - 00:47:00.460
+LAI1FI   assim não onde eu morei exatamente mas como eu tinha 
+         00:47:00.620 - 00:47:04.360
+DISF     (HES)
+         00:47:04.960 - 00:47:05.660
+LAI1FI   familiares da da de Salvador a gente falava um pouco assim
+         00:47:05.960 - 00:47:10.110
+DISF     ((RISOS))
+         00:47:11.230 - 00:47:11.780
+DOCPC    é bem mais
+         00:47:11.740 - 00:47:12.390
+DISF     ((RISOS))
+         00:47:12.670 - 00:47:14.070
+DOCPC    aqui em Aracaju você costuma escutar tia e dia
+         00:47:14.060 - 00:47:17.640
+LAI1FI   acho que n/ não não não
+         00:47:17.730 - 00:47:19.790
+LAI1FI   é tia eu eu pelo menos falo tia tio essas coisas
+         00:47:20.110 - 00:47:24.220
+DOCPC    cê acha que tem relação
+         00:47:24.840 - 00:47:26.330
+DOCPC    com o local onde a pessoa mora ou com o nível de escolaridade dela?
+         00:47:26.830 - 00:47:30.920
+LAI1FI   eu acho que é com o local onde a pessoa mora 
+         00:47:31.150 - 00:47:33.280
+LAI1FI   eu acho que tem a ver mais com o local
+         00:47:33.450 - 00:47:35.030
+DOCPC    cê acha esse modo de falar feio bonito ou é neutro pra você
+         00:47:36.035 - 00:47:41.695
+LAI1FI   pra mim é neutro
+         00:47:41.740 - 00:47:42.730
+LAI1FI   neutro
+         00:47:43.710 - 00:47:44.030
+LAI1FI   pra mim é neutro
+         00:47:44.720 - 00:47:45.670
+DOCPC    e você fala doido ou doido?
+         00:47:46.500 - 00:47:50.210
+LAI1FI   doido eu acho eu não sei não falando assim
+         00:47:51.280 - 00:47:54.790
+DOCPC    mas você acha uma forma mais bonita que a outra?
+         00:47:55.890 - 00:47:59.170
+LAI1FI   não
+         00:47:59.340 - 00:47:59.900
+LAI1FI   eu acho normal igual
+         00:48:00.070 - 00:48:01.750
+DOCPC    você usaria em qualquer contexto qualquer uma das duas?
+         00:48:02.180 - 00:48:05.490
+LAI1FI   não qualquer contexto acho que não
+         00:48:06.180 - 00:48:08.330
+LAI1FI   porque
+         00:48:08.610 - 00:48:09.310
+LAI1FI   assim quando é algo mais formal
+         00:48:09.530 - 00:48:11.280
+LAI1FI   eu tento ao máximo tentar aparentar ser um pouco mais formal 
+         00:48:11.950 - 00:48:17.090
+DISF     (EST)
+         00:48:13.660 - 00:48:14.090
+LAI1FI   mas
+         00:48:17.370 - 00:48:17.870
+LAI1FI   quando tá com colegas essas coisas
+         00:48:18.190 - 00:48:20.580
+LAI1FI   eu não fico pensando muito nisso
+         00:48:21.040 - 00:48:23.220
+DOCPC    e quando você tá com colegas pra você falar sobre você e sobre esses colegas você usa nós ou a gente 
+         00:48:24.240 - 00:48:30.380
+LAI1FI   depende
+         00:48:31.345 - 00:48:32.445
+DOCPC    de que?
+         00:48:33.030 - 00:48:33.570
+LAI1FI   num sei
+         00:48:34.530 - 00:48:35.270
+LAI1FI   depende da frase eu acho
+         00:48:36.320 - 00:48:37.890
+LAI1FI   ou nós ou a gente
+         00:48:38.970 - 00:48:40.520
+DISF     (HES)
+         00:48:43.085 - 00:48:43.645
+DOCPC    e o que você acha de frases como nós comemos a gente vamos e nós vai?
+         00:48:43.640 - 00:48:48.220
+LAI1FI   ai
+         00:48:49.560 - 00:48:50.230
+LAI1FI   errado
+         00:48:50.480 - 00:48:51.190
+LAI1FI   errado no caso de da
+         00:48:51.710 - 00:48:53.680
+LAI1FI   da literatura mesmo
+         00:48:55.270 - 00:48:56.840
+DISF     (HES)
+         00:48:58.085 - 00:48:58.745
+DOCPC    e por que que é 
+         00:48:58.760 - 00:48:59.470
+DOCPC    você acha que a pessoa que fala
+         00:49:00.030 - 00:49:02.080
+DOCPC    a gente vamos e a gente vai ela fala por causa do local onde ela mora ou tem alguma relação com o nível de escolaridade dela?
+         00:49:02.400 - 00:49:09.820
+LAI1FI   eu acho que pode ter alguma relação com o nível de escolaridade
+         00:49:10.790 - 00:49:14.080
+LAI1FI   mas também pode ter
+         00:49:14.860 - 00:49:16.120
+LAI1FI   com
+         00:49:16.570 - 00:49:17.410
+LAI1FI   o local onde ela mora porque às vezes
+         00:49:17.720 - 00:49:20.070
+LAI1FI   o a/ o contato foi maior com quem ela falava assim aí ela acabou
+         00:49:20.860 - 00:49:25.180
+LAI1FI   falando assim também
+         00:49:25.740 - 00:49:27.180

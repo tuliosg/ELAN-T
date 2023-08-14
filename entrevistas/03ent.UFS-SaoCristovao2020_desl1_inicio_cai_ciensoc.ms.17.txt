@@ -1,0 +1,2427 @@
+TIPO DE AMOSTRA: ENT
+DOCUMENTADOR(A): PALOMA
+COMUNIDADE: UFS
+ANO: 2020
+DESLOCAMENTO: I
+TEMPO DE CURSO: INÍCIO
+INF: CAI1MI
+SEXO: MAS
+IDADE: 17
+CIDADE NATAL: NOSSA SENHORA DO SOCORRO, SE
+GRAVAÇÃO: CABINE
+QUALIDADE DO ÁUDIO: VOZ AUDÍVEL, COM PRESENÇA DE POUCOS BARULHOS EXTERNOS
+
+DOCPC    Como é seu nome?
+         00:00:01.520 - 00:00:02.240
+CAI1MI   Caio
+         00:00:02.870 - 00:00:03.340
+CAI1MI   completo
+         00:00:04.130 - 00:00:04.670
+DOCPC    é
+         00:00:05.110 - 00:00:05.460
+CAI1MI   Caio Ferreira Santos
+         00:00:05.570 - 00:00:06.690
+DOCPC    quantos anos você tem Caio?
+         00:00:07.125 - 00:00:08.495
+CAI1MI   eu tenho dezessete
+         00:00:08.645 - 00:00:09.435
+DOCPC    dezessete
+         00:00:10.215 - 00:00:10.810
+DISF     (HES)
+         00:00:11.017 - 00:00:11.497
+DOCPC    e você é daqui de Aracaju?
+         00:00:11.512 - 00:00:13.062
+CAI1MI   eu sou de Socorro
+         00:00:13.220 - 00:00:14.230
+CAI1MI   grande Aracaju
+         00:00:14.500 - 00:00:15.460
+DOCPC    mas
+         00:00:16.235 - 00:00:17.375
+DISF     (HES)
+         00:00:17.725 - 00:00:18.205
+DOCPC    na região ali do Marcos Freire
+         00:00:18.180 - 00:00:20.240
+CAI1MI   isso Marcos Freire 
+         00:00:19.430 - 00:00:20.570
+DISF     (EST)
+         00:00:20.655 - 00:00:21.215
+CAI1MI   próximo ao Porto Dantas
+         00:00:21.350 - 00:00:22.230
+DOCPC    cê mora lá no caso aí vem pra cá São Cristóvão todos os dias
+         00:00:23.085 - 00:00:26.685
+CAI1MI   isso todos os dias
+         00:00:26.930 - 00:00:28.090
+DISF     (HES)
+         00:00:29.232 - 00:00:29.882
+DOCPC    e você nasceu em Socorro ou nasceu em Aracaju?
+         00:00:29.890 - 00:00:32.985
+CAI1MI   eu nasci em Aracaju mesmo
+         00:00:33.035 - 00:00:34.575
+DOCPC    seus pais são de Socorro também
+         00:00:36.110 - 00:00:37.920
+CAI1MI   meu pai eu acho que ele é de Salvador e minha mãe é
+         00:00:38.290 - 00:00:40.880
+CAI1MI   acho que é de Aracaju também
+         00:00:41.320 - 00:00:42.640
+CAI1MI   mas eles moram em Socorro
+         00:00:43.170 - 00:00:44.420
+DOCPC    e você mora em Socorro
+         00:00:45.550 - 00:00:47.970
+DOCPC    desde que nasceu ou morou  em algum lugar antes?
+         00:00:48.275 - 00:00:51.095
+CAI1MI   desde que nasci
+         00:00:50.700 - 00:00:51.880
+DOCPC    já morou em algum lugar?
+         00:00:52.945 - 00:00:54.125
+CAI1MI   não
+         00:00:54.260 - 00:00:54.600
+DOCPC    mora
+         00:00:55.705 - 00:00:56.200
+DISF     (HES)
+         00:00:56.237 - 00:00:56.497
+DOCPC    no mesmo bairro
+         00:00:56.522 - 00:00:57.822
+CAI1MI   mesmo bairro mesma casa
+         00:00:57.510 - 00:00:59.090
+CAI1MI   desde sempre
+         00:00:59.265 - 00:00:59.775
+DOCPC    e como foi crescer nesse lugar?
+         00:01:00.275 - 00:01:02.165
+CAI1MI   foi
+         00:01:03.815 - 00:01:04.435
+CAI1MI   foi bom eu diria que foi bom
+         00:01:04.600 - 00:01:06.040
+CAI1MI   é
+         00:01:06.765 - 00:01:07.095
+DOCPC    cê gosta de morar lá?
+         00:01:08.425 - 00:01:09.535
+CAI1MI   gosto
+         00:01:10.285 - 00:01:11.005
+CAI1MI   por mais que seja uma região meio
+         00:01:11.980 - 00:01:13.820
+DISF     (HES)
+         00:01:14.597 - 00:01:14.917
+CAI1MI   perigosa ás vezes eu gosto de morar lá
+         00:01:14.940 - 00:01:17.245
+DOCPC    e seus pais qual a profissão deles?
+         00:01:18.540 - 00:01:21.090
+CAI1MI   meu pai ele é técnico em eletroeletrônica
+         00:01:21.570 - 00:01:24.380
+CAI1MI   e minha mãe é auxiliar de cozinha
+         00:01:24.520 - 00:01:26.080
+DOCPC    eles estudaram até que série
+         00:01:27.435 - 00:01:29.045
+CAI1MI   meu pai ele fez curso técnico né
+         00:01:29.435 - 00:01:31.415
+CAI1MI   ele concluiu o ensino médio e minha mãe parou
+         00:01:31.600 - 00:01:34.060
+CAI1MI   no ensino médio acho que no primeiro grau
+         00:01:34.485 - 00:01:36.245
+CAI1MI   ela parou
+         00:01:36.370 - 00:01:36.850
+DOCPC    e você tem irmãos?
+         00:01:37.845 - 00:01:38.895
+CAI1MI   não sou filho único
+         00:01:38.945 - 00:01:39.695
+DOCPC    moram só vocês três?
+         00:01:40.255 - 00:01:41.455
+CAI1MI   isso só os três
+         00:01:41.490 - 00:01:42.440
+DOCPC    e você vem aqui pra UFS
+         00:01:43.630 - 00:01:45.650
+DOCPC    de ônibus coletivo porque o
+         00:01:45.855 - 00:01:48.065
+DOCPC    o ônibus que passa por exemplo no  Porto Dantas vai para o Marcos Freire né
+         00:01:48.285 - 00:01:51.565
+CAI1MI   eu venho de escolar na verdade que é um ônibus que a prefeitura disponibiliza pros estudantes universitários
+         00:01:51.870 - 00:01:56.810
+CAI1MI   mas às vezes eu venho de de ônibus coletivo
+         00:01:57.300 - 00:02:00.400
+CAI1MI   geralmente pra voltar
+         00:02:00.675 - 00:02:01.885
+DOCPC     e você faz qual curso aqui?
+         00:02:03.235 - 00:02:04.845
+CAI1MI   faço ciências sociais
+         00:02:05.055 - 00:02:06.155
+DISF     (EST)
+         00:02:06.460 - 00:02:06.810
+DOCPC    tá em qual período?
+         00:02:06.980 - 00:02:07.820
+CAI1MI   tô no primeiro ainda
+         00:02:07.845 - 00:02:08.905
+DISF     ((RISOS))
+         00:02:09.050 - 00:02:09.490
+DOCPC    tá gostando do curso?
+         00:02:09.515 - 00:02:10.615
+CAI1MI   tô bastante
+         00:02:10.390 - 00:02:11.290
+DISF     (HES)
+         00:02:12.325 - 00:02:12.895
+DOCPC    e ciências sociais era a sua primeira opção ou você tinha alguma outra coisa em mente?
+         00:02:13.355 - 00:02:16.795
+CAI1MI   era minha primeira opção
+         00:02:16.890 - 00:02:18.280
+CAI1MI   no segundo ano eu me apaixonei pela disciplina de sociologia que a gente tem contato no ensino médio
+         00:02:18.900 - 00:02:23.250
+CAI1MI   aí eu decidi a minha primeira era ciências sociais
+         00:02:23.690 - 00:02:27.000
+CAI1MI   e a segunda eu não tinha porque era o que eu queria fazer mesmo
+         00:02:27.200 - 00:02:29.520
+DOCPC    e em relação à instituição você queria estudar na UFS ou tinha planos de ir pra uma outra universidade?
+         00:02:30.540 - 00:02:36.380
+CAI1MI   na UFS mesmo porque acho que
+         00:02:37.015 - 00:02:38.605
+CAI1MI   estudante daqui de Sergipe principalmente de Aracaju não vê muita
+         00:02:38.715 - 00:02:42.035
+CAI1MI   muita
+         00:02:42.480 - 00:02:43.360
+CAI1MI   chance de ir pra outro lugar entendeu que não seja a UFS
+         00:02:43.725 - 00:02:46.155
+CAI1MI   ou a UNIT
+         00:02:46.225 - 00:02:46.945
+CAI1MI   entendeu
+         00:02:47.350 - 00:02:47.590
+DOCPC    e você estuda somente ou trabalha?
+         00:02:48.585 - 00:02:51.725
+CAI1MI   não só estudo
+         00:02:51.890 - 00:02:52.850
+DOCPC    já trabalhou em algum momento?
+         00:02:53.675 - 00:02:55.615
+CAI1MI   não
+         00:02:55.070 - 00:02:55.580
+DOCPC    acha que conseguiria conciliar 
+         00:02:56.610 - 00:02:58.640
+DOCPC    trabalho e estudo
+         00:02:58.800 - 00:03:00.010
+CAI1MI   acho que conseguiria mas eu não seria por exemplo um
+         00:03:01.010 - 00:03:03.790
+CAI1MI   não teria um estudo de qualidade entendeu 
+         00:03:03.915 - 00:03:05.615
+DISF     (EST)
+         00:03:06.090 - 00:03:06.670
+DISF     (HES)
+         00:03:07.575 - 00:03:08.035
+DOCPC    o que é que você tá achando assim do
+         00:03:08.545 - 00:03:11.005
+DOCPC    do primeiro período das disciplinas
+         00:03:11.200 - 00:03:13.320
+CAI1MI   é um pouco chocante quando a gente chega do ensino médio pra universidade com a carga de texto que a gente tem 
+         00:03:13.925 - 00:03:19.710
+CAI1MI   e também com 
+         00:03:20.255 - 00:03:21.885
+DISF     (HES)
+         00:03:22.302 - 00:03:22.832
+CAI1MI   a forma que a gente que é cobrado de ser produtivo através de várias disciplinas também
+         00:03:22.850 - 00:03:27.405
+CAI1MI   mas com empenho e dedicação eu creio que
+         00:03:27.805 - 00:03:30.785
+CAI1MI   que dá pra conciliar entendeu tem seu lado negativo mas dá pra
+         00:03:31.100 - 00:03:35.080
+CAI1MI   acabar conciliando
+         00:03:35.585 - 00:03:36.485
+DOCPC    além da quantidade de textos você sentiu alguma 
+         00:03:37.400 - 00:03:40.980
+DOCPC    dificuldade no início?
+         00:03:41.255 - 00:03:42.715
+CAI1MI   dificuldade
+         00:03:44.490 - 00:03:45.260
+CAI1MI   em relação a que em relação a
+         00:03:46.170 - 00:03:47.730
+DOCPC    pra acompanhar conteúdo modelo das aulas que é bem diferente né
+         00:03:47.965 - 00:03:51.845
+CAI1MI   sim sim
+         00:03:51.510 - 00:03:52.410
+CAI1MI   eu diria que 
+         00:03:54.545 - 00:03:55.405
+CAI1MI   foi um pouco difícil no começo justamente por ser diferente do que eu
+         00:03:55.580 - 00:03:58.610
+CAI1MI   tinha visto antes mas
+         00:03:59.100 - 00:04:00.560
+CAI1MI   deu pra
+         00:04:00.985 - 00:04:01.965
+CAI1MI   pra adaptar entendeu
+         00:04:02.090 - 00:04:03.310
+CAI1MI   deu pra adaptar
+         00:04:04.035 - 00:04:04.815
+DISF     (HES)
+         00:04:06.260 - 00:04:06.600
+DOCPC    voltando
+         00:04:06.590 - 00:04:07.340
+DOCPC    pra infância
+         00:04:07.535 - 00:04:09.165
+DISF     (HES)
+         00:04:09.512 - 00:04:09.892
+DOCPC    cê sempre morou nu/na mesma casa no mesmo bairro né?
+         00:04:09.920 - 00:04:13.075
+CAI1MI   isso
+         00:04:12.620 - 00:04:13.180
+DOCPC    qual a memória mais marcante de lá que você tem?
+         00:04:13.415 - 00:04:16.615
+CAI1MI   que eu tenho do meu bairro deixa eu ver 
+         00:04:17.070 - 00:04:18.800
+CAI1MI   é até engraçado é porque lá onde eu moro tem alguns viveiros de camarões
+         00:04:22.110 - 00:04:26.170
+CAI1MI   aí um dia eu cai dentro desse viveiro com bicicleta acho que é a memória mais
+         00:04:26.795 - 00:04:31.955
+CAI1MI   mais
+         00:04:32.630 - 00:04:33.190
+CAI1MI   a/ eu acho que foi a primeira que vem em mente quando eu penso sobre meu bairro
+         00:04:33.335 - 00:04:36.665
+CAI1MI   aí tem eu lembro
+         00:04:37.205 - 00:04:38.475
+CAI1MI   do cenário em si sabe do tipo dos viveiros da bicicleta 
+         00:04:38.815 - 00:04:42.565
+CAI1MI   e antigamente não era
+         00:04:42.825 - 00:04:44.125
+CAI1MI   não tinha pavimentação era estrada de terra mesmo
+         00:04:44.520 - 00:04:47.560
+CAI1MI   hoje em dia é diferente é é isso que eu lembro
+         00:04:47.655 - 00:04:50.695
+DOCPC    quantos anos você tinha quando você caiu? 
+         00:04:50.975 - 00:04:52.775
+CAI1MI   eu acho que eu tinha uns
+         00:04:52.810 - 00:04:54.110
+CAI1MI   nove dez anos
+         00:04:54.455 - 00:04:55.855
+DOCPC    sabia nadar?
+         00:04:56.130 - 00:04:56.960
+CAI1MI   não
+         00:04:57.140 - 00:04:57.760
+DISF     ((RISOS))
+         00:04:57.735 - 00:04:58.455
+DOCPC    era fundo?
+         00:04:58.500 - 00:04:59.480
+CAI1MI   não não
+         00:04:59.555 - 00:05:00.555
+CAI1MI   e engraçado que
+         00:05:01.160 - 00:05:02.450
+DISF     (HES)
+         00:05:02.430 - 00:05:02.880
+CAI1MI   o saneamento saia pro pro viveiro né aí eu fiquei sujo de esgoto (também) foi bem foi bem 
+         00:05:03.145 - 00:05:08.250
+DOCPC    aí meu Deus!
+         00:05:08.370 - 00:05:09.250
+CAI1MI   traumatizante
+         00:05:09.245 - 00:05:10.040
+DISF     ((RISOS))
+         00:05:09.990 - 00:05:10.540
+DOCPC    e sua mãe o que foi que disse?
+         00:05:10.960 - 00:05:13.000
+CAI1MI   ela tava conversando com minha avó num bancos de madeira que tinha em frente a casa de minha avó
+         00:05:13.015 - 00:05:17.265
+CAI1MI   aí eu lembro de eu ter gritado pra ela vir me pegar né aí uma vizinha me ajudou a tirar da bicicleta porque eu tava preso na lama
+         00:05:17.515 - 00:05:24.110
+DISF     ((RISOS))
+         00:05:24.155 - 00:05:24.755
+DOCPC    você tava andando de bicicleta sozinho ou tava com algum colega?
+         00:05:24.750 - 00:05:28.460
+CAI1MI   eu tava sozinho e era uma bicicleta bem alta pra mim
+         00:05:27.530 - 00:05:30.610
+DISF     ((RISOS))
+         00:05:30.585 - 00:05:31.495
+DOCPC    e outra memória que não seja traumatizante?
+         00:05:32.425 - 00:05:35.465
+CAI1MI   ai deixa eu ver
+         00:05:35.750 - 00:05:37.080
+CAI1MI   eu lembro também não é bem traumatizante mas
+         00:05:39.290 - 00:05:41.860
+DISF     (HES)
+         00:05:42.115 - 00:05:42.585
+CAI1MI   quando acho que no mês de março geralmente a maré subia bastante
+         00:05:42.630 - 00:05:46.150
+CAI1MI   ai eu lembro uma vez que a rua inteira tava ilhada sabe tava cheia de água do da maré que havia subido
+         00:05:46.500 - 00:05:52.660
+DISF     (EST)
+         00:05:51.265 - 00:05:51.885
+CAI1MI   acho que isso também
+         00:05:52.990 - 00:05:54.170
+DOCPC    você tinha tinha ou tem muitos amigos onde você mora?
+         00:05:56.340 - 00:06:00.310
+CAI1MI   hoje em dia não hoje em dia acabei me afastando um pouco
+         00:06:00.970 - 00:06:03.890
+CAI1MI   deles
+         00:06:04.515 - 00:06:04.945
+CAI1MI   foi
+         00:06:06.125 - 00:06:06.585
+DOCPC    mas na infância você constumava brincar bastante com seus colegas
+         00:06:07.945 - 00:06:11.975
+CAI1MI   bastante na infância com primos colegas
+         00:06:10.865 - 00:06:13.775
+DISF     (HES)
+         00:06:16.030 - 00:06:16.660
+DOCPC    se você tivesse oportunidade de morar em outro lugar
+         00:06:16.660 - 00:06:19.510
+DOCPC    que lugar seria esse
+         00:06:19.750 - 00:06:20.600
+CAI1MI   eu acho que seria perto da universidade hoje em dia
+         00:06:22.960 - 00:06:25.385
+CAI1MI   porque facilitaria bastante a minha locomoção
+         00:06:25.590 - 00:06:28.300
+CAI1MI   e o tempo que eu gasto no ônibus
+         00:06:28.610 - 00:06:30.150
+DOCPC    sim
+         00:06:30.415 - 00:06:31.445
+DISF     (HES)
+         00:06:32.112 - 00:06:32.442
+DOCPC    são quantas horas que você 
+         00:06:32.430 - 00:06:34.865
+DOCPC    gasta
+         00:06:35.225 - 00:06:35.945
+DOCPC    no percurso
+         00:06:36.580 - 00:06:37.460
+CAI1MI   daqui pra Socorro eu acho que é
+         00:06:37.265 - 00:06:40.155
+CAI1MI   pode ser quarenta e cinco minutos a uma hora 
+         00:06:41.045 - 00:06:42.965
+CAI1MI   se for de ônibus coletivo
+         00:06:43.240 - 00:06:44.650
+CAI1MI   interestadual é uma hora e quinze uma hora e meia
+         00:06:45.180 - 00:06:48.600
+DOCPC    e você acha que essa hora e quinze
+         00:06:49.310 - 00:06:51.780
+DISF     (HES)
+         00:06:52.310 - 00:06:52.910
+DOCPC    é um tempo que 
+         00:06:52.910 - 00:06:54.520
+DOCPC    é uma perda de tempo que lhe prejudica?
+         00:06:54.775 - 00:06:56.565
+CAI1MI   de certa forma sim entendeu porque eu poderia tá usando esse tempo  pra fazer outras coisas
+         00:06:57.815 - 00:07:02.360
+CAI1MI   tanto estudar como descansar
+         00:07:02.795 - 00:07:04.515
+DOCPC    mas lá onde você mora você acha que
+         00:07:05.450 - 00:07:08.000
+DOCPC    tem algum atrativo para os moradores
+         00:07:09.290 - 00:07:11.390
+CAI1MI   então eu moro num lugar que se chama Orlinha do povoado São Brás
+         00:07:12.845 - 00:07:16.525
+DISF     (EST)
+         00:07:16.770 - 00:07:17.200
+CAI1MI   antigamente não
+         00:07:17.140 - 00:07:18.790
+CAI1MI   ainda sim tinha uma bastante turismo lá e tinha um rio que as crianças tomavam banho os adultos também
+         00:07:19.300 - 00:07:25.350
+CAI1MI   hoje em dia eh eu diria que 
+         00:07:25.750 - 00:07:28.300
+CAI1MI   perdeu-se um pouco isso as pessoas não tomam mais banho no rio não aproveitam em si
+         00:07:28.710 - 00:07:32.570
+DISF     (HES)
+         00:07:32.855 - 00:07:33.405
+CAI1MI   a natureza em si de lá 
+         00:07:33.825 - 00:07:35.355
+CAI1MI   mas
+         00:07:35.895 - 00:07:36.715
+CAI1MI   eu acho que tipo tem campo de futebol tem campos em si pra
+         00:07:37.040 - 00:07:40.680
+CAI1MI   para
+         00:07:41.075 - 00:07:41.585
+CAI1MI   sair com a família eu acho que dá na medida do possível dá pra ocupar o espaço
+         00:07:41.725 - 00:07:45.345
+DOCPC    e as crianças deixaram de tomar no rio por exemplo por que
+         00:07:46.120 - 00:07:50.355
+DOCPC    se perdeu esse costume mesmo ou o rio tá poluído
+         00:07:50.920 - 00:07:54.500
+CAI1MI   acho que os dois
+         00:07:54.835 - 00:07:56.015
+CAI1MI   acho que naquela época o rio também já tava poluído mas as crianças ainda tinham esse costume
+         00:07:56.210 - 00:08:00.560
+CAI1MI   que era bem ligado ao costume de brincar na rua que hoje em dia não se vê mais
+         00:08:00.770 - 00:08:04.350
+DISF     (HES)
+         00:08:05.640 - 00:08:06.390
+DOCPC    qual o ponto negativo
+         00:08:06.630 - 00:08:07.680
+DOCPC    de lá
+         00:08:07.900 - 00:08:08.260
+CAI1MI   ponto negativo de lá
+         00:08:09.335 - 00:08:11.015
+CAI1MI   como eu falei pra você no início
+         00:08:13.430 - 00:08:15.040
+CAI1MI   tem seu grau de de perigo
+         00:08:15.500 - 00:08:17.805
+CAI1MI   por ser região periférica
+         00:08:18.105 - 00:08:19.625
+CAI1MI   mas
+         00:08:20.100 - 00:08:20.820
+CAI1MI   eu não concentraria isso como um principal defeito de lá
+         00:08:20.915 - 00:08:25.525
+CAI1MI   eu acho  que falaria sobre
+         00:08:26.345 - 00:08:28.595
+CAI1MI    a falta de visibilidade um pouco
+         00:08:28.900 - 00:08:30.560
+CAI1MI   que a população tem entendeu
+         00:08:30.765 - 00:08:32.600
+CAI1MI   em relação a
+         00:08:32.715 - 00:08:33.725
+DISF     (HES)
+         00:08:34.065 - 00:08:34.455
+CAI1MI   a prefeitura a prefeitura  recentemente venho se preocupar com o povoado São Brás
+         00:08:34.665 - 00:08:39.255
+DOCPC    falta de visibilidade em que sentido?
+         00:08:39.525 - 00:08:41.385
+CAI1MI   no sentido de
+         00:08:41.630 - 00:08:43.050
+CAI1MI   representatividade dentro do poder por exemplo vereadores de lá
+         00:08:43.675 - 00:08:47.515
+CAI1MI   e também no sentido de
+         00:08:47.760 - 00:08:49.510
+CAI1MI   de que por exemplo
+         00:08:50.050 - 00:08:51.270
+CAI1MI   antigamente existia um programa que levava alimento pras pessoas de lá porque é uma comunidade periférica com pessoas carentes
+         00:08:51.485 - 00:08:57.665
+DISF     (HES)
+         00:08:54.795 - 00:08:55.095
+CAI1MI   só que com o passar dos anos isso foi se perdendo também entendeu e tem pessoas de lá que precisam muito disso
+         00:08:58.050 - 00:09:03.580
+CAI1MI   precisam desse auxílio do governo entendeu
+         00:09:03.840 - 00:09:06.450
+DOCPC    a desigualdade social é algo bastante evidente por lá?
+         00:09:07.250 - 00:09:12.460
+CAI1MI   é porque assim desigualdade social eu diria que as consequências entendeu porque por exemplo não tem lá uma pessoa que seja 
+         00:09:14.650 - 00:09:20.080
+DISF     (HES)
+         00:09:20.210 - 00:09:21.370
+CAI1MI   financeiramente
+         00:09:21.515 - 00:09:22.805
+CAI1MI   boa sabe economicamente boa numa posição muito elevada porque que o mesmo
+         00:09:23.105 - 00:09:27.435
+CAI1MI   numa mesma redoma sabe econômica
+         00:09:27.885 - 00:09:29.805
+CAI1MI   que sim é afetada pelas desigualdades sociais 
+         00:09:29.930 - 00:09:32.570
+DOCPC    e quais são as consequências visíveis
+         00:09:32.785 - 00:09:35.565
+DOCPC    da desigualdade lá?
+         00:09:35.680 - 00:09:36.860
+CAI1MI   aqui mais me marca e aqui mais me marcou e ainda é
+         00:09:37.345 - 00:09:40.695
+CAI1MI   acho que vai me marcar
+         00:09:40.985 - 00:09:41.855
+CAI1MI   futuramente
+         00:09:42.145 - 00:09:42.865
+CAI1MI   é em relação à educação sabe muitos dos amigos que eu tinha durante a infância
+         00:09:43.240 - 00:09:47.470
+DISF     (HES)
+         00:09:47.730 - 00:09:48.180
+CAI1MI   acabaram indo pro lado das drogas pro lado da
+         00:09:48.180 - 00:09:51.390
+CAI1MI   da criminalidade e pra mim isso que mais me marcou entendeu
+         00:09:51.510 - 00:09:54.910
+DISF     (HES)
+         00:09:55.557 - 00:09:56.077
+CAI1MI   em relação também a essa questão do do auxílio da fome da
+         00:09:56.070 - 00:09:59.655
+CAI1MI   da alimentação mesmo também
+         00:10:00.115 - 00:10:01.775
+CAI1MI   mas esse ponto da educação que me marcou e ainda que me marca que eu vejo que
+         00:10:02.300 - 00:10:06.150
+CAI1MI   é nítido que existe desigualdade nas oportunidades lá
+         00:10:06.560 - 00:10:10.250
+CAI1MI   entendeu
+         00:10:10.640 - 00:10:10.980
+DOCPC    isso é você fala pela sua experiência em relação a você e seus amigos
+         00:10:11.145 - 00:10:15.675
+CAI1MI   isso eu faço uma certa comparação entendeu desse das oportunidades que eu tive e das oportunidade que eles não tiveram
+         00:10:15.675 - 00:10:21.245
+CAI1MI   saindo do mesmo lugar
+         00:10:21.375 - 00:10:22.325
+DOCPC    e como você se sente em relação a isso a ver os diferentes caminhos que você
+         00:10:22.885 - 00:10:28.355
+DOCPC    e seus amigos traçaram justamente em decorrência
+         00:10:28.570 - 00:10:31.690
+DOCPC    das diferentes oportunidades 
+         00:10:31.825 - 00:10:34.405
+CAI1MI   isso
+         00:10:33.930 - 00:10:34.360
+CAI1MI   eu me s/eu sinto na verdade uma meio que obrigação moral de
+         00:10:34.720 - 00:10:38.755
+CAI1MI   de voltar o o meu progresso para eles entendeu de voltar o meu trabalho pra
+         00:10:38.820 - 00:10:43.140
+CAI1MI   pra comunidade não desse aí porque eu tenho essa consciência que por exemplo
+         00:10:43.355 - 00:10:46.965
+CAI1MI   eu tive oportunidades mas muitos tiveram muitos talvez tivessem o desejo mas não tiveram a oportunidade entendeu
+         00:10:47.465 - 00:10:52.585
+CAI1MI   acho que seria mais
+         00:10:52.760 - 00:10:53.750
+DISF     (HES)
+         00:10:54.110 - 00:10:54.920
+CAI1MI   verdadeiro eu trazer isso pra eles também
+         00:10:55.380 - 00:10:57.930
+CAI1MI   já que eu tô construindo ainda na minha graduação
+         00:10:58.120 - 00:11:00.400
+DOCPC    você faz bacharelado ou licenciatura?
+         00:11:00.980 - 00:11:03.930
+CAI1MI   eu fa/ faço bacharelado em ciências sociais
+         00:11:03.430 - 00:11:06.140
+DOCPC    e você
+         00:11:06.590 - 00:11:07.600
+DOCPC    nesse momento
+         00:11:07.670 - 00:11:08.850
+DOCPC    imagina em um
+         00:11:08.925 - 00:11:10.505
+DOCPC    forma de
+         00:11:10.550 - 00:11:11.480
+DOCPC    trazer retorno como você mesmo mencionou
+         00:11:11.565 - 00:11:13.725
+DOCPC    pra
+         00:11:13.810 - 00:11:14.610
+DOCPC    localidade onde você mora pros seus amigos
+         00:11:14.805 - 00:11:17.205
+CAI1MI   eu pretendo assim é uma ideia que eu preciso maturar mas eu pretendo
+         00:11:17.530 - 00:11:21.820
+DISF     (HES)
+         00:11:22.090 - 00:11:22.450
+CAI1MI   levar pra comunidade  algumas aulas gratuitas e tal
+         00:11:22.450 - 00:11:26.280
+CAI1MI   algumas palestras algumas discussões até mesmo utilizar a ferramenta do áudio visual pra pra comunicar com eles entendeu
+         00:11:26.480 - 00:11:33.410
+DOCPC    bacana
+         00:11:33.635 - 00:11:34.815
+DISF     (HES)
+         00:11:35.110 - 00:11:35.610
+DOCPC    se você tivesse oportunidade de morar em outro lugar
+         00:11:35.590 - 00:11:38.280
+DOCPC    qual lugar seria esse?
+         00:11:38.635 - 00:11:39.715
+CAI1MI   seria aqui mesmo em São Cristóvão
+         00:11:40.310 - 00:11:42.020
+CAI1MI   no Rosa Elze
+         00:11:42.220 - 00:11:42.980
+DOCPC    ah sim perto perto da Universidade
+         00:11:42.505 - 00:11:45.225
+CAI1MI   da Universidade
+         00:11:44.320 - 00:11:45.270
+DOCPC    e em outro estado?
+         00:11:45.740 - 00:11:47.160
+CAI1MI   outro estado
+         00:11:47.915 - 00:11:49.345
+CAI1MI   a gente tem muito essa ideia que o sudeste ele traz muitas oportunidades e de fato traz acho que seria interessante pra carreira
+         00:11:50.015 - 00:11:57.680
+CAI1MI   pra carreira de cientista social
+         00:11:57.970 - 00:11:59.410
+CAI1MI   sociólogo
+         00:11:59.595 - 00:11:59.995
+DISF     (HES)
+         00:12:00.845 - 00:12:01.335
+CAI1MI   pra parte do sudeste mas eu acho muito interessante também as raízes que a gente tem no nordeste como Sergipe Bahia Alagoas
+         00:12:01.320 - 00:12:06.600
+CAI1MI   aí eu fico meio em dúvida mas eu acho que eu iria 
+         00:12:06.890 - 00:12:08.790
+CAI1MI   pra Bahia por exemplo 
+         00:12:09.185 - 00:12:10.715
+DOCPC    pra morar
+         00:12:11.185 - 00:12:11.895
+CAI1MI   isso pra morar
+         00:12:12.025 - 00:12:12.785
+DOCPC    e uma viagem que você faria não pra morar mas você iria e retornaria 
+         00:12:13.250 - 00:12:18.470
+CAI1MI   acho que gostaria de visitar o Canadá
+         00:12:18.805 - 00:12:20.925
+DOCPC    por quê?
+         00:12:21.700 - 00:12:22.230
+CAI1MI   eu tenho um amigo lá que a gente se conheceu por rede social
+         00:12:22.540 - 00:12:26.520
+CAI1MI   e ele me fala algumas coisas sobre lá como  o governo é como são as políticas públicas eu acho muito interessante eu acho que seria uma experiência
+         00:12:26.795 - 00:12:33.625
+CAI1MI   enriquecedora
+         00:12:33.965 - 00:12:34.725
+CAI1MI   ir pra lá
+         00:12:35.110 - 00:12:35.480
+DISF     (HES)
+         00:12:36.750 - 00:12:37.510
+DOCPC    você já saiu de Sergipe?
+         00:12:37.510 - 00:12:39.060
+CAI1MI   não
+         00:12:39.140 - 00:12:39.500
+CAI1MI   quer dizer já já fui pra Bahia
+         00:12:39.835 - 00:12:41.075
+DOCPC    e você foi pra qual cidade?
+         00:12:41.830 - 00:12:43.620
+CAI1MI   eu fui pra Salvador mesmo
+         00:12:43.680 - 00:12:45.170
+DOCPC    e como foi?
+         00:12:45.650 - 00:12:46.560
+DOCPC    ir a Salvador
+         00:12:46.610 - 00:12:47.610
+CAI1MI   foi uma viagem de turismo
+         00:12:47.835 - 00:12:49.965
+CAI1MI   acho que foram dois dias e eu era bem pequeno eu não tenho uma memória muito ampla disso mas
+         00:12:50.670 - 00:12:55.940
+CAI1MI   creio que foi bastante interessante
+         00:12:56.210 - 00:12:57.530
+CAI1MI   creio que havia gostado
+         00:12:57.685 - 00:12:59.135
+DOCPC    você se lembra de algum lugar que você visitou?
+         00:12:59.685 - 00:13:02.475
+CAI1MI   eu não lembro j/ eu não tenho a memória em si tipo do local mas eu lembro muito de ver
+         00:13:04.185 - 00:13:08.935
+CAI1MI   aquelas pulserinhas sabe de
+         00:13:09.195 - 00:13:12.165
+CAI1MI   se você realiza seus desejos  e tal
+         00:13:12.855 - 00:13:15.895
+DOCPC    eu sei
+         00:13:13.510 - 00:13:14.950
+DOCPC    só não lembro o nome
+         00:13:15.025 - 00:13:15.885
+CAI1MI   esqueci o nome também
+         00:13:16.450 - 00:13:17.780
+CAI1MI   mas eu via muito disso lá
+         00:13:17.910 - 00:13:19.280
+CAI1MI   porque como eu disse essa viagem foi curta num e eu era pequeno e não deu pra memorizar muito assim locais  
+         00:13:19.700 - 00:13:24.460
+DOCPC    você foi a passeio assim pra conhecer ou foi visitar algum parente?
+         00:13:25.555 - 00:13:29.845
+CAI1MI   não foi a passeio
+         00:13:29.865 - 00:13:31.165
+DOCPC    com seus pais
+         00:13:31.510 - 00:13:32.280
+CAI1MI   isso e com a família também
+         00:13:32.310 - 00:13:34.150
+DISF     (HES)
+         00:13:35.485 - 00:13:36.135
+DOCPC    você estuda qual turno aqui na UFS?
+         00:13:36.255 - 00:13:38.105
+CAI1MI   estudo vespertino
+         00:13:38.275 - 00:13:39.745
+DOCPC    vespertino e quando você não está aqui ou quando não está estudando o que é que você costuma fazer?
+         00:13:40.385 - 00:13:47.125
+CAI1MI   geralmente eu fico em casa
+         00:13:47.850 - 00:13:49.410
+CAI1MI   estudando e quando eu não estou estudando eu tiro um tempo livre pra jogar ou assistir alguma coisa ou ler outra coisa que não seja texto da universidade 
+         00:13:49.795 - 00:13:58.700
+CAI1MI   é isso
+         00:13:59.475 - 00:14:00.145
+CAI1MI   tem algum lugar que você goste de ir
+         00:14:00.275 - 00:14:02.375
+CAI1MI   tem tem o cinema do shopping prêmio que é lá de Socorro que eu frequento bastante
+         00:14:02.940 - 00:14:07.520
+CAI1MI   eu adoro filmes
+         00:14:08.055 - 00:14:09.075
+DOCPC    qual o tipo de filme que você gosta?
+         00:14:09.850 - 00:14:11.820
+CAI1MI   eu gosto de filmes de black busters tipo super herói mas filmes de terros são os meus favoritos
+         00:14:12.760 - 00:14:18.190
+DOCPC    e qual foi o último que você assistiu?
+         00:14:19.250 - 00:14:21.270
+CAI1MI   o último que eu assisti eu acho foi
+         00:14:21.805 - 00:14:24.385
+DISF     (HES)
+         00:14:25.075 - 00:14:26.055
+CAI1MI   Anabelle Anabelle dois
+         00:14:27.040 - 00:14:28.480
+CAI1MI   não Anabelle três
+         00:14:28.545 - 00:14:29.485
+CAI1MI   ( )
+         00:14:29.560 - 00:14:30.100
+DOCPC    e qual
+         00:14:31.445 - 00:14:32.975
+DOCPC    o enredo do filme?
+         00:14:33.325 - 00:14:34.365
+CAI1MI   então o filme ele
+         00:14:35.090 - 00:14:36.720
+CAI1MI   dá continuidade a uma
+         00:14:37.190 - 00:14:39.250
+CAI1MI   a uma
+         00:14:39.715 - 00:14:40.335
+CAI1MI   série de filmes na/ de um universo que é o universo de Invocação do Mal
+         00:14:40.620 - 00:14:44.450
+CAI1MI   e nesse
+         00:14:44.990 - 00:14:46.080
+DISF     (HES)
+         00:14:46.070 - 00:14:46.690
+CAI1MI   trazendo uma história baseada em fatos reais que a filha da
+         00:14:46.970 - 00:14:50.310
+CAI1MI   da moça da
+         00:14:50.965 - 00:14:52.105
+CAI1MI   da Lorraine
+         00:14:52.360 - 00:14:53.010
+CAI1MI   que ela é a
+         00:14:53.110 - 00:14:54.300
+CAI1MI   sensitiva
+         00:14:54.390 - 00:14:55.360
+CAI1MI   ela tem contato com as amigas e acaba liberando o espirito da Anabelle
+         00:14:55.540 - 00:15:00.380
+CAI1MI   dentro do do ( ) que é cheio de artefatos
+         00:15:00.490 - 00:15:03.400
+CAI1MI   possuídos e demoniacos
+         00:15:03.590 - 00:15:05.650
+CAI1MI   e acaba meio  que
+         00:15:05.800 - 00:15:07.365
+CAI1MI   sendo uma noite de terror entendeu pra pras meninas que estavam na casa
+         00:15:07.580 - 00:15:11.310
+DOCPC    e você gostou do filme?
+         00:15:12.480 - 00:15:13.910
+CAI1MI   eu/ entreteu eu
+         00:15:14.620 - 00:15:16.200
+CAI1MI   posso dizer que entreteu mas o roteiro achei meio
+         00:15:16.415 - 00:15:18.965
+DISF     (HES)
+         00:15:19.217 - 00:15:19.697
+CAI1MI   não gostei muito
+         00:15:19.680 - 00:15:20.525
+DOCPC    por que o que foi que faltou?
+         00:15:20.770 - 00:15:22.180
+CAI1MI   eu acho que acabou sendo muito clichê entendeu
+         00:15:22.370 - 00:15:24.910
+CAI1MI   o filme todo tem esse esse perigo de acabar sendo muito clichê de ser muito
+         00:15:25.230 - 00:15:29.370
+CAI1MI   algo que você já viu antes ou que você imaginou 
+         00:15:29.535 - 00:15:31.725
+CAI1MI   e o que é que você já tinha visto antes que aparece em Anabelle
+         00:15:32.185 - 00:15:35.885
+CAI1MI   por exemplo essa ideia de que
+         00:15:36.660 - 00:15:38.940
+CAI1MI   um grupo de amigos se junta em uma casa e começa a acontecer coisas estranhas bem clássico dos filmes dos anos 90
+         00:15:39.065 - 00:15:45.230
+DISF     (HES)
+         00:15:46.817 - 00:15:47.267
+DOCPC    você menciona que gosta de ler né
+         00:15:47.240 - 00:15:49.545
+CAI1MI   sim
+         00:15:49.690 - 00:15:50.050
+DOCPC    e o que é que você costuma ler?
+         00:15:50.245 - 00:15:51.985
+CAI1MI   eu gosto de ler ah desde romances até eu tenho visto leitura acadêmica como uma forma de entretenimento também
+         00:15:52.675 - 00:16:00.275
+CAI1MI   livros de auto ajuda também são interessantes
+         00:16:01.415 - 00:16:03.265
+DOCPC    qual
+         00:16:04.545 - 00:16:05.605
+DOCPC    o o livro que você leu assim que mais lhe marcou?
+         00:16:06.450 - 00:16:10.630
+CAI1MI   ah tem um livro que  eu não sei bem o escritor porque faz bastante tempo que ele ia acho que tinha uns dez anos
+         00:16:11.290 - 00:16:16.620
+CAI1MI   eu diria que é nacional o livro de mãos atadas é muito bom esse livro
+         00:16:17.240 - 00:16:21.310
+CAI1MI   ele fala um pouco sobre de desigualdades
+         00:16:21.940 - 00:16:24.510
+DISF     (HES)
+         00:16:24.840 - 00:16:25.320
+CAI1MI   o personagem em si ele é um menino pobre de uma favela do Rio de Janeiro
+         00:16:25.320 - 00:16:29.550
+CAI1MI   ele se envolve com grande problema e tal e isso faz ele reavaliar 
+         00:16:29.965 - 00:16:34.325
+CAI1MI   a condição dele socialmente
+         00:16:34.500 - 00:16:36.370
+CAI1MI   é muito interessante
+         00:16:36.760 - 00:16:37.690
+DOCPC    você leu esse livro aos dez anos
+         00:16:37.950 - 00:16:39.800
+CAI1MI   isso isso
+         00:16:39.950 - 00:16:41.390
+DOCPC    você lembra como a criança que você era se sentiu ao se deparar com 
+         00:16:41.505 - 00:16:46.405
+DOCPC    isso?
+         00:16:46.760 - 00:16:47.200
+CAI1MI   então
+         00:16:47.395 - 00:16:48.215
+CAI1MI   foi muito foi muito interessante entendeu porque
+         00:16:48.340 - 00:16:51.350
+CAI1MI   geralmente criança quando lê histórias a gente
+         00:16:51.890 - 00:16:54.465
+CAI1MI   vai mais pro lado da fantasia entendeu e era uma leitura real entendeu
+         00:16:54.800 - 00:16:59.060
+CAI1MI   isso isso isso me fez ficar sensível acho que até
+         00:16:59.515 - 00:17:02.705
+CAI1MI   contribuiu pra pra querer que fizesse ciências sociais uns quatro anos depois
+         00:17:02.915 - 00:17:07.055
+CAI1MI   porque me pegou bastante entendeu
+         00:17:07.760 - 00:17:09.960
+DOCPC    e dos livros que você 
+         00:17:10.905 - 00:17:13.065
+DOCPC    tenha lido recentemente
+         00:17:13.310 - 00:17:14.630
+DOCPC    qual o que lhe vem a mente?
+         00:17:14.925 - 00:17:16.775
+DISF     (HES)
+         00:17:17.295 - 00:17:18.175
+CAI1MI   o caçador de pipas eu acho que li nas férias desse começo de ano
+         00:17:18.330 - 00:17:22.420
+CAI1MI   muito interessante também
+         00:17:22.620 - 00:17:23.690
+CAI1MI   e uma his/ e é legal porque é uma história que
+         00:17:24.360 - 00:17:27.190
+CAI1MI   se passa no Oriente entendeu
+         00:17:27.650 - 00:17:29.410
+CAI1MI   num país árabe
+         00:17:29.765 - 00:17:31.425
+CAI1MI   e é uma cultura totalmente diferente da nossa mas acho bastante interessante e enriquecedor
+         00:17:31.640 - 00:17:35.530
+DOCPC    enriquecedor em que sentido?
+         00:17:36.430 - 00:17:38.130
+CAI1MI   no sentido de você olhar pra sua própria cultura e ver que
+         00:17:38.965 - 00:17:42.375
+CAI1MI   que não existe uma cultura própria ou certa entendeu
+         00:17:42.665 - 00:17:45.505
+CAI1MI   que existe justamente essa diferença cultural que é bastante importante e interessante
+         00:17:45.900 - 00:17:49.580
+DOCPC    o aspecto cultural e as influências 
+         00:17:50.585 - 00:17:53.405
+DOCPC    disso na vida das pessoas é um tema que te interessa bastante né?
+         00:17:53.920 - 00:17:58.010
+CAI1MI   demais demais
+         00:17:56.750 - 00:17:57.830
+DOCPC    por quê?
+         00:17:58.705 - 00:17:59.515
+CAI1MI   porque agora eu vou usar algum conhecimento já tinha adquirido na graduação
+         00:18:00.135 - 00:18:04.935
+CAI1MI   porque a gente percebe que a cultura ela influencia
+         00:18:05.560 - 00:18:08.610
+CAI1MI   severamente  em quem a gente é entendeu
+         00:18:08.990 - 00:18:11.060
+CAI1MI   existe esse determinismo cultural
+         00:18:11.280 - 00:18:13.170
+CAI1MI   não biológico mas um determinismo cultural
+         00:18:13.430 - 00:18:16.390
+CAI1MI   que
+         00:18:16.905 - 00:18:17.725
+CAI1MI   ah que ele que abrange nossas crenças
+         00:18:17.980 - 00:18:20.660
+CAI1MI   nossas nossos desejos
+         00:18:20.905 - 00:18:22.645
+CAI1MI   nossos comportamentos também
+         00:18:22.830 - 00:18:24.650
+DISF     (HES)
+         00:18:25.975 - 00:18:26.385
+DOCPC    esse conhecimento você adquiriu aqui na graduação
+         00:18:26.370 - 00:18:30.090
+CAI1MI   isso
+         00:18:30.200 - 00:18:30.610
+CAI1MI   eu já tinha lido alguns livros antes que falava um pouco sobre isso mas na graduação isso é muito debatido
+         00:18:30.760 - 00:18:36.970
+DOCPC    então
+         00:18:37.590 - 00:18:38.390
+DOCPC    pelo que eu tô entendendo no ensino médio você já tinha meio que direcionado suas leituras um pouco
+         00:18:38.705 - 00:18:44.625
+DOCPC    pra uma perspectiva mais socológica
+         00:18:44.960 - 00:18:46.660
+CAI1MI   isso eu diria que a partir do terceiro ano ou segundo ano terceiro ano sim
+         00:18:47.115 - 00:18:51.135
+CAI1MI   acho que eu li sobre distopia a primeira distopia que eu li foi
+         00:18:51.690 - 00:18:55.630
+CAI1MI   Laranja Mecânica
+         00:18:56.195 - 00:18:57.605
+CAI1MI   isso me tocou demais sobre
+         00:18:57.925 - 00:19:00.355
+CAI1MI    ir atrás de livros assim voltados com essa temática
+         00:19:00.445 - 00:19:02.705
+CAI1MI   ai no terceiro ano aprofundei mais isso
+         00:19:03.150 - 00:19:05.350
+CAI1MI   sobre uma leitura voltada mais sociologicamente e tal de análise da sociedade
+         00:19:05.885 - 00:19:10.115
+CAI1MI   Revolução dos Bichos também bastante interessante
+         00:19:10.350 - 00:19:12.470
+DOCPC    e Laranja Mecânica como foi que você conheceu pelo filme ou você conheceu o livro primeiro?
+         00:19:13.040 - 00:19:18.560
+CAI1MI   eu conheci o livro primeiro eu nem sabia que tinha filme
+         00:19:18.605 - 00:19:21.705
+CAI1MI   e o engraçado que minha experiência com Laranja Mecânica foi muito diferente
+         00:19:21.980 - 00:19:25.380
+CAI1MI   porque eu tava bem sensível na época eu sou muito sensível para pra tudo que eu assisto e tudo que eu leio
+         00:19:25.965 - 00:19:31.125
+CAI1MI   e o livro ele trata de uma forma de violência que eles chamam de ultraviolência
+         00:19:31.540 - 00:19:36.000
+DISF     (EST)
+         00:19:35.665 - 00:19:36.135
+CAI1MI   que é muito é muito eu diria que é pessado
+         00:19:36.215 - 00:19:38.775
+CAI1MI   e eu começava a ter sonhos com o filme
+         00:19:39.080 - 00:19:41.920
+CAI1MI   ou com o livro
+         00:19:41.975 - 00:19:42.985
+CAI1MI   eu começava a sentir náuseas enquanto eu lia o livro foi uma experiência muito interessante que eu nunca tinha 
+         00:19:43.135 - 00:19:49.315
+CAI1MI   ( )
+         00:19:49.460 - 00:19:50.180
+DOCPC    você chegou a ver o filme?
+         00:19:50.525 - 00:19:51.765
+CAI1MI   eu vi o filme também
+         00:19:51.940 - 00:19:53.070
+DOCPC    e aí como foi que você 
+         00:19:53.190 - 00:19:55.040
+DOCPC    enxergou porque o filme também bem violento eu não cheguei a ler o livro mas o filme também me incomodou
+         00:19:55.610 - 00:20:02.255
+CAI1MI   total
+         00:19:58.707 - 00:19:59.207
+DISF     (EST)
+         00:20:00.012 - 00:20:00.462
+CAI1MI   sim sim
+         00:20:02.265 - 00:20:03.375
+CAI1MI   eu acho que o filme
+         00:20:03.465 - 00:20:04.845
+CAI1MI   ele é
+         00:20:05.210 - 00:20:05.590
+CAI1MI   quase chocante quanto o livro porque o livro te da oportunidade de você imaginar entendeu
+         00:20:06.265 - 00:20:10.655
+CAI1MI   eu acho que quando você imagina você joga a sementezinha no seu inconsciente eu acho que por isso que eu sonhei tanto 
+         00:20:10.785 - 00:20:15.285
+CAI1MI   e nossa é tão chocante quanto né
+         00:20:15.910 - 00:20:17.920
+CAI1MI    a violência que é tratada eu diria que até é uma crítica
+         00:20:18.250 - 00:20:21.190
+CAI1MI   a nossa própria sociedade
+         00:20:21.535 - 00:20:23.045
+CAI1MI    a forma como que a violência é tida dentro da sociedade
+         00:20:23.555 - 00:20:27.245
+DOCPC    a violência ela tem
+         00:20:28.045 - 00:20:30.240
+DOCPC    assim várias formas de se manifestar né
+         00:20:30.485 - 00:20:32.805
+CAI1MI   sim
+         00:20:32.410 - 00:20:32.770
+DOCPC    qual é a forma que você 
+         00:20:33.095 - 00:20:34.745
+DOCPC    vê
+         00:20:35.135 - 00:20:35.755
+DOCPC    viu no livro e no  filme que você vê assim mais
+         00:20:35.830 - 00:20:39.435
+DOCPC    claramente na nossa sociedade?
+         00:20:39.945 - 00:20:41.715
+CAI1MI   além dessa violência física
+         00:20:42.385 - 00:20:44.025
+CAI1MI   que o jovem
+         00:20:44.490 - 00:20:45.280
+DISF     (HES)
+         00:20:45.540 - 00:20:46.300
+CAI1MI   praticam no livro no filme
+         00:20:46.315 - 00:20:48.475
+DISF     (HES)
+         00:20:48.885 - 00:20:49.435
+CAI1MI   eu vi a violência simbólica do Estado
+         00:20:49.330 - 00:20:51.230
+DISF     (HES)
+         00:20:51.700 - 00:20:52.390
+CAI1MI   sem ser as ações entendeu dos personagens 
+         00:20:52.690 - 00:20:55.620
+DISF     (EST)
+         00:20:54.100 - 00:20:54.710
+CAI1MI   até a própria prisão e o condicionamento do personagem principal
+         00:20:55.970 - 00:20:59.550
+DISF     sim
+         00:20:57.970 - 00:20:58.540
+DOCPC    cê acha que é um 
+         00:21:00.725 - 00:21:01.835
+DOCPC    um filme livro
+         00:21:02.430 - 00:21:04.480
+DOCPC    pertinente pros dias de hoje?
+         00:21:05.050 - 00:21:06.780
+CAI1MI   creio que sim ainda mais em tempos que a violência e  justamente
+         00:21:07.370 - 00:21:10.845
+DISF     (HES)
+         00:21:11.430 - 00:21:11.970
+CAI1MI   a outra violência que eles colocam está em evidência
+         00:21:11.970 - 00:21:14.840
+CAI1MI   e muitas falas e muitos discursos
+         00:21:15.075 - 00:21:16.775
+DISF     (HES)
+         00:21:18.480 - 00:21:18.990
+DOCPC    o hábito de leitura foi bastante importante pra você na infância né?
+         00:21:19.000 - 00:21:22.850
+CAI1MI   foi
+         00:21:23.135 - 00:21:23.595
+DOCPC    e como foi que você adquiriu o gosto pela leitura?
+         00:21:24.390 - 00:21:27.600
+CAI1MI   bom eu acho que
+         00:21:28.060 - 00:21:29.510
+CAI1MI   eu vou partir do princípio que os pais querem passar pra você aquilo que eles não tiveram
+         00:21:29.610 - 00:21:33.685
+DISF     (HES)
+         00:21:34.250 - 00:21:34.770
+CAI1MI   eu acho que meu pai teve uma infância muito difícil e minha mãe também
+         00:21:34.760 - 00:21:37.960
+CAI1MI   e eles eles garantiram na minha educação que
+         00:21:38.270 - 00:21:41.680
+CAI1MI   eu tivesse mais oportunidades do que eles tiveram entendeu
+         00:21:41.950 - 00:21:44.530
+CAI1MI   meu pai sempre me incentivava a leitura comprava livros
+         00:21:44.825 - 00:21:48.255
+CAI1MI   e me incentivava nessa parte de de ler
+         00:21:48.825 - 00:21:51.475
+CAI1MI   de estudar na verdade
+         00:21:51.795 - 00:21:53.230
+DOCPC    você acha que o
+         00:21:53.385 - 00:21:55.055
+DOCPC    o hábito de ler
+         00:21:55.235 - 00:21:56.355
+DOCPC    é importante pra pessoa?
+         00:21:56.520 - 00:21:57.950
+CAI1MI   é fundamental
+         00:21:57.990 - 00:21:58.860
+DOCPC    por quê?
+         00:21:59.480 - 00:22:00.010
+CAI1MI   porque vai te trazer uma vai te trazer novas perspectivas
+         00:22:00.620 - 00:22:04.840
+CAI1MI   que uma conversa que o senso comum não
+         00:22:05.265 - 00:22:07.785
+CAI1MI   não tem essa essa força entendeu
+         00:22:08.180 - 00:22:10.410
+CAI1MI   porque vai vai instigar sua imaginação
+         00:22:10.830 - 00:22:13.040
+CAI1MI   vai tipo
+         00:22:13.280 - 00:22:14.080
+CAI1MI   é fazer com que você articule seus pensamentos pra entender aquilo pra formular novos pensamentos
+         00:22:14.405 - 00:22:18.795
+DISF     (EST)
+         00:22:19.360 - 00:22:20.090
+DISF     (HES)
+         00:22:20.825 - 00:22:21.535
+DOCPC    em relação à educação você acha que a educação pública
+         00:22:21.735 - 00:22:25.510
+DOCPC    ela deve ser assegurada pelo Estado?
+         00:22:26.005 - 00:22:27.845
+CAI1MI   sim
+         00:22:28.250 - 00:22:28.730
+CAI1MI   eu estudei no ensino médio em escola pública e eu vi o quão sucateado o ensino público é 
+         00:22:29.685 - 00:22:35.205
+DISF     (HES)
+         00:22:35.770 - 00:22:36.520
+CAI1MI   sem dúvido o Estado ele deve ser responsável pelo
+         00:22:36.750 - 00:22:39.400
+CAI1MI   por uma educação de qualidade
+         00:22:39.700 - 00:22:41.490
+DOCPC    você acha que dos últimos anos pra cá 
+         00:22:42.670 - 00:22:45.670
+DOCPC     a educação pública melhorou
+         00:22:45.865 - 00:22:47.875
+DOCPC    ou piorou ou tá estagnada?
+         00:22:47.955 - 00:22:50.105
+CAI1MI   eu diria que está estagnada 
+         00:22:50.385 - 00:22:51.925
+CAI1MI   principalmente agora que a gente tem acesso a novas tecnologias
+         00:22:52.880 - 00:22:55.850
+CAI1MI   eu como um estudante do um antigo estudante do ensino médio público
+         00:22:55.990 - 00:23:00.170
+DISF     (HES)
+         00:23:00.817 - 00:23:01.287
+CAI1MI   o que eu posso te falar é que parece que a escola parece a mesma de de vinte anos atrás
+         00:23:01.290 - 00:23:05.875
+DISF     (HES)
+         00:23:07.095 - 00:23:07.955
+DOCPC    tem algo de negativo nesse
+         00:23:09.205 - 00:23:11.595
+DOCPC    nessa estagnação da escola a muito tempo?
+         00:23:12.175 - 00:23:14.415
+CAI1MI   tem porque
+         00:23:14.775 - 00:23:16.030
+CAI1MI   por exemplo com as tecnologias vem novas demandas e novas demandas no sentido de
+         00:23:16.500 - 00:23:21.700
+CAI1MI   de
+         00:23:22.085 - 00:23:22.835
+DISF     (HES)
+         00:23:23.377 - 00:23:23.937
+CAI1MI   fazer a escola ser atrativa para os estudantes entendeu
+         00:23:23.890 - 00:23:27.020
+CAI1MI   o que acaba sendo um problema porque se a escola está estagnada justamente
+         00:23:27.260 - 00:23:31.440
+DISF     (HES)
+         00:23:31.907 - 00:23:32.347
+CAI1MI   ela não é atrativa pros estudantes
+         00:23:32.330 - 00:23:33.855
+CAI1MI   entendeu
+         00:23:34.405 - 00:23:34.735
+CAI1MI   ela não se liga diretamente aos interesses
+         00:23:35.415 - 00:23:37.465
+CAI1MI   criados justamente pelas presenças dessas tencologias
+         00:23:37.815 - 00:23:40.365
+DOCPC    mas
+         00:23:41.115 - 00:23:41.825
+DOCPC    a presença dessas tecnologias 
+         00:23:42.220 - 00:23:44.560
+DOCPC    tá pres/
+         00:23:45.145 - 00:23:45.815
+DOCPC    tá
+         00:23:46.025 - 00:23:46.875
+DOCPC    é evidente na escola a tecnologia chega lá ou não se sabe utilizar essa tecnologia?
+         00:23:47.135 - 00:23:52.335
+CAI1MI   eu diria que dos dois entendeu
+         00:23:52.530 - 00:23:54.230
+CAI1MI   o eu acho que a secretaria de
+         00:23:54.715 - 00:23:56.755
+CAI1MI   estadual de educação ela proporciona miminimamente algumas tecnologias
+         00:23:56.850 - 00:24:00.780
+CAI1MI   um projetores
+         00:24:01.050 - 00:24:02.440
+DISF     (HES)
+         00:24:02.570 - 00:24:03.360
+CAI1MI   e tablets computadores
+         00:24:03.630 - 00:24:05.040
+CAI1MI   só que engraçado  que minha escola ela tinha uma sala de informática que
+         00:24:05.210 - 00:24:09.855
+CAI1MI   do meu primeiro ano até o terceiro ano só funcionou eu acho que uma duas vezes
+         00:24:10.000 - 00:24:12.920
+DISF     (HES)
+         00:24:13.697 - 00:24:14.647
+CAI1MI   eu acho que tá dentro dessa ideia mesmo de
+         00:24:14.640 - 00:24:16.565
+CAI1MI   de também
+         00:24:16.925 - 00:24:17.535
+CAI1MI   ter mas não ser utilizado da forma que deveria
+         00:24:17.685 - 00:24:20.655
+DOCPC    e não era utilizado porque não tinha talvez um professor de informática
+         00:24:21.295 - 00:24:26.255
+CAI1MI   por dois motivos por esse que você citou de não ter um profissional
+         00:24:26.890 - 00:24:30.460
+CAI1MI   específico para a área  e também a manutenção dos computadores não era feita não era realizada
+         00:24:30.690 - 00:24:35.810
+DOCPC    e você acha que isso prejudicou de alguma forma o seu desenvolvimento
+         00:24:36.315 - 00:24:40.725
+DOCPC    no ensino médio?
+         00:24:41.115 - 00:24:42.365
+CAI1MI   eu diria que não o meu porque eu tive acesso a computador em casa
+         00:24:43.330 - 00:24:47.280
+CAI1MI   as muitos dos meus colegas que não tiveram eu acredito que foram prejudicados também
+         00:24:47.620 - 00:24:51.415
+DISF     (HES)
+         00:24:52.945 - 00:24:53.445
+DOCPC    apesar do
+         00:24:53.910 - 00:24:55.220
+DOCPC    desses fatos que você mencionou
+         00:24:55.640 - 00:24:57.350
+DOCPC    ah existe algumas políticas públicas pra que o aluno 
+         00:24:57.840 - 00:25:02.150
+DOCPC    vai a escola pra que ele permaneça
+         00:25:02.370 - 00:25:04.590
+DOCPC    na educação básica a gente tem
+         00:25:04.955 - 00:25:06.730
+DISF     (HES)
+         00:25:06.807 - 00:25:07.017
+DOCPC    a merenda escolar
+         00:25:06.967 - 00:25:08.127
+DISF     (HES)
+         00:25:08.680 - 00:25:09.130
+DOCPC    o plano nacional do livro didático transporte escolar
+         00:25:09.140 - 00:25:12.450
+DOCPC    o que é que você acha sobre esses programas?
+         00:25:12.835 - 00:25:15.015
+CAI1MI   são fundamentais entendeu são essenciais pra justamente
+         00:25:15.220 - 00:25:19.030
+DISF     (HES)
+         00:25:19.230 - 00:25:19.830
+CAI1MI   se atualizar a necessidade de que a gente está tendo hoje em dia que é evasão escolar
+         00:25:20.215 - 00:25:24.725
+CAI1MI   infelizmente é muito alta
+         00:25:24.915 - 00:25:26.315
+CAI1MI   e eu acho que esses programas tem uma função
+         00:25:26.670 - 00:25:28.770
+CAI1MI   essencial justamente pra retomar isso entendeu pra evitar
+         00:25:28.925 - 00:25:33.215
+CAI1MI   que isso cresça e que isso continue acontecendo
+         00:25:33.445 - 00:25:35.945
+DOCPC    você falou da evacuação escolar  né
+         00:25:36.720 - 00:25:39.480
+DISF     (HES)
+         00:25:39.895 - 00:25:40.715
+DOCPC    no ao seu ver
+         00:25:41.350 - 00:25:42.690
+DOCPC    qual ou quais as principais causas desse problema?
+         00:25:42.795 - 00:25:46.585
+CAI1MI   bom eu diria que
+         00:25:47.745 - 00:25:49.415
+CAI1MI   pela minha vivência no ensino médio eu pude observar também
+         00:25:49.575 - 00:25:53.390
+DISF     (HES)
+         00:25:53.477 - 00:25:54.027
+CAI1MI   além desse fator que já citei da escola não não se tornar atrativa pro jovem
+         00:25:54.160 - 00:25:58.425
+CAI1MI   porque muitos dos meus colegas iam pra praça durante o período da aula
+         00:25:58.775 - 00:26:02.305
+CAI1MI   eu diria também que às vezes o sistema ele impõe uma
+         00:26:02.535 - 00:26:06.215
+CAI1MI   na necessidade econômica que vem acima dessa necessidade de
+         00:26:06.370 - 00:26:10.990
+CAI1MI   se formar sabe
+         00:26:11.270 - 00:26:12.310
+CAI1MI   de você ter que trabalhar cedo de você ter que trabalhar e estudar e você acaba vendo que estudar acaba sendo não tão atrativo quanto trabalhar entendeu
+         00:26:12.795 - 00:26:20.855
+CAI1MI   eu acho que tipo existem várias questões sobre isso mas as principais são essas mesmo
+         00:26:21.230 - 00:26:25.320
+CAI1MI   a questão econômica a questão da escola está ainda estagnada
+         00:26:26.010 - 00:26:29.370
+DOCPC    en/ você acha que todos esses fatores 
+         00:26:30.680 - 00:26:33.245
+DOCPC    que prejudicam a permanência do aluno na escola
+         00:26:33.455 - 00:26:36.905
+DOCPC    contribuem
+         00:26:37.345 - 00:26:38.345
+DOCPC    pra desigualdade social
+         00:26:38.670 - 00:26:41.175
+CAI1MI   contribuem porque atuam como causa e consequência sabe
+         00:26:41.555 - 00:26:45.175
+CAI1MI   consequência por justamente a desigualdade
+         00:26:45.890 - 00:26:48.450
+CAI1MI   social já estar sido
+         00:26:48.585 - 00:26:50.175
+CAI1MI   instalada no nosso sistema e gerar isso 
+         00:26:50.485 - 00:26:52.945
+CAI1MI   também como causa porque vai se reproduzindo vai se repetindo a cada geração
+         00:26:53.330 - 00:26:56.530
+DOCPC    aqui na universidade a gente não tem as mesmas políticas mas a gente tem algumas
+         00:26:57.755 - 00:27:02.455
+DOCPC    semelhantes né tem o pibic que é a iniciação científica o pibid que é iniciação à docência
+         00:27:02.970 - 00:27:10.955
+DISF     (HES)
+         00:27:11.377 - 00:27:11.957
+DOCPC    pras pessoas
+         00:27:11.930 - 00:27:12.915
+DISF     (HES)
+         00:27:13.045 - 00:27:13.675
+DOCPC    numa situação socioeconômica mais vulnerável tem o apoio pedagógico
+         00:27:13.660 - 00:27:17.660
+DISF     (HES)
+         00:27:18.080 - 00:27:18.510
+DOCPC    o que é que você acha desses programas?
+         00:27:18.570 - 00:27:20.960
+CAI1MI   eu acho que são 
+         00:27:21.185 - 00:27:23.195
+CAI1MI    vou usar muito essa palavra essencial
+         00:27:23.515 - 00:27:25.375
+CAI1MI   essenciais
+         00:27:25.550 - 00:27:26.110
+CAI1MI   porque democratiza o ensino
+         00:27:26.585 - 00:27:28.695
+CAI1MI   entendeu
+         00:27:28.995 - 00:27:29.315
+CAI1MI   não dá pra partir do princípio de meritrocacia de que todos tem condições de estar aqui porque isso não existe
+         00:27:29.650 - 00:27:35.120
+CAI1MI   e justamente esses programas chegam pra
+         00:27:36.030 - 00:27:38.510
+CAI1MI   pra conferir democracia a universidade que é pública e tá sendo pagada pelos impostos de todos
+         00:27:38.715 - 00:27:43.355
+DOCPC    você acha que aqui dentro
+         00:27:44.120 - 00:27:45.820
+DOCPC    esses programas tem contribuindo pra diminuir a desigualdade 
+         00:27:46.095 - 00:27:50.465
+CAI1MI   eu diria que na medida do possível sim eu tenho alguns amigos que são beneficiados por esses programas
+         00:27:50.990 - 00:27:56.350
+CAI1MI   e já conversei com eles eles dizeram que
+         00:27:56.885 - 00:27:59.475
+DISF     (HES)
+         00:27:59.912 - 00:28:00.402
+CAI1MI   a vida que eles tem hoje seria totalmente diferente se eles não tivesses esses auxílios esses
+         00:28:00.420 - 00:28:04.215
+CAI1MI   esses programas de incentivo
+         00:28:04.870 - 00:28:06.090
+DISF     (HES)
+         00:28:07.292 - 00:28:07.712
+DOCPC    o governo também tem alguns
+         00:28:07.750 - 00:28:09.685
+DOCPC    programas pra ingresso no ensino superior em instituições privadas como o prouni e o fies
+         00:28:09.810 - 00:28:15.330
+DOCPC    você acha que 
+         00:28:15.835 - 00:28:17.385
+DOCPC    o governo federal deve continuar investindo nesses
+         00:28:17.555 - 00:28:20.655
+DOCPC    nessas ações
+         00:28:20.920 - 00:28:21.730
+CAI1MI   deve
+         00:28:21.930 - 00:28:22.330
+CAI1MI   pra mim no tangente a educação o governo tem que tem que mexer em tudo que é possível entendeu 
+         00:28:22.485 - 00:28:27.335
+CAI1MI   o idera/ o ideal seria que os estudantes eles ingressassem na universidade pública
+         00:28:27.525 - 00:28:31.645
+CAI1MI   acaba sendo um pouco elitizada mas
+         00:28:31.990 - 00:28:33.970
+CAI1MI   o acesso a  educação sendo viabilizado pra mim é mais importante independente de ser pública ou particular
+         00:28:34.225 - 00:28:39.455
+DOCPC    porque você acha que o acesso às
+         00:28:39.960 - 00:28:43.330
+DOCPC    universidades federais acaba sendo um pouco elitizado?
+         00:28:43.545 - 00:28:46.185
+CAI1MI   eu diria que
+         00:28:46.380 - 00:28:47.640
+CAI1MI   em princípio é o ENEM entendeu o ENEM o exame que a gente usa pra ingressar na universidade pública
+         00:28:47.855 - 00:28:52.985
+CAI1MI   ele acaba exigindo conhecimento que
+         00:28:53.375 - 00:28:55.825
+CAI1MI   por mais que seja que siga o plano do ensino médio como
+         00:28:55.945 - 00:28:59.925
+CAI1MI   o ensino médio
+         00:29:00.440 - 00:29:01.360
+CAI1MI   ele não ele não
+         00:29:01.695 - 00:29:03.475
+CAI1MI   delimita justamente essas
+         00:29:03.740 - 00:29:05.770
+CAI1MI   essas questões que a gente
+         00:29:06.140 - 00:29:08.420
+CAI1MI   tem na vivência do ensino médio como falta de professor
+         00:29:08.515 - 00:29:11.215
+CAI1MI   como dificuldades com as disciplinas e ainda segue um padrão por mais que se 
+         00:29:11.460 - 00:29:15.180
+CAI1MI   diga que é atualizado
+         00:29:15.505 - 00:29:16.875
+CAI1MI   muito ortodoxo
+         00:29:17.065 - 00:29:18.015
+CAI1MI   de conhecimento
+         00:29:18.255 - 00:29:18.855
+CAI1MI   entendeu
+         00:29:19.040 - 00:29:19.380
+CAI1MI   que na minha opinião
+         00:29:19.525 - 00:29:20.405
+CAI1MI   é limitante
+         00:29:20.740 - 00:29:21.420
+CAI1MI   pros estudantes
+         00:29:21.685 - 00:29:22.655
+DOCPC    ortodoxo em que sentido?
+         00:29:22.785 - 00:29:24.225
+CAI1MI   ortodoxo que avalia 
+         00:29:24.420 - 00:29:26.180
+CAI1MI   de acordo com
+         00:29:26.295 - 00:29:27.355
+CAI1MI   com as áreas
+         00:29:27.480 - 00:29:28.290
+CAI1MI   de uma maneira que com se você fosse tivesse que ser bom em todas entendeu ele não ele não é um ensino voltado  atualidade é um ensino muito
+         00:29:28.630 - 00:29:36.275
+CAI1MI   muito coletivo nesse sentido
+         00:29:36.430 - 00:29:38.420
+DISF     (HES)
+         00:29:38.810 - 00:29:39.620
+DISF     (HES)
+         00:29:40.210 - 00:29:40.720
+DOCPC    o que é que você acha da política de cotas pra
+         00:29:40.750 - 00:29:43.735
+DOCPC    negros e negras e as cotas 
+         00:29:44.080 - 00:29:46.650
+DOCPC    pra alunos de escola pública
+         00:29:46.930 - 00:29:49.240
+CAI1MI   fundamentais também nesse/ dentro desse processo que eu falei de democratização da universidade entendeu
+         00:29:49.690 - 00:29:54.460
+DISF     (HES)
+         00:29:55.397 - 00:29:56.037
+CAI1MI   é evidente a questão que temos da
+         00:29:56.040 - 00:29:58.205
+CAI1MI   da desigualdade racial dentro das universidades dentro do país as cotas elas chegam
+         00:29:58.290 - 00:30:02.680
+CAI1MI   não pra resolver completamente mas pra criar um caminho diferente entendeu eu acho que são fundamentais
+         00:30:02.920 - 00:30:07.835
+DOCPC    você
+         00:30:08.445 - 00:30:09.475
+DOCPC    consegue perceber aqui na ufs a desigualdade racial?
+         00:30:09.795 - 00:30:14.225
+CAI1MI   completamente eu até tava analisando isso que
+         00:30:14.765 - 00:30:17.700
+CAI1MI   eu tenho aula de antropologia com uma turma de Direito
+         00:30:17.880 - 00:30:20.150
+CAI1MI    e todos os estudantes de Direito eu não vi nenhum que seja negro não vi nenhum que seja indígena são todos brancos e 
+         00:30:20.560 - 00:30:26.965
+CAI1MI   pelo que escutei pelo que conheço 
+         00:30:27.355 - 00:30:29.405
+CAI1MI   são
+         00:30:29.865 - 00:30:30.845
+CAI1MI   fizeram cursinho tiveram acesso a educação particular
+         00:30:30.960 - 00:30:34.440
+CAI1MI   e isso é um pouco triste né um pouco não eu diria muito triste
+         00:30:34.810 - 00:30:38.170
+CAI1MI   porque
+         00:30:38.985 - 00:30:39.925
+CAI1MI   tão ocupando espaços que
+         00:30:40.510 - 00:30:41.940
+CAI1MI   poderiam ser de outras pessoas também
+         00:30:42.290 - 00:30:43.820
+DISF     (HES)
+         00:30:45.590 - 00:30:46.410
+DOCPC    pelo que você tá dizendo é bem marcada a diferença
+         00:30:47.925 - 00:30:51.115
+DOCPC    entre etnia e classe social 
+         00:30:51.470 - 00:30:54.380
+CAI1MI   sim
+         00:30:54.460 - 00:30:54.710
+DOCPC    existe/ você acha que isso acontece em todos os cursos ou é porque é Direito?
+         00:30:54.820 - 00:30:59.580
+CAI1MI   não eu creio que
+         00:30:59.845 - 00:31:01.655
+DISF     (HES)
+         00:31:02.072 - 00:31:02.532
+CAI1MI   existem cursos que a presença de dessa desigualdade é menor
+         00:31:02.580 - 00:31:06.595
+CAI1MI   mas em sua  porcen/ porcentagem percentualidade  existe sim existe essa desigualdade ainda
+         00:31:06.915 - 00:31:13.050
+DISF     (HES)
+         00:31:08.510 - 00:31:08.720
+DISF     (HES)
+         00:31:14.500 - 00:31:15.040
+DOCPC    quando você terminar a graduação
+         00:31:15.295 - 00:31:17.195
+DOCPC    você disse que tem vontade
+         00:31:17.440 - 00:31:19.000
+DOCPC    trazer retorno né pra pro local em que você mora
+         00:31:19.285 - 00:31:22.305
+DOCPC    mas você pensa em
+         00:31:22.560 - 00:31:24.835
+DOCPC    fazer um mestrado
+         00:31:25.180 - 00:31:26.850
+DISF     (HES)
+         00:31:27.135 - 00:31:27.635
+DOCPC    fazer outro tipo de pós-graduação ou ir direto pro mercado de trabalho
+         00:31:27.620 - 00:31:31.720
+CAI1MI   eu não pretendo ir direto pro mercado de trabalho
+         00:31:32.175 - 00:31:34.595
+CAI1MI   eu pretendo
+         00:31:34.740 - 00:31:35.740
+CAI1MI   seguir a vida de pesquisador  e a vida acadêmica
+         00:31:35.965 - 00:31:38.955
+CAI1MI   mas justamente conciliar isso com o trabalho social que eu pretendo fazer na minha comunidade
+         00:31:39.165 - 00:31:43.600
+DISF     (HES)
+         00:31:45.020 - 00:31:45.780
+DOCPC    em relação a sua comunidade você tinha mencionado logo no início que
+         00:31:46.265 - 00:31:50.465
+DOCPC    é um pouco violenta
+         00:31:50.720 - 00:31:52.100
+DOCPC    né?
+         00:31:52.315 - 00:31:52.715
+DISF     (HES)
+         00:31:53.030 - 00:31:53.940
+DOCPC    o que é que a prefeitura  de Socorro faz pra tentar
+         00:31:56.130 - 00:32:00.530
+DOCPC    diminuir os índices de violência?
+         00:32:00.857 - 00:32:02.927
+CAI1MI   bom creio que antigamente passava bastante viaturas pra lá
+         00:32:03.465 - 00:32:07.125
+CAI1MI   por lá era bastante policial
+         00:32:07.210 - 00:32:09.340
+CAI1MI   hoje em dia isso entrou em
+         00:32:09.590 - 00:32:11.590
+CAI1MI   isso já reduziu
+         00:32:12.425 - 00:32:13.415
+CAI1MI   tanto é que o número de assaltos tem crescido aos poucos os relatos de moradores sobre
+         00:32:13.905 - 00:32:18.975
+CAI1MI   sobre assaltos sobre o perigo tem aumentado também
+         00:32:19.170 - 00:32:22.060
+CAI1MI   acho que a prefeitura ela
+         00:32:22.450 - 00:32:24.310
+CAI1MI   a forma dela atuar contra a violência
+         00:32:24.475 - 00:32:26.625
+CAI1MI   assim a violência sintomática
+         00:32:26.935 - 00:32:29.145
+DISF     (HES)
+         00:32:29.502 - 00:32:30.142
+CAI1MI   justamente policiamento entendeu
+         00:32:30.120 - 00:32:31.715
+CAI1MI   os carros as viaturas passando pela
+         00:32:32.560 - 00:32:35.060
+CAI1MI   em horários de
+         00:32:35.345 - 00:32:36.205
+CAI1MI   estratégicos pelo pela comunidade mas
+         00:32:36.370 - 00:32:39.360
+CAI1MI   isso acabou entrando em desuso
+         00:32:39.970 - 00:32:41.600
+DOCPC    você acha que colocar viaturas na rua resolve o problema 
+         00:32:42.180 - 00:32:46.030
+CAI1MI   então
+         00:32:46.290 - 00:32:46.940
+CAI1MI   por isso que eu falei a violência sintomática
+         00:32:47.070 - 00:32:48.840
+CAI1MI   porque se a gente for entrar na questão de resolver o problema é uma questão estrutural em si que a gente precisa
+         00:32:49.370 - 00:32:53.950
+CAI1MI   analisar acho que principalmente a educação
+         00:32:54.165 - 00:32:56.415
+CAI1MI   educação e a desigualdade social no nosso país e principalmente no nosso Estado
+         00:32:56.815 - 00:33:00.415
+DOCPC    você considera Sergipe um estado
+         00:33:01.650 - 00:33:04.330
+DOCPC    violento e desigual
+         00:33:04.595 - 00:33:05.825
+CAI1MI   sim considero
+         00:33:06.105 - 00:33:07.315
+CAI1MI   principalmente pela pela vivência que a gente tem de de todo dia sair de casa com medo
+         00:33:07.855 - 00:33:12.950
+CAI1MI   com medo de não voltar
+         00:33:13.785 - 00:33:15.365
+CAI1MI   sabe
+         00:33:15.620 - 00:33:16.080
+DOCPC    nesse caso você acha que
+         00:33:17.790 - 00:33:20.360
+DOCPC     segurança pública tem conseguido cumprir o seu papel?
+         00:33:20.970 - 00:33:24.350
+CAI1MI   acho que não
+         00:33:25.065 - 00:33:25.995
+CAI1MI   porque pra mim a segurança pública ela deveria andar em alicerce com a educação também entendeu
+         00:33:26.215 - 00:33:32.305
+CAI1MI   porque as medidas que são feitas pela segurança pública
+         00:33:32.705 - 00:33:36.155
+CAI1MI   se elas são só feitas pela segurança pública elas não são afetivas elas são assintomáticas como eu disse
+         00:33:36.365 - 00:33:40.515
+DOCPC    e aqui
+         00:33:42.245 - 00:33:43.325
+DOCPC    no Rosa Elze
+         00:33:43.470 - 00:33:44.740
+DISF     (HES)
+         00:33:45.330 - 00:33:45.990
+DOCPC    você sente o mesmo temor que sente no bairro onde você mora ou você acha que é mais seguro?
+         00:33:46.070 - 00:33:51.920
+CAI1MI   eu acho que por essa
+         00:33:53.120 - 00:33:54.590
+CAI1MI   essa coisa que a gente criou de
+         00:33:55.090 - 00:33:57.270
+CAI1MI   de ficar vigilante em todo local que a gente tá
+         00:33:57.440 - 00:34:00.475
+CAI1MI   eu diria que
+         00:34:00.955 - 00:34:02.515
+CAI1MI   eu não me sinto totalmente seguro mas por estar perto da universidade
+         00:34:02.710 - 00:34:06.130
+CAI1MI   eu me sinto mais seguro do que no meu bairro
+         00:34:06.685 - 00:34:08.595
+DISF     (EST)
+         00:34:09.125 - 00:34:09.785
+CAI1MI   é isso
+         00:34:10.300 - 00:34:10.900
+DOCPC    você concorda com o ditado bandido bom é bandido morto?
+         00:34:12.910 - 00:34:16.050
+CAI1MI   não
+         00:34:16.175 - 00:34:16.615
+CAI1MI   não faz sentido isso
+         00:34:18.020 - 00:34:19.400
+DOCPC    por que não?
+         00:34:20.505 - 00:34:21.405
+CAI1MI   porque
+         00:34:22.320 - 00:34:23.040
+CAI1MI   como eu disse a você é uma solução muito sintomática pra um problema sabe
+         00:34:23.175 - 00:34:26.895
+CAI1MI   se a gente fosse matar todos aqueles que comentem crime o Brasil
+         00:34:27.090 - 00:34:30.390
+CAI1MI   entraria em crise demográfica porque
+         00:34:30.580 - 00:34:33.090
+CAI1MI   como eu disse a você a violência ela acaba sendo a criminalidade acaba sendo
+         00:34:33.735 - 00:34:37.285
+CAI1MI   um caminho de sobrevivência
+         00:34:37.515 - 00:34:39.485
+CAI1MI   pra aqueles que sofrem justamente as consequências dessa desigualdade social
+         00:34:39.875 - 00:34:43.795
+CAI1MI    e falar isso é muito sintomático a gente precisa analisar
+         00:34:44.580 - 00:34:47.550
+CAI1MI   outros nuances outras estruturas 
+         00:34:47.830 - 00:34:50.160
+CAI1MI   que influenciam justamente o comportamento de alguém se tornar bandido
+         00:34:50.470 - 00:34:53.950
+DOCPC    uma das manifestações da violência é a violência
+         00:34:55.215 - 00:34:59.475
+DOCPC    contra mulheres
+         00:34:59.690 - 00:35:00.610
+DOCPC    manifestações de várias formas né
+         00:35:01.205 - 00:35:03.325
+DISF     (HES)
+         00:35:03.795 - 00:35:04.355
+DOCPC    tem um ditado que é muito recorrente 
+         00:35:04.380 - 00:35:06.660
+DOCPC    que é mais ou menos assim
+         00:35:06.860 - 00:35:08.080
+DOCPC    se mulheres não usassem roupas tão curtas 
+         00:35:08.205 - 00:35:10.705
+DOCPC    haveria menos violência contra elas
+         00:35:11.090 - 00:35:13.220
+DOCPC    o que é que você acha disso?
+         00:35:13.550 - 00:35:14.950
+CAI1MI   nitidamente é uma frase machista é uma falácia que 
+         00:35:15.305 - 00:35:19.625
+CAI1MI   que coloca na mulher a culpa de uma violência que é simbólica
+         00:35:20.150 - 00:35:23.430
+CAI1MI   principalmente realizada de homens para mulheres
+         00:35:23.555 - 00:35:26.375
+CAI1MI   eu tenho muito interesse nos estudos de gênero e sexualidade
+         00:35:26.710 - 00:35:29.700
+CAI1MI   eu vejo essas falas como 
+         00:35:30.460 - 00:35:32.800
+CAI1MI   como justamente um
+         00:35:32.885 - 00:35:34.345
+DISF     (HES)
+         00:35:34.985 - 00:35:35.415
+CAI1MI   um artifício
+         00:35:35.410 - 00:35:36.390
+CAI1MI   de uma sociedade que é patriarcal ainda que é machista ainda
+         00:35:36.505 - 00:35:39.685
+CAI1MI   de lidar com com a/
+         00:35:40.080 - 00:35:42.690
+CAI1MI   com cinto/ com a situação sintomática ainda 
+         00:35:43.170 - 00:35:46.120
+CAI1MI   com a solução rápida que é você culpar a mulher você culpar
+         00:35:46.350 - 00:35:49.760
+CAI1MI   a forma como que ela tá vestida pra você ignorar um
+         00:35:49.980 - 00:35:53.160
+CAI1MI   problema que é complexo um problema que é muito estrutural
+         00:35:53.335 - 00:35:56.425
+CAI1MI   que
+         00:35:56.775 - 00:35:57.635
+CAI1MI   eu diria que até é introduzido na nossa cultura entendeu porque que o machismo patriarcado é cultural
+         00:35:57.930 - 00:36:02.620
+DISF     (HES)
+         00:36:03.150 - 00:36:04.070
+CAI1MI   é uma frase muito ignorante
+         00:36:04.505 - 00:36:05.725
+CAI1MI   não faz sentido pra mim
+         00:36:06.480 - 00:36:07.750
+DOCPC    quais as manifestações culturais então do 
+         00:36:08.530 - 00:36:12.050
+CAI1MI   do machismo
+         00:36:12.335 - 00:36:12.825
+DOCPC    esse tipo de violência do machismo
+         00:36:12.815 - 00:36:14.125
+DISF     (HES)
+         00:36:15.225 - 00:36:16.255
+CAI1MI   deixa eu sintetizar uma
+         00:36:16.955 - 00:36:18.335
+CAI1MI   uma clara
+         00:36:19.020 - 00:36:19.370
+CAI1MI   essa do da mulher
+         00:36:21.190 - 00:36:23.090
+CAI1MI   ter que
+         00:36:23.335 - 00:36:24.415
+CAI1MI   ter que temer
+         00:36:24.520 - 00:36:25.510
+CAI1MI   a
+         00:36:25.610 - 00:36:26.230
+CAI1MI   a a forma que vai se vestir pra não sofrer violência na rua pra mim é a mais clara a partir do que
+         00:36:26.615 - 00:36:32.425
+CAI1MI   essa
+         00:36:32.745 - 00:36:33.705
+CAI1MI   esse machismo cultural mesmo enraízado ele interfere na sua liberdade individual
+         00:36:33.850 - 00:36:38.480
+CAI1MI   pra mim é a mais chocante sim
+         00:36:38.870 - 00:36:40.420
+CAI1MI   além dos dos estrupos dos assédios entendeu
+         00:36:40.640 - 00:36:43.910
+DISF     (HES)
+         00:36:45.240 - 00:36:45.760
+DOCPC    você acha que nos últimos tempos as mulheres tem cons/
+         00:36:46.185 - 00:36:50.080
+DOCPC    tem conquistado mais espaços nas outras esferas da sociedade?
+         00:36:50.260 - 00:36:53.960
+CAI1MI   sim mas de/ mas não de maneira plena não de maneira efetiva porque ainda justamente esse mecanismo cultural ele
+         00:36:54.780 - 00:37:01.450
+CAI1MI   ele impede que haja um ascenção feminina em
+         00:37:01.660 - 00:37:04.450
+CAI1MI   em outros locais em outros locais que deveriam ser ocupados por mulheres 
+         00:37:04.590 - 00:37:07.890
+DOCPC    por que impede?
+         00:37:08.295 - 00:37:09.385
+CAI1MI   porque
+         00:37:10.705 - 00:37:11.420
+DISF     (HES)
+         00:37:11.422 - 00:37:11.882
+CAI1MI    eu vou citar um pouco eu acho que Durkheim agora
+         00:37:11.877 - 00:37:14.127
+DISF     (HES)
+         00:37:14.565 - 00:37:15.085
+CAI1MI   dentro de uma sociedade 
+         00:37:15.070 - 00:37:16.210
+CAI1MI   a gente que faz ciências sociais a gente tem que ter uma olhar meio que neutro
+         00:37:16.420 - 00:37:20.180
+CAI1MI   entendeu
+         00:37:20.385 - 00:37:20.885
+CAI1MI   existe uma coesão social no sistema por mais violento por mais
+         00:37:21.300 - 00:37:25.370
+DISF     (HES)
+         00:37:25.445 - 00:37:26.025
+CAI1MI   machista que ele seja
+         00:37:26.495 - 00:37:27.725
+CAI1MI   existe uma coerência justamente dos homens terem mais
+         00:37:28.155 - 00:37:31.135
+CAI1MI   acesso a locais que mulheres não tem entendeu
+         00:37:31.240 - 00:37:34.110
+CAI1MI   e são justamente essa
+         00:37:34.310 - 00:37:35.660
+CAI1MI   essa essa vontade de 
+         00:37:35.840 - 00:37:37.800
+CAI1MI   sustentar o seu poder o seu privilégio que impede que
+         00:37:38.045 - 00:37:41.445
+CAI1MI   por exemplo que políticas femininas sejam mais
+         00:37:41.630 - 00:37:43.910
+CAI1MI   discutidas e aceitas dentro de um contexto
+         00:37:44.125 - 00:37:46.265
+CAI1MI   eu diria que a religião ela chega por um pro lado pra defender isso também essa coesão social
+         00:37:46.670 - 00:37:51.900
+CAI1MI   que é machista e patriarcal
+         00:37:52.410 - 00:37:54.030
+DOCPC    você acha que a violência atinge homens e mulheres da mesma forma?
+         00:37:55.735 - 00:38:00.075
+CAI1MI   não
+         00:38:00.240 - 00:38:00.740
+CAI1MI   a partir do momento que existe uma relação de poder 
+         00:38:01.145 - 00:38:03.725
+CAI1MI   uma relação de diferença de poder entre homens e mulheres 
+         00:38:04.030 - 00:38:07.790
+CAI1MI   as mulheres estão mais sujeitas a uma violência do que os homens 
+         00:38:08.015 - 00:38:11.075
+CAI1MI   e principalmente uma violência simbólica justamente como essa que eu disse do
+         00:38:11.440 - 00:38:14.950
+CAI1MI   de você ter que
+         00:38:15.200 - 00:38:16.460
+CAI1MI   olhar sua roupa
+         00:38:16.525 - 00:38:17.915
+CAI1MI   pra não sofrer uma violência
+         00:38:18.215 - 00:38:20.075
+CAI1MI   que já tá sendo uma violência simbólica contra sua liberdade individual
+         00:38:20.365 - 00:38:24.085
+DOCPC    você considera
+         00:38:25.100 - 00:38:26.490
+DOCPC    a liberdade individual como 
+         00:38:27.120 - 00:38:29.690
+DISF     (HES)
+         00:38:30.470 - 00:38:31.430
+DOCPC    um fator importante na sociedade
+         00:38:31.655 - 00:38:34.305
+CAI1MI   sim porque é uma das condições que nos caracterizam como humanos 
+         00:38:34.675 - 00:38:39.235
+CAI1MI   a gente ter ter direitos a gente ser um indivíduo e ser respeitado por ser indivíduo
+         00:38:39.890 - 00:38:44.700
+CAI1MI   independemente de sexo raça gênero
+         00:38:45.070 - 00:38:47.210
+DISF     (HES)
+         00:38:48.525 - 00:38:49.085
+DOCPC    apesar disso dessas diferenças de
+         00:38:49.300 - 00:38:51.800
+DOCPC    de gênero raça e tal
+         00:38:52.055 - 00:38:53.375
+DISF     (HES)
+         00:38:53.700 - 00:38:54.260
+DOCPC    a gente tem a questão das pessoas LGBTs né
+         00:38:54.340 - 00:38:57.450
+CAI1MI   unrum
+         00:38:56.875 - 00:38:57.405
+DISF     (HES)
+         00:38:57.485 - 00:38:58.355
+DOCPC    ultimamente tem sido bastante recorrente as pessoas dizerem
+         00:38:58.505 - 00:39:01.955
+DOCPC    que
+         00:39:02.140 - 00:39:02.580
+DOCPC    os LGBTs têm conquistado muitos privilégios 
+         00:39:03.115 - 00:39:06.895
+DOCPC    você concorda com esse tipo de colocação
+         00:39:07.830 - 00:39:10.160
+CAI1MI   não por fazer parte dessa minoria a gente
+         00:39:10.570 - 00:39:14.080
+CAI1MI   a gente não enxerga isso como privilégio
+         00:39:14.240 - 00:39:16.160
+CAI1MI   porque a partir do momento que você sofre
+         00:39:16.825 - 00:39:19.375
+CAI1MI   que você tem a possibilidade de estar na rua e morrer por simplesmente
+         00:39:19.585 - 00:39:24.035
+CAI1MI   por ser quem você é eu não diria que é bem um privilégio
+         00:39:24.275 - 00:39:27.135
+CAI1MI   você tem um legislação que
+         00:39:27.320 - 00:39:29.250
+CAI1MI   que te passe um mínimo de segurança
+         00:39:29.570 - 00:39:31.240
+CAI1MI   pra você ser você pra você viver em sociedade
+         00:39:31.480 - 00:39:34.660
+DOCPC    recentemente o STF
+         00:39:35.920 - 00:39:38.370
+DISF     (HES)
+         00:39:38.350 - 00:39:38.950
+DOCPC    colocou a homofobia como crime né
+         00:39:40.440 - 00:39:42.530
+CAI1MI   isso
+         00:39:42.870 - 00:39:43.230
+DOCPC    você acha que foi uma conquista importante?
+         00:39:43.030 - 00:39:45.570
+CAI1MI   fundamental fundamental porque
+         00:39:45.725 - 00:39:47.975
+CAI1MI   ainda que o Brasil ele
+         00:39:48.295 - 00:39:50.215
+CAI1MI   culturalmente siga essas linhas de
+         00:39:50.290 - 00:39:53.050
+CAI1MI   do machismo do heterossexismo
+         00:39:53.265 - 00:39:55.805
+CAI1MI   é muito importante que a legislação ela seja voltada para as minorias para a gente ganhar espaço
+         00:39:56.000 - 00:40:01.740
+CAI1MI   cada vez mais
+         00:40:01.875 - 00:40:02.575
+DOCPC    você acha que
+         00:40:04.250 - 00:40:05.720
+DOCPC    existe possibilidade das minorias não só as pessoas LGBTs mas as outras também
+         00:40:06.850 - 00:40:12.180
+DISF     (HES)
+         00:40:12.657 - 00:40:13.127
+DOCPC    negros indígenas quilombolas e tal
+         00:40:13.100 - 00:40:15.225
+DISF     (HES)
+         00:40:15.550 - 00:40:15.860
+DOCPC    continuarem 
+         00:40:15.870 - 00:40:17.120
+DOCPC    eu não vou dizer ganhando mas
+         00:40:18.910 - 00:40:20.820
+DOCPC    tendo acesso ao que deveriam ser
+         00:40:20.950 - 00:40:22.950
+DOCPC    garantido você acha que isso pode continuar acontecendo?
+         00:40:23.175 - 00:40:26.295
+DISF     (EST)
+         00:40:23.725 - 00:40:24.045
+CAI1MI   eu acho que pra responder essa pergunta a gente tem que
+         00:40:26.570 - 00:40:29.450
+DISF     (HES)
+         00:40:29.802 - 00:40:30.132
+CAI1MI   analisar a questão da educação
+         00:40:30.120 - 00:40:31.595
+CAI1MI   porque o único meio da segmento a esse progresso
+         00:40:31.675 - 00:40:34.375
+CAI1MI   é através da educação
+         00:40:34.860 - 00:40:36.110
+CAI1MI   e dentro da educação tem a memória em relação
+         00:40:36.350 - 00:40:38.700
+CAI1MI   a justamente essas lutas esses direitos conquistados
+         00:40:39.030 - 00:40:41.450
+CAI1MI   que
+         00:40:41.615 - 00:40:42.115
+CAI1MI   são muito fundamentais de serem lembrados pra que a gente dê segmento a esse progresso
+         00:40:42.440 - 00:40:46.950
+DISF     (HES)
+         00:40:49.590 - 00:40:50.530
+DOCPC    de uns tempos pra cá
+         00:40:50.815 - 00:40:52.165
+DISF     (HES)
+         00:40:52.455 - 00:40:53.225
+DOCPC    pessoas LGBTs tem
+         00:40:53.265 - 00:40:54.835
+DOCPC    adentrado na mídia né a gente tem cantoras como Pabllo Vittar que ganhou bastante 
+         00:40:55.135 - 00:40:59.275
+DOCPC    bastante espaço na mídia ultimamente
+         00:40:59.560 - 00:41:01.350
+CAI1MI   sim
+         00:41:00.680 - 00:41:01.340
+DOCPC    homens trans e aí a gente pode citar 
+         00:41:01.675 - 00:41:04.385
+DISF     (HES)
+         00:41:04.535 - 00:41:05.335
+DOCPC    Tammy Miranda 
+         00:41:05.580 - 00:41:06.900
+CAI1MI   isso
+         00:41:06.665 - 00:41:07.205
+DOCPC    é porque que é que você acha que a mídia tem dado espaço
+         00:41:07.300 - 00:41:10.990
+DOCPC    a essas pessoas agora?
+         00:41:11.480 - 00:41:13.660
+CAI1MI   então
+         00:41:14.365 - 00:41:15.085
+CAI1MI   eu diria que
+         00:41:15.230 - 00:41:16.640
+CAI1MI   é sendo generalizante
+         00:41:16.980 - 00:41:18.680
+CAI1MI   eu diria que é um artifício da modernidade entendeu
+         00:41:19.105 - 00:41:21.405
+CAI1MI   mas que que ainda tem essa
+         00:41:21.690 - 00:41:23.830
+CAI1MI   essa
+         00:41:24.215 - 00:41:25.005
+CAI1MI   esse embate em relação aos valores tradicionais
+         00:41:25.315 - 00:41:28.835
+CAI1MI   é evidente que que
+         00:41:29.080 - 00:41:30.920
+CAI1MI   a população LGBT
+         00:41:31.265 - 00:41:33.105
+CAI1MI   e as outras minorias também estão ganhando seus espaços na sociedade entendeu e por ganharem espaço por terem
+         00:41:33.310 - 00:41:38.590
+CAI1MI   visibilidade
+         00:41:38.920 - 00:41:39.910
+CAI1MI   acaba sendo muito lucrativo também pra mídia entendeu por isso que entra na questão de representatividade
+         00:41:40.220 - 00:41:45.570
+CAI1MI   eles colocam isso também pra que o pra que o LGBT que a minoria 
+         00:41:46.030 - 00:41:50.170
+CAI1MI   sinta representada e que os índices sejam lucrativos também pra eles
+         00:41:50.585 - 00:41:54.205
+CAI1MI   eu não acho que é só uma perspectiva de inclusão
+         00:41:55.150 - 00:41:58.410
+CAI1MI   acaba sendo tendo seu fundo econômico lucrativo também
+         00:41:58.610 - 00:42:01.560
+DOCPC    é de mercado né?
+         00:42:01.070 - 00:42:02.220
+CAI1MI   mercado justamente
+         00:42:01.840 - 00:42:02.960
+DISF     (HES)
+         00:42:04.417 - 00:42:04.807
+DOCPC    esse tipo de discussão
+         00:42:04.840 - 00:42:06.270
+DISF     (HES)
+         00:42:06.297 - 00:42:06.557
+DOCPC    em relação a
+         00:42:06.582 - 00:42:07.462
+DOCPC    gênero sexualidade tantos outros temas
+         00:42:07.715 - 00:42:11.095
+DISF     (HES)
+         00:42:11.550 - 00:42:11.870
+DOCPC    você considera importante para o desenvolvimento da sociedade ou você acha que
+         00:42:11.890 - 00:42:16.940
+DOCPC    é mimimi?
+         00:42:17.330 - 00:42:18.050
+CAI1MI   não é fundamental porque
+         00:42:18.550 - 00:42:20.295
+DISF     (HES)
+         00:42:20.722 - 00:42:21.162
+CAI1MI   o gênero e a sexualidade
+         00:42:21.150 - 00:42:22.685
+CAI1MI   eles se reproduzem a cada indivíduo que nasce
+         00:42:23.045 - 00:42:25.935
+CAI1MI   a cada brasileiro que nasce
+         00:42:26.165 - 00:42:27.645
+CAI1MI   porque
+         00:42:28.280 - 00:42:28.970
+DISF     (HES)
+         00:42:29.385 - 00:42:30.005
+CAI1MI   estruturas comportamentais são passadas e são reproduzidas por essa criança que vai se tornar um adulto
+         00:42:30.180 - 00:42:36.100
+CAI1MI   e vai dar seguimento justamente a essas ideias
+         00:42:36.570 - 00:42:38.770
+CAI1MI   que
+         00:42:39.265 - 00:42:40.035
+CAI1MI   certa maneira é fomentam a violência fomentam 
+         00:42:40.375 - 00:42:43.785
+CAI1MI   justamente uma desigualdade
+         00:42:44.045 - 00:42:45.675
+CAI1MI   seja
+         00:42:45.895 - 00:42:46.665
+CAI1MI   de gênero
+         00:42:46.765 - 00:42:47.495
+CAI1MI   seja
+         00:42:47.785 - 00:42:48.605
+CAI1MI   também com viés econômico 
+         00:42:48.750 - 00:42:50.470
+CAI1MI   eu acho que é fundamental a gente ver gênero e sexualidade
+         00:42:50.705 - 00:42:53.605
+CAI1MI   na mesma perspectiva
+         00:42:53.910 - 00:42:55.740
+CAI1MI   de uma de um avanço social de um avanço de progresso social
+         00:42:56.020 - 00:42:59.750
+DISF     (HES)
+         00:43:01.070 - 00:43:01.540
+DOCPC    agora mudando um pouco de tempo indo pra saúde pública
+         00:43:01.600 - 00:43:05.340
+DISF     (HES)
+         00:43:05.675 - 00:43:06.275
+DOCPC    você já precisou utilizar o SUS?
+         00:43:06.300 - 00:43:08.420
+CAI1MI   já
+         00:43:08.640 - 00:43:09.180
+DOCPC    como foi a experiência?
+         00:43:09.805 - 00:43:11.315
+CAI1MI   eu precisei pra
+         00:43:11.995 - 00:43:13.775
+CAI1MI   creio que
+         00:43:14.070 - 00:43:15.090
+CAI1MI   tem um hospital em Socorro eu precisei ir pra lá pra ser 
+         00:43:15.705 - 00:43:19.065
+CAI1MI   não lembro o que foi mas eu tava doente
+         00:43:19.350 - 00:43:21.410
+CAI1MI   bom
+         00:43:22.165 - 00:43:22.515
+CAI1MI   eu fui atendido
+         00:43:23.105 - 00:43:24.585
+CAI1MI   e
+         00:43:25.445 - 00:43:26.255
+CAI1MI   foi efetivo
+         00:43:26.355 - 00:43:27.425
+CAI1MI   tem seus problemas
+         00:43:28.045 - 00:43:29.055
+CAI1MI   o
+         00:43:29.295 - 00:43:30.085
+CAI1MI   o
+         00:43:30.615 - 00:43:31.345
+CAI1MI   o hospital em si a unidade tem muitos problemas mas
+         00:43:31.425 - 00:43:33.975
+CAI1MI   acho que minimamente  eu consegue ser atendido minimamente foi efetivo funcionou
+         00:43:34.295 - 00:43:38.865
+DOCPC    quais os problemas?
+         00:43:39.245 - 00:43:40.325
+CAI1MI   tanto em relação à estrutura quanto em relação também a a uma certa logística populacional de ver
+         00:43:41.200 - 00:43:47.200
+CAI1MI   quantos pacientes estão sendo atendidos naquela unidade
+         00:43:47.610 - 00:43:51.590
+CAI1MI   tanto também de uma de um problema de gestão governamental em relação a
+         00:43:51.960 - 00:43:55.970
+CAI1MI   à sáude pública
+         00:43:56.130 - 00:43:57.270
+DISF     (HES)
+         00:43:58.425 - 00:43:58.685
+DOCPC    você consegue apontar algum ponto positivo?
+         00:43:59.090 - 00:44:02.770
+DISF     (HES)
+         00:44:03.455 - 00:44:04.265
+CAI1MI   tem muitos profissionais bom bons
+         00:44:04.455 - 00:44:06.625
+DISF     (HES)
+         00:44:06.970 - 00:44:07.770
+DISF     (HES)
+         00:44:08.165 - 00:44:08.645
+CAI1MI   eu pude sentir minimamente uma humanidade perto daquele
+         00:44:08.890 - 00:44:12.280
+CAI1MI   daquele hospital que eu fui creio que em outros isso não aconteça
+         00:44:12.500 - 00:44:16.010
+CAI1MI   mas ainda existe sim um empenho profissional voltado pra pro trabalho mesmo
+         00:44:16.570 - 00:44:22.010
+CAI1MI   além do óbvio que é que que é público que é gratuito entendeu que eu acho que é essencial a saúde ela deve ser gratuita
+         00:44:22.370 - 00:44:28.350
+CAI1MI   é o ponto mais positivo de todos
+         00:44:29.225 - 00:44:30.795
+DOCPC    você acha que o 
+         00:44:31.055 - 00:44:32.975
+DOCPC    o governo deve continuar investindo no SUS?
+         00:44:33.210 - 00:44:36.070
+CAI1MI   fundamentalmente
+         00:44:36.415 - 00:44:37.335
+CAI1MI   fundamentalmente
+         00:44:38.695 - 00:44:39.465
+DOCPC    cê acha que a quantidade de médico
+         00:44:40.970 - 00:44:43.090
+DISF     (HES)
+         00:44:43.662 - 00:44:44.032
+DOCPC    não só 
+         00:44:44.040 - 00:44:45.015
+DOCPC    no hospital de Socorro
+         00:44:45.330 - 00:44:46.960
+DOCPC    mas
+         00:44:47.110 - 00:44:47.760
+DOCPC    pelo que você acompanha pelo que você vê
+         00:44:48.060 - 00:44:50.410
+DOCPC    você acha que os médicos que o SUS consegue suprir as necessidades da população 
+         00:44:50.630 - 00:44:56.150
+CAI1MI   creio que não mas dentro de Sergipe a gente tem o Hospital João Alves o HUSE
+         00:44:57.155 - 00:45:01.855
+DISF     (HES)
+         00:45:02.430 - 00:45:03.320
+CAI1MI   é um reflexo de falta de logística falta de também
+         00:45:03.630 - 00:45:07.170
+CAI1MI   de estratégia mesmo pra organizar melhor o atendimento pro cidadão 
+         00:45:07.355 - 00:45:11.605
+CAI1MI   tanto em relação à estrutura mas também a essa questão 
+         00:45:12.015 - 00:45:14.865
+CAI1MI   dos profissionais mesmo de serem colocados em áreas estratégicas 
+         00:45:15.085 - 00:45:18.155
+CAI1MI   e uma logística
+         00:45:18.735 - 00:45:19.915
+CAI1MI   do atendimento
+         00:45:20.290 - 00:45:21.110
+DOCPC    a gente tá falando de hospital né mas
+         00:45:22.222 - 00:45:24.522
+DOCPC    onde você mora tem unidade 
+         00:45:24.807 - 00:45:27.487
+DOCPC    básica de saúde da família?
+         00:45:27.612 - 00:45:29.052
+CAI1MI   tem tem o posto de saúde
+         00:45:28.637 - 00:45:30.227
+DOCPC    como é o atendimento lá
+         00:45:31.027 - 00:45:32.297
+CAI1MI   eu diria que
+         00:45:34.560 - 00:45:35.910
+CAI1MI   minimamente é efetivo novamente tem seus problemas de atendimento também
+         00:45:36.060 - 00:45:40.050
+CAI1MI   dentro desse posto de saúde já entra em controvérsia com aquilo que diz profissionais porque existem muitos que 
+         00:45:40.660 - 00:45:45.950
+CAI1MI   são muitos individualistas não tem
+         00:45:46.260 - 00:45:48.440
+CAI1MI   porque além de você ser médico você tem que
+         00:45:48.580 - 00:45:50.080
+CAI1MI   tem um apreço popular sabe você tem que ter um apreço pelo outro
+         00:45:50.335 - 00:45:53.145
+CAI1MI   muitos profissionais acabam indo muito só pelo financeiro
+         00:45:53.575 - 00:45:56.365
+CAI1MI   lá eu vejo um pouco disso
+         00:45:56.685 - 00:45:58.155
+CAI1MI   mas das vezes que eu fui tomar vacina tirar sangue me consultar
+         00:45:58.455 - 00:46:02.385
+CAI1MI   demorou mas funcionou 
+         00:46:02.995 - 00:46:04.445
+CAI1MI   demorou mas foi efetivo
+         00:46:04.875 - 00:46:06.165
+DISF     (HES)
+         00:46:07.685 - 00:46:08.375
+DOCPC    saindo um pouco da da questão da saúde pública
+         00:46:09.755 - 00:46:12.845
+DISF     (HES)
+         00:46:13.125 - 00:46:14.275
+DOCPC    você já percebeu
+         00:46:14.465 - 00:46:15.785
+DOCPC    aqui no estado de Sergipe
+         00:46:16.100 - 00:46:17.530
+DOCPC    aqui na UFS né aqui tem muita 
+         00:46:17.810 - 00:46:20.420
+DOCPC    tem muito aluno que não é daqui né
+         00:46:21.050 - 00:46:23.430
+DOCPC    você já percebeu alguma diferença no modo de falar
+         00:46:24.015 - 00:46:26.295
+CAI1MI   sim eu tenho vários amigos que não são daqui 
+         00:46:26.590 - 00:46:29.290
+CAI1MI   e que tem sotaques diferentes
+         00:46:29.665 - 00:46:31.085
+DISF     (HES)
+         00:46:32.170 - 00:46:32.770
+DOCPC    com a
+         00:46:33.785 - 00:46:34.185
+DOCPC    deixa eu
+         00:46:34.760 - 00:46:35.270
+DOCPC    pera aí 
+         00:46:35.370 - 00:46:35.840
+DOCPC    qual é o assim
+         00:46:37.240 - 00:46:39.050
+DOCPC    a característica o ponto que diferencia a sua fala por exemplo da deles?
+         00:46:39.350 - 00:46:43.830
+CAI1MI   eu diria que é mais fonética sabe
+         00:46:44.905 - 00:46:47.485
+CAI1MI   em alguns o s é mais
+         00:46:47.820 - 00:46:49.490
+CAI1MI   mais prevalecido em outros
+         00:46:49.810 - 00:46:52.020
+CAI1MI   eu acho que é a entonação vocal mesmo dá pra perceber entendeu
+         00:46:52.260 - 00:46:56.230
+CAI1MI   e também dá até pra até fazer uma comparação entre o que eles falam e como a gente fala também
+         00:46:56.760 - 00:47:01.500
+CAI1MI   e até mesmo
+         00:47:01.910 - 00:47:03.040
+CAI1MI   algumas
+         00:47:03.220 - 00:47:04.400
+CAI1MI   algumas palavras regionais mesmo como por exemplo nosso viu e nosso diga aí entendeu que pra eles é bem diferente
+         00:47:04.485 - 00:47:11.495
+DOCPC    cê acha que dá pra perceber
+         00:47:12.840 - 00:47:15.050
+DOCPC    de um/ de onde uma pessoa é
+         00:47:15.540 - 00:47:17.960
+DOCPC    só pelo modo como ela fala
+         00:47:18.075 - 00:47:20.215
+CAI1MI   eu acho que eu não conseguiria porque a minha colega é da Bahia
+         00:47:20.700 - 00:47:24.220
+CAI1MI   e ela fala se eu fosse falar de onde ela é eu diria que era do Rio de Janeiro porque
+         00:47:24.425 - 00:47:28.705
+CAI1MI   é bem semelhante a lá
+         00:47:29.050 - 00:47:31.200
+CAI1MI   ao Rio de Janeiro
+         00:47:31.520 - 00:47:32.740
+CAI1MI   e acho que não conseguiria não dizer "ah tipo fulano de tal é de tal lugar"
+         00:47:32.975 - 00:47:37.435
+CAI1MI   com certeza
+         00:47:37.970 - 00:47:38.820
+DOCPC    o que é que tem assim na fala dela que você associa ao Rio?
+         00:47:38.980 - 00:47:43.430
+CAI1MI   eu acho que
+         00:47:44.360 - 00:47:45.750
+CAI1MI   isso que eu falei do s foi foi dela ela mesmo ela tem um s nas palavras que ela fala que me lembra muito 
+         00:47:46.570 - 00:47:52.400
+CAI1MI   um colega do Rio de Janeiro que é do Rio de Janeiro é carioca e fala da mesma forma que ela
+         00:47:52.600 - 00:47:57.510
+DOCPC    agora em relação a aqui em Sergipe mesmo
+         00:47:58.890 - 00:48:02.120
+DOCPC    você vê diferença na fala das pessoas que moram na capital
+         00:48:02.260 - 00:48:06.020
+DOCPC    e das pessoas que moram no interior
+         00:48:06.325 - 00:48:08.055
+CAI1MI   eu creio que dá pra pra
+         00:48:09.495 - 00:48:11.345
+CAI1MI   enxergar uma diferença mas não acho que ela não seja tão gritante assim entendeu
+         00:48:11.485 - 00:48:16.165
+CAI1MI   a gente tá habituado justamente a esses diálogos dentro de um
+         00:48:16.490 - 00:48:19.580
+CAI1MI   dentro de uma
+         00:48:19.920 - 00:48:21.000
+CAI1MI   de uma perspectiva sergipana mesmo sabe regional
+         00:48:21.295 - 00:48:24.235
+DOCPC    você acha que o modo
+         00:48:25.400 - 00:48:27.100
+DOCPC    como você fala
+         00:48:27.175 - 00:48:28.305
+DOCPC    mudou depois que você entrou na universidade?
+         00:48:28.415 - 00:48:31.345
+CAI1MI   mudou
+         00:48:31.665 - 00:48:32.335
+CAI1MI   porque a gente sofre muita influência do academicismo muitos textos com palavras diferentes
+         00:48:32.975 - 00:48:37.155
+CAI1MI   com palavras novas que querendo ou não
+         00:48:37.310 - 00:48:38.910
+CAI1MI   a gente acaba assimilando entendeu pra deixar o nosso discurso mais acadêmico
+         00:48:39.295 - 00:48:44.345
+CAI1MI   que às vezes eu acho uma um mecanismo também de desigualdade porque se você for falar pra uma pessoa
+         00:48:45.705 - 00:48:51.245
+CAI1MI   que não tenha o mesmo apanhado de vocabulário que o seu ela vai 
+         00:48:51.630 - 00:48:54.980
+CAI1MI   não vai entender o que você tá falando
+         00:48:55.270 - 00:48:56.890
+CAI1MI   por isso que é bom a gente conciliar às vezes
+         00:48:57.525 - 00:48:59.425
+CAI1MI   dentro da universidade fora da universidade
+         00:48:59.930 - 00:49:02.140
+CAI1MI   até mesmo dentro da universidade também você não ser academicista o tempo todo
+         00:49:02.520 - 00:49:06.350
+DISF     (HES)
+         00:49:07.642 - 00:49:08.072
+DOCPC    onde você mora ou 
+         00:49:08.080 - 00:49:10.295
+DOCPC    fora da universidade como todo
+         00:49:10.540 - 00:49:12.360
+DOCPC    você costuma escutar expressões com oito muito biscoito 
+         00:49:12.535 - 00:49:17.495
+CAI1MI   sim bastante principalmente minha mãe
+         00:49:16.820 - 00:49:19.625
+CAI1MI   o oito dela é oito eu acho fofo
+         00:49:19.985 - 00:49:22.465
+DISF     ((RISOS))
+         00:49:21.010 - 00:49:21.490
+DOCPC    essas formas elas são comuns aqui na universidade?
+         00:49:23.610 - 00:49:27.030
+CAI1MI   na universidade eu nunca vi isso até agora
+         00:49:28.345 - 00:49:30.985
+CAI1MI   não vi
+         00:49:31.440 - 00:49:31.980
+CAI1MI   só lá mesmo
+         00:49:33.055 - 00:49:33.625
+DOCPC    as pessoas aqui na UFS falam oito ou oito
+         00:49:33.695 - 00:49:37.265
+CAI1MI   oito
+         00:49:36.805 - 00:49:37.405
+DOCPC    por que é que você acha que isso acontece?
+         00:49:37.940 - 00:49:39.680
+CAI1MI   eu acho que esse oito fosse usado aqui dentro da universidade 
+         00:49:40.155 - 00:49:43.815
+CAI1MI   em um primeiro momento seria
+         00:49:44.380 - 00:49:46.210
+CAI1MI   haveria aquele 
+         00:49:46.710 - 00:49:48.180
+CAI1MI   aquele incômodo das outras pessoas ao redor sabe tipo
+         00:49:48.840 - 00:49:51.350
+CAI1MI   é oito você não pode falar assim
+         00:49:51.820 - 00:49:53.720
+CAI1MI   é ignorando justamente essa esse relativismo da língua sabe
+         00:49:54.035 - 00:49:57.675
+CAI1MI   mas eu nunca vi não ninguém falando oito
+         00:49:58.250 - 00:50:00.260
+CAI1MI   ainda
+         00:50:00.620 - 00:50:01.240
+DOCPC    e
+         00:50:02.535 - 00:50:02.965
+DOCPC    planta bloco blusa flanela
+         00:50:03.375 - 00:50:07.435
+CAI1MI   aqui também não
+         00:50:07.480 - 00:50:08.610
+CAI1MI   é mais comum lá onde eu moro mas aqui nunca ouvi falar não
+         00:50:09.030 - 00:50:12.450
+DOCPC    você acha que usar
+         00:50:13.675 - 00:50:15.925
+DOCPC    essas
+         00:50:16.405 - 00:50:17.775
+DOCPC    essas realizações tem alguma influência do nível de escolaridade?
+         00:50:18.425 - 00:50:22.495
+CAI1MI   eu não vou dizer que não porque
+         00:50:25.580 - 00:50:27.580
+CAI1MI   óbvio que existe uma certa influência sim
+         00:50:28.225 - 00:50:30.185
+CAI1MI   mas eu tenho amigos também que estão na universidade mas não na universidade eles não falam mas quando a gente tá num convívio (hes) mais pessoal 
+         00:50:30.440 - 00:50:38.010
+CAI1MI   às vezes reproduzem esses tipos de palavras que pra mim é natural
+         00:50:38.250 - 00:50:41.875
+CAI1MI   não é necessariamente
+         00:50:42.215 - 00:50:43.805
+CAI1MI   determinado pelo seu grau de escolaridade
+         00:50:44.145 - 00:50:46.605
+CAI1MI   mas claro que a gente tem mais consciência
+         00:50:47.090 - 00:50:49.030
+CAI1MI   da
+         00:50:49.265 - 00:50:50.085
+CAI1MI   de uma certa norma culta da língua
+         00:50:50.310 - 00:50:52.440
+CAI1MI   entrar na universidade
+         00:50:52.740 - 00:50:53.850
+DISF     (HES)
+         00:50:54.550 - 00:50:55.310
+DOCPC    e falar tia dia dente médico é comum aqui?
+         00:50:57.095 - 00:51:01.855
+CAI1MI   como assim tia
+         00:51:03.450 - 00:51:04.640
+DOCPC    tia ao invés de tia dia ao invés de dia
+         00:51:04.715 - 00:51:09.185
+CAI1MI   sim é bem comum
+         00:51:08.365 - 00:51:09.975
+CAI1MI   tenho alguns colegas que falam assim
+         00:51:10.395 - 00:51:12.035
+DOCPC    o que é que você acha dessas formas de falar?
+         00:51:12.730 - 00:51:14.910
+CAI1MI   tá dentro justamente dessa pluralidade que a gente tem da língua portuguesa né principalmente no Brasil cada região diferente até mesmo em um  estado pode ser bastante diferente também como a gente conversou
+         00:51:16.545 - 00:51:26.375
+DOCPC    você acha que o tia
+         00:51:27.260 - 00:51:28.910
+DOCPC    é mais característico 
+         00:51:29.220 - 00:51:31.200
+DOCPC    de outra ou
+         00:51:31.465 - 00:51:32.925
+DOCPC    de outra cidade de outro estado
+         00:51:33.210 - 00:51:35.420
+CAI1MI   pode ser também mas acho que
+         00:51:36.650 - 00:51:38.570
+CAI1MI   a gente sofre influência também
+         00:51:38.645 - 00:51:40.185
+CAI1MI   do que a gente assiste
+         00:51:40.510 - 00:51:42.020
+CAI1MI   também de quem com quem a gente conversa a gente acaba assimilando pro nosso comportamento também
+         00:51:42.290 - 00:51:47.140
+DISF     (HES)
+         00:51:48.575 - 00:51:49.055
+DOCPC    você acha essa forma de falar mais bonita?
+         00:51:49.070 - 00:51:50.990
+CAI1MI   eu não diria que é bonita porque pa/ pra partir do princípio de que algo é bonito
+         00:51:52.110 - 00:51:56.450
+CAI1MI   algo é feio
+         00:51:56.635 - 00:51:57.535
+CAI1MI   então pra mim não existe al/ uma forma bonita de falar ou uma forma feia de falar são formas de falar
+         00:51:57.960 - 00:52:03.955
+DOCPC    então você acha que doido e doido 
+         00:52:04.495 - 00:52:07.665
+DOCPC    tem o mesmo significado?
+         00:52:07.845 - 00:52:09.565
+CAI1MI   sim
+         00:52:08.960 - 00:52:09.430
+CAI1MI   dá pra entender
+         00:52:09.780 - 00:52:10.870
+DOCPC    você usaria as duas em qualquer contexto?
+         00:52:11.080 - 00:52:13.670
+DISF     (HES)
+         00:52:15.255 - 00:52:15.725
+CAI1MI   depende
+         00:52:15.810 - 00:52:16.350
+CAI1MI   eu usaria doido num
+         00:52:16.910 - 00:52:18.720
+CAI1MI   num justamente seguindo esse academicismo
+         00:52:19.180 - 00:52:22.150
+CAI1MI   e usaria doido com meus amigos
+         00:52:22.510 - 00:52:24.430
+DOCPC    quando você fala sobre
+         00:52:25.565 - 00:52:27.665
+DOCPC    você mais outra pessoa ou outras pessoas
+         00:52:27.800 - 00:52:31.030
+DOCPC    você usa o nós ou a gente?
+         00:52:31.280 - 00:52:32.920
+CAI1MI   depende eu uso os dois
+         00:52:35.020 - 00:52:36.590
+CAI1MI   depende também
+         00:52:36.940 - 00:52:38.040
+DISF     (HES)
+         00:52:38.100 - 00:52:38.580
+CAI1MI   de como eu quero me expressar no momento
+         00:52:38.550 - 00:52:40.130
+CAI1MI   eu acho que nós tem um sentido 
+         00:52:41.490 - 00:52:43.300
+CAI1MI   menos afetivo do que a gente sabe
+         00:52:43.470 - 00:52:45.490
+DOCPC    você considera uma forma mais bonita que a outra ou 
+         00:52:47.115 - 00:52:50.705
+CAI1MI   não pra mim as duas servem pra explicar mas tem essa questão da afetividade quando eu falo a gente
+         00:52:50.775 - 00:52:55.345
+CAI1MI   não sei me parece ser mais caloroso do que nós
+         00:52:55.785 - 00:52:58.365
+DOCPC    o que é que você acha de construções como nós comemo nós vamo
+         00:52:59.810 - 00:53:04.990
+DOCPC     a gente vai
+         00:53:05.195 - 00:53:06.215
+CAI1MI   dentro do/ seguindo o princípio da norma padrão se você tá escrevendo um texto
+         00:53:08.140 - 00:53:12.620
+CAI1MI   é claro que
+         00:53:12.815 - 00:53:13.915
+CAI1MI   não é o correto né
+         00:53:14.080 - 00:53:15.290
+CAI1MI   mas na fala 
+         00:53:15.350 - 00:53:16.780
+CAI1MI   dando pra entender pra mim é
+         00:53:16.910 - 00:53:19.140
+CAI1MI   é o importante a comunicação sendo feita pra mim é importante
+         00:53:19.260 - 00:53:22.430
+DISF     (HES)
+         00:53:23.795 - 00:53:24.185
+DOCPC    você acha que
+         00:53:24.160 - 00:53:25.320
+DOCPC    essas formas elas determinam o nível de escolaridade da pessoa
+         00:53:26.510 - 00:53:31.705
+CAI1MI   eu não diria que elas determinam
+         00:53:32.230 - 00:53:33.990
+CAI1MI   mas elas podem ter sua influência
+         00:53:34.115 - 00:53:36.055

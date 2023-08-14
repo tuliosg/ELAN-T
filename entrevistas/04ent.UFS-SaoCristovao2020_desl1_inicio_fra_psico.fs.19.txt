@@ -1,0 +1,2105 @@
+TIPO DE AMOSTRA: ENT
+DOCUMENTADOR(A): PALOMA
+COMUNIDADE: UFS
+ANO: 2020
+DESLOCAMENTO: I
+TEMPO DE CURSO: INÍCIO
+INF: FRA1FI
+SEXO: FEM
+IDADE: 19
+CIDADE NATAL: ARACAJU, SE
+GRAVAÇÃO: CABINE
+QUALIDADE DO ÁUDIO: VOZ AUDÍVEL, COM PRESENÇA DE POUCOS BARULHOS EXTERNOS
+
+DOCPC    Qual o seu nome?
+         00:00:02.397 - 00:00:03.411
+FRA1FI   Franciele
+         00:00:03.411 - 00:00:04.420
+DOCPC    quantos anos você tem Franciele?
+         00:00:04.420 - 00:00:06.211
+FRA1FI   dezenove
+         00:00:06.210 - 00:00:07.091
+DISF     (HES)
+         00:00:07.841 - 00:00:08.525
+DOCPC    em qual cidade você nasceu?
+         00:00:09.183 - 00:00:10.581
+FRA1FI   Aracaju
+         00:00:11.011 - 00:00:11.591
+DOCPC    você
+         00:00:12.471 - 00:00:13.510
+DOCPC    semp/ você nasceu aqui sempre viveu aqui?
+         00:00:14.341 - 00:00:16.698
+FRA1FI   sim
+         00:00:16.800 - 00:00:17.265
+DOCPC    já
+         00:00:17.694 - 00:00:18.622
+DOCPC    já morou mesmo que por algum
+         00:00:19.030 - 00:00:20.765
+DOCPC    curto período de tempo em outro lugar?
+         00:00:21.086 - 00:00:22.933
+FRA1FI   não sempre na mesma casa
+         00:00:22.966 - 00:00:24.500
+DOCPC    seus pais eles são daqui ou são de outro lugar?
+         00:00:25.459 - 00:00:27.887
+FRA1FI   a minha mãe é daqui
+         00:00:28.186 - 00:00:29.612
+FRA1FI   e meu pai é de Alagoas
+         00:00:29.976 - 00:00:31.588
+DOCPC    Maceió?
+         00:00:32.153 - 00:00:32.816
+FRA1FI   não Arapiraca
+         00:00:33.234 - 00:00:34.346
+DISF     (EST)
+         00:00:34.996 - 00:00:35.639
+DISF     (HES)
+         00:00:36.486 - 00:00:37.455
+DOCPC    qual o nível de escolaridade dos seus pais?
+         00:00:39.741 - 00:00:41.588
+FRA1FI   a minha mãe eu acho que ela chegou até a quinta série
+         00:00:42.929 - 00:00:45.449
+FRA1FI   e meu pai
+         00:00:46.266 - 00:00:47.133
+FRA1FI   eu acho que ele nunca estudou não
+         00:00:48.031 - 00:00:49.449
+DOCPC    e a profissão deles?
+         00:00:50.459 - 00:00:51.785
+FRA1FI   tem que responder dos meus pais pais ou dos meus avós? que eu moro com os meus avós mas eu considero eles meus pais
+         00:00:54.048 - 00:00:59.469
+DOCPC    pode ser do-
+         00:00:59.981 - 00:01:00.722
+FRA1FI   mas até agora eu tava falando dos meus pais ((RISOS))
+         00:01:00.722 - 00:01:02.722
+DOCPC    pode falar dos seus avós
+         00:01:02.722 - 00:01:03.852
+FRA1FI   tá (mais ou menos) a mesma coisa só que minha mãe n/ minha vó no caso também não estudou
+         00:01:04.336 - 00:01:08.132
+FRA1FI   nenhum dos dois estudaram e a outra pergunta foi o quê?
+         00:01:08.785 - 00:01:11.602
+DISF     (HES)
+         00:01:11.656 - 00:01:12.075
+DOCPC    a profissão
+         00:01:12.013 - 00:01:12.676
+FRA1FI   o meu avô ele na ca/ na carteira dele tem que ele é pedreiro
+         00:01:13.255 - 00:01:17.122
+FRA1FI   mas ele atualmente trabalha numa empresa de ônibus ele não exerce
+         00:01:17.357 - 00:01:20.591
+FRA1FI   a função de pedreiro mais
+         00:01:21.122 - 00:01:22.653
+FRA1FI   mas ainda continua como pedreiro na carteira
+         00:01:22.992 - 00:01:25.040
+DOCPC    com a mesma empresa que assinou a carteira dele?
+         00:01:26.193 - 00:01:28.113
+FRA1FI   é tem ( ) de pedreiro mas ele trabalha numa empresa de ônibus aí ele não constrói mais casa por exemplo mas
+         00:01:28.157 - 00:01:32.850
+FRA1FI   eu não sei o que ele faz lá
+         00:01:33.274 - 00:01:34.325
+DOCPC    aqui em Aracaju?
+         00:01:35.642 - 00:01:37.244
+FRA1FI   é
+         00:01:37.481 - 00:01:37.838
+FRA1FI   e a minha vó é dona de casa
+         00:01:38.754 - 00:01:40.356
+FRA1FI   nunca trabalhou
+         00:01:40.754 - 00:01:41.815
+DOCPC    cê sempre morou com seus avós?
+         00:01:42.602 - 00:01:44.489
+FRA1FI   desde um ano de idade
+         00:01:45.102 - 00:01:46.377
+DISF     (HES)
+         00:01:47.705 - 00:01:48.613
+DOCPC    você faz qual curso aqui na UFS?
+         00:01:50.522 - 00:01:52.787
+FRA1FI   psicologia
+         00:01:52.612 - 00:01:53.346
+DOCPC    tá em qual período?
+         00:01:53.959 - 00:01:54.872
+FRA1FI   quinto
+         00:01:54.872 - 00:01:55.438
+DOCPC    por que você escolheu estudar aqui na UFS?
+         00:01:56.992 - 00:01:59.387
+FRA1FI   porque é público eu não tenho condições de pagar uma particular
+         00:02:00.477 - 00:02:04.357
+FRA1FI   e além de ser pública eu não tina condições de pegar uma pública fora do estado
+         00:02:05.438 - 00:02:10.489
+FRA1FI   então foi por esse motivo
+         00:02:11.070 - 00:02:12.764
+DOCPC    mas se você tivesse condições de cursar psicologia em outro lugar
+         00:02:13.479 - 00:02:17.938
+DOCPC    voc/ qual lugar você escolheria?
+         00:02:18.260 - 00:02:20.219
+FRA1FI   eu não sei
+         00:02:23.100 - 00:02:24.079
+FRA1FI   eu queria ir pro Rio Grande do Sul
+         00:02:24.329 - 00:02:26.023
+FRA1FI   só que eu ten/ eu penso nisso agora que eu já tô aqui dentro e vejo a influência que a psicologia tem lá
+         00:02:26.243 - 00:02:31.172
+FRA1FI   mas antes disso
+         00:02:31.447 - 00:02:32.508
+DISF     (HES)
+         00:02:32.686 - 00:02:33.003
+FRA1FI   sem entrar aqui dentro eu provavelmente eu não ia saber então não ia escolher lá
+         00:02:33.207 - 00:02:36.584
+FRA1FI   então eu não sei
+         00:02:37.385 - 00:02:38.385
+DOCPC    você acha que
+         00:02:38.854 - 00:02:41.007
+DISF     (HES)
+         00:02:41.599 - 00:02:42.395
+DOCPC    a grade curricular de de lá é melhor
+         00:02:42.900 - 00:02:45.962
+DOCPC    o corpo docente o que é que
+         00:02:46.355 - 00:02:48.457
+DISF     (HES)
+         00:02:49.021 - 00:02:49.766
+DOCPC    gaz você perceber essa influência
+         00:02:49.847 - 00:02:51.643
+FRA1FI   o corpo docente
+         00:02:52.082 - 00:02:53.307
+DISF     (HES)
+         00:02:53.852 - 00:02:54.301
+FRA1FI   quando a gente pesquisa vai pesquisar muita coisa sempre tem referência da galera de lá
+         00:02:54.408 - 00:02:58.714
+FRA1FI   vários dos professores daqui também já passaram por lá e falam sempre
+         00:02:58.985 - 00:03:02.985
+FRA1FI   algo sobre
+         00:03:03.305 - 00:03:04.305
+DISF     (HES)
+         00:03:06.532 - 00:03:07.001
+DOCPC    você mora
+         00:03:07.373 - 00:03:08.333
+DISF     (HES)
+         00:03:08.348 - 00:03:08.848
+DOCPC    em que bairro?
+         00:03:08.889 - 00:03:09.654
+FRA1FI   Olaria
+         00:03:10.377 - 00:03:10.857
+DOCPC    onde é que fica mais ou menos?
+         00:03:12.244 - 00:03:13.939
+FRA1FI   São Carlos
+         00:03:12.255 - 00:03:12.826
+FRA1FI   saída de Aracaju assim aí tem o Atacadão do lado
+         00:03:14.163 - 00:03:17.272
+DISF     (EST)
+         00:03:17.381 - 00:03:17.656
+FRA1FI   aí tem o bairro tem os bairros do lado de cá
+         00:03:17.662 - 00:03:19.857
+DOCPC    sim
+         00:03:20.022 - 00:03:20.502
+FRA1FI   aí tem uma Ultragaz
+         00:03:20.762 - 00:03:21.916
+FRA1FI   já viu a ultragaz?
+         00:03:22.324 - 00:03:23.293
+DOCPC    sim sim
+         00:03:23.502 - 00:03:24.342
+FRA1FI   moro entrando ali é o São Carlos
+         00:03:24.342 - 00:03:25.948
+DOCPC    você vem pra cá de ônibus coletivo?
+         00:03:26.622 - 00:03:29.782
+FRA1FI   coletivo
+         00:03:29.782 - 00:03:30.502
+DISF     (HES)
+         00:03:31.481 - 00:03:32.266
+DOCPC    você trabalha?
+         00:03:32.980 - 00:03:33.736
+FRA1FI   não momento não
+         00:03:34.587 - 00:03:35.974
+DOCPC    mas/
+         00:03:36.438 - 00:03:36.969
+FRA1FI   tou fazendo estágio aqui na UFS que eu comeceiu agora
+         00:03:36.520 - 00:03:39.244
+DOCPC    mas é um estágio
+         00:03:39.572 - 00:03:41.021
+DISF     (HES)
+         00:03:40.985 - 00:03:41.648
+DOCPC    remunerado ou é um estágio obrigatório do curso?
+         00:03:42.413 - 00:03:44.821
+FRA1FI   remunerado
+         00:03:44.708 - 00:03:45.418
+DOCPC    e como tá sendo a experiência?
+         00:03:46.028 - 00:03:47.785
+FRA1FI   começou acho que tem três semanas
+         00:03:48.708 - 00:03:50.708
+FRA1FI   aí eu só fu/ a gente só foi uma semana na primeira semana
+         00:03:52.039 - 00:03:56.080
+FRA1FI   e o resto da das outras duas
+         00:03:56.268 - 00:03:58.044
+FRA1FI   a gente tava fazendo uma revisão literária sobre o que a gente ia fazer no estágio
+         00:03:58.457 - 00:04:02.070
+FRA1FI   mas tá sendo legal
+         00:04:02.677 - 00:04:03.687
+DOCPC    você vai pra algum lugar em específico ou fica aqui na UFS?
+         00:04:04.255 - 00:04:08.148
+FRA1FI   é na reitoria é um
+         00:04:08.930 - 00:04:10.960
+FRA1FI   uma unidade da reitoria
+         00:04:11.593 - 00:04:12.889
+FRA1FI   aí a gente vai pra lá
+         00:04:13.359 - 00:04:14.440
+DOCPC    e tem o objetivo de atender um grupo assim específico?
+         00:04:15.713 - 00:04:19.063
+FRA1FI   atenção à saúde do servidor
+         00:04:18.632 - 00:04:20.133
+FRA1FI   servidores públicos que trabalham lá na reitoria mesmo
+         00:04:20.613 - 00:04:23.613
+DOCPC    e o que é que você acha desse tipo de ação?
+         00:04:24.053 - 00:04:26.173
+FRA1FI   acho legal
+         00:04:27.035 - 00:04:27.912
+FRA1FI   qualquer coisa que vise a saúde de alguém de qualquer pessoa acho benéfico
+         00:04:28.560 - 00:04:32.611
+FRA1FI   mas eu não sei se eles fazem com a intenção realmente de ajudar
+         00:04:33.137 - 00:04:36.127
+FRA1FI   ou só de mos/ tentar mostrar que tá ajudando
+         00:04:36.321 - 00:04:38.556
+DOCPC    você vê alguma coisa assim que faz você desconfiar da intenção digamos do programa?
+         00:04:39.383 - 00:04:45.383
+FRA1FI   ( )
+         00:04:39.450 - 00:04:40.603
+FRA1FI   porque eles criaram um programa do
+         00:04:46.160 - 00:04:48.395
+FRA1FI   essa bolsa aí eles provavelmente eles tiveram que mandar o plano de trabalho
+         00:04:48.816 - 00:04:53.112
+FRA1FI   só que quando a gente chegou lá tipo qual é o plano de trabalho?
+         00:04:53.306 - 00:04:55.510
+FRA1FI   não tem plano de trabalho vamos tentar fazer alguma coisa juntos porque a gente não sabe o que que cês vão fazer
+         00:04:55.658 - 00:05:00.077
+FRA1FI   então a gente tem que tá correndo atrás então
+         00:05:00.566 - 00:05:02.832
+DOCPC    é vocês quem tão desenvolvendo né? algo que
+         00:05:03.064 - 00:05:06.275
+FRA1FI   sim tentando ver o que vai fazer porque eles não têm plano de trabalho
+         00:05:05.287 - 00:05:09.450
+DOCPC    e já deveria tá pronto
+         00:05:09.612 - 00:05:10.934
+FRA1FI   e foi uma um bafafá pra conseguir
+         00:05:10.931 - 00:05:13.666
+FRA1FI   e eu levava para a reitoria que o coordenador tinha que assinar
+         00:05:14.046 - 00:05:16.934
+FRA1FI   "ah quem é o coordenador de curso?" foi no na unidade que tinha no
+         00:05:17.128 - 00:05:20.454
+FRA1FI   edital "ah não é aqui tem que ir ali" "ah não é aqui tem que ir lá" e ninguém sabia onde era
+         00:05:20.937 - 00:05:25.581
+FRA1FI   no final a gente foi falar com o coordenador e só ele sabia
+         00:05:25.733 - 00:05:28.274
+FRA1FI   a/ as pessoas que a gente tá trabalhando atualmente não sabiam do projeto e o nome da mulher tava lá no projeto e ela nem sabia da existência dele
+         00:05:28.550 - 00:05:35.488
+DOCPC    e foi quanto tempo nesse vai e volta?
+         00:05:36.744 - 00:05:38.887
+FRA1FI   foi uma semana inteira pra dar o papel conseguir se inscrever
+         00:05:39.765 - 00:05:43.554
+DISF     (HES)
+         00:05:47.211 - 00:05:47.772
+DOCPC    você estagia né mas
+         00:05:47.986 - 00:05:49.864
+DOCPC    você acha que daria certo por exemplo
+         00:05:50.410 - 00:05:53.573
+DOCPC    fazer psicologia e trabalhar em outro lugar fora da universidade?
+         00:05:53.792 - 00:05:57.649
+FRA1FI   no primeiro período eu trabalhava como jovem aprendiz aí era quatro horas por dia
+         00:05:58.625 - 00:06:03.105
+FRA1FI   aí eu dava pra conciliar eu saía de lá e vinha direto pra cá
+         00:06:04.033 - 00:06:06.951
+FRA1FI   era corrido mas acho que se fosse um trabalho normal com período de oito horas não dava não
+         00:06:07.438 - 00:06:13.234
+DOCPC    e como foi a experiência de trabalhar como jovem aprendiz?
+         00:06:14.834 - 00:06:17.834
+FRA1FI   estressante
+         00:06:17.834 - 00:06:18.834
+DOCPC    o que é que você fazia?
+         00:06:20.154 - 00:06:21.582
+FRA1FI   rasgava papel
+         00:06:22.342 - 00:06:23.404
+DOCPC    onde você trabalha-?
+         00:06:24.928 - 00:06:25.928
+FRA1FI   numa empresa de õnibus
+         00:06:25.332 - 00:06:26.465
+DISF     (EST)
+         00:06:26.530 - 00:06:27.306
+FRA1FI   meu pai trabalhava em uma e eu trabalhava em outra
+         00:06:27.916 - 00:06:29.967
+FRA1FI   e era bem
+         00:06:30.446 - 00:06:31.497
+FRA1FI   bem ruim
+         00:06:32.017 - 00:06:32.609
+FRA1FI   gostava não
+         00:06:33.022 - 00:06:33.696
+DOCPC    mas porque era monótono ou porque era estressante?
+         00:06:34.010 - 00:06:36.846
+FRA1FI   era monótono
+         00:06:37.385 - 00:06:38.242
+FRA1FI   parecia como estágio agora a gente chegava lá às vezes não tinha o que fazer eles mandavam a gente passar o dia todo rasgando papel
+         00:06:38.724 - 00:06:44.122
+FRA1FI   literalmente só rasgar papel
+         00:06:44.575 - 00:06:46.350
+FRA1FI   só podia jogar o papel mas eles contratavam pessoa pra rasgar papel
+         00:06:47.141 - 00:06:50.539
+FRA1FI   eu me sentia inútil porque eu poderia estar estudando alguma coisa da faculdade
+         00:06:50.723 - 00:06:53.539
+FRA1FI   aí eu tava o que? primeiro período caloura preocupada e ficava lá rasgado papel durante quatro horas diárias
+         00:06:54.010 - 00:06:59.469
+DISF     (HES)
+         00:07:00.758 - 00:07:01.319
+DOCPC    falando do seu primeiro período  como foi a experiência de começar um curso superior?
+         00:07:02.043 - 00:07:06.931
+FRA1FI   muito boa
+         00:07:08.173 - 00:07:08.845
+FRA1FI   muito bom saber que
+         00:07:10.245 - 00:07:11.469
+DOCPC    você/
+         00:07:10.387 - 00:07:11.365
+FRA1FI   cê entrou conseguiu entrar
+         00:07:11.699 - 00:07:13.240
+FRA1FI   depois de muitos perengues
+         00:07:13.836 - 00:07:14.989
+DOCPC    cê cons/ sentiu alguma dificuldade?
+         00:07:15.435 - 00:07:17.530
+FRA1FI   no primeiro período não
+         00:07:18.632 - 00:07:19.959
+FRA1FI   acho que tá pegando mais agora mas o primeiro período foi de boa
+         00:07:20.715 - 00:07:23.357
+DISF     (HES)
+         00:07:25.421 - 00:07:26.146
+DOCPC    voltando a questão da da moradia você disse que
+         00:07:26.448 - 00:07:29.682
+DISF     (EST)
+         00:07:28.611 - 00:07:29.132
+DISF     (HES)
+         00:07:29.876 - 00:07:30.223
+DOCPC    mora no mesmo lugar desde criancinha né
+         00:07:30.279 - 00:07:32.667
+FRA1FI   isso
+         00:07:32.795 - 00:07:33.267
+DISF     (HES)
+         00:07:33.284 - 00:07:33.641
+DOCPC    qual é a memória assim mais marcante que você tem do local onde você cresceu?
+         00:07:34.265 - 00:07:38.905
+FRA1FI   eu sou bem ruim com memória
+         00:07:40.534 - 00:07:42.105
+FRA1FI   eu sempre pergunto a minha mãe se eu sofri algum trauma da infância porque eu recalquei tudo eu não consigo lembrar muita coisa
+         00:07:42.632 - 00:07:48.417
+FRA1FI   eu lembro mais da adolescência pra cá tipo treze anos
+         00:07:48.865 - 00:07:52.345
+FRA1FI   só que eu lembro mais o que m/
+         00:07:52.980 - 00:07:54.766
+FRA1FI   o que pega mais por morar tanto tempo é os vizinhos porque sempre são os mesmos vizinhos são as mesmas pessoas e você anda pelo bairro e todo mundo fala com você porque todo mundo te conhece
+         00:07:55.326 - 00:08:03.255
+FRA1FI   e quando você nem lembra da pessoa mas é uma pessoa que conhece seus avós aí lembra de você e fala com você
+         00:08:03.615 - 00:08:08.306
+FRA1FI   então acho que é a coisa que mais marca assim morar sempre no mesmo lugar
+         00:08:08.682 - 00:08:11.682
+DOCPC    é você ser conhecida pelos outros né?
+         00:08:12.082 - 00:08:14.362
+DOCPC    cê tem ou tinha muitos amigos
+         00:08:14.921 - 00:08:17.523
+DISF     (HES)
+         00:08:17.554 - 00:08:18.095
+DOCPC    no bairro na região?
+         00:08:18.064 - 00:08:18.921
+FRA1FI   eu tinha mais
+         00:08:20.562 - 00:08:21.562
+FRA1FI   aí hoje em dia eu tenho menos
+         00:08:22.402 - 00:08:23.722
+FRA1FI   é não tenho mais não muitos amigos tenho poucos agora
+         00:08:24.979 - 00:08:27.408
+DOCPC    tem alguma coisa de atrativo assim lá no seu bairro?
+         00:08:28.367 - 00:08:30.877
+FRA1FI    não
+         00:08:31.755 - 00:08:32.000
+FRA1FI   nada de atrativo
+         00:08:33.430 - 00:08:34.460
+FRA1FI   a praça que tem serve pra usuários de droga agora
+         00:08:35.469 - 00:08:38.245
+FRA1FI   só pra isso
+         00:08:38.689 - 00:08:39.495
+FRA1FI   inclusive é um bairro violento ninguem gosta de ir lá
+         00:08:40.224 - 00:08:42.443
+FRA1FI   mas eu não acho violento acho que é porque eu moro lá desde sempre mas
+         00:08:42.643 - 00:08:45.306
+DOCPC    cê se sente segura lá?
+         00:08:46.193 - 00:08:47.433
+FRA1FI   sinto
+         00:08:47.873 - 00:08:48.473
+DISF     (HES)
+         00:08:50.133 - 00:08:50.847
+DOCPC    s/ você destacaria um outro ponto negativo do bairro?
+         00:08:51.985 - 00:08:55.424
+FRA1FI   não
+         00:08:59.632 - 00:09:00.010
+FRA1FI   acho que
+         00:09:00.855 - 00:09:01.375
+FRA1FI   não
+         00:09:01.845 - 00:09:02.233
+FRA1FI   só isso mesmo que não tem nenhum lugar de lazer pra ninguém
+         00:09:03.313 - 00:09:06.313
+FRA1FI   não tem um posto de saúde o posto de saúde é ni outro em outro bairro então
+         00:09:06.907 - 00:09:11.642
+FRA1FI   é um posto de saúde pra três bairros quatro bairros aí agora tem que ir pra lá
+         00:09:11.851 - 00:09:15.483
+FRA1FI   só não tem nada voltado para nossa comunidade em si é sempre uma coisa que a gente tem que dividir com muita gente
+         00:09:16.513 - 00:09:21.793
+DISF     (EST)
+         00:09:19.530 - 00:09:19.938
+DOCPC    cê gosta de morar lá?
+         00:09:22.633 - 00:09:23.633
+FRA1FI   gosto
+         00:09:24.273 - 00:09:24.873
+DOCPC    se tivesse a oportunidade moraria em outro lugar?
+         00:09:25.873 - 00:09:28.863
+FRA1FI   talvez moraria
+         00:09:31.583 - 00:09:32.743
+FRA1FI   eu quero sair do Brasil então moraria
+         00:09:33.407 - 00:09:35.274
+DOCPC    e pra onde você tem vontade de ir?
+         00:09:35.463 - 00:09:38.463
+FRA1FI   se tivesse dinheiro
+         00:09:35.714 - 00:09:36.683
+FRA1FI   antes era pra Austrália só que agora é pro Canadá
+         00:09:40.223 - 00:09:42.543
+DOCPC    e por que é que o Canadá chama tanto sua atenção assim?
+         00:09:43.543 - 00:09:47.122
+FRA1FI   porque a galera fala que é b/ eles são bem receptivos e tem muito emprego
+         00:09:48.543 - 00:09:52.153
+DOCPC    então ir pro Canadá é sua viagem dos sonhos?
+         00:09:53.863 - 00:09:55.983
+FRA1FI   não não viagem dos sonhos
+         00:09:57.735 - 00:09:59.296
+FRA1FI   uma coisa que eu queria pra me ascender melhor
+         00:10:00.255 - 00:10:03.326
+FRA1FI   profissionalmente e na vida assim pra morar mesmo[
+         00:10:03.583 - 00:10:06.343
+DISF     (EST)
+         00:10:04.653 - 00:10:05.050
+FRA1FI   mas a viagem dos sonhos seria pra Austrália
+         00:10:06.783 - 00:10:08.783
+DOCPC    e o que é que chama sua atenção na Autrália?
+         00:10:09.783 - 00:10:12.783
+FRA1FI   eu não sei
+         00:10:13.547 - 00:10:14.373
+FRA1FI   era um sonho meu e das minhas amigas no ensino médio a gente sempre falava que ia pra Austrália
+         00:10:15.078 - 00:10:18.731
+FRA1FI   aí virou Autrália um lugar dos sonhos
+         00:10:19.183 - 00:10:21.263
+DOCPC    continua até hoje?
+         00:10:21.263 - 00:10:22.543
+DISF     (HES)
+         00:10:23.845 - 00:10:24.539
+DOCPC    você já viajou pra fora de sergipe?
+         00:10:25.408 - 00:10:27.783
+FRA1FI   Alagoas
+         00:10:28.263 - 00:10:28.943
+DOCPC    pra qual cidade?
+         00:10:29.943 - 00:10:30.943
+FRA1FI   Arapiraca e Feira Grande
+         00:10:31.503 - 00:10:33.743
+FRA1FI   Feira Grande eu acho
+         00:10:34.597 - 00:10:35.516
+DOCPC    o que é que você acho dessas cidades?
+         00:10:36.543 - 00:10:38.143
+FRA1FI   ruim
+         00:10:39.428 - 00:10:39.783
+DOCPC    ruim?
+         00:10:41.061 - 00:10:41.571
+DOCPC    por quê?
+         00:10:42.223 - 00:10:42.863
+FRA1FI   não sei
+         00:10:44.863 - 00:10:45.397
+FRA1FI   eu não viajo pra conhecer a cidade em si eu sempre viajo pra casa de alguém específico
+         00:10:47.343 - 00:10:50.983
+FRA1FI   aí é nunca é na cidade é mais afastado aí eu nem saio de lá aí então eu não tenho muito que falar da cidade
+         00:10:51.663 - 00:10:56.543
+DOCPC    era monótono?
+         00:10:57.463 - 00:10:59.255
+FRA1FI   era monótono
+         00:10:59.620 - 00:11:00.793
+FRA1FI   monótono
+         00:11:01.120 - 00:11:01.926
+FRA1FI   ia com a família do meu pai verdadeiro
+         00:11:02.100 - 00:11:04.202
+FRA1FI   aí eu não gosto muito deles eu não me sinto bem confortável
+         00:11:04.544 - 00:11:07.575
+FRA1FI   não tem muita atratividade também na cidade
+         00:11:08.275 - 00:11:10.653
+DOCPC    tem muito tempo que você foi pra essa cidades?
+         00:11:11.943 - 00:11:14.183
+FRA1FI   não
+         00:11:14.381 - 00:11:14.769
+FRA1FI   acho que
+         00:11:14.958 - 00:11:15.693
+FRA1FI   uns dois meses
+         00:11:16.116 - 00:11:17.320
+FRA1FI   um mês e meio
+         00:11:17.561 - 00:11:18.887
+DOCPC    e cê vai com frequência?
+         00:11:20.113 - 00:11:21.753
+FRA1FI   vou até
+         00:11:22.748 - 00:11:23.820
+FRA1FI   vou
+         00:11:25.391 - 00:11:25.738
+DISF     ((RUÍDO))
+         00:11:26.069 - 00:11:26.447
+DOCPC    ainda que no seu bairro não tenha muita coisa assim pra fazer nos finais de semana ou no tempo livre o que é que você gosta de fazer?
+         00:11:28.753 - 00:11:36.753
+FRA1FI   ficar em casa deitada
+         00:11:38.473 - 00:11:40.193
+FRA1FI   dormindo
+         00:11:40.914 - 00:11:41.679
+FRA1FI   e assistindo série
+         00:11:42.138 - 00:11:43.210
+DOCPC    não tem nenhum lugar assim que você goste de ir?
+         00:11:44.313 - 00:11:46.753
+FRA1FI   às vezes eu vou no cinema
+         00:11:48.513 - 00:11:50.233
+FRA1FI   ou à praia
+         00:11:50.836 - 00:11:51.581
+FRA1FI   só
+         00:11:52.622 - 00:11:53.101
+FRA1FI   são os lugares de Aracaju que eu vou
+         00:11:53.448 - 00:11:54.958
+DOCPC    cê fica em casa assistindo série né? o que é que você costuma assistir?
+         00:11:56.113 - 00:11:59.673
+FRA1FI   série
+         00:12:01.719 - 00:12:02.189
+DOCPC    qual assim qual gênero?
+         00:12:04.010 - 00:12:05.581
+FRA1FI   às vezes eu fico procurando coisa de psicologia
+         00:12:06.214 - 00:12:08.313
+FRA1FI   às vezes é chato aí eu vou até porque eu vejo psicologia todo dia aqui na UFS
+         00:12:08.662 - 00:12:12.530
+FRA1FI   aí eu vou atrás de alguma coisa mais
+         00:12:12.867 - 00:12:14.754
+FRA1FI   que faz coisas bestas mesmo
+         00:12:15.121 - 00:12:16.836
+FRA1FI   coisas superficiais
+         00:12:17.085 - 00:12:18.208
+FRA1FI   que que eu acho que que a gente cobra muito de tá tempo no científico científico "que que isso vai agregar que que isso vai agregar"
+         00:12:18.817 - 00:12:24.174
+FRA1FI   e quando você para pra ver coisas besta mesmo
+         00:12:24.378 - 00:12:26.827
+FRA1FI   por mais que seja besta alivia um pouco a cabeça
+         00:12:27.434 - 00:12:30.413
+DOCPC    desse tiipo assim qual a que você mais gosta?
+         00:12:30.897 - 00:12:33.715
+FRA1FI   teve uma que eu estava assistindo
+         00:12:35.102 - 00:12:36.715
+FRA1FI   que era s/ eu não lembro o nome mas até porque é inglês e eu não sei falar inglês
+         00:12:38.306 - 00:12:42.235
+FRA1FI   era uma família falava sobre a vida de uma família uma mulher solteira que morava com a mãe e tinha dois filhos
+         00:12:43.235 - 00:12:48.449
+FRA1FI   uma filha era lésbica
+         00:12:48.706 - 00:12:49.992
+FRA1FI   e falava sobre coisas vivência preconceito
+         00:12:50.579 - 00:12:54.365
+FRA1FI   de uma forma bem direta não ficava/ você pen/ pensar muito pra saber onde é que tava enfiado o preconceito ali
+         00:12:54.595 - 00:13:00.675
+FRA1FI   falam abertamente sobre tudo
+         00:13:01.155 - 00:13:02.918
+DOCPC    é uma da Netflix né?
+         00:13:03.155 - 00:13:04.475
+FRA1FI   é
+         00:13:04.475 - 00:13:04.897
+DOCPC    eu também não l-
+         00:13:06.075 - 00:13:06.635
+FRA1FI   que elas são cubanas
+         00:13:06.635 - 00:13:07.875
+FRA1FI   é gostei muito só que eu acabei a terceira temporada agora tou sem série pra assistir mas eu comecei uma hoje
+         00:13:08.875 - 00:13:14.736
+DOCPC    qual?
+         00:13:14.938 - 00:13:15.285
+FRA1FI   a do carinha que tem câncer
+         00:13:16.346 - 00:13:17.908
+FRA1FI   Breaking Bad que é um negócio de química
+         00:13:18.816 - 00:13:21.096
+DOCPC    ah eu sei qual é
+         00:13:21.096 - 00:13:22.896
+FRA1FI   já me disseram que é boa aí eu comecei hoje só assiti um episódio mas comecei hoje
+         00:13:22.896 - 00:13:26.416
+DOCPC    e aí o que foi que cê achou?
+         00:13:26.416 - 00:13:27.976
+FRA1FI   achei boa o primeiro episódio eu gostei
+         00:13:27.976 - 00:13:29.976
+DISF     (HES)
+         00:13:30.968 - 00:13:32.111
+DOCPC    você gosta de ler?
+         00:13:32.816 - 00:13:34.571
+FRA1FI   gosto
+         00:13:35.376 - 00:13:35.867
+DOCPC    o que é que você costuma-
+         00:13:36.896 - 00:13:37.896
+FRA1FI   não coisas da faculdade
+         00:13:37.380 - 00:13:38.780
+DOCPC    e além então o que é que você costuma ler?
+         00:13:39.780 - 00:13:42.780
+FRA1FI   teve um tempo que eu tava lendo muito romance
+         00:13:45.260 - 00:13:47.260
+FRA1FI   água com açúcar
+         00:13:47.832 - 00:13:48.709
+FRA1FI   só que aí eu parei
+         00:13:49.112 - 00:13:50.010
+FRA1FI   aí
+         00:13:50.460 - 00:13:51.062
+FRA1FI   entrei naquela onda "ah que eu sou feminista eu vou mudar o mundo"
+         00:13:51.368 - 00:13:54.062
+FRA1FI   aí comecei a comprar vári/ três comprei três livros de uma vez só feministas e só li um
+         00:13:54.214 - 00:13:59.150
+FRA1FI   aí tá lá pra ler os outros ainda
+         00:13:59.590 - 00:14:01.590
+FRA1FI   ah eu tou assistindo atualmente o conto da aia também esqueci de falar da minha série
+         00:14:02.350 - 00:14:05.910
+FRA1FI   maravilhosa ah maravilhosa
+         00:14:06.150 - 00:14:08.150
+FRA1FI   conto da aia tava (    ) um livro também do conto da aia
+         00:14:08.404 - 00:14:12.020
+DOCPC    e aí me fale a respeito
+         00:14:09.324 - 00:14:10.564
+FRA1FI   ai adoro aquela série perfeita
+         00:14:13.324 - 00:14:15.571
+FRA1FI   perfeita
+         00:14:16.804 - 00:14:17.444
+DOCPC    por que é que você acha ela perfeita?
+         00:14:17.564 - 00:14:19.213
+FRA1FI   na verdade ela me dá medo
+         00:14:19.604 - 00:14:21.164
+FRA1FI   porque se o futuro for desse jeito
+         00:14:21.964 - 00:14:24.571
+FRA1FI   não sei o que vai ser da gente
+         00:14:24.916 - 00:14:26.049
+FRA1FI   mas muito perfeita porque ela pontua coisas que a gente acha que tá além
+         00:14:27.164 - 00:14:31.804
+FRA1FI   e tá tão perto ainda mais com nosso governo atual parece uma coisa que tá tão perto e ao mesmo tempo tão longe
+         00:14:32.049 - 00:14:37.591
+FRA1FI   e o jeito que a mulher
+         00:14:38.221 - 00:14:39.476
+FRA1FI   experiencia as coisas
+         00:14:40.251 - 00:14:41.445
+FRA1FI   o jeito como um po/ é fácil mudar a cabeça das pessoas
+         00:14:42.027 - 00:14:45.006
+FRA1FI   de uma hora pra outra as aias tem horas que são super certinha
+         00:14:45.204 - 00:14:49.158
+FRA1FI   as tias tias
+         00:14:49.559 - 00:14:51.202
+FRA1FI   tias como é o nome dela
+         00:14:51.865 - 00:14:52.885
+DOCPC    tia Lídia
+         00:14:53.512 - 00:14:54.192
+FRA1FI   e tia Lídia
+         00:14:54.241 - 00:14:55.057
+FRA1FI   aí as outras são chamada de alguma coisa?
+         00:14:55.563 - 00:14:57.736
+FRA1FI   o ca/ ela tem algum cargo?
+         00:14:58.081 - 00:14:59.479
+FRA1FI   ou só o nome dela que é tia Lídia mesmo?
+         00:15:00.112 - 00:15:01.603
+DOCPC    é só o nome dela que é tia Lí-
+         00:15:01.603 - 00:15:02.923
+FRA1FI   (as aias as martas) mas elas não tem cargo né?
+         00:15:02.923 - 00:15:05.163
+DOCPC    não
+         00:15:05.283 - 00:15:05.853
+FRA1FI   então como/
+         00:15:06.293 - 00:15:07.571
+FRA1FI    fica mostrando também o passado das pessoas e o futuro como do nada elas
+         00:15:07.692 - 00:15:11.478
+FRA1FI   se adaptaram entre aspas
+         00:15:11.713 - 00:15:13.733
+FRA1FI   relativamente bem àquilo
+         00:15:14.245 - 00:15:15.766
+FRA1FI   e até gostam
+         00:15:16.051 - 00:15:17.184
+DOCPC    cê já s/
+         00:15:17.404 - 00:15:18.343
+FRA1FI   (    ) das aias
+         00:15:17.966 - 00:15:18.612
+DOCPC    cê já assistiu tudo ou
+         00:15:19.001 - 00:15:21.297
+FRA1FI   tô acompanhando as/ aí toda quarta tem episódio novo
+         00:15:21.486 - 00:15:24.244
+FRA1FI   aí eu assisti hoje de quarta não quarta foi ontem é eu assisti hoje
+         00:15:24.726 - 00:15:29.083
+DOCPC    então cê já assistiu o último né?
+         00:15:29.486 - 00:15:31.126
+FRA1FI   que é um sitezinho
+         00:15:29.857 - 00:15:31.126
+FRA1FI   já
+         00:15:31.241 - 00:15:31.619
+DOCPC    cê leu o livro?
+         00:15:32.526 - 00:15:33.389
+FRA1FI   não terminei ainda
+         00:15:33.887 - 00:15:35.091
+FRA1FI   porque vai era pra eu ter feito o contrário ter primeiro lido o livro pra depois
+         00:15:35.913 - 00:15:40.270
+FRA1FI   assistir a série aí a
+         00:15:40.578 - 00:15:41.843
+FRA1FI   porque a série eu acho que destrinchou mais a história acrescentou várias coisas pra dar continuidade
+         00:15:42.501 - 00:15:47.052
+FRA1FI   aí o livro parece ser bem mais direto aí eu não quis ler pra chegar no final logo e não assistir à série depois
+         00:15:47.785 - 00:15:53.109
+DOCPC    mas
+         00:15:54.619 - 00:15:55.670
+DOCPC    você gostou da de até onde leu o livro?
+         00:15:55.945 - 00:15:58.884
+FRA1FI   gostei
+         00:15:59.003 - 00:15:59.817
+DOCPC    cê já leu outros livros da autora?
+         00:16:01.817 - 00:16:03.869
+FRA1FI   não
+         00:16:04.204 - 00:16:04.581
+FRA1FI   esse foi o primeiro
+         00:16:05.836 - 00:16:06.530
+DISF     (HES)
+         00:16:07.870 - 00:16:08.431
+DOCPC    você costuma ler algo pela internet?
+         00:16:08.727 - 00:16:10.676
+DOCPC    qual sites assim?
+         00:16:12.833 - 00:16:13.867
+FRA1FI   costumo
+         00:16:13.255 - 00:16:14.000
+FRA1FI   não tem nenhum site específico
+         00:16:16.051 - 00:16:17.829
+DOCPC    cê gosta de ler site de notícia ou
+         00:16:20.429 - 00:16:24.551
+DOCPC    outra coisa?
+         00:16:24.904 - 00:16:25.638
+FRA1FI   às vezes eu leio alguma no qundo eu n/
+         00:16:27.390 - 00:16:29.114
+FRA1FI   não tô sabendo de nada que eu vou entrar
+         00:16:29.645 - 00:16:31.655
+FRA1FI   aí eu olho BBC BBC news
+         00:16:32.125 - 00:16:34.492
+FRA1FI   aí só isso de notícia que eu costumo olhar
+         00:16:34.872 - 00:16:36.672
+DOCPC    e de outros assuntos assim
+         00:16:38.297 - 00:16:40.879
+DOCPC    sei lá coisas
+         00:16:41.359 - 00:16:42.430
+DOCPC    fora da faculdade coisas triviais ( )
+         00:16:43.184 - 00:16:45.398
+FRA1FI   vai ser o que aparecer primeiro o primeiro site que aparece eu clico não
+         00:16:45.504 - 00:16:49.158
+FRA1FI   ( )
+         00:16:49.581 - 00:16:50.224
+DOCPC    você
+         00:16:51.848 - 00:16:52.674
+DISF     (HES)
+         00:16:52.715 - 00:16:53.562
+DOCPC    acha o hábito de leitura importante?
+         00:16:54.460 - 00:16:56.490
+FRA1FI   acho
+         00:16:57.449 - 00:16:58.000
+DOCPC    por quê?
+         00:16:59.265 - 00:16:59.795
+FRA1FI   não sei
+         00:17:02.714 - 00:17:03.663
+FRA1FI   pra pra várias coisas
+         00:17:04.551 - 00:17:05.887
+FRA1FI   pra aprender a falar melhor
+         00:17:06.388 - 00:17:08.051
+FRA1FI   pra desenvolver melhor
+         00:17:08.275 - 00:17:09.510
+FRA1FI   pra não ter muita dificuldade na hora de escrever alguma coisa
+         00:17:10.303 - 00:17:12.987
+FRA1FI   porque você conhece mais palavras você sabe como encaixar
+         00:17:13.324 - 00:17:16.140
+FRA1FI   você tem noção mais ou menos de estrutura de texto pra saber
+         00:17:16.350 - 00:17:19.584
+FRA1FI   como o que mais se adepta a você mesmo porque tem texto que é bom
+         00:17:19.977 - 00:17:23.263
+FRA1FI   mas que você não se identificou muito com
+         00:17:23.472 - 00:17:25.983
+FRA1FI   como a pessoa escreve como a pessoa arranja o texto
+         00:17:26.181 - 00:17:28.641
+DOCPC    você aliás sua família tem o hábito de ler?
+         00:17:30.391 - 00:17:33.711
+FRA1FI   não
+         00:17:33.877 - 00:17:34.224
+DOCPC    você adquiriu esse hábito
+         00:17:34.671 - 00:17:36.479
+DOCPC    por influência de alguém sozinha?
+         00:17:37.032 - 00:17:39.195
+FRA1FI   eu nem sei
+         00:17:40.021 - 00:17:41.021
+FRA1FI   que
+         00:17:42.172 - 00:17:42.805
+FRA1FI   lá em casa meus avós nem sab/ não sabem ler
+         00:17:42.973 - 00:17:45.646
+FRA1FI   meus pais também não minha mãe sabe mas ela não lê
+         00:17:46.461 - 00:17:49.461
+DISF     (HES)
+         00:17:51.402 - 00:17:52.004
+FRA1FI   não sei não
+         00:17:51.994 - 00:17:52.800
+DOCPC    agora
+         00:17:54.088 - 00:17:54.701
+DISF     (HES)
+         00:17:54.685 - 00:17:55.165
+DOCPC    na esteira da educação você acha que
+         00:17:55.206 - 00:17:57.951
+DOCPC    a educação pública é algo que o governo deve assegurar?
+         00:17:58.430 - 00:18:01.828
+FRA1FI   deve continuar ofertando?
+         00:18:03.821 - 00:18:05.132
+DOCPC    sim
+         00:18:05.301 - 00:18:05.663
+FRA1FI   sentido
+         00:18:05.513 - 00:18:06.085
+FRA1FI   sim
+         00:18:06.457 - 00:18:06.937
+DOCPC    por quê?
+         00:18:08.101 - 00:18:08.611
+FRA1FI   acho que sim
+         00:18:08.590 - 00:18:09.356
+FRA1FI   porque tem muita gente que não consegue pagar o ensino privado
+         00:18:10.223 - 00:18:13.519
+FRA1FI   e apesar de ser atualmente uma calamidade
+         00:18:14.157 - 00:18:16.769
+FRA1FI   eu estudei em colégio público
+         00:18:17.407 - 00:18:18.795
+DISF     (HES)
+         00:18:19.453 - 00:18:20.086
+FRA1FI   eu gostava até bastante acho que mudou muito de um tempo pra cá porque no meu tempo não tinha tanta coisa e o meu colégio é de bairro
+         00:18:20.500 - 00:18:26.548
+FRA1FI   então é pequeno então sempre teve também muitos problemas
+         00:18:26.806 - 00:18:29.648
+FRA1FI   só que eu acho que deve sim continuar
+         00:18:30.662 - 00:18:32.641
+DOCPC    pela sua experiência assim você
+         00:18:34.232 - 00:18:36.344
+DOCPC    percebe que melhorou nos últimos anos né
+         00:18:36.906 - 00:18:39.314
+FRA1FI   depende do lugar
+         00:18:41.622 - 00:18:43.008
+DOCPC    na/ lá onde você estudava
+         00:18:44.387 - 00:18:46.288
+DISF     (HES)
+         00:18:46.878 - 00:18:47.318
+DOCPC    você acha que melhorou?
+         00:18:47.958 - 00:18:49.198
+FRA1FI   acho
+         00:18:49.878 - 00:18:50.275
+DOCPC    por quê?
+         00:18:50.826 - 00:18:51.520
+FRA1FI   não sei
+         00:18:54.132 - 00:18:55.479
+FRA1FI   em estrutura não melhorou não melhorou
+         00:18:57.540 - 00:19:00.020
+FRA1FI   em ensino eu acho que
+         00:19:00.733 - 00:19:02.183
+FRA1FI   eu não tenho mais contato com o colégio
+         00:19:04.305 - 00:19:06.499
+FRA1FI   porque tinha um tempo que eu tava continuei lá indo lá mas depois eu parei
+         00:19:06.907 - 00:19:10.530
+FRA1FI   mais que estrutura
+         00:19:11.437 - 00:19:13.203
+FRA1FI   não melhor em estrutura nem nada mas
+         00:19:13.713 - 00:19:16.131
+FRA1FI   eu sempre percebi que os professores
+         00:19:16.785 - 00:19:18.774
+FRA1FI   querem alguma coisa sabe
+         00:19:19.315 - 00:19:20.835
+FRA1FI   não é do tipo de professor que às vezes as pessoa fala só porque vê que é de colégio público
+         00:19:21.103 - 00:19:24.797
+DISF     (EST)
+         00:19:21.119 - 00:19:21.506
+FRA1FI   deixa pra lá foi sempre os professores que tentavam mesmo chamar a atenção do aluno
+         00:19:25.090 - 00:19:29.080
+DOCPC    e você vê isso como um ponto bastante positivo né?
+         00:19:29.988 - 00:19:33.348
+FRA1FI   sim
+         00:19:33.348 - 00:19:33.868
+DOCPC    e um ponto negativo da educação pública?
+         00:19:34.868 - 00:19:37.508
+FRA1FI   ponto negativo da educação pública
+         00:19:41.908 - 00:19:43.908
+FRA1FI   acho que a falta de de recurso
+         00:19:47.286 - 00:19:50.153
+FRA1FI   que às vezes limita os professores
+         00:19:50.316 - 00:19:52.030
+FRA1FI   às vezes pro/ não é nem que o professor não queira mas
+         00:19:52.390 - 00:19:54.441
+DISF     (HES)
+         00:19:55.165 - 00:19:55.716
+FRA1FI   o sistema todo em si não contribui pra que eles
+         00:19:56.313 - 00:19:59.303
+FRA1FI   se esforce mais e chame mais atenção do aluno e vá trazendo mais coisas e mais coisa
+         00:19:59.622 - 00:20:03.734
+FRA1FI   limitam muito
+         00:20:04.015 - 00:20:05.015
+DOCPC    você acha que o gasto alías o investimento da educação em educação no Brasil
+         00:20:06.015 - 00:20:11.744
+DOCPC    é suficiente?
+         00:20:12.286 - 00:20:13.224
+FRA1FI   não
+         00:20:13.255 - 00:20:13.655
+FRA1FI   não mesmo
+         00:20:15.336 - 00:20:16.055
+DISF     (HES)
+         00:20:17.877 - 00:20:18.407
+DOCPC    por que você acha que não é suficiente?
+         00:20:18.566 - 00:20:20.836
+FRA1FI   porque se fosse não estaria assim
+         00:20:21.325 - 00:20:22.816
+FRA1FI   escola do jeito que tá se acabando por causa de falta de investimento escola caindo escola que o povo via assaltar
+         00:20:23.965 - 00:20:30.335
+FRA1FI   e nem a sociedade estaria assim
+         00:20:31.126 - 00:20:32.942
+FRA1FI   se fosse educada
+         00:20:33.305 - 00:20:34.427
+FRA1FI   tão porque a educação não tá funcionando bem
+         00:20:34.769 - 00:20:36.708
+DOCPC    em relação a
+         00:20:38.504 - 00:20:39.391
+DISF     (HES)
+         00:20:39.381 - 00:20:40.228
+DOCPC    a escola
+         00:20:40.554 - 00:20:41.177
+DOCPC    tem algumas políticas públicas pra permanência do aluno né tem a merenda escolar
+         00:20:41.703 - 00:20:46.917
+DOCPC    tem o transporte escolar
+         00:20:47.162 - 00:20:49.101
+DISF     (HES)
+         00:20:49.438 - 00:20:49.908
+DOCPC    o programa do livro didático que garante o livro pra todo mundo na escola
+         00:20:49.903 - 00:20:54.546
+DOCPC    que que você acha desse tipo de
+         00:20:54.846 - 00:20:56.958
+DOCPC    de iniciativa do governo?
+         00:20:57.152 - 00:20:58.622
+FRA1FI   são legais
+         00:20:59.775 - 00:21:00.438
+FRA1FI   então é porque eu estudei eu s/ todo ano eu ganhava livro realmente
+         00:21:01.429 - 00:21:05.429
+FRA1FI   e os livros ele eles têm validade
+         00:21:05.802 - 00:21:08.210
+FRA1FI   então não é pra sempre o livro eu acho que ele deve se atualizar já que ele tem validade
+         00:21:08.530 - 00:21:12.724
+FRA1FI   não sei não tenho propriedade pra falar
+         00:21:12.969 - 00:21:14.673
+FRA1FI   só que
+         00:21:14.969 - 00:21:15.561
+FRA1FI   costuma ter tipo de dois mil a dois mil e três
+         00:21:15.948 - 00:21:18.703
+FRA1FI   nos livros que a gente ganha então eles nunca ficam muito velhos
+         00:21:18.973 - 00:21:21.647
+FRA1FI   e era sempre livros conservados que a gente rceebia
+         00:21:22.264 - 00:21:24.958
+FRA1FI   a merenda também tinha onde eu estudava
+         00:21:25.678 - 00:21:27.749
+FRA1FI   então de certa forma eu acho que influencia a/
+         00:21:28.045 - 00:21:30.422
+FRA1FI   ajuda bastante os alunos
+         00:21:30.871 - 00:21:32.208
+DOCPC    aqui na UFS a gente também tem alguns programas parecidos
+         00:21:33.349 - 00:21:37.836
+DOCPC    não de pra dar livro a todos alunos mas tem
+         00:21:38.265 - 00:21:41.132
+DISF     (HES)
+         00:21:41.436 - 00:21:41.874
+DOCPC    o auxílio pedagógico tem o PIBIC PIBIX
+         00:21:41.936 - 00:21:45.415
+DISF     (HES)
+         00:21:45.882 - 00:21:46.810
+DOCPC    PIBID tem várias bolsas né de
+         00:21:47.096 - 00:21:49.464
+FRA1FI   sim
+         00:21:49.571 - 00:21:50.040
+DOCPC    de estágio e tal que que você acha? cê acha importante?
+         00:21:51.309 - 00:21:54.357
+FRA1FI   acho importante
+         00:21:54.469 - 00:21:55.629
+FRA1FI   mas como tudo né tem brechas
+         00:21:56.189 - 00:21:58.189
+FRA1FI   por exemplo eu nunca consegui auxílio
+         00:21:58.756 - 00:22:00.786
+FRA1FI   auxílio não dizendo que eu mereça mais que outras pessoas só que eu já escutei gente falando
+         00:22:01.469 - 00:22:05.632
+FRA1FI   que dá um jeito de receber tipo mente na hora e eles não procuram provar
+         00:22:06.229 - 00:22:10.479
+FRA1FI   e/ eu acho que é bem falho
+         00:22:11.479 - 00:22:13.479
+FRA1FI   é muito bom
+         00:22:13.995 - 00:22:15.342
+FRA1FI   e porque é falho não deveria parar não é uma opção parar
+         00:22:15.632 - 00:22:18.295
+FRA1FI   mas que eles deveriam tomar ma/ mais cuidado
+         00:22:18.724 - 00:22:20.765
+DOCPC    no sentido de
+         00:22:22.081 - 00:22:23.679
+FRA1FI   no sen/
+         00:22:22.814 - 00:22:23.487
+FRA1FI   é
+         00:22:24.314 - 00:22:24.529
+FRA1FI   de averiguar mesmo que quem eles tão dando aquela porque tipo auxílio moradia
+         00:22:24.716 - 00:22:29.966
+FRA1FI   auxílio residência
+         00:22:30.139 - 00:22:31.272
+FRA1FI   tem pessoas que realmente realmente precisam
+         00:22:31.465 - 00:22:33.792
+FRA1FI   e não que as outras não precisem mas tem pessoas que precisam mais
+         00:22:34.142 - 00:22:37.053
+FRA1FI   e às vezes eles não olham isso
+         00:22:37.353 - 00:22:38.740
+FRA1FI   se a pessoa precisa se a pessoa a/ atende atende aos critérios eles já botam e não em grau de necessidade
+         00:22:39.071 - 00:22:45.093
+DOCPC    agora voltando pra pro seu curso por que você escolheu psicologia?
+         00:22:46.954 - 00:22:51.561
+FRA1FI   até hoje eu não sei
+         00:22:52.510 - 00:22:53.581
+DISF     ((RISOS))
+         00:22:54.601 - 00:22:54.989
+FRA1FI   até hoje eu não sei
+         00:22:54.601 - 00:22:56.142
+FRA1FI   meu deus
+         00:22:56.647 - 00:22:57.576
+FRA1FI   acho que eu nunca tive (um) sonho
+         00:22:58.744 - 00:23:00.274
+FRA1FI   tipo
+         00:23:00.783 - 00:23:01.354
+FRA1FI   admiro demais quem tá no primeiro período primeiro
+         00:23:01.533 - 00:23:05.492
+FRA1FI   primeiro ano do ensino médio "meu sonho é fazer medicina"
+         00:23:06.528 - 00:23:09.048
+FRA1FI   "meu sonho é fazer pa/ psicologia"
+         00:23:09.194 - 00:23:11.794
+FRA1FI   e eu nunca tive nenhum sonho de fazer nada
+         00:23:12.130 - 00:23:14.283
+FRA1FI   eu sabia que eu queria continuar estudando que era o único modo de ter dinheiro
+         00:23:14.434 - 00:23:18.794
+FRA1FI   mas eu nunca pensei em psicologia
+         00:23:20.122 - 00:23:21.754
+FRA1FI   como um sonho
+         00:23:22.172 - 00:23:22.988
+FRA1FI   no final não tinha nada
+         00:23:23.708 - 00:23:24.994
+FRA1FI   tipo não tinha nada pra on de ir
+         00:23:25.122 - 00:23:27.132
+FRA1FI   e eu precisava passar
+         00:23:27.418 - 00:23:28.643
+FRA1FI   aí eu só estudava pra ter uma nota pra passar e no final poder pelo menos escolher uma coisa que se encaixava
+         00:23:29.581 - 00:23:35.550
+FRA1FI   e psicologia pra mim fica no meio termo eu achava né? agora não acho mais
+         00:23:36.316 - 00:23:39.514
+DOCPC    por quê?
+         00:23:40.074 - 00:23:40.674
+FRA1FI   vixe porque não é nada do que eu pensava
+         00:23:41.357 - 00:23:43.994
+FRA1FI   a gente tem uma visão muito superficial das coisas
+         00:23:44.754 - 00:23:47.255
+DOCPC    e n/ o que foi que fez você ter esse choque assim de ver que o curso não era aquilo que você imaginava?
+         00:23:47.754 - 00:23:55.594
+FRA1FI   porque eu gosto muito da área de sa/ da área de saúde
+         00:23:57.194 - 00:23:59.434
+FRA1FI   e a minha esperança é que o curso voltasse muito pra área de saúde saúde das pessoas em si
+         00:24:00.074 - 00:24:04.632
+FRA1FI   e aqui o curso é muito humanas
+         00:24:04.954 - 00:24:06.954
+FRA1FI   e é humanas num nível de 
+         00:24:07.408 - 00:24:09.775
+FRA1FI   só ficar na teoria teoria teoria e nunca ir pra prática
+         00:24:09.928 - 00:24:13.061
+FRA1FI   e ficar só ramoendo ramo/ remoendo as coisa remoendo remoendo remoendo tipo filosofia que remói remói remói e não chega a lugar nenhum
+         00:24:13.377 - 00:24:20.394
+FRA1FI   e quando chega depois de tanto tempo e eu sou muito imediatista eu quero
+         00:24:20.661 - 00:24:24.427
+FRA1FI   se a pessoa tá doente vamos vamos ver se melhora a vida dela agora
+         00:24:24.672 - 00:24:27.917
+FRA1FI   e não ficar pensando ni coisass e o curso é muito assim
+         00:24:28.122 - 00:24:30.734
+FRA1FI   fica pensando pensando pensando pensando tem muita matérias que só pensa pensa e não faz nada
+         00:24:31.352 - 00:24:35.719
+DOCPC    você trocaria de curso?
+         00:24:36.914 - 00:24:38.474
+FRA1FI   trocaria
+         00:24:39.314 - 00:24:40.034
+DOCPC    pra qual?
+         00:24:40.834 - 00:24:41.354
+FRA1FI   eu não tenho certeza mas alguma coisa
+         00:24:42.778 - 00:24:44.564
+FRA1FI   é porque eu tenho muito preconceito com medicina
+         00:24:44.921 - 00:24:46.564
+FRA1FI   mas a única coisa de saúde que vem na minha cabeça é medicina
+         00:24:46.737 - 00:24:49.013
+FRA1FI   mas
+         00:24:50.143 - 00:24:50.735
+FRA1FI   eu trocaria pra alguma coisa relacionada à saúde
+         00:24:51.220 - 00:24:53.648
+FRA1FI   enfermagem
+         00:24:54.153 - 00:24:55.104
+DOCPC    mas você pretende terminar psicologia?
+         00:24:56.979 - 00:24:59.624
+FRA1FI   pretendo
+         00:24:59.624 - 00:25:00.193
+DOCPC    e depois que terminar psicologia você
+         00:25:00.696 - 00:25:03.482
+DOCPC    pensa em ir direto pro mercado de trabalho fazer uma pós um mestrado
+         00:25:03.744 - 00:25:09.102
+FRA1FI   ir direto pro mescado de trabalho
+         00:25:09.785 - 00:25:11.183
+DOCPC    tem alguma área da psicologia assim que você
+         00:25:12.377 - 00:25:15.500
+DOCPC     em que você quer trabalhar?
+         00:25:16.387 - 00:25:17.520
+FRA1FI   não
+         00:25:20.166 - 00:25:20.653
+FRA1FI   a área da psicologia que eu mais me iden/ identifico atualmente é a psicologia da saúde
+         00:25:22.533 - 00:25:25.853
+FRA1FI   que aqui a gente tem aqui um professor que é mais voltado pra essa área
+         00:25:26.853 - 00:25:29.893
+FRA1FI   só em questão de mercado de trabalho mesmo
+         00:25:30.333 - 00:25:32.333
+FRA1FI   acho que vai ser do tipo que vier
+         00:25:33.653 - 00:25:35.734
+FRA1FI   o que vier a gente ( ) entra
+         00:25:36.226 - 00:25:38.042
+DISF     (HES)
+         00:25:40.273 - 00:25:40.763
+DOCPC    você em relação à segurança pública
+         00:25:40.813 - 00:25:42.783
+DOCPC    você tinha dito que se sente segura no bairro
+         00:25:43.053 - 00:25:46.053
+DOCPC    onde mora né
+         00:25:46.293 - 00:25:47.140
+DISF     (HES)
+         00:25:47.837 - 00:25:48.388
+DOCPC    mas
+         00:25:48.423 - 00:25:49.321
+DISF     (HES)
+         00:25:50.010 - 00:25:50.367
+DOCPC    quandi cê sai de noite por Aeacaju em São Cristóvão aqui no Rsa Elze né
+         00:25:50.489 - 00:25:54.785
+DOCPC    você
+         00:25:55.051 - 00:25:55.898
+DOCPC    se sente segura da mesa forma?
+         00:25:56.153 - 00:25:57.694
+FRA1FI   não
+         00:25:57.893 - 00:25:58.310
+DOCPC    por quê?
+         00:25:59.030 - 00:26:00.030
+FRA1FI   porque não tem segurança
+         00:26:01.470 - 00:26:03.459
+DISF     (HES)
+         00:26:03.893 - 00:26:04.260
+FRA1FI   o meu bairro também não tem segurança eu me sinto segura porque eu sei que todo mundo me conhece
+         00:26:04.469 - 00:26:08.336
+FRA1FI   então até as pessoas que
+         00:26:08.942 - 00:26:10.595
+FRA1FI   não sei como denominar denominar as pessoas
+         00:26:11.285 - 00:26:14.275
+FRA1FI   as pessoas que eu sei eu sei que
+         00:26:14.857 - 00:26:16.887
+FRA1FI   elas assaltam em outro lugar por exemplo
+         00:26:17.132 - 00:26:18.897
+FRA1FI   eu sei que elas assaltam em outro lugar mas quando eu passo eu sei que elas me conhecem 
+         00:26:19.489 - 00:26:23.134
+FRA1FI   então elas falam comigo eu respondo e passo de boa
+         00:26:23.285 - 00:26:25.571
+FRA1FI   então eu sei que eles não vão fazer nada comigo mas em outro lugar eles vão fazer
+         00:26:26.129 - 00:26:29.428
+FRA1FI   e aqui eu não conheço ninguém e andando pela cidade pessoas aleatórias eu não sei quem é
+         00:26:30.151 - 00:26:33.977
+FRA1FI   quem é quem
+         00:26:34.214 - 00:26:34.795
+FRA1FI   então não me sinto segura
+         00:26:35.196 - 00:26:36.471
+DOCPC    cê acha que
+         00:26:37.420 - 00:26:39.185
+DOCPC    a polícia tem cumprido o papel de proteger
+         00:26:40.318 - 00:26:43.889
+DOCPC    a população?
+         00:26:44.282 - 00:26:45.312
+FRA1FI   proteger
+         00:26:48.530 - 00:26:49.369
+FRA1FI   acho que não
+         00:26:50.846 - 00:26:51.500
+FRA1FI    a população não
+         00:26:51.865 - 00:26:52.936
+FRA1FI   eles escolhem quem proteger
+         00:26:53.929 - 00:26:55.489
+DOCPC    e como você vê essa escolha?
+         00:26:56.369 - 00:26:58.369
+FRA1FI   branco
+         00:27:00.083 - 00:27:00.614
+FRA1FI   que tem dinheiro
+         00:27:01.108 - 00:27:01.843
+FRA1FI   os pobres que pegam ônibus todo dias e negro principalmente
+         00:27:03.009 - 00:27:06.357
+FRA1FI   tão pouco se lixando
+         00:27:07.096 - 00:27:07.902
+DISF     (HES)
+         00:27:10.004 - 00:27:10.759
+DOCPC    o que é que você
+         00:27:13.039 - 00:27:14.070
+DOCPC    acha do ditado "bandido bom é bandido morto"?
+         00:27:14.498 - 00:27:17.529
+FRA1FI   não gosto
+         00:27:18.449 - 00:27:19.169
+FRA1FI   acho inútil
+         00:27:19.969 - 00:27:20.889
+DOCPC    por quê?
+         00:27:21.529 - 00:27:22.049
+FRA1FI   primeiro que as pessoas as p/ as pessoas que mais usam esse jargão dizem que é pró-vida
+         00:27:23.249 - 00:27:28.409
+FRA1FI   contra o aborto
+         00:27:28.857 - 00:27:29.795
+FRA1FI   aí não quer matar um mas quer matar o outro
+         00:27:30.260 - 00:27:32.270
+FRA1FI   tudo bem (então) eles não são pró-vida né?
+         00:27:33.169 - 00:27:35.129
+FRA1FI   e porque
+         00:27:36.265 - 00:27:37.407
+FRA1FI   acho que
+         00:27:37.903 - 00:27:38.709
+FRA1FI   ninguém nasce
+         00:27:38.995 - 00:27:39.903
+FRA1FI   ruim
+         00:27:40.230 - 00:27:40.760
+FRA1FI   nem os bandidos são ruins
+         00:27:41.398 - 00:27:42.684
+FRA1FI   eles eles entraram nessa vida
+         00:27:43.218 - 00:27:45.433
+FRA1FI   por algum motivo alguma consequência da vida deles alguma coisa que não funcionou do jeito que deveria funcionar
+         00:27:46.377 - 00:27:51.662
+FRA1FI   e a gente principalmente no Brasil sabe quanto é grande a desigualdade
+         00:27:52.265 - 00:27:55.289
+FRA1FI   quanto nem todo mundo tem oportunidade
+         00:27:55.650 - 00:27:57.323
+DOCPC    então você vê a desigualdade como uma das causas da criminalidade?
+         00:27:58.329 - 00:28:03.689
+FRA1FI   sim
+         00:28:03.689 - 00:28:04.089
+DOCPC    como é que essa desigualdade se manifesta?
+         00:28:05.969 - 00:28:08.249
+FRA1FI   como assim?
+         00:28:12.744 - 00:28:13.729
+DOCPC    porque você tinha falado da questão de oportunidade né?
+         00:28:15.439 - 00:28:18.239
+FRA1FI   sim
+         00:28:17.879 - 00:28:18.239
+DOCPC    e que é desigual como você mencionou
+         00:28:18.719 - 00:28:20.949
+DOCPC    então a desigualdade ela existe na no quesito oportunidades ou tem alguma coisa a mais aí?
+         00:28:21.377 - 00:28:28.639
+FRA1FI   tem tudo
+         00:28:31.879 - 00:28:33.173
+FRA1FI   porque parece que é uma hierarquia
+         00:28:34.277 - 00:28:36.165
+FRA1FI   se seu se você foi
+         00:28:36.578 - 00:28:38.333
+FRA1FI   desde sempre seus seus antepassados aí
+         00:28:38.561 - 00:28:41.214
+FRA1FI   tinha uma pessoa pobre você sempre vai ser pobre
+         00:28:41.484 - 00:28:43.872
+FRA1FI   parece que nada contribui pra você ter dinheiro
+         00:28:44.229 - 00:28:46.229
+FRA1FI   e nem adianta pegar um caso de uma pessoa que era
+         00:28:46.449 - 00:28:49.183
+FRA1FI   vendia uma balinha e ficou rico o Silvio Santos por exemplo
+         00:28:49.645 - 00:28:52.737
+FRA1FI   é muito complicado porque
+         00:28:54.500 - 00:28:56.429
+FRA1FI   até falar que eu falei de educação que a educação não funciona por isso que a gente tá assim
+         00:28:56.827 - 00:29:00.173
+FRA1FI   mas é uma coisa que vem de tanto tempo tanto tempo tanto tempo que eu não sei nem se pode ( ) a educação que a gente usa muito do jargão que a educação muda tudo
+         00:29:00.591 - 00:29:08.305
+FRA1FI   que é a arma do
+         00:29:08.647 - 00:29:09.514
+FRA1FI   eu usei no meu ENEM
+         00:29:09.891 - 00:29:11.157
+FRA1FI   a arma para mudar o mundo é a educação
+         00:29:11.621 - 00:29:13.438
+FRA1FI   mas
+         00:29:13.921 - 00:29:14.717
+FRA1FI   acho que nem é porque é muito complexo
+         00:29:15.518 - 00:29:17.630
+FRA1FI   gente às vez que tá na roça não é nem que não teve oportunidade nem tem esc/ nem tinha escola na época lá
+         00:29:18.949 - 00:29:25.469
+FRA1FI   aí vem pra cá já começa a trabalhar pra ajudar pai pra ajudar mãe
+         00:29:26.589 - 00:29:30.109
+FRA1FI   às vez vê oportunidade tipo minhas vó/ minha  não teve oportunidade
+         00:29:30.589 - 00:29:34.229
+FRA1FI   mas a minha mãe teve
+         00:29:34.829 - 00:29:35.765
+FRA1FI    e mesmo assim ela não optou pela oportunidade de estudar
+         00:29:36.241 - 00:29:39.078
+FRA1FI   aí tem toda uma educação que a mulher é vista pra procriar
+         00:29:39.765 - 00:29:43.069
+FRA1FI   que fica ali que não sei o que aí
+         00:29:43.387 - 00:29:46.213
+FRA1FI   engravida cedo
+         00:29:46.591 - 00:29:48.275
+DISF     (HES)
+         00:29:48.423 - 00:29:48.750
+FRA1FI   enfim acho muito complicado tudo muito complicado
+         00:29:48.673 - 00:29:52.091
+DOCPC    você tocou na na na questão da das mulheres né de que elas
+         00:29:53.149 - 00:29:57.010
+DISF     (HES)
+         00:29:57.411 - 00:29:58.135
+DOCPC    são feitas pra prociar e tal
+         00:29:59.289 - 00:30:01.115
+DISF     (HES)
+         00:30:01.836 - 00:30:02.223
+DOCPC     você acha que a sociedade
+         00:30:02.214 - 00:30:04.091
+DOCPC     leva esse gênero a ter só um papel em específico?
+         00:30:04.392 - 00:30:08.310
+FRA1FI   eu acho que tá mudando
+         00:30:10.629 - 00:30:11.989
+FRA1FI   acho que já foi assim especificamente pra ter mesmo neném
+         00:30:12.989 - 00:30:17.109
+FRA1FI   só que tá mudando só que a mudança é é  bem lenta e ela sempre começa de cima
+         00:30:17.989 - 00:30:21.989
+FRA1FI   ela vai começar dos ricos e brancos mas tipo na minha comunidade mesmo eu ainda vejo muito isso
+         00:30:22.229 - 00:30:26.669
+FRA1FI   de menina que ficam perguntando quando que que a menina de mães mães como é que você consegue
+         00:30:27.229 - 00:30:31.857
+FRA1FI   desejar isso pra sua filha
+         00:30:32.485 - 00:30:33.648
+FRA1FI   cê perguntar quando é que vai sair de casa ou incentivar a sair de casa muito cedo
+         00:30:34.029 - 00:30:38.429
+FRA1FI   então não é qu/ hoje não é eu acho que não é visto mais
+         00:30:39.269 - 00:30:42.069
+FRA1FI   só que a mudança é muito lenta e sempre começa de cima
+         00:30:42.269 - 00:30:44.509
+FRA1FI   tanto que a a taxa de natalidade é menor nos ricos pobre ainda continua tendo muito neném
+         00:30:45.909 - 00:30:50.894
+DOCPC    você acha que
+         00:30:52.225 - 00:30:53.602
+DOCPC    ao longo dos anos as mulheres têm conquistado
+         00:30:54.071 - 00:30:57.398
+DOCPC    mais espaço em em outras áreas da da nossa sociedade do mercado de trabalho?
+         00:30:57.794 - 00:31:03.396
+FRA1FI   sim
+         00:31:03.559 - 00:31:03.997
+FRA1FI   acho
+         00:31:04.641 - 00:31:05.008
+FRA1FI   de maneira lenta mas sim
+         00:31:05.738 - 00:31:07.074
+DOCPC    por que é que você acha que isso tem acontecido?
+         00:31:07.774 - 00:31:10.454
+FRA1FI   muita luta
+         00:31:11.694 - 00:31:12.694
+FRA1FI   das mulheres
+         00:31:12.934 - 00:31:13.934
+DOCPC    você concorda com o ditado "se as mulheres não não usassem roupas menos curtas haveria menos voilência contra elas"?
+         00:31:17.334 - 00:31:24.454
+FRA1FI   não
+         00:31:24.854 - 00:31:25.134
+DOCPC    por quê?
+         00:31:26.134 - 00:31:26.694
+FRA1FI   porque a culpa nunca é da vítima
+         00:31:27.974 - 00:31:29.520
+FRA1FI   acho que não
+         00:31:31.974 - 00:31:32.974
+FRA1FI   não
+         00:31:33.577 - 00:31:33.934
+FRA1FI   acho que não não tenho certeza que não
+         00:31:34.873 - 00:31:36.638
+FRA1FI   mas não sei explicar porque essas coisas parecem deveriam parecer óbvias pra todo mundo
+         00:31:37.010 - 00:31:40.574
+FRA1FI   mas não sei explicar porque não
+         00:31:40.894 - 00:31:42.534
+DOCPC    esse tipo de ditado
+         00:31:44.299 - 00:31:45.718
+DISF     (HES)
+         00:31:46.064 - 00:31:46.809
+DOCPC    é frequente você costuma ouvir
+         00:31:46.972 - 00:31:49.472
+DOCPC    em algum lugar assim?
+         00:31:49.819 - 00:31:51.258
+FRA1FI   sim
+         00:31:51.849 - 00:31:52.237
+FRA1FI   internet muito
+         00:31:53.494 - 00:31:54.734
+DOCPC    e por que você acha que isso é tão frequente?
+         00:31:56.654 - 00:31:59.734
+FRA1FI   eu não sei
+         00:32:04.654 - 00:32:05.814
+FRA1FI   acho que as pessoas não sabem explicar direito não sabem colocar
+         00:32:06.979 - 00:32:10.054
+FRA1FI   a culpa em quem deveria e ficam procurando motivos e motivos
+         00:32:10.654 - 00:32:14.214
+FRA1FI   ainda mais pra
+         00:32:14.454 - 00:32:15.265
+FRA1FI   botar o homem como ser que protetor da mulher e que nunca faria mal a ninguém
+         00:32:16.457 - 00:32:21.528
+FRA1FI   que sempre que eles fazer alguma coisa é por motivo de alguma outra coisa de alg- algum outro alguém nunca é culpa deles
+         00:32:22.174 - 00:32:27.814
+FRA1FI   ficam buscando assim
+         00:32:28.174 - 00:32:29.377
+FRA1FI   coisas
+         00:32:30.064 - 00:32:30.829
+FRA1FI   ainda mais
+         00:32:31.206 - 00:32:31.737
+FRA1FI   quando a pessoa tem religião
+         00:32:32.119 - 00:32:33.252
+FRA1FI   aí já começa a ter religião aí  bota o nome de deus que deus não queria isso aí implica tudo
+         00:32:33.694 - 00:32:38.774
+FRA1FI   aí essas coisas começam a se espalhar
+         00:32:39.014 - 00:32:41.374
+DOCPC    é recorrente de um tempos pra cá a gente ouvir que "a comunidade de gays e lésbicas tem conquistado muitos privilégios"
+         00:32:42.974 - 00:32:51.494
+DOCPC    o que é que você acha desse tipo de afirmação?
+         00:32:52.374 - 00:32:54.654
+FRA1FI   nenhum privilégio
+         00:32:56.014 - 00:32:57.094
+FRA1FI   acho que ( ) é tipo cotas raciais
+         00:32:58.134 - 00:33:00.774
+FRA1FI   que o povo fica dizendo que é privilégio nenhum privilégio
+         00:33:00.974 - 00:33:03.134
+FRA1FI   é uma dívida que o Brasil tem
+         00:33:03.454 - 00:33:05.174
+DISF     (HES)
+         00:33:05.557 - 00:33:06.037
+FRA1FI   ocupar os mesmos lugares que outras pessoas não é privilégio é um direito deles
+         00:33:06.969 - 00:33:10.814
+FRA1FI   e eu não vejo nenhum privilégio não
+         00:33:12.094 - 00:33:13.854
+FRA1FI   uma lei por exemplo que e/ que proíba bater não é privilégio você precisar de uma lei que pre/ que precise dizer "não me bata" 
+         00:33:14.683 - 00:33:22.142
+FRA1FI   não é um privilégio
+         00:33:22.438 - 00:33:23.295
+DOCPC    como é que você
+         00:33:25.326 - 00:33:26.693
+DOCPC    enxerga assim um uma sociedade que precisa 
+         00:33:27.033 - 00:33:31.410
+DOCPC    criar uma lei pra dizer "você não pode bater na outra pessoa"?
+         00:33:32.084 - 00:33:35.532
+FRA1FI   uma sociedade doente
+         00:33:35.949 - 00:33:37.500
+FRA1FI   muito doente
+         00:33:37.967 - 00:33:38.865
+DOCPC    o que é que você achou quando o STF criminalizou a homofobia?
+         00:33:41.934 - 00:33:46.934
+FRA1FI   achei (  )
+         00:33:51.934 - 00:33:53.255
+FRA1FI   mas tudo no Brasil é aquela coisa você fica feliz mas ao mesmo tempo você diz "tá será que vai?"
+         00:33:54.571 - 00:33:59.551
+FRA1FI   será que vai ser na prática assim?"
+         00:33:59.969 - 00:34:01.316
+FRA1FI   que é tanta lei bonita que existe todo mundo fala
+         00:34:01.779 - 00:34:04.173
+FRA1FI   a lei do Brasil as coisas do Brasil é tudo linda
+         00:34:04.453 - 00:34:07.065
+FRA1FI   mas nenhuma vai pra prática então
+         00:34:07.275 - 00:34:08.989
+FRA1FI   se achar que bom é uma vitória querendo ou não é uma vitória
+         00:34:09.500 - 00:34:12.617
+FRA1FI   só que ainda fica com um pé atrás não tem como um uma pessoa LGBT se sentir confortável só por causa dessa lei
+         00:34:13.295 - 00:34:21.017
+DOCPC    e por que você acha que não tem como
+         00:34:22.229 - 00:34:24.106
+DISF     (HES)
+         00:34:24.264 - 00:34:24.642
+DOCPC    um LGBT
+         00:34:24.622 - 00:34:25.530
+DOCPC    um ou um LGBT se seti/ se sentir confortável?
+         00:34:25.908 - 00:34:29.479
+FRA1FI   porque como homem não pode bater em mulher e continuam batendo as mulheres continuam morrendo tem a lei Maria da Penha pra prender ele
+         00:34:31.255 - 00:34:36.897
+FRA1FI   uma pessoa que
+         00:34:37.294 - 00:34:38.345
+FRA1FI   até um policial vai passar assim "ah é um gayzinho então vamos passar direto"
+         00:34:38.683 - 00:34:41.979
+FRA1FI   a lei não vai ser exec/
+         00:34:42.775 - 00:34:43.816
+FRA1FI    não é que não vai ser executada mas acho que não dá a segurança de você dizer "ah tou bem agora por conta da lei"
+         00:34:44.407 - 00:34:50.570
+DOCPC    agora
+         00:34:52.444 - 00:34:53.118
+DOCPC    de de uns tempos pra cá
+         00:34:53.470 - 00:34:55.144
+DOCPC    tem ganhado muito espaço na mídia
+         00:34:55.567 - 00:34:57.802
+DISF     (HES)
+         00:34:57.802 - 00:34:58.312
+DOCPC    drag queens cantoras como Pablo Vittar homens trans
+         00:34:58.938 - 00:35:03.645
+DISF     (HES)
+         00:35:03.706 - 00:35:04.298
+DOCPC    Tamy Miranda né? é um exemplo
+         00:35:04.528 - 00:35:07.150
+DOCPC    por que é que você acha que você acha que essas pessoas têm ganhado espaço na tv?
+         00:35:07.445 - 00:35:11.605
+FRA1FI   como forma de lucrar
+         00:35:12.605 - 00:35:13.845
+FRA1FI   eu não tenho opinião muito sobre sobre
+         00:35:15.365 - 00:35:17.714
+FRA1FI   mas eu acho que é como forma de lucrar mesmo
+         00:35:18.121 - 00:35:20.550
+FRA1FI   tipo o Silvio Santos ele v/ tem várias coisas que tem várias gentes pro (programa) dele
+         00:35:20.928 - 00:35:25.132
+FRA1FI   é uma parte do programa acho que é específico pra ir os artistas
+         00:35:25.775 - 00:35:28.887
+FRA1FI   só que ele é bem escroto ele vai só que ele fica ao mesmo tempo fazendo piadinha fazendo gracinha
+         00:35:29.805 - 00:35:34.485
+FRA1FI   então não é porque ele aceita e quer promover isso mostrar as pessoas dar visibilidade a essas pessoas
+         00:35:34.725 - 00:35:40.285
+FRA1FI   acho que é um meio de chamar
+         00:35:40.653 - 00:35:41.919
+FRA1FI   ganhar mesmo
+         00:35:42.414 - 00:35:43.261
+FRA1FI   acima disso
+         00:35:43.638 - 00:35:44.434
+DOCPC    você considera a discussão de gênero algo importante ou você acha que é mimimi?
+         00:35:46.005 - 00:35:52.365
+FRA1FI   acho importante
+         00:35:53.632 - 00:35:54.734
+DOCPC    por quê?
+         00:35:56.193 - 00:35:56.673
+FRA1FI   porque é importante não sei
+         00:35:59.949 - 00:36:02.091
+DISF     ((RISOS))
+         00:36:02.112 - 00:36:02.357
+FRA1FI   pras pessoas se perceberem se verem
+         00:36:02.938 - 00:36:05.322
+FRA1FI   se identificarem
+         00:36:07.091 - 00:36:08.082
+FRA1FI   não sei
+         00:36:10.042 - 00:36:10.683
+FRA1FI   tem coisas que eu só acho importante
+         00:36:13.642 - 00:36:15.642
+FRA1FI   eu achoq que é isso
+         00:36:16.242 - 00:36:17.255
+DOCPC    dentre essas coisa que você acha importante
+         00:36:18.682 - 00:36:21.867
+DISF     (HES)
+         00:36:22.589 - 00:36:23.333
+DOCPC    você acha que é importante que o governo
+         00:36:24.082 - 00:36:26.775
+DOCPC    garanta a saúde pública a todo mun do com o SUS?
+         00:36:27.883 - 00:36:31.138
+FRA1FI   sim[
+         00:36:31.562 - 00:36:31.938
+DOCPC    por quê?
+         00:36:33.836 - 00:36:34.285
+FRA1FI   a todo mundo tipo
+         00:36:35.402 - 00:36:36.806
+FRA1FI   qual seria a se não fosse todo mundo quais seriam os grupos que não fariam parte?
+         00:36:38.720 - 00:36:42.731
+DOCPC    não assim todo mundo mesmo
+         00:36:42.969 - 00:36:45.042
+DOCPC    porque em tese 
+         00:36:45.362 - 00:36:46.928
+DISF     (HES)
+         00:36:47.349 - 00:36:47.982
+DOCPC    o governo tem que garantir saúde e atendimento médico pra todo mundo pra isso tem o SUS né?
+         00:36:48.081 - 00:36:53.178
+FRA1FI   sim
+         00:36:53.178 - 00:36:53.418
+DOCPC    cê acha que o SUS é importante?
+         00:36:53.745 - 00:36:55.473
+FRA1FI   acho
+         00:36:55.785 - 00:36:56.265
+DOCPC    por quê?
+         00:36:56.473 - 00:36:57.071
+FRA1FI   porque a saúde no Brasil é muito cara
+         00:36:58.938 - 00:37:01.704
+FRA1FI   não tão cara é ahco que é importante sim
+         00:37:02.732 - 00:37:04.812
+FRA1FI   até porque eu dependo dele então
+         00:37:05.412 - 00:37:07.412
+FRA1FI   é importante
+         00:37:07.683 - 00:37:08.428
+FRA1FI   nem todo mundo tem dinheiro pra pagar cem reais numa consulta e você fazer sempre isso cem reais todo mês
+         00:37:10.040 - 00:37:15.052
+FRA1FI   fazer check-in todo mês
+         00:37:15.295 - 00:37:16.519
+DOCPC    e na sua experiência de usuária
+         00:37:18.412 - 00:37:21.051
+DOCPC    cê acha que o SUS funciona?
+         00:37:21.276 - 00:37:23.031
+FRA1FI   não é mil maravilha mil maravilhas
+         00:37:24.591 - 00:37:27.326
+FRA1FI   mas ajuda
+         00:37:27.882 - 00:37:29.382
+FRA1FI   ajuda muito
+         00:37:29.913 - 00:37:30.597
+FRA1FI   não é "oh meu Deus que maravilha"
+         00:37:31.172 - 00:37:33.010
+FRA1FI   um Hapvida da vida
+         00:37:33.402 - 00:37:34.566
+FRA1FI   mas
+         00:37:35.532 - 00:37:36.369
+FRA1FI   depois de muito perrengue cê consegue marcar uma consulta
+         00:37:36.673 - 00:37:39.183
+FRA1FI   cê consegue fazer um exame sem pagar
+         00:37:40.212 - 00:37:42.452
+DOCPC    ele atende tem atendido suas necessidades?
+         00:37:43.033 - 00:37:45.633
+FRA1FI   tem
+         00:37:48.838 - 00:37:49.287
+FRA1FI   eu evito ir
+         00:37:50.159 - 00:37:50.945
+FRA1FI   eu só vou quando eu tou
+         00:37:51.473 - 00:37:52.316
+FRA1FI   a a última mesmo
+         00:37:52.956 - 00:37:54.456
+FRA1FI   evito ir porque é fila
+         00:37:54.857 - 00:37:57.530
+FRA1FI    tem que ir muito cedo pra conseguir
+         00:37:58.473 - 00:38:00.881
+FRA1FI   mas
+         00:38:01.433 - 00:38:02.204
+FRA1FI    minha mãe vai mais que eu e sempre atende as necessidade dela pelo menos
+         00:38:02.989 - 00:38:07.438
+DOCPC    cê disse que não tem unidade de saúde no bairro onde você mora né?
+         00:38:08.433 - 00:38:12.273
+DOCPC    aí você tem que ir pro/ o/ pra outro bairro
+         00:38:12.553 - 00:38:15.553
+FRA1FI   é
+         00:38:15.816 - 00:38:16.081
+DOCPC    e é complicado conseguir ser atendida lá?
+         00:38:16.673 - 00:38:20.033
+FRA1FI   então
+         00:38:21.429 - 00:38:22.113
+FRA1FI   porque a gente já é
+         00:38:22.654 - 00:38:24.236
+FRA1FI   Olaria eu falei antes que era Olaria
+         00:38:25.052 - 00:38:26.797
+DISF     (EST)
+         00:38:26.753 - 00:38:27.238
+FRA1FI   é porque Olaria é o nome do bairro em si
+         00:38:27.238 - 00:38:29.013
+FRA1FI   aí a gente é meio que vários conjuntinhos dentro desse bairro
+         00:38:29.613 - 00:38:32.568
+FRA1FI   aí esses conjuntos todos mais o jardim centenário que é outro bairro grande tu/ sempre vão pra esses posto de saúde
+         00:38:33.000 - 00:38:39.888
+FRA1FI   e tem mais ou menos três méd- cinco médicos três a cinco médicos
+         00:38:40.877 - 00:38:45.676
+FRA1FI   aí são dividido em cor de cartão
+         00:38:46.265 - 00:38:49.081
+FRA1FI   por rua essas coisas
+         00:38:49.683 - 00:38:51.224
+FRA1FI   aí s/ o seu médico é correspondente à cor do seu cartão
+         00:38:52.153 - 00:38:54.683
+FRA1FI   aí do meu cartão por exemplo que é da cor azul
+         00:38:55.142 - 00:38:57.734
+FRA1FI   a médica não tava in/ não tava indo porque tava de licença
+         00:38:58.312 - 00:39:01.710
+FRA1FI   aí nesse período tem que competir com os médicos do outro cartão também
+         00:39:02.102 - 00:39:06.789
+FRA1FI   aí é bem cê tem que ir cinco horas da manhã ficar na fila antes do posto abrir
+         00:39:07.571 - 00:39:12.132
+FRA1FI   quando o posto abre todo mundo quer pegar ficha (e "cê vá ali) lá esperar"
+         00:39:12.612 - 00:39:16.379
+FRA1FI   quando não o médico que não tem consideração por você isso acontece no particular também que eu já fui também
+         00:39:17.379 - 00:39:23.379
+FRA1FI   e bem ruim médico não consideração com ninguém ele acha que é o rei
+         00:39:23.619 - 00:39:27.173
+FRA1FI   o gatão o gostoso que todo mundo tem que esperar ele mas
+         00:39:27.430 - 00:39:30.379
+DOCPC    mas
+         00:39:32.779 - 00:39:33.218
+DISF     (HES)
+         00:39:33.330 - 00:39:34.014
+DOCPC    apesar disso você
+         00:39:34.086 - 00:39:35.545
+DOCPC    destacaria algum ponto positivo do SUS?
+         00:39:35.912 - 00:39:38.341
+FRA1FI   eu acho que a abrangência que ele dá pra tudo
+         00:39:44.339 - 00:39:47.339
+FRA1FI   se você for pra p/ fazer um exame de vista você vai fazer conseguir fazer um exame de vista
+         00:39:48.659 - 00:39:53.019
+FRA1FI   se você veio pra tirar um raio-x em tal lugar então você vai fazer pra tirar um raio-x em tal lugar
+         00:39:53.259 - 00:39:56.704
+FRA1FI   então não é uma coisa expecífica
+         00:39:57.051 - 00:39:58.459
+FRA1FI   é mais difícil certas coisas que outras exame de sangue cê coisa no mesmo dia
+         00:39:59.299 - 00:40:04.019
+FRA1FI   um exame de vista cê demora mais um tempo mas abrange 
+         00:40:04.367 - 00:40:07.540
+FRA1FI   não sei como falar o corpo todo tudo que você necessita do corpo
+         00:40:07.954 - 00:40:10.883
+FRA1FI   ( ) como ginecologista essas coisas
+         00:40:11.240 - 00:40:13.740
+DOCPC    cê acha que a quantidade de especialistas que tem
+         00:40:14.428 - 00:40:17.347
+DISF     (HES)
+         00:40:18.132 - 00:40:18.704
+DOCPC    consegue suprir a demanda?
+         00:40:18.709 - 00:40:20.229
+FRA1FI    não
+         00:40:20.419 - 00:40:21.019
+FRA1FI   não consegue
+         00:40:21.333 - 00:40:22.313
+FRA1FI   mas
+         00:40:23.246 - 00:40:24.174
+FRA1FI   tenta né
+         00:40:25.001 - 00:40:25.715
+FRA1FI   nada no Brasil é efetivo mas tenta
+         00:40:27.179 - 00:40:29.367
+DISF     (HES)
+         00:40:31.816 - 00:40:32.357
+DOCPC    você já já
+         00:40:32.285 - 00:40:33.704
+DOCPC    viajou
+         00:40:34.071 - 00:40:34.795
+DOCPC    pra Alagoas né
+         00:40:35.459 - 00:40:36.714
+DISF     ((RUÍDO))
+         00:40:36.872 - 00:40:37.372
+DOCPC    você já perceb/ você percebeu enquanto tava lá alguma diferença no modo de falar?
+         00:40:37.449 - 00:40:42.179
+FRA1FI   o que assim que eles botam a
+         00:40:44.765 - 00:40:47.139
+FRA1FI   quando vai falar o nome da pessoa
+         00:40:47.859 - 00:40:49.219
+FRA1FI   "o Paulo" "a Fabiana" "a não sei quem" e a gente não fala assim
+         00:40:49.659 - 00:40:54.979
+FRA1FI   e ficam tem algumas expressões
+         00:40:55.979 - 00:40:58.336
+FRA1FI   de xingar não é de xingar mas de mostrar espanto
+         00:40:59.229 - 00:41:01.913
+FRA1FI   ai tem uma que meu pai sempre fala e eu esqueci
+         00:41:02.819 - 00:41:05.739
+FRA1FI   bobonha
+         00:41:06.059 - 00:41:07.059
+FRA1FI   "essa bobonha" "bobonha"
+         00:41:07.579 - 00:41:09.939
+FRA1FI   é uma palavra assim que eles usam
+         00:41:10.819 - 00:41:12.520
+FRA1FI   tipo a gente usa cabrunco demais
+         00:41:13.059 - 00:41:15.683
+FRA1FI   "eita caralho" "eita cabrunco" essas expressões assim só que eu não vejo neles lá
+         00:41:15.979 - 00:41:20.510
+FRA1FI    eu vejo outras
+         00:41:20.976 - 00:41:21.802
+DOCPC    o que é que significa bobonha?
+         00:41:22.499 - 00:41:24.061
+FRA1FI   eu não sei
+         00:41:24.510 - 00:41:25.051
+FRA1FI   tipo é tipo "eita caralho" mesmo "eita caralho esqueci de fazer isso"
+         00:41:25.812 - 00:41:29.381
+FRA1FI   "eita bobon/ bogonha/ borbonha" é algo do tipo parecido
+         00:41:29.661 - 00:41:33.661
+FRA1FI   aí ( ) não tem muito caralho nem cabrunco
+         00:41:34.221 - 00:41:36.781
+DOCPC    e aqui em Sergipe você já percebeu alguma diferença no falar das pessoas?
+         00:41:37.661 - 00:41:41.501
+FRA1FI   não eu acho sempre todo mundo muito igual
+         00:41:44.101 - 00:41:46.132
+FRA1FI   só quando você vem alguém que não é daqui que você vê alguma diferença
+         00:41:46.540 - 00:41:49.541
+FRA1FI   (   )
+         00:41:49.918 - 00:41:50.901
+DOCPC    então você acha que pelo modo de falar dá pra perceber de onde a pessoa é?
+         00:41:51.224 - 00:41:55.501
+FRA1FI   dá
+         00:41:56.861 - 00:41:57.381
+DOCPC    e o que é que
+         00:42:00.142 - 00:42:01.673
+DOCPC    diferencia assim uma pessoa de
+         00:42:01.923 - 00:42:04.270
+DOCPC    Sergipe
+         00:42:04.622 - 00:42:05.520
+DOCPC    e de Alagoas ou da Bahia?
+         00:42:06.087 - 00:42:08.117
+FRA1FI   eu consigo b/ ver diferença em alguém que
+         00:42:11.132 - 00:42:13.602
+FRA1FI   como eu falei né? as pessoas de outro lugar você percebe mas a daqui eu nunca acho que a gente tem sotaque
+         00:42:14.138 - 00:42:18.444
+FRA1FI   acho "ah a gente fala tão normal a gente não tem sotaque"
+         00:42:18.851 - 00:42:20.851
+FRA1FI   mas o povo de Alagoas
+         00:42:21.611 - 00:42:23.316
+FRA1FI   eles falam
+         00:42:23.721 - 00:42:24.762
+FRA1FI   além de usar "o Paulo" e fala assim "o Paulo tá aqui não sei o que"
+         00:42:25.236 - 00:42:29.359
+FRA1FI   aí eu não entendo direito o povo da Bahia
+         00:42:29.867 - 00:42:32.387
+FRA1FI   é muito diferente
+         00:42:33.483 - 00:42:34.534
+FRA1FI   eu não sei
+         00:42:35.493 - 00:42:36.248
+FRA1FI   dizer o que mas é diferente
+         00:42:36.600 - 00:42:38.069
+DISF     (HES)
+         00:42:39.464 - 00:42:40.290
+DOCPC    a gente tava falando em relação a estado né? mas
+         00:42:40.663 - 00:42:42.796
+DOCPC    em relação a capital e interior
+         00:42:43.607 - 00:42:45.423
+DOCPC    cê acha que tem diferença?
+         00:42:45.673 - 00:42:46.775
+FRA1FI   tem
+         00:42:47.071 - 00:42:47.663
+DOCPC    como é o que é que diferencia a fala da pessoa da capital da que mora no interior?
+         00:42:48.551 - 00:42:53.204
+FRA1FI   eu
+         00:42:54.734 - 00:42:55.224
+FRA1FI   eu não sei se é se é necessariamente o sotaque
+         00:42:55.520 - 00:42:58.377
+FRA1FI   acho que é mais o jeito de falar mesmo
+         00:42:58.775 - 00:43:00.520
+FRA1FI   minha mãe tipo eles erram muito as palavras
+         00:43:01.214 - 00:43:03.374
+FRA1FI   erram
+         00:43:04.505 - 00:43:05.189
+FRA1FI   eu não sei se é errar mas eles falam muita palavra dif/ engraçada eles não sabe pronunciar
+         00:43:05.530 - 00:43:10.887
+FRA1FI   minha mãe a minha tia de de Porto da Folha
+         00:43:11.122 - 00:43:12.969
+FRA1FI   aí ela vai falar moto ela fala "mota"
+         00:43:13.387 - 00:43:15.214
+FRA1FI   "a mota" "a mota tá aqui" mas ela eu acho que ela sabe que é moto só que acostumou a falar mota e fala mota
+         00:43:16.214 - 00:43:22.134
+FRA1FI   são erros que não fazem tipo "eu nunca vi que é de outro jeito" eles sabem que são de outro jeito não é que eles tão errando
+         00:43:22.316 - 00:43:29.214
+FRA1FI   mas falam de outro jeito não sei por quê
+         00:43:29.642 - 00:43:31.920
+DOCPC    tem alguma outra expressão assim outra palavra que alguém do interior usa e que você lembra?
+         00:43:32.183 - 00:43:38.316
+FRA1FI   minha mãe não fala urgência ela fala urgência "venha aqui que é uma urgência"
+         00:43:38.693 - 00:43:43.224
+FRA1FI   "mãe é urgência" ela "urgência" "urgente" "urgente"
+         00:43:43.673 - 00:43:47.161
+FRA1FI   e ela sabe que é com u mas ela fala com o
+         00:43:48.201 - 00:43:49.938
+DISF     (HES)
+         00:43:51.537 - 00:43:52.517
+DOCPC    você acha que o seu modo de falar mudou depois que você entou aqui na UFS?
+         00:43:54.418 - 00:43:58.216
+FRA1FI   acho
+         00:44:02.616 - 00:44:02.928
+DOCPC    em que sentifo?
+         00:44:05.296 - 00:44:05.976
+FRA1FI   (   ) aqui
+         00:44:05.976 - 00:44:06.734
+FRA1FI   mudou com quanto eu tô aqui
+         00:44:07.432 - 00:44:08.850
+FRA1FI   "(   ) eu quero me incluir eu não posso falar errado senão as pessoas vão mangar de mim"
+         00:44:09.416 - 00:44:12.816
+FRA1FI   aí fica se moni/ no sentido de se monitorar mais pra não falar errado
+         00:44:13.256 - 00:44:16.616
+FRA1FI   e quando s/ eu to em casa por exemplo eu me sinto a vontade de ficar falando qualquer coisa e não ficar perstando atenção aí aqui eu-não posso m/ errar um plural
+         00:44:17.071 - 00:44:25.176
+FRA1FI   que o povo já vem corrigir o plural aí tenho que prestar atenção se eu vou errar o plural da palavra
+         00:44:26.176 - 00:44:30.176
+DOCPC    onde você mora é comum as pessoas falarem oito muito biscoito oitenta?
+         00:44:31.336 - 00:44:37.576
+FRA1FI   é
+         00:44:37.898 - 00:44:38.204
+DOCPC    e aqui na UFS?
+         00:44:40.653 - 00:44:41.796
+FRA1FI   de vez em quando
+         00:44:44.142 - 00:44:45.102
+FRA1FI   acho que quando cê tá falando muito rápido aí cê solta algumas coisas
+         00:44:46.096 - 00:44:51.096
+DOCPC    mas é frequente?
+         00:44:51.316 - 00:44:52.296
+FRA1FI   não
+         00:44:53.616 - 00:44:54.336
+FRA1FI   acho que não
+         00:44:55.306 - 00:44:55.836
+FRA1FI   na minha vivência não
+         00:44:56.434 - 00:44:57.689
+DOCPC    você acha que esse modo de falar tem alguma influência do nível de escolaridade da pessoa?
+         00:44:59.591 - 00:45:04.530
+FRA1FI   acho
+         00:45:04.921 - 00:45:05.540
+DOCPC    e o que é que você acha desse jeito de falar?
+         00:45:08.632 - 00:45:10.326
+FRA1FI   não sei não acho nada
+         00:45:15.744 - 00:45:17.500
+FRA1FI   acho engraçado
+         00:45:18.469 - 00:45:19.510
+FRA1FI   só que eu acho também que eu não deveria achar engraçado mas às vezes a gente acha engraçado, né?
+         00:45:19.921 - 00:45:23.921
+DOCPC    engraçado por quê?
+         00:45:25.281 - 00:45:26.481
+FRA1FI   não sei tipo minha mãe falava "urgência"
+         00:45:29.979 - 00:45:32.796
+FRA1FI   é engraçado
+         00:45:33.521 - 00:45:34.602
+FRA1FI   "urgência"
+         00:45:35.332 - 00:45:36.220
+FRA1FI   aí às vezes ela tá falando no telefone
+         00:45:36.526 - 00:45:38.332
+FRA1FI   a gente só fica rindo porque ela fala muito a/ às vezes ela se atrapalha falando aí fala várias coisas erradas aí a gente fica rindo é engraçado
+         00:45:39.122 - 00:45:45.921
+DOCPC    além de urgência assim qual é o a outra palavra a outra expressão que ela usa?
+         00:45:46.761 - 00:45:51.761
+FRA1FI   ai assim eu (nunca) consigo lembrar
+         00:45:54.641 - 00:45:56.801
+FRA1FI   não sei
+         00:46:00.979 - 00:46:01.801
+FRA1FI   eu tenho uma dúvida cé é de letras
+         00:46:02.979 - 00:46:04.826
+FRA1FI   por que as pessoas
+         00:46:05.287 - 00:46:06.459
+FRA1FI    mais velhas não só as mais velhas a gente às vezes mesmo
+         00:46:06.960 - 00:46:09.991
+FRA1FI   a gente erra o nome dos próprios filhos
+         00:46:10.727 - 00:46:12.361
+FRA1FI   por que quando a gente (   )
+         00:46:13.001 - 00:46:14.898
+FRA1FI   as pessoas sabe o nome dos próprio filho quando vai chamar
+         00:46:15.520 - 00:46:17.816
+FRA1FI   aí chama "Maria Juliana Carolina"
+         00:46:18.296 - 00:46:20.908
+FRA1FI   pra depois falar o seu nome
+         00:46:21.224 - 00:46:23.001
+DOCPC    eu realmente não sei
+         00:46:24.173 - 00:46:25.521
+FRA1FI   qual a explicação pra/ e é sempre muito geral isso sempre vejo gente também falando sobre
+         00:46:25.534 - 00:46:30.214
+DOCPC    sua vó erra desse jeito?
+         00:46:30.814 - 00:46:32.614
+FRA1FI   é
+         00:46:32.614 - 00:46:33.014
+FRA1FI   erra chamar "Rafaela Franci Fernanda"
+         00:46:34.173 - 00:46:37.214
+FRA1FI   pra depois a/ às vez passa pelo meu nome e não lembra que é nem meu nome aí depois p/ fala outro nome depois lembra que é meu nome mesmo
+         00:46:37.574 - 00:46:43.694
+FRA1FI   acontece
+         00:46:44.694 - 00:46:45.574
+DISF     (HES)
+         00:46:46.101 - 00:46:46.805
+DOCPC    em casa assim no onde que você mora é comum as pessoas falarem planta bloco flanela?
+         00:46:47.173 - 00:46:53.014
+FRA1FI   não
+         00:46:56.112 - 00:46:56.479
+FRA1FI   acho que não
+         00:46:56.923 - 00:46:57.504
+FRA1FI   não
+         00:47:00.102 - 00:47:00.469
+DOCPC    o que é que você acha dessa forma de falar?
+         00:47:01.734 - 00:47:04.054
+FRA1FI   não acho nada não
+         00:47:10.367 - 00:47:11.704
+DOCPC    cê acha/
+         00:47:13.054 - 00:47:13.734
+FRA1FI   até eu falo
+         00:47:13.054 - 00:47:13.989
+FRA1FI   quando a gente fala muito rápido
+         00:47:14.286 - 00:47:15.664
+DOCPC    cê acha que é específico de algum lugar?
+         00:47:16.774 - 00:47:19.014
+FRA1FI   do interior?
+         00:47:25.438 - 00:47:26.174
+DOCPC    o nível de escolaridade será que tem influência?
+         00:47:28.898 - 00:47:31.469
+FRA1FI   acho que sim
+         00:47:33.734 - 00:47:34.734
+FRA1FI   porque a gente quando
+         00:47:38.650 - 00:47:39.936
+FRA1FI   lê muito escreve muito
+         00:47:40.696 - 00:47:42.309
+FRA1FI   a gente acaba
+         00:47:42.671 - 00:47:43.405
+FRA1FI   se adaptando ou então vendo com muita frequências as mesmas palavras
+         00:47:43.901 - 00:47:47.635
+FRA1FI   aí de certa forma fica na cabeça
+         00:47:48.459 - 00:47:50.132
+DOCPC    e falar tia dia dente
+         00:47:53.418 - 00:47:56.324
+FRA1FI   irritante
+         00:47:56.244 - 00:47:57.030
+FRA1FI   ah eles querem fazer preconceito com a gente vamos fazer com eles
+         00:47:58.084 - 00:48:01.084
+FRA1FI   irritante charminho "tia" 
+         00:48:01.347 - 00:48:03.377
+DISF     (HES)
+         00:48:03.673 - 00:48:04.041
+DOCPC    cê costuma escutar esse tipo de realização por aqui?
+         00:48:04.844 - 00:48:08.204
+FRA1FI   de vez só um menino na minha turma que ele fala "tipo"
+         00:48:09.044 - 00:48:12.044
+FRA1FI   "tipo" "tipo assim" "tipo assim" "tipo assim"
+         00:48:12.408 - 00:48:14.877
+DISF     (HES)
+         00:48:14.840 - 00:48:15.340
+FRA1FI   mas eu não vejo muito não
+         00:48:15.877 - 00:48:17.404
+DOCPC    ele é daqui?
+         00:48:17.604 - 00:48:18.484
+FRA1FI   é ele é do interior de
+         00:48:19.244 - 00:48:20.836
+FRA1FI   um interior depois de Lagarto
+         00:48:21.272 - 00:48:22.915
+FRA1FI   mas ele não fala "tia" não fala muito só o "tipo" dele que ele fica fica "tipo" tipo" tipo assim" ai irrita
+         00:48:23.564 - 00:48:29.564
+FRA1FI   e tem uma professora que é de Rio Grande do Sul
+         00:48:30.004 - 00:48:32.164
+FRA1FI   "quiseres" " tu se tu quisestes" "se tu" eita meu Deus
+         00:48:33.804 - 00:48:39.124
+FRA1FI   ela só fala assim
+         00:48:40.124 - 00:48:41.265
+FRA1FI   só usa o tu nunca usa o você
+         00:48:41.920 - 00:48:43.491
+DISF     (HES)
+         00:48:45.061 - 00:48:45.714
+DOCPC    e doido e doido
+         00:48:46.153 - 00:48:48.479
+DOCPC    você
+         00:48:48.811 - 00:48:49.658
+DOCPC    escuta qual dessas formas?
+         00:48:49.954 - 00:48:52.117
+FRA1FI   o do o do
+         00:48:53.326 - 00:48:54.724
+DOCPC    doido?
+         00:48:55.265 - 00:48:55.844
+FRA1FI   doido
+         00:48:55.844 - 00:48:56.484
+FRA1FI   o doido é mais legal de falar "tá doido é?" "tá doido é?"
+         00:48:57.084 - 00:49:00.524
+DISF     ((RISOS))
+         00:48:59.258 - 00:48:59.677
+DOCPC    cê acha que as duas tem o mesmo significado?
+         00:49:01.357 - 00:49:03.438
+FRA1FI   acho
+         00:49:04.081 - 00:49:04.347
+FRA1FI   tem não é?
+         00:49:05.604 - 00:49:06.193
+DOCPC    cê usaria em qualquer contexto qualquer uma das duas?
+         00:49:08.091 - 00:49:10.924
+FRA1FI   não
+         00:49:11.091 - 00:49:11.500
+FRA1FI   tivesse uma apresentação aí cê tenta (né) maneirar
+         00:49:13.153 - 00:49:16.764
+FRA1FI   segurar às vezes
+         00:49:17.500 - 00:49:18.764
+FRA1FI   mas
+         00:49:19.137 - 00:49:19.667
+FRA1FI   no dia a dia eu uso doido mesmo
+         00:49:20.346 - 00:49:22.458
+DOCPC    e quando você fala sobre você mais outra pessoa ou outras pessoas cê mais nós ou a gente?
+         00:49:23.764 - 00:49:29.764
+FRA1FI   a gente
+         00:49:31.000 - 00:49:31.530
+DOCPC    cê acha que essa forma é melhor?
+         00:49:33.142 - 00:49:34.428
+FRA1FI   eu não sei se é melhor
+         00:49:38.591 - 00:49:39.989
+FRA1FI   mas é mais fácil
+         00:49:40.122 - 00:49:41.530
+FRA1FI   "a gente vai"
+         00:49:42.898 - 00:49:43.663
+FRA1FI   que aí você não precisa colocar o resto da frase no plural o nós você precisa
+         00:49:44.524 - 00:49:48.124
+FRA1FI   e o a gente não fica no singular mesmo
+         00:49:48.524 - 00:49:50.707
+DISF     (HES)
+         00:49:51.753 - 00:49:52.600
+DOCPC    você acha que o a gente ou o nós é mais comum em alguma região do país ou
+         00:49:55.071 - 00:50:01.540
+DOCPC    é geral?
+         00:50:02.087 - 00:50:02.760
+FRA1FI   eu não sei não acho que
+         00:50:04.627 - 00:50:07.142
+FRA1FI   não sei
+         00:50:07.948 - 00:50:08.632
+DISF     ((RISOS))
+         00:50:08.612 - 00:50:08.999
+FRA1FI   acho que divide muito
+         00:50:10.377 - 00:50:11.255
+FRA1FI   alguém fala a gente
+         00:50:12.058 - 00:50:12.967
+FRA1FI   nós mas nós parece ser mais formal
+         00:50:13.405 - 00:50:15.375
+FRA1FI   mas em questão de região eu acho que não sei não
+         00:50:16.427 - 00:50:18.602
+FRA1FI   ( )
+         00:50:19.353 - 00:50:20.179
+DOCPC    ok
+         00:52:54.390 - 00:52:55.390

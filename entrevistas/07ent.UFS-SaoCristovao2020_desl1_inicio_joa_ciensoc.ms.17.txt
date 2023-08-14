@@ -1,0 +1,2932 @@
+TIPO DE AMOSTRA: ENT
+ DOCUMENTADORA: LUCAS
+ COMUNIDADE: UFS
+ ANO: 2019
+ DESLOCAMENTO: 1
+ TEMPO DE CURSO: INICIO
+ INF:GUI1MI 
+ sexo: MAS
+ escolaridade: S
+ Idade: 17
+ Cidade Natal: ARACAJU, SE
+
+
+DOCLS    oi eu sou o Lucas sou mestrando fui da Iniciação Científica 
+         00:00:07.250 - 00:00:10.740
+         (0,43)
+DOCLS    já peço desculpas porque estou meio gripado então minha voz tá assim igual a do pato
+         00:00:11.170 - 00:00:13.900
+         (0,07)
+DOCLS    Donald
+         00:00:13.970 - 00:00:14.550
+         (0,20)
+DOCLS    e a quem vai transcrever também essa entrevista
+         00:00:14.755 - 00:00:16.625
+         (0,35)
+DOCLS    essa entrevista não essa conversa
+         00:00:16.975 - 00:00:18.365
+         (0,28)
+DOCLS    (hes)
+         00:00:18.645 - 00:00:19.255
+         (0,51)
+DOCLS    oi qual teu nome?
+         00:00:19.765 - 00:00:20.975
+GUI1MI   é Guilherme
+         00:00:20.945 - 00:00:21.725
+         (0,71)
+DOCLS    Guilherme de quê?
+         00:00:22.440 - 00:00:23.830
+         (0,10)
+GUI1MI   eh João Guilherme de Freitas no caso
+         00:00:23.930 - 00:00:25.750
+DOCLS    tá
+         00:00:25.765 - 00:00:26.005
+         (0,20)
+DOCLS    você tem quantos anos Guilherme?
+         00:00:26.210 - 00:00:27.430
+GUI1MI   tenho dezessete
+         00:00:27.325 - 00:00:27.935
+         (0,66)
+DOCLS    você faz o quê da vida você estuda aqui na universidade estuda aqui na universidade tem que estudar aqui na universidade (risos)
+         00:00:28.595 - 00:00:33.895
+GUI1MI   estudo mesmo só faço ciências sociais e só isso num
+         00:00:33.620 - 00:00:37.080
+         (0,12)
+GUI1MI   num tenho nenhum trabalho nenhuma atividade específica
+         00:00:37.195 - 00:00:39.885
+         (0,37)
+DOCLS    tá porque você escolheu esse curso eh eih Guilherme?
+         00:00:40.255 - 00:00:43.125
+         (0,34)
+GUI1MI   então
+         00:00:43.465 - 00:00:44.015
+         (0,20)
+GUI1MI   eh na verdade nem era a minha primeira opção assim inicialmente sempre foi algo interesse
+         00:00:44.215 - 00:00:49.515
+         (0,19)
+GUI1MI   pelo fato assim
+         00:00:49.700 - 00:00:50.490
+         (0,44)
+GUI1MI   de
+         00:00:50.930 - 00:00:51.710
+         (0,14)
+GUI1MI   eh ampliar mais seus pensamentos a respeito de certos fatores
+         00:00:51.845 - 00:00:55.345
+         (0,19)
+GUI1MI   com a questão mais intelectual mesmo
+         00:00:55.540 - 00:00:57.410
+         (0,22)
+GUI1MI   só que depois vem
+         00:00:57.630 - 00:00:58.740
+         (0,35)
+GUI1MI   eh acabei não conseguindo a primeira opção aí eu resolvir
+         00:00:59.090 - 00:01:01.900
+         (0,28)
+GUI1MI   não vou dá uma chance
+         00:01:02.180 - 00:01:03.240
+         (0,34)
+GUI1MI   aí eu vim fazer e acabei 
+         00:01:03.585 - 00:01:05.065
+         (0,17)
+GUI1MI   me engajando mais em- no curso
+         00:01:05.240 - 00:01:06.990
+         (0,15)
+DOCLS    e qual foi a tua primeira opção de curso?
+         00:01:07.140 - 00:01:08.860
+         (0,09)
+GUI1MI   era odonto
+         00:01:08.955 - 00:01:09.355
+         (0,40)
+DOCLS    odonto
+         00:01:09.750 - 00:01:10.860
+         (0,29)
+DOCLS    mas tu fez o enem em que ano?
+         00:01:11.150 - 00:01:12.470
+         (0,74)
+GUI1MI   eu
+         00:01:13.205 - 00:01:13.565
+         (0,32)
+GUI1MI   é pra valer ano passado mas eu faço enem desde dois mil e
+         00:01:13.890 - 00:01:17.630
+         (0,12)
+GUI1MI   quinze
+         00:01:17.745 - 00:01:18.455
+         (0,05)
+DOCLS    tá
+         00:01:18.505 - 00:01:18.975
+         (0,10)
+DOCLS    entendi e você mora onde?
+         00:01:19.075 - 00:01:21.145
+         (0,08)
+GUI1MI   moro na Barra dos Coqueiros
+         00:01:21.225 - 00:01:22.325
+         (0,56)
+DOCLS    com quem?
+         00:01:22.890 - 00:01:23.590
+         (0,19)
+GUI1MI   com meus pais
+         00:01:23.775 - 00:01:24.535
+         (0,16)
+GUI1MI   e agora um irmão (risos)
+         00:01:24.690 - 00:01:26.040
+         (0,09)
+DOCLS    ah recém nascido
+         00:01:26.130 - 00:01:27.350
+GUI1MI   tive um irmão recém nascido
+         00:01:26.645 - 00:01:28.335
+         (0,03)
+DOCLS    qual é que o nome dele?
+         00:01:28.365 - 00:01:29.635
+GUI1MI   Heitor
+         00:01:29.075 - 00:01:29.635
+         (0,25)
+DOCLS    e aí qual que é a tua relação com o Heitor?
+         00:01:29.890 - 00:01:31.940
+         (0,22)
+GUI1MI   é porque as pessoas esperam assim um ciúmes né mas tipo 
+         00:01:32.160 - 00:01:35.060
+         (0,04)
+GUI1MI   a pessoa tá tão dezoito anos na cara quase e vem um irmão é
+         00:01:35.095 - 00:01:38.345
+         (0,25)
+GUI1MI   é uma nova sensação claro porque você é acostumado a uma casa mais vazia meus pais
+         00:01:38.595 - 00:01:42.635
+         (0,09)
+GUI1MI   saiam pra trabalhar eu sempre tinha a casa assim mais
+         00:01:42.730 - 00:01:44.700
+         (0,20)
+GUI1MI   pra mim só que
+         00:01:44.900 - 00:01:45.910
+         (0,10)
+GUI1MI   com irmão as coisas mudaram um pouco mas
+         00:01:46.010 - 00:01:47.910
+         (0,34)
+GUI1MI   nada
+         00:01:48.255 - 00:01:49.425
+         (0,13)
+GUI1MI   eh nada muito extrapolante sabe só o choro
+         00:01:49.555 - 00:01:52.205
+DOCLS    você pega ele no colo?
+         00:01:52.215 - 00:01:53.405
+         (0,05)
+GUI1MI   pego já eu tenho que- ajudo minha mãe no caso né
+         00:01:53.455 - 00:01:56.145
+DOCLS    sim
+         00:01:55.595 - 00:01:56.105
+         (0,08)
+GUI1MI   meu pai acaba trabalhando aí no momento que eu não tô na faculdade eu
+         00:01:56.225 - 00:02:00.025
+GUI1MI   ultimamente eu tô em casa ajudando com a
+         00:02:00.040 - 00:02:02.340
+         (0,34)
+GUI1MI   a casa e com a criança em si
+         00:02:02.685 - 00:02:04.455
+         (0,26)
+DOCLS    mas seu pai trabalha com o quê?
+         00:02:04.715 - 00:02:06.085
+         (0,35)
+GUI1MI   ele é
+         00:02:06.435 - 00:02:07.255
+         (0,10)
+GUI1MI   empresário de transportes no caso ele tem a empresa dele de
+         00:02:07.360 - 00:02:10.220
+         (0,38)
+GUI1MI   de transporte no caso de táxi e de
+         00:02:10.595 - 00:02:13.075
+         (0,20)
+GUI1MI   e coisas de viagem
+         00:02:13.280 - 00:02:14.180
+         (0,44)
+DOCLS    mas ele viaja assim pra onde é municipal é interestadual
+         00:02:14.615 - 00:02:18.115
+GUI1MI   ele vai mais pra tipo
+         00:02:17.900 - 00:02:19.240
+         (0,12)
+GUI1MI   Alagoas Maceió essas viagens turísticas mesmo entendeu aí no
+         00:02:19.365 - 00:02:23.265
+DOCLS    sim
+         00:02:21.970 - 00:02:22.550
+         (0,16)
+GUI1MI   eh
+         00:02:23.425 - 00:02:23.785
+         (0,22)
+GUI1MI   isso o caso no âmbito turístico mas serviço ele vai pro
+         00:02:24.010 - 00:02:27.220
+GUI1MI   (risos) o povo
+         00:02:27.220 - 00:02:28.120
+DOCLS    já foi com eles alguma vez?
+         00:02:27.660 - 00:02:29.360
+         (0,31)
+GUI1MI   ah pra viagens
+         00:02:29.665 - 00:02:30.725
+DOCLS    isso
+         00:02:30.700 - 00:02:31.150
+GUI1MI   sim
+         00:02:31.050 - 00:02:31.540
+         (0,23)
+GUI1MI   assim pra todos os os lugares que ele já
+         00:02:31.770 - 00:02:34.400
+GUI1MI   foi eu acabei indo também 
+         00:02:34.410 - 00:02:35.880
+DOCLS    e aí com o foi as experiências com teu pai?
+         00:02:35.810 - 00:02:38.140
+GUI1MI   é bom pra você (hes) com a família toda na verdade
+         00:02:38.110 - 00:02:40.590
+DOCLS    sim
+         00:02:40.115 - 00:02:40.595
+         (0,31)
+GUI1MI   eh
+         00:02:40.910 - 00:02:41.860
+         (0,10)
+GUI1MI   é bom pra você sair um pouco da da realidade de
+         00:02:41.960 - 00:02:45.180
+         (0,12)
+GUI1MI   daquele costume do do hábito e você ver novas coisas assim vê
+         00:02:45.295 - 00:02:49.025
+         (0,16)
+GUI1MI   pessoas diferentes sair um pouco da sua bolha
+         00:02:49.185 - 00:02:51.885
+         (0,17)
+GUI1MI   tá e quais lugares tu visitou?
+         00:02:52.050 - 00:02:53.600
+         (0,55)
+GUI1MI   (     ) eu já fui pra
+         00:02:54.150 - 00:02:56.200
+         (0,31)
+GUI1MI   Alagoas São Paulo Amazonas eh (   )
+         00:02:56.510 - 00:03:01.110
+         (0,29)
+GUI1MI   Amazonas não quer dizer
+         00:03:01.405 - 00:03:02.245
+         (0,31)
+GUI1MI   Rio de Janeiro
+         00:03:02.560 - 00:03:03.870
+DOCLS    sim
+         00:03:03.400 - 00:03:03.810
+         (0,33)
+GUI1MI   eh
+         00:03:04.200 - 00:03:05.220
+         (0,32)
+GUI1MI   Pernambuco eu fui pra alguns lugares assim
+         00:03:05.545 - 00:03:08.185
+         (0,51)
+DOCLS    você tá em qual período?
+         00:03:08.700 - 00:03:09.600
+         (0,05)
+DOCLS    aqui na Universidade
+         00:03:09.655 - 00:03:10.685
+GUI1MI   eu tô no primeiro
+         00:03:09.655 - 00:03:10.685
+         (0,61)
+DOCLS    e como é que você vem aqui pra universidade qual transporte que você utiliza?
+         00:03:11.295 - 00:03:14.205
+GUI1MI   u venho de coletivo mesmo
+         00:03:14.215 - 00:03:15.695
+         (0,09)
+GUI1MI   tanto na vinda como na volta
+         00:03:15.780 - 00:03:17.040
+         (0,75)
+DOCLS    é qual o
+         00:03:17.795 - 00:03:18.545
+         (0,17)
+DOCLS    período do teu curso?
+         00:03:18.715 - 00:03:19.685
+         (0,13)
+GUI1MI   tarde
+         00:03:19.815 - 00:03:20.265
+         (0,41)
+DOCLS    tarde então
+         00:03:20.675 - 00:03:21.485
+         (0,08)
+DOCLS    saí de casa que horas?
+         00:03:21.565 - 00:03:22.645
+         (0,14)
+GUI1MI   então aí eu
+         00:03:22.790 - 00:03:23.760
+         (0,18)
+GUI1MI   é oc otem uma demora
+         00:03:23.940 - 00:03:25.570
+         (0,05)
+GUI1MI   dos ônibus eu costumo sair umas
+         00:03:25.620 - 00:03:27.680
+         (0,83)
+GUI1MI   onze meia onze quarenta estorando
+         00:03:28.515 - 00:03:30.525
+         (0,07)
+GUI1MI   pra chegar aqui doze e cinquenta doze quarenta
+         00:03:30.595 - 00:03:32.715
+         (0,25)
+DOCLS    e tua aula termina que horas?
+         00:03:32.960 - 00:03:34.330
+         (0,27)
+GUI1MI   aí varia do dia mas geralmente é
+         00:03:34.600 - 00:03:37.050
+         (0,43)
+GUI1MI   cinco horas
+         00:03:37.480 - 00:03:38.350
+         (0,19)
+GUI1MI   na maioria das vezes
+         00:03:38.540 - 00:03:39.580
+         (0,03)
+DOCLS    cinco aí você volta pra casa e fica com seus (   ) aqui na universidade
+         00:03:39.605 - 00:03:43.235
+GUI1MI   sim eu
+         00:03:41.975 - 00:03:43.235
+         (0,16)
+GUI1MI   não pelo horário assim quando você é (hes) os dias de cinco horas 
+         00:03:43.390 - 00:03:47.130
+         (0,19)
+GUI1MI   aí no caso às vezes eu dou um tempo
+         00:03:47.315 - 00:03:49.235
+         (0,22)
+GUI1MI   falo um pouco com o pessoal até pra esperar um pouco terminar o
+         00:03:49.450 - 00:03:52.510
+         (0,23)
+GUI1MI   esvaziar um pouco
+         00:03:52.745 - 00:03:54.055
+         (0,24)
+GUI1MI   e aí eu vou pra casa mas quando já é sete horas aí eu opto já pra ir direto
+         00:03:54.295 - 00:03:57.735
+         (0,12)
+GUI1MI   que eu tenho 
+         00:03:57.850 - 00:03:58.540
+         (0,08)
+GUI1MI   um certo receio do horário né
+         00:03:58.620 - 00:04:00.690
+DOCLS    entendi
+         00:03:59.780 - 00:04:00.520
+         (0,53)
+DOCLS    entendi mas você disse que não trabalha mas você acha
+         00:04:01.220 - 00:04:03.490
+         (0,36)
+DOCLS    assim que as pessoas que trabalham e que estudam
+         00:04:03.850 - 00:04:07.150
+         (0,18)
+DOCLS    elas conseguem vincular essas duas coisas tem algum problema dificuldade na tua opinião
+         00:04:07.330 - 00:04:11.830
+         (0,66)
+GUI1MI   não eu acho que
+         00:04:12.490 - 00:04:13.460
+         (0,21)
+GUI1MI   por exemplo eh
+         00:04:13.670 - 00:04:14.530
+         (0,12)
+GUI1MI   existe uma dificuldade porque você tá fazendo duas tarefas que são cansativas né
+         00:04:14.655 - 00:04:18.655
+         (0,12)
+GUI1MI   intelectualmente às vezes e fisicamente falando
+         00:04:18.780 - 00:04:20.980
+         (0,47)
+GUI1MI   e
+         00:04:21.445 - 00:04:21.955
+         (0,09)
+GUI1MI   isso pode afetar
+         00:04:22.045 - 00:04:23.135
+         (0,17)
+GUI1MI   o trabalho pode afetar nos seus estudos assim no momento em que você
+         00:04:23.305 - 00:04:26.445
+         (0,22)
+GUI1MI   por exemplo no você trabalha de manhã e estuda a tarde
+         00:04:26.670 - 00:04:30.700
+         (0,35)
+GUI1MI   aí você teria a noite no caso pra ou o seu descanso ou pra estudar só que às vezes você tá tão cansado e prefere  
+         00:04:31.050 - 00:04:36.910
+         (0,14)
+GUI1MI   descansar um pouco mas você sabe
+         00:04:37.045 - 00:04:39.075
+         (0,02)
+GUI1MI   tem que fazer suas atividades então eu acho que atrapalha nesse
+         00:04:39.095 - 00:04:41.855
+         (0,44)
+GUI1MI   nesses processos assim de
+         00:04:42.300 - 00:04:44.150
+         (0,30)
+GUI1MI   de
+         00:04:44.450 - 00:04:45.460
+         (0,16)
+GUI1MI   eh atividades de de próprios estudos entendeu semana de provas a pessoa tem que ficar
+         00:04:45.620 - 00:04:50.420
+         (0,13)
+GUI1MI   eh uma tolada de coisas
+         00:04:50.550 - 00:04:52.140
+         (0,23)
+GUI1MI   a gente mesmo do curso é texto em cima de texto então
+         00:04:52.370 - 00:04:55.270
+         (0,19)
+GUI1MI   faz você acabar- perdendo texto
+         00:04:55.465 - 00:04:57.445
+         (0,12)
+GUI1MI   você tem que
+         00:04:57.560 - 00:04:58.330
+         (0,08)
+GUI1MI   ler de qualquer forma que é linkado com outro então é sempre uma bola de neve entendeu
+         00:04:58.410 - 00:05:02.120
+         (0,23)
+DOCLS    entendi
+         00:05:02.350 - 00:05:03.170
+GUI1MI   mas assim eu falo pelo curso de humanas mas eu acredito que seja
+         00:05:02.380 - 00:05:05.310
+         (0,28)
+GUI1MI   pra todos os cursos porque você tem que exige uma
+         00:05:05.595 - 00:05:08.285
+         (0,36)
+GUI1MI   um um esforço maior você tá estudando e trabalhando
+         00:05:08.645 - 00:05:12.595
+         (0,04)
+GUI1MI   eu acho
+         00:05:12.635 - 00:05:13.325
+         (0,25)
+DOCLS    entendi mas você conhece pessoas que levam essa rotina?
+         00:05:13.575 - 00:05:16.625
+         (0,19)
+GUI1MI   conheço a- a- alguns meus amigos próximos
+         00:05:16.815 - 00:05:19.460
+GUI1MI   fazem isso
+         00:05:19.460 - 00:05:20.410
+DOCLS    mas eles comentam com você como é a rotina se é difícil
+         00:05:20.030 - 00:05:23.430
+GUI1MI   uns deles
+         00:05:23.415 - 00:05:24.355
+         (0,09)
+GUI1MI   são trabalhos 
+         00:05:24.450 - 00:05:26.100
+         (0,05)
+GUI1MI   eh
+         00:05:26.150 - 00:05:26.740
+         (0,58)
+GUI1MI   mas fora da família no caso alguns trabalham com loja da família e conseguem flexibilizar um pouco mas já tem outros 
+         00:05:27.320 - 00:05:32.960
+         (0,35)
+GUI1MI   eh realmente mas árduo eles reclamam porque
+         00:05:33.315 - 00:05:35.685
+         (0,18)
+GUI1MI   fica complicado às vezes não sei o que faço se eu
+         00:05:35.865 - 00:05:38.545
+         (0,34)
+GUI1MI   pago minha faculdade com o dinheiro do salário que eu recebo também
+         00:05:38.880 - 00:05:42.250
+         (0,33)
+GUI1MI   ou eu
+         00:05:42.580 - 00:05:43.350
+         (0,52)
+GUI1MI   falo é
+         00:05:43.870 - 00:05:45.000
+         (0,22)
+GUI1MI   tranco e faço um tempo integral e vou
+         00:05:45.220 - 00:05:47.400
+         (0,25)
+DOCLS    entendi
+         00:05:47.645 - 00:05:48.505
+         (0,25)
+GUI1MI   entendeu
+         00:05:48.750 - 00:05:49.270
+         (0,20)
+DOCLS    eh mas o teu contato com eles é como que é
+         00:05:49.470 - 00:05:52.250
+         (0,38)
+GUI1MI   (hes)
+         00:05:52.635 - 00:05:53.115
+GUI1MI   era meus amigos a maioria desses que eu tô citando no caso era meus amigos do ensino médio aí 
+         00:05:53.130 - 00:05:58.390
+DOCLS    sim
+         00:05:55.465 - 00:05:56.095
+DOCLS    sim
+         00:05:57.015 - 00:05:57.485
+         (0,20)
+GUI1MI   (hes)
+         00:05:58.595 - 00:05:59.055
+         (0,31)
+GUI1MI   cursos diferentes né a vida deu rumos diferentes e e aí mas a gente mantém contato e eles acabam falando da experiência
+         00:05:59.365 - 00:06:06.615
+DOCLS    quais cursos por exemplo eles fazem?
+         00:06:05.335 - 00:06:07.125
+         (0,09)
+GUI1MI   engenharia ciência da computação tem um que é direito
+         00:06:07.215 - 00:06:10.975
+         (0,25)
+GUI1MI   e o piro que é média agora também
+         00:06:11.230 - 00:06:12.960
+         (0,19)
+GUI1MI   aí é bem variado (risos)
+         00:06:13.150 - 00:06:14.830
+DOCLS    mas como
+         00:06:14.775 - 00:06:15.345
+         (0,17)
+DOCLS    os colegas do teu curso como que é a relação?
+         00:06:15.515 - 00:06:17.545
+         (0,70)
+GUI1MI   (hes) risos
+         00:06:18.245 - 00:06:20.965
+         (0,14)
+GUI1MI   assim
+         00:06:21.110 - 00:06:21.760
+         (0,38)
+GUI1MI   primeira vista a gente tem um receio né na verdade
+         00:06:22.140 - 00:06:24.530
+         (0,15)
+GUI1MI   tudo novo se acostumado com já  o pessoal do ensino médio
+         00:06:24.680 - 00:06:29.280
+         (0,06)
+GUI1MI   (hes) no meu caso era até de fundamental
+         00:06:29.345 - 00:06:31.425
+         (0,09)
+GUI1MI   então você é acostumado sempre com a mesma cara e de repente você tá ali sozinho
+         00:06:31.520 - 00:06:35.550
+         (0,19)
+GUI1MI   eh
+         00:06:35.740 - 00:06:36.670
+         (0,18)
+GUI1MI   (hes)
+         00:06:36.850 - 00:06:37.090
+         (0,12)
+GUI1MI   e vai (risos) infelizmente só que assim
+         00:06:37.210 - 00:06:39.320
+         (0,48)
+GUI1MI   pessoas são pessoas né então você tem que tá sempre aberto pra conhecer pra ser simpático educação eu acho que é o essencial pra todos então a minha relação com 
+         00:06:39.800 - 00:06:47.370
+         (0,29)
+GUI1MI   com todos (hes) com a maioria (risos)
+         00:06:47.660 - 00:06:50.000
+DOCLS    (risos)
+         00:06:49.575 - 00:06:50.005
+         (0,34)
+GUI1MI   com a grande parte foi assim bem natural foi bem
+         00:06:50.345 - 00:06:53.245
+         (0,08)
+GUI1MI   espontâneo  assim eu go-gosto não tenho problema com grande parte
+         00:06:53.320 - 00:06:57.280
+         (0,26)
+GUI1MI   mas tem uns que (hes)
+         00:06:57.545 - 00:06:58.725
+         (0,10)
+GUI1MI   assim não é que eu não tenha problema
+         00:06:58.830 - 00:07:00.430
+         (0,12)
+GUI1MI   evito né
+         00:07:00.545 - 00:07:01.585
+         (0,09)
+DOCLS    mas qual o motivo Guilherme?
+         00:07:01.670 - 00:07:03.340
+         (1,02)
+GUI1MI   é porque assim (risos)
+         00:07:04.360 - 00:07:05.440
+         (0,55)
+DOCLS    fique à vontade (risos)
+         00:07:05.985 - 00:07:07.345
+GUI1MI   eh
+         00:07:06.700 - 00:07:07.230
+         (0,81)
+GUI1MI   eu acho por exemplo que
+         00:07:08.150 - 00:07:10.090
+         (0,28)
+GUI1MI   não não é do meu o feitio ficar com pessoas que
+         00:07:10.375 - 00:07:14.175
+DOCLS    (est)
+         00:07:12.430 - 00:07:12.790
+         (1,50)
+GUI1MI   querem se amostrar demais um um poder intelectual às vezes que 
+         00:07:15.680 - 00:07:20.030
+         (0,31)
+GUI1MI   às vezes você podia ser
+         00:07:20.340 - 00:07:21.780
+         (0,16)
+GUI1MI   eu acho que por exemplo quando você tá numa graduação voc~e tem que tá aberto a aprender você tem que tá ali sentado
+         00:07:21.935 - 00:07:26.225
+         (0,22)
+GUI1MI   porque você sabe que alguém vai lhe passar informações
+         00:07:26.445 - 00:07:28.745
+         (0,12)
+GUI1MI   que você deveria saber já que você quer cursar aquilo então eu acho que você tem que ter humildade
+         00:07:28.860 - 00:07:32.540
+         (0,04)
+GUI1MI   de de saber isso
+         00:07:32.575 - 00:07:33.695
+         (0,17)
+GUI1MI   que algumas pessoas que (hes)
+         00:07:33.870 - 00:07:35.290
+         (0,17)
+GUI1MI   acham que sabem mais do que aqueles que estão ensinando aí eu procuro não me
+         00:07:35.465 - 00:07:38.735
+         (0,24)
+GUI1MI   não me associar tanto com essas pessoas só que assim também
+         00:07:38.975 - 00:07:41.415
+         (0,49)
+GUI1MI   não que eu tenha
+         00:07:41.900 - 00:07:42.480
+         (0,34)
+GUI1MI   problemas de brigar mas assim procuro não ter tanto contato que eu acho que sabe (hes)
+         00:07:42.825 - 00:07:48.225
+         (0,08)
+GUI1MI   são coisas tão mesquinhas na verdade
+         00:07:48.300 - 00:07:51.300
+         (0,41)
+GUI1MI   eh como eu posso dizer humilde (risos)
+         00:07:51.705 - 00:07:54.485
+         (0,32)
+DOCLS    entendi
+         00:07:54.810 - 00:07:55.630
+GUI1MI   será que entendeu 
+         00:07:54.810 - 00:07:55.630
+         (0,74)
+DOCLS    eh mas e teus colegas não são assim também não
+         00:07:56.370 - 00:07:59.790
+GUI1MI   a maioria não assim (hes) nenhum deles na verdade são são pessoas esforçadas entendeu eu gosto de andar com pessoas assim que vão me incentivar
+         00:07:59.340 - 00:08:06.930
+         (0,51)
+GUI1MI   a
+         00:08:07.440 - 00:08:08.000
+         (0,08)
+GUI1MI   procurar também porque às vezes 
+         00:08:08.075 - 00:08:09.305
+         (0,34)
+GUI1MI   você tá naqueles dias de "ah não quero fazer nada" (risos)
+         00:08:09.645 - 00:08:12.275
+         (0,33)
+GUI1MI   aí eles também diz "não vamos ler alguma coisa ah faça isso faça aquilo" aí eu
+         00:08:12.605 - 00:08:16.055
+         (0,41)
+GUI1MI   procuro fazer mais coisas porque eles me incentivam mais 
+         00:08:16.465 - 00:08:18.385
+         (1,04)
+GUI1MI   aí por isso eu digo assim
+         00:08:19.430 - 00:08:20.950
+         (0,25)
+GUI1MI   são pessoas esforçadas no caso
+         00:08:21.205 - 00:08:22.645
+         (0,32)
+DOCLS    mas é a primeira (hes) graduação deles também 
+         00:08:22.970 - 00:08:25.650
+GUI1MI   sim a maioria deles é a primeira graduação só com exceção de uns três que já vieram de outros cursos aí a maioria é a segunda graduação uma veio de biologia outra publicidade e propaganda
+         00:08:25.650 - 00:08:36.200
+         (4,34)
+DOCLS    Barra dos coqueiros
+         00:08:40.540 - 00:08:41.700
+GUI1MI   Barra dos Coqueiros
+         00:08:40.540 - 00:08:41.700
+         (0,17)
+DOCLS    ah quanto tempo você mora lá já morou em outro local?
+         00:08:41.865 - 00:08:44.185
+         (0,08)
+GUI1MI   eu morava em
+         00:08:44.260 - 00:08:45.100
+         (0,08)
+GUI1MI   no
+         00:08:45.175 - 00:08:46.175
+         (0,14)
+GUI1MI   em Aracaju mesmo assim
+         00:08:46.320 - 00:08:47.630
+         (0,11)
+GUI1MI   eu morava na
+         00:08:47.740 - 00:08:49.030
+         (0,17)
+GUI1MI   (est)
+         00:08:49.200 - 00:08:50.080
+         (0,82)
+GUI1MI   Jaqueira no (  ) aí quando eu cresci morei no Dezoito (do Forte)  
+         00:08:50.905 - 00:08:54.745
+         (0,17)
+GUI1MI   e aí eu fui mas morei um ano lá aí depois eu fui pra Barra aí já tem onze anos
+         00:08:54.920 - 00:08:59.030
+         (0,37)
+GUI1MI   onze anos
+         00:08:59.400 - 00:09:00.230
+         (0,38)
+DOCLS    mas você sabe porque
+         00:09:00.610 - 00:09:01.600
+         (0,33)
+DOCLS    essas mudanças de de localidade
+         00:09:01.930 - 00:09:04.310
+         (0,20)
+GUI1MI   então a primeira casa
+         00:09:04.515 - 00:09:05.975
+         (0,14)
+GUI1MI   eh
+         00:09:06.120 - 00:09:06.610
+         (0,07)
+GUI1MI   até hoje a minha a maior parte da minha família mora lá de parte de mãe e por parte de pai também
+         00:09:06.680 - 00:09:10.390
+         (0,48)
+GUI1MI   mora lá e acabava sendo proximidade e aí todo mundo
+         00:09:10.870 - 00:09:13.320
+         (0,15)
+GUI1MI   do
+         00:09:13.470 - 00:09:13.850
+         (0,40)
+GUI1MI   todo mundo era próximo todo mundo conversava só que aconteceu um incidente lá e acabava ligando
+         00:09:14.245 - 00:09:19.075
+         (0,29)
+GUI1MI   a parte de cima que era onde a gente morava com a parte de baixo e a parte de baixo
+         00:09:19.370 - 00:09:22.900
+         (0,29)
+GUI1MI   é pessoas assim
+         00:09:23.190 - 00:09:24.240
+         (0,34)
+GUI1MI   eh mas eh envolvida com drogas essas coisas assim ladrão aí 
+         00:09:24.580 - 00:09:29.900
+         (0,15)
+GUI1MI   e eu ficava sozinho em casa
+         00:09:30.050 - 00:09:31.480
+         (0,06)
+GUI1MI   desde seis sete anos
+         00:09:31.540 - 00:09:33.820
+DOCLS    entendi
+         00:09:31.610 - 00:09:32.420
+         (0,34)
+GUI1MI   aí
+         00:09:34.165 - 00:09:35.005
+         (0,41)
+GUI1MI   meu pai (hes) não achava viável uma situação de que alguém podia sabendo que só tinha uma criança ali
+         00:09:35.420 - 00:09:40.740
+         (0,31)
+GUI1MI   invadir a casa e
+         00:09:41.055 - 00:09:42.255
+         (0,26)
+GUI1MI   fazer o que quiser entendeu
+         00:09:42.520 - 00:09:43.900
+         (0,17)
+GUI1MI   aí a gente fez foi nossa primeira mudança foi devido a isso
+         00:09:44.065 - 00:09:46.945
+         (0,31)
+GUI1MI   aí a gente foi morar nesse no Dezoito
+         00:09:47.260 - 00:09:49.480
+         (0,62)
+GUI1MI   só que no Dezoito o que aconteceu que a gente foi acabou morando de aluguel
+         00:09:50.095 - 00:09:54.675
+         (0,09)
+GUI1MI   só que com a intenção de pagar
+         00:09:54.770 - 00:09:56.250
+         (0,12)
+GUI1MI   mas o rapaz da
+         00:09:56.375 - 00:09:57.215
+         (0,08)
+GUI1MI   que era dono acabou enrolando
+         00:09:57.290 - 00:09:58.880
+         (0,21)
+GUI1MI   o prazo do do que seria por exemplo
+         00:09:59.090 - 00:10:01.820
+         (0,24)
+GUI1MI   que ele ia
+         00:10:02.060 - 00:10:02.610
+         (0,27)
+GUI1MI   vender
+         00:10:02.880 - 00:10:03.280
+         (0,10)
+GUI1MI   aí ele só tava enrolando com o aluguel
+         00:10:03.385 - 00:10:05.705
+         (0,23)
+GUI1MI   é como pagando aluguel 
+         00:10:05.935 - 00:10:07.335
+         (0,03)
+DOCLS    sim
+         00:10:07.360 - 00:10:07.820
+         (0,14)
+GUI1MI   aí um dia a minha mãe
+         00:10:07.965 - 00:10:09.525
+         (0,28)
+GUI1MI   a gente tava passando pela Barra e aí minha mãe viu uns condomínios e aí disse assim "aii" 
+         00:10:09.810 - 00:10:12.870
+         (0,38)
+GUI1MI   "porque não né"
+         00:10:13.245 - 00:10:14.045
+         (0,32)
+GUI1MI   aí a gente foi (risos) mudou pra lá
+         00:10:14.370 - 00:10:16.530
+         (0,23)
+GUI1MI   pagando aluguel e foi de uma só vez
+         00:10:16.760 - 00:10:18.370
+         (0,07)
+DOCLS    mas assim você tem memórias de infância em relação a essa comunidade que viveu 
+         00:10:18.440 - 00:10:24.300
+GUI1MI   tenho (hes) eu vou
+         00:10:22.855 - 00:10:24.275
+         (0,29)
+GUI1MI   até hoje lá na verdade minha família mora lá entendeu aí eu tenho muito contato com
+         00:10:24.590 - 00:10:28.510
+         (0,19)
+GUI1MI   com tudo eu lembro de muitas coisas que eu passei de tudo ali
+         00:10:28.705 - 00:10:31.365
+         (0,44)
+DOCLS    poderia relatar assim a algum episódio específico?
+         00:10:31.810 - 00:10:34.910
+         (0,46)
+GUI1MI   traumático?
+         00:10:35.370 - 00:10:36.120
+         (0,10)
+DOCLS    ou traumático ou feliz algumas memórias que você tem da sua infância de brincadeiras por exemplo
+         00:10:36.220 - 00:10:40.590
+GUI1MI   ah sim de brincadeiras então do costume a brincar tanto com o pessoal da rua assim
+         00:10:40.600 - 00:10:45.120
+         (0,40)
+DOCLS    você costumava ou não costumava?
+         00:10:45.520 - 00:10:46.960
+GUI1MI   não costumava assim
+         00:10:46.765 - 00:10:47.555
+DOCLS    tá
+         00:10:47.225 - 00:10:47.595
+         (0,40)
+GUI1MI   eu ficava em casa tarde a noite também eu ficava em casa
+         00:10:47.995 - 00:10:51.785
+         (0,17)
+GUI1MI   na maior parte das vezes e brincava
+         00:10:51.955 - 00:10:53.845
+         (0,42)
+GUI1MI   com brinquedos (est) sempre tive brinquedos e aí brincava sozinho na maioria das vezes
+         00:10:54.265 - 00:10:59.095
+         (0,33)
+GUI1MI   as memórias assim mais alegres que eu tenho por exemplo é que lá a gente morava numa casa que tinha pro quintal
+         00:10:59.425 - 00:11:05.445
+         (0,38)
+GUI1MI   uma escadaria assim
+         00:11:05.820 - 00:11:07.460
+         (0,05)
+GUI1MI   bem grande assim
+         00:11:07.515 - 00:11:08.705
+         (0,19)
+GUI1MI   aí a única memória que eu tenho de minha avó uma vez subindo aquela escada ela acabou escorregando
+         00:11:08.895 - 00:11:14.185
+DOCLS    hum
+         00:11:09.945 - 00:11:10.545
+         (0,38)
+GUI1MI   aí ela foi bolando escada abaixo rolando escada abaixo
+         00:11:14.560 - 00:11:17.150
+         (0,14)
+GUI1MI   só que ela só foi parar porque tinha uma jaqueira (hes) o nome é Jaqueira do de lá da comunidade aí devido a isso justamente por ter muita jaqueira na região
+         00:11:17.290 - 00:11:25.360
+         (0,26)
+GUI1MI   aí ela rolou escada abaixo e acabou batendo na jaqueira
+         00:11:25.620 - 00:11:29.410
+         (0,14)
+GUI1MI   e uma jaca caiu em cima dela eu lembro disso
+         00:11:29.550 - 00:11:32.370
+         (0,28)
+GUI1MI   com todos os detalhes eu tava assim parado na porta olhando
+         00:11:32.655 - 00:11:35.485
+         (0,27)
+GUI1MI   minha vó toda (risos) caída ali a coitada 
+         00:11:35.755 - 00:11:38.845
+         (0,20)
+GUI1MI   mas aí depois a gente ainda
+         00:11:39.045 - 00:11:40.715
+DOCLS    (risos)
+         00:11:39.885 - 00:11:40.695
+         (0,19)
+GUI1MI   comeu a jaca
+         00:11:40.910 - 00:11:41.840
+DOCLS    gente (risos)
+         00:11:41.850 - 00:11:42.790
+         (0,43)
+GUI1MI   foi assim uma das memórias mais alegres que eu tenho sinceramente das dessas (risos) foi coitada
+         00:11:43.220 - 00:11:48.840
+DOCLS    que tragédia
+         00:11:46.585 - 00:11:47.695
+         (0,28)
+GUI1MI   porque assim a escada não tinham nenhum
+         00:11:49.125 - 00:11:50.655
+         (0,05)
+GUI1MI   corrimão sabe era só os degrais e assim
+         00:11:50.705 - 00:11:54.245
+DOCLS    sim
+         00:11:52.005 - 00:11:52.945
+         (0,28)
+GUI1MI   é tudo aberto e limo ali é bem fácil de de ter e ela acabou escorrendo e foi
+         00:11:54.530 - 00:11:59.180
+         (0,28)
+GUI1MI   caindo assim olhe foi uma coisa assim engraçada
+         00:11:59.460 - 00:12:02.590
+DOCLS    (risos)
+         00:12:01.630 - 00:12:02.660
+         (0,05)
+DOCLS    mas assim essa memória pra você é alegre e uma meória trágica de infância você tem?
+         00:12:02.710 - 00:12:07.370
+GUI1MI   (  )
+         00:12:04.465 - 00:12:05.245
+         (0,20)
+GUI1MI   trágica ah
+         00:12:07.570 - 00:12:09.210
+         (0,32)
+GUI1MI   (risos)
+         00:12:09.535 - 00:12:10.365
+         (0,11)
+GUI1MI   mas assim (est) a que me fez principalmente
+         00:12:10.475 - 00:12:12.925
+         (0,47)
+GUI1MI   é ficar só depois é porque como eu era pequeno
+         00:12:13.395 - 00:12:17.665
+         (0,22)
+GUI1MI   num era normal você normal assim não era viável deixar uma criança de cinco quatro anos sozinha em casa então
+         00:12:17.885 - 00:12:23.455
+         (0,16)
+GUI1MI   eu tinha babá
+         00:12:23.615 - 00:12:24.655
+         (0,38)
+GUI1MI   até essa idade mais ou menos só que o que aconteceu uma uma
+         00:12:25.040 - 00:12:29.190
+         (0,10)
+GUI1MI   uma menina que foi ser minha babá
+         00:12:29.290 - 00:12:32.160
+DOCLS    rum
+         00:12:31.720 - 00:12:32.130
+         (0,30)
+GUI1MI   e eu sempre tinha assim cofres
+         00:12:32.460 - 00:12:34.150
+         (0,17)
+DOCLS    sim
+         00:12:34.320 - 00:12:34.880
+         (0,07)
+GUI1MI   entendeu
+         00:12:34.950 - 00:12:35.390
+         (0,17)
+GUI1MI   cofres normais meu pai botava pra dizer seu dinheiro coisa assim
+         00:12:35.555 - 00:12:38.835
+         (0,51)
+GUI1MI   só que criança não liga pra dinheiro (risos)
+         00:12:39.350 - 00:12:40.900
+         (0,23)
+GUI1MI   aí eu tinha lá o cofre mas ele sempre botava dinheiro lá sempre que eu (   )
+         00:12:41.130 - 00:12:45.620
+         (0,63)
+GUI1MI   ok meu cofre
+         00:12:46.250 - 00:12:46.990
+         (0,40)
+GUI1MI   e aí o que aconteceu é foi que essa menina cuidava de mim
+         00:12:47.385 - 00:12:50.255
+         (0,51)
+GUI1MI   e
+         00:12:50.765 - 00:12:51.725
+         (0,16)
+GUI1MI   beleza e eu
+         00:12:51.880 - 00:12:52.980
+         (0,09)
+GUI1MI   nessa época também foi o ano que eu frequentei banca também
+         00:12:53.065 - 00:12:57.145
+         (0,20)
+DOCLS    rum
+         00:12:57.350 - 00:12:57.970
+         (0,05)
+GUI1MI   foi o ano que frequentei banca foi
+         00:12:58.015 - 00:12:59.045
+         (0,08)
+GUI1MI   aí eu
+         00:12:59.125 - 00:12:59.685
+         (0,28)
+GUI1MI   aí a banca era
+         00:12:59.970 - 00:13:00.890
+         (0,14)
+GUI1MI   duas casas
+         00:13:01.025 - 00:13:02.185
+         (0,19)
+GUI1MI   da minha então não tinha distancia e aí eu ia e voltava andando normal
+         00:13:02.370 - 00:13:06.460
+DOCLS    sim
+         00:13:04.450 - 00:13:05.220
+         (0,58)
+GUI1MI   então aí  chegou um dia um certo dia 
+         00:13:07.040 - 00:13:09.610
+         (0,81)
+GUI1MI   que eu
+         00:13:10.420 - 00:13:11.190
+         (0,15)
+GUI1MI   fui fazer um
+         00:13:11.340 - 00:13:12.250
+         (0,09)
+GUI1MI   um brincar fui fazer uma supresa dizer oi cheguei dar um susto nela
+         00:13:12.340 - 00:13:15.350
+         (0,41)
+GUI1MI   e ela tava com a mão no meu cofre entendeu tirando dinheiro só que aí 
+         00:13:15.760 - 00:13:19.070
+         (0,52)
+GUI1MI   sorretariamente saí e tranquei tudo
+         00:13:19.590 - 00:13:22.010
+         (0,31)
+GUI1MI   aí ela não meu viu
+         00:13:22.315 - 00:13:23.245
+         (0,52)
+GUI1MI   í mais tarde eu falei pros meus pais que eu tinha visto fulana mexendo 
+         00:13:23.765 - 00:13:27.605
+         (0,29)
+GUI1MI   meu cofre e não sabia o que era
+         00:13:27.900 - 00:13:30.460
+         (0,25)
+GUI1MI   aí quando foi olhar lá tava um buracão debaixo do cofre ela só 
+         00:13:30.705 - 00:13:34.215
+         (0,11)
+GUI1MI   tirava o dinheiro entendeu
+         00:13:34.325 - 00:13:35.515
+         (0,23)
+GUI1MI   aí meus pais já suspeitavam por ela tava parecendo com
+         00:13:35.745 - 00:13:38.735
+         (0,16)
+GUI1MI   com roupas novas a mãe tinha ligado pra meus pais da onde ela tinha tirado essa roupa ela tinha dito que era meu pai que tava dando dinheiro pra ela
+         00:13:38.895 - 00:13:45.375
+         (0,26)
+GUI1MI   e acabava e acabava gerando uma confusão 
+         00:13:45.640 - 00:13:47.630
+         (0,03)
+GUI1MI   que que ela era menor
+         00:13:47.660 - 00:13:49.360
+         (0,17)
+GUI1MI   meu pai maior e aí o que 
+         00:13:49.525 - 00:13:51.195
+         (0,25)
+GUI1MI   ela tinha o salário dela um salário (  ) num era salário mas não era salário era tipo um
+         00:13:51.445 - 00:13:55.745
+         (0,14)
+DOCLS    uma contribuição
+         00:13:55.880 - 00:13:56.500
+         (0,14)
+GUI1MI   a contribuição dela
+         00:13:56.645 - 00:13:57.825
+         (0,37)
+GUI1MI   e painho tá dando um a mais por quê? por aí poderia gerar conversas essas coisas assim
+         00:13:58.190 - 00:14:02.830
+         (0,29)
+GUI1MI   aí
+         00:14:03.125 - 00:14:03.755
+         (0,10)
+GUI1MI   foi uma acabação assim (risos) foi parar lá era choro
+         00:14:03.855 - 00:14:06.895
+         (0,29)
+GUI1MI   tudo assim
+         00:14:07.190 - 00:14:07.970
+         (0,05)
+DOCLS    e ela com o foi que ela reagiu seus pais conversaram com ela?
+         00:14:08.025 - 00:14:11.525
+         (0,38)
+GUI1MI   conversar é uma palavra forte né (risos) foi a conversa com a polícia mesmo
+         00:14:11.900 - 00:14:15.900
+DOCLS    sim
+         00:14:13.535 - 00:14:14.305
+         (0,14)
+DOCLS    como foi essa história Guilherme
+         00:14:16.045 - 00:14:17.235
+GUI1MI   olhe foi uma coisa assim muito 
+         00:14:17.225 - 00:14:19.165
+         (0,19)
+GUI1MI   traumática
+         00:14:19.360 - 00:14:20.270
+         (0,22)
+GUI1MI   aí a gente foi ela morava num bairro próximo ao nosso
+         00:14:20.490 - 00:14:24.660
+DOCLS    sim
+         00:14:24.170 - 00:14:24.670
+         (0,41)
+GUI1MI   aí minha mãe não queria saber se ela tinha assim
+         00:14:25.075 - 00:14:27.595
+         (0,38)
+GUI1MI   quantos anos ela tinha
+         00:14:27.970 - 00:14:29.020
+         (0,39)
+GUI1MI   ela roubou
+         00:14:29.410 - 00:14:30.330
+         (0,28)
+GUI1MI   aí ela desceu com a polícia primeiro foi meu pai mais calmo na época 
+         00:14:30.605 - 00:14:34.985
+DOCLS    (risos)
+         00:14:32.220 - 00:14:32.980
+         (0,13)
+GUI1MI   falando "ah Cláudia daqui fazendo coisas"
+         00:14:35.115 - 00:14:37.135
+         (0,22)
+GUI1MI   a menina "ah"
+         00:14:37.350 - 00:14:38.110
+         (0,37)
+GUI1MI   (  )
+         00:14:38.480 - 00:14:38.840
+         (0,41)
+GUI1MI   aí ligou pra polícia e foi pra polícia
+         00:14:39.255 - 00:14:40.585
+         (0,35)
+GUI1MI   aí também porque tinha um um parente dela que era policial na época
+         00:14:40.935 - 00:14:45.495
+         (0,09)
+DOCLS    sim
+         00:14:45.590 - 00:14:46.510
+GUI1MI   aí desceu
+         00:14:45.590 - 00:14:46.510
+         (0,12)
+DOCLS    (risos)
+         00:14:46.635 - 00:14:47.205
+         (0,04)
+GUI1MI   belíssimos e foram até lá e eu fui também aí a gente "(    )"
+         00:14:47.245 - 00:14:51.455
+         (0,03)
+GUI1MI   aí a mãe dela "aí meu Deus" uma vergonha um choro
+         00:14:51.485 - 00:14:54.515
+DOCLS    (risos)
+         00:14:53.425 - 00:14:54.225
+         (0,47)
+GUI1MI   mas assim no no
+         00:14:54.990 - 00:14:56.390
+         (0,41)
+GUI1MI   num acabou pegando o dinheiro de volta claro ela já tinha gastado tudo e mainha também disse "ah"
+         00:14:56.795 - 00:15:00.875
+         (0,25)
+DOCLS    mas foi dinheiro do cofre?
+         00:15:01.120 - 00:15:02.380
+         (0,14)
+GUI1MI   foi foi o dinheiro do cofre
+         00:15:02.515 - 00:15:03.575
+DOCLS    que era muito dinheiro no caso
+         00:15:03.370 - 00:15:04.910
+         (0,50)
+GUI1MI   foi uns quinhentos reais no caso (risos)
+         00:15:05.415 - 00:15:07.405
+         (0,09)
+GUI1MI   entendeu era essa a média
+         00:15:07.495 - 00:15:08.945
+         (0,12)
+GUI1MI   aí
+         00:15:09.065 - 00:15:09.725
+         (0,06)
+GUI1MI   por isso que fez todo esse alarde
+         00:15:09.790 - 00:15:11.560
+         (0,11)
+GUI1MI   mas assim depois disso meus pais é dinheiro uma hora
+         00:15:11.670 - 00:15:14.950
+         (0,10)
+GUI1MI   volta vai e volta então
+         00:15:15.055 - 00:15:16.665
+         (0,04)
+GUI1MI   não vamos fazer não vai acabar nossa vida quinhentos reais porque
+         00:15:16.705 - 00:15:19.515
+         (0,06)
+GUI1MI   teoricamente num num era pra contas aquele dinheiro era só pra eu guardar mesmo pra 
+         00:15:19.575 - 00:15:23.495
+         (0,41)
+GUI1MI   pro futuro necessariamente então
+         00:15:23.910 - 00:15:26.390
+DOCLS    entendi
+         00:15:26.310 - 00:15:27.050
+         (0,70)
+GUI1MI   mas passou só que a partir daí eu comecei a ficar sozinho mesmo ninguém 
+         00:15:27.755 - 00:15:32.855
+DOCLS    (risos)
+         00:15:28.430 - 00:15:29.210
+         (0,20)
+GUI1MI   era
+         00:15:33.055 - 00:15:33.595
+         (0,28)
+GUI1MI   coisa de entrar em casa meus pais num gostava justamente por causa desse trauma de
+         00:15:33.880 - 00:15:37.140
+         (0,12)
+GUI1MI   de alguém entrar querer pegar as coisas entendeu você perde você acaba perdendo a 
+         00:15:37.265 - 00:15:40.755
+GUI1MI   confiança nas pessoas entendeu
+         00:15:40.755 - 00:15:42.175
+DOCLS    sim
+         00:15:41.060 - 00:15:42.100
+         (0,08)
+GUI1MI   nem membros da família não que acha que membros da família sejam ladrão mas tipo 
+         00:15:42.255 - 00:15:45.855
+         (0,25)
+GUI1MI   não
+         00:15:46.110 - 00:15:46.510
+         (0,09)
+GUI1MI   é melhor (risos) ficar e minhas tias trabalhavam então acabei ficando só 
+         00:15:46.595 - 00:15:51.345
+DOCLS    (risos)
+         00:15:46.615 - 00:15:47.715
+         (0,41)
+GUI1MI   esse período assim dos seis sete anos até hoje mais ou menos
+         00:15:51.760 - 00:15:56.270
+         (0,10)
+GUI1MI   agora não tô só porque tenho um irmão né aí agora muda um pouco o contexto
+         00:15:56.370 - 00:16:01.060
+DOCLS    sim
+         00:15:58.010 - 00:15:58.810
+         (0,22)
+DOCLS    mas e na escola você não tinha amigos
+         00:16:01.275 - 00:16:03.275
+         (1,00)
+DOCLS    no ensino fundamental no ensino médio não tinha grupos de amigos
+         00:16:04.280 - 00:16:07.490
+GUI1MI   eu queria eu
+         00:16:06.780 - 00:16:07.480
+         (0,05)
+GUI1MI   eu
+         00:16:07.535 - 00:16:07.805
+         (0,12)
+GUI1MI   costumo assim
+         00:16:07.925 - 00:16:08.935
+         (0,31)
+GUI1MI   não tinha tantos amigos na iinfância
+         00:16:09.245 - 00:16:11.045
+         (0,14)
+DOCLS    sim
+         00:16:11.180 - 00:16:11.730
+         (0,46)
+GUI1MI   eu tive mais colegas no no fundamental e amigos eu vim ter no ensino médio foi quando eu 
+         00:16:12.190 - 00:16:18.010
+         (0,43)
+GUI1MI   é eu comecei a
+         00:16:18.435 - 00:16:19.245
+         (0,10)
+GUI1MI   a me abrir mais assim pra falar com as pessoas pra ser mais
+         00:16:19.345 - 00:16:22.205
+         (0,16)
+GUI1MI   simpático
+         00:16:22.360 - 00:16:22.830
+         (0,12)
+GUI1MI   (risos)
+         00:16:22.950 - 00:16:23.580
+         (0,11)
+DOCLS    mas essa falta de simpatia como diz você foi por causa desse trauma com a babá
+         00:16:23.690 - 00:16:28.040
+GUI1MI   não é porque
+         00:16:26.790 - 00:16:28.090
+         (0,12)
+GUI1MI   é assim eu era uma pessoa eu era bem gordinho
+         00:16:28.215 - 00:16:30.335
+         (0,17)
+GUI1MI   sim
+         00:16:30.510 - 00:16:31.320
+         (0,10)
+GUI1MI   entendeu
+         00:16:31.420 - 00:16:32.020
+         (0,22)
+GUI1MI   e assim
+         00:16:32.235 - 00:16:33.345
+         (0,10)
+GUI1MI   crianças não tem muitas papas na língua não tem muito controle no que vai falar
+         00:16:33.445 - 00:16:37.125
+         (0,24)
+GUI1MI   então muitas vezes eu
+         00:16:37.365 - 00:16:38.715
+         (0,13)
+GUI1MI   eh
+         00:16:38.845 - 00:16:39.575
+         (0,09)
+GUI1MI   as pessoas riam não queriam falar comigo só por ser gordo mesmo
+         00:16:39.665 - 00:16:43.645
+         (0,19)
+GUI1MI   as professoras me chamavam de de bolachão de baleia entendeu essas coisas assim
+         00:16:43.830 - 00:16:47.710
+         (0,08)
+GUI1MI   e eu me sentia assim retraído
+         00:16:47.785 - 00:16:49.385
+         (0,41)
+GUI1MI   faço o meu aqui então fico aqui na minha e pronto
+         00:16:49.800 - 00:16:51.980
+         (0,22)
+GUI1MI   sabe de uma
+         00:16:52.195 - 00:16:52.665
+         (0,13)
+GUI1MI   eu levava brinquedos pra escola também só que
+         00:16:52.795 - 00:16:55.265
+         (0,35)
+GUI1MI   e no início das aulas sobrava brinquedos 
+         00:16:55.615 - 00:16:58.405
+         (0,15)
+DOCLS    faziam o que?
+         00:16:58.555 - 00:16:59.555
+GUI1MI   pegavam brinquedo mas devolviam no final da aula só que assim pegava e eu nem sabia quem era e eu ia lá "professora pegaram meu brinquedo" e ela
+         00:16:59.560 - 00:17:05.890
+         (0,35)
+GUI1MI   "ah esses gordos só mentem"
+         00:17:06.240 - 00:17:07.590
+         (0,20)
+GUI1MI   aí eu ficava
+         00:17:07.790 - 00:17:08.560
+         (0,83)
+GUI1MI   ah vou fazer o que né aí quando era no final da aula a gente ia pro intervalo quando voltava
+         00:17:09.390 - 00:17:13.790
+         (0,14)
+GUI1MI   aí
+         00:17:13.935 - 00:17:14.235
+         (0,23)
+GUI1MI   magicamente
+         00:17:14.470 - 00:17:15.510
+         (0,14)
+GUI1MI   o brinquedo aparecia aí eu tinha que levar dois brinquedos que era um pro ladrão e outro pra mim
+         00:17:15.645 - 00:17:20.955
+DOCLS    sim
+         00:17:17.175 - 00:17:17.625
+DOCLS    (risos)
+         00:17:20.095 - 00:17:20.865
+         (0,16)
+GUI1MI   (risos) ladrão não ladrão é uma palavra forte  pra uma criança (   )
+         00:17:21.115 - 00:17:25.495
+DOCLS    sim e seus pais?
+         00:17:24.150 - 00:17:25.500
+         (0,06)
+DOCLS    você não comentava isso com seus pais?
+         00:17:25.565 - 00:17:27.035
+GUI1MI   não minha relação com meus pais é assim bem
+         00:17:27.025 - 00:17:29.455
+         (0,69)
+GUI1MI   necessário assim  os pontos que acho necessário falar eu falo  o resto eu o que eu acho que consigo lidar sozinho eu lido 
+         00:17:30.145 - 00:17:37.115
+         (0,04)
+GUI1MI   entendeu
+         00:17:37.155 - 00:17:37.675
+         (0,32)
+GUI1MI   (hes) eu 
+         00:17:38.000 - 00:17:38.600
+         (0,20)
+GUI1MI   hum contubardo mas assim é o que eu
+         00:17:38.805 - 00:17:40.855
+DOCLS    sim
+         00:17:39.845 - 00:17:40.505
+         (0,20)
+GUI1MI   falo geralmente o que realmente
+         00:17:41.060 - 00:17:43.770
+         (0,28)
+GUI1MI   chega um momento que eu preciso de 
+         00:17:44.050 - 00:17:45.870
+         (0,56)
+GUI1MI   de um conselho e uma ajuda aqui
+         00:17:46.435 - 00:17:48.085
+DOCLS    mas você vê isso como um problema?
+         00:17:48.085 - 00:17:50.135
+         (0,11)
+DOCLS    tem problemas com isso por causa
+         00:17:50.245 - 00:17:51.995
+GUI1MI   eu já levei mais isso com um problema hoje
+         00:17:51.895 - 00:17:54.275
+         (0,87)
+GUI1MI   é meio que irrelevante na verdade
+         00:17:55.140 - 00:17:57.080
+         (0,41)
+GUI1MI   assim o que eu acho que me custou foi foi uma certa
+         00:17:57.495 - 00:18:00.195
+         (0,47)
+GUI1MI   eh como posso dizer? conexão
+         00:18:00.660 - 00:18:02.840
+         (0,17)
+GUI1MI   maior eu acho assim
+         00:18:03.005 - 00:18:03.785
+         (0,94)
+GUI1MI   com todos os membros da minha família eu sempre fui assim o o
+         00:18:04.720 - 00:18:07.180
+         (0,19)
+GUI1MI   o o neto
+         00:18:07.365 - 00:18:08.985
+         (0,32)
+GUI1MI   eu era assim o ideal de neto queria ser sempre assim o padrão não falava muita coisa era sempre
+         00:18:09.310 - 00:18:15.220
+         (0,16)
+GUI1MI   ficava ali fique aqui
+         00:18:15.380 - 00:18:16.570
+         (0,33)
+GUI1MI   então sempre voltado pros estudos assim
+         00:18:16.900 - 00:18:19.450
+DOCLS    sim
+         00:18:17.290 - 00:18:18.030
+         (0,43)
+GUI1MI   e só
+         00:18:19.875 - 00:18:20.295
+         (0,34)
+GUI1MI   aí isso meu eu me fechei no meu mundo e pronto
+         00:18:20.630 - 00:18:22.900
+         (0,29)
+GUI1MI   aí também a família
+         00:18:23.190 - 00:18:24.460
+         (0,31)
+GUI1MI   (   ) quando foi em
+         00:18:24.770 - 00:18:26.050
+         (0,17)
+GUI1MI   na primeira festa que eu pedi pra ir
+         00:18:26.225 - 00:18:28.595
+DOCLS    (hes)
+         00:18:28.015 - 00:18:28.515
+         (0,28)
+GUI1MI   foi o choque eu disse "meu Deus"  Guilherme gosta de sei lá o que
+         00:18:28.870 - 00:18:32.390
+         (0,38)
+GUI1MI   coragem aí foi um
+         00:18:32.775 - 00:18:34.605
+         (0,08)
+DOCLS    com quantos anos você foi pra primeira festa?
+         00:18:34.685 - 00:18:37.075
+GUI1MI   quinze
+         00:18:36.455 - 00:18:37.065
+         (0,06)
+GUI1MI   catorze quinze anos foi bem velho assim
+         00:18:37.135 - 00:18:39.345
+         (0,12)
+DOCLS    e aí como foi a experiência na primeira festa?
+         00:18:39.465 - 00:18:41.425
+         (0,58)
+GUI1MI   estranha
+         00:18:42.010 - 00:18:42.900
+         (0,39)
+DOCLS    por que estranha?
+         00:18:43.290 - 00:18:44.270
+GUI1MI   porque eu não tava acostumado com
+         00:18:43.635 - 00:18:45.325
+         (0,39)
+GUI1MI   o tanta gente eu ainda tinhamuitos
+         00:18:45.715 - 00:18:47.195
+         (0,49)
+GUI1MI   assim noções de que eu não gostava de 
+         00:18:47.680 - 00:18:49.740
+         (0,17)
+GUI1MI   assim a gente
+         00:18:49.905 - 00:18:50.745
+         (0,19)
+GUI1MI   quando não vai não não por falta de oportunidade assim nem por falta de autorização mas porque partia de mim mesmo querer ficar em casa mesmo
+         00:18:50.930 - 00:18:57.670
+         (0,37)
+GUI1MI   porque eu tinha medo às vezes assim de de entrar no meio de uma roda de alguma coisa
+         00:18:58.040 - 00:19:01.530
+         (0,09)
+GUI1MI   será?
+         00:19:01.620 - 00:19:02.460
+         (0,29)
+GUI1MI   é é seria é tinha receio de as pessoas não gostarem de mim de
+         00:19:02.755 - 00:19:06.175
+         (0,22)
+GUI1MI   de falar alguma coisa que eu não goste e e naquela eu tinha
+         00:19:06.400 - 00:19:09.840
+         (0,28)
+GUI1MI   uma personalidade bem
+         00:19:10.115 - 00:19:11.415
+         (0,28)
+GUI1MI   é quando eu não escutava o que queria bem agressivo (risos)entendeu aí
+         00:19:11.700 - 00:19:16.490
+         (0,45)
+GUI1MI   preferia ficar em casa no meu canto no meu universo
+         00:19:16.940 - 00:19:19.590
+         (0,13)
+GUI1MI   só que quando saí?
+         00:19:19.720 - 00:19:21.180
+         (0,61)
+GUI1MI   oh
+         00:19:21.785 - 00:19:22.405
+         (0,09)
+GUI1MI   nas cidades né um monte de gente aí eu comecei achar um certo período que eu
+         00:19:22.500 - 00:19:26.290
+         (0,26)
+GUI1MI   tinha pavor de gente assim e muita gente num lugar só 
+         00:19:26.550 - 00:19:29.180
+         (0,10)
+GUI1MI   só que só
+         00:19:29.280 - 00:19:30.230
+         (0,21)
+GUI1MI   fases mesmo assim era só um momento hoje 
+         00:19:30.440 - 00:19:33.820
+         (0,23)
+GUI1MI   adoro hoje eu tô indo entendeu (risos)
+         00:19:34.055 - 00:19:35.985
+DOCLS    sim
+         00:19:34.935 - 00:19:35.995
+         (0,05)
+GUI1MI   e momentos assim da gente mesmo
+         00:19:36.040 - 00:19:37.790
+DOCLS    (risos)
+         00:19:36.480 - 00:19:37.820
+         (0,04)
+DOCLS    é você falou que tem um pouco de agressividade você já agrediu alguém já brigou na escola assim 
+         00:19:37.860 - 00:19:42.560
+GUI1MI   ah sim já na verdade (risos)
+         00:19:42.575 - 00:19:44.235
+         (0,03)
+DOCLS    sim como foi?
+         00:19:44.260 - 00:19:45.790
+         (0,28)
+GUI1MI   ah foi foi uma experiência muito
+         00:19:46.070 - 00:19:48.550
+         (0,61)
+GUI1MI   é porque assim novamente
+         00:19:49.155 - 00:19:50.535
+         (0,12)
+DOCLS    sim
+         00:19:50.650 - 00:19:51.220
+GUI1MI   quando você é criança você não tem muitas noções do que você tá fazendo
+         00:19:50.720 - 00:19:54.890
+DOCLS    sim
+         00:19:54.320 - 00:19:54.900
+         (0,17)
+GUI1MI   mas você sabe quando você gosta ou não gosta de um comentário
+         00:19:55.075 - 00:19:58.175
+         (0,44)
+GUI1MI   e eu sempre fui uma pessoa assim de
+         00:19:58.620 - 00:20:00.060
+         (0,32)
+GUI1MI   limites
+         00:20:00.385 - 00:20:01.365
+         (0,19)
+GUI1MI   de dizer eu sempre me limitei de muitas coisas mas sempre botei limites respeito sabe
+         00:20:01.550 - 00:20:06.390
+         (0,31)
+GUI1MI   você não quer falar comigo não fale mas também
+         00:20:06.705 - 00:20:08.555
+         (0,39)
+GUI1MI   não venha com piadas não venha com comentários que eu não gosto
+         00:20:08.945 - 00:20:11.525
+DOCLS    sim
+         00:20:09.945 - 00:20:10.715
+         (0,06)
+GUI1MI   se você falar
+         00:20:11.585 - 00:20:12.475
+         (0,21)
+GUI1MI   beleza se eu pedi pra você parar
+         00:20:12.685 - 00:20:14.375
+         (0,26)
+DOCLS    pare
+         00:20:14.635 - 00:20:15.505
+GUI1MI   pare
+         00:20:14.635 - 00:20:15.505
+         (0,79)
+GUI1MI   aí uma certa vez um um 
+         00:20:16.295 - 00:20:18.935
+         (0,22)
+GUI1MI   um me- isso já foi morando na na Barra e isso mais velho eu acho que tinha uns
+         00:20:19.150 - 00:20:22.770
+         (0,17)
+GUI1MI   doze
+         00:20:22.935 - 00:20:23.555
+         (0,08)
+GUI1MI   treze anos
+         00:20:23.630 - 00:20:24.790
+         (0,12)
+GUI1MI   aí eu tava sentado com uma amiga minha e tava todos os meninos assim
+         00:20:24.905 - 00:20:29.165
+         (0,29)
+GUI1MI   do condomínio que eu também tinha amizade nessa época
+         00:20:29.460 - 00:20:32.200
+         (0,29)
+GUI1MI   e tinha esse menino novo
+         00:20:32.495 - 00:20:34.185
+         (0,85)
+GUI1MI   eh
+         00:20:35.035 - 00:20:35.975
+         (0,10)
+GUI1MI   que tinha mais ou menos minha idade um ano a menos alguma coisa assim
+         00:20:36.080 - 00:20:39.060
+         (0,25)
+GUI1MI   e nisso eu tava ouvindo umas músicas com minha amiga
+         00:20:39.305 - 00:20:41.855
+         (0,47)
+GUI1MI   e ele começou os comentários "olha aí os viadinhos ali" ouvindo música sei lá o que eu aí
+         00:20:42.320 - 00:20:47.370
+         (1,28)
+GUI1MI   (  )
+         00:20:48.650 - 00:20:49.410
+         (0,38)
+GUI1MI   aí ele continuou falando você pode parar por favor
+         00:20:49.795 - 00:20:53.135
+         (0,38)
+GUI1MI   aí minha mãe falou
+         00:20:53.520 - 00:20:54.280
+         (0,05)
+GUI1MI   (   )
+         00:20:54.325 - 00:20:55.825
+DOCLS    sua mãe tava lá?
+         00:20:55.660 - 00:20:56.650
+GUI1MI   não isso era só tipo jovens
+         00:20:56.420 - 00:20:58.385
+DOCLS    ah ah
+         00:20:56.840 - 00:20:57.680
+DOCLS    entendi
+         00:20:58.365 - 00:20:59.055
+GUI1MI   estavam uns jovens num bloco viam tava eu e ela ouvindo música e o resto dos meninos conversando 
+         00:20:58.385 - 00:21:02.895
+         (0,16)
+GUI1MI   aleatorie dez
+         00:21:03.055 - 00:21:04.495
+         (0,22)
+GUI1MI   aí ele
+         00:21:04.710 - 00:21:05.700
+         (0,18)
+GUI1MI   pegou e queria pegar no meu pé
+         00:21:05.880 - 00:21:07.720
+         (0,31)
+GUI1MI   à toa
+         00:21:08.025 - 00:21:08.825
+         (0,75)
+GUI1MI   aí eu me levantei
+         00:21:09.580 - 00:21:11.100
+         (0,38)
+GUI1MI   (  )
+         00:21:11.475 - 00:21:12.005
+         (0,11)
+GUI1MI   pra sair não foi nem pra fazer nada (  )
+         00:21:12.115 - 00:21:14.535
+         (0,14)
+GUI1MI   ele
+         00:21:14.670 - 00:21:15.340
+         (0,44)
+GUI1MI   "ah, o que foi o viadinho"
+         00:21:15.780 - 00:21:17.040
+         (0,12)
+GUI1MI   "com medo é"
+         00:21:17.155 - 00:21:17.885
+         (0,55)
+GUI1MI   aí eu disse "você pode parar por favor" aí ele "eu não vou parar você vai fazer o que?"
+         00:21:18.435 - 00:21:21.855
+         (0,19)
+GUI1MI   aí eu bati nele eu joguei da escada
+         00:21:22.040 - 00:21:23.820
+         (0,44)
+GUI1MI   só o que acontece com
+         00:21:24.265 - 00:21:26.125
+         (0,05)
+GUI1MI   eu era
+         00:21:26.170 - 00:21:26.570
+         (0,12)
+GUI1MI   mais forte
+         00:21:26.685 - 00:21:27.175
+         (0,07)
+GUI1MI   também nessa época era gordinho e ele era mais fransino então qualquer coisa que eu desse ele tava caindo no chão tava
+         00:21:27.245 - 00:21:32.345
+         (0,55)
+GUI1MI   realmente foi agressivo
+         00:21:32.890 - 00:21:34.000
+         (0,35)
+GUI1MI   aí mas só que eu cheguei no meu limite ali
+         00:21:34.350 - 00:21:36.830
+         (0,20)
+GUI1MI   í eu chutei ele e ele foi escada abaixo
+         00:21:37.035 - 00:21:39.205
+         (0,44)
+GUI1MI   no momento a gente não pensa em ter causado algum dano mas depois obviamente
+         00:21:39.645 - 00:21:43.165
+DOCLS    sim
+         00:21:42.070 - 00:21:42.740
+         (0,25)
+GUI1MI   mas aí eu tava com a raiva nos olhos ainda
+         00:21:43.420 - 00:21:46.080
+         (0,14)
+GUI1MI   sai do bloco
+         00:21:46.215 - 00:21:47.065
+         (0,11)
+GUI1MI   e era o bloco que ele morava
+         00:21:47.175 - 00:21:49.215
+         (0,38)
+GUI1MI   aí ele chamou a mãe dele
+         00:21:49.590 - 00:21:51.220
+         (0,15)
+GUI1MI   aí eu fui pro bloco aí a mãe dele chegou lá depois falando "ah você derrunou meu filho" é ele fala o que ele quiser
+         00:21:51.370 - 00:21:57.280
+DOCLS    e aí?
+         00:21:51.930 - 00:21:52.620
+         (0,17)
+GUI1MI   então a gente tem que dá sujeito a algumas coisas
+         00:21:57.450 - 00:21:59.820
+         (0,05)
+GUI1MI   aí não sei lá o que aí eu fui lá pra minha mãe
+         00:21:59.870 - 00:22:02.500
+         (0,55)
+GUI1MI   aí foram lá pros meus pais falando "a gente vai botar seu filho"
+         00:22:03.050 - 00:22:05.510
+         (0,05)
+GUI1MI   "na polícia" é um agressor
+         00:22:05.555 - 00:22:07.555
+         (0,26)
+DOCLS    quem falou isso?
+         00:22:07.820 - 00:22:08.800
+GUI1MI   a mãe do menino falando com minha mãe
+         00:22:08.645 - 00:22:10.225
+DOCLS    sim
+         00:22:09.380 - 00:22:10.240
+         (0,12)
+GUI1MI   aí minha mãe disse "seu filho fez o que?"
+         00:22:10.365 - 00:22:12.595
+         (0,08)
+GUI1MI   aí ela disse
+         00:22:12.675 - 00:22:13.495
+         (0,22)
+GUI1MI   "meu filho não fez nada"
+         00:22:13.720 - 00:22:15.440
+         (0,14)
+GUI1MI   o menino fez o que? aí eu disse "olha mãe"
+         00:22:15.585 - 00:22:17.485
+         (0,73)
+GUI1MI   ele tava ali mexendo comigo tava falando coisa que eu não gosto então
+         00:22:18.210 - 00:22:22.010
+         (0,37)
+GUI1MI   ah então se meu filho está falando
+         00:22:22.375 - 00:22:24.285
+         (0,33)
+GUI1MI   então vou acreditar no meu filho pode ir pra polícia
+         00:22:24.615 - 00:22:26.975
+         (0,28)
+GUI1MI   aí nem foi pra polícia assim
+         00:22:27.260 - 00:22:28.620
+         (0,10)
+DOCLS    não foi
+         00:22:28.725 - 00:22:30.065
+GUI1MI   não (   ) mas assim a gente ficou 
+         00:22:29.060 - 00:22:31.260
+         (0,09)
+GUI1MI   com medo de vim algum processo
+         00:22:31.355 - 00:22:32.825
+         (0,17)
+DOCLS    sim sim
+         00:22:32.995 - 00:22:34.285
+         (0,23)
+DOCLS    é mais além na escola foi insultado de gordo de viadinho?
+         00:22:34.515 - 00:22:38.695
+GUI1MI   já ah de esses são mais frequentes preto também mas eu ja levei
+         00:22:38.680 - 00:22:44.340
+DOCLS    preto
+         00:22:42.505 - 00:22:43.215
+         (0,09)
+GUI1MI   preto agora
+         00:22:44.435 - 00:22:45.485
+         (0,03)
+GUI1MI   pra mim é
+         00:22:45.515 - 00:22:46.305
+         (0,24)
+GUI1MI   é identidade entendeu assim não que eu
+         00:22:46.545 - 00:22:48.715
+         (0,08)
+GUI1MI   eu acho que você não é uma ofensa você chamar alguém de preto
+         00:22:48.795 - 00:22:52.085
+         (0,17)
+GUI1MI   mas na época assim você
+         00:22:52.255 - 00:22:53.985
+         (0,39)
+GUI1MI   ignorância
+         00:22:54.375 - 00:22:55.195
+         (0,54)
+GUI1MI   na maioria das vezes você quer falar alguma coisa porque você não quer ser preto
+         00:22:55.730 - 00:22:58.880
+         (0,11)
+GUI1MI   né
+         00:22:58.990 - 00:22:59.470
+         (0,23)
+GUI1MI   quando falavam esses comentários pra pra amigos meus que tinham uma pele mais retinta que a minha
+         00:22:59.705 - 00:23:04.475
+         (0,52)
+DOCLS    entendi
+         00:23:04.995 - 00:23:05.905
+GUI1MI   entendeu era tipo mais aí como
+         00:23:05.255 - 00:23:07.295
+         (0,09)
+GUI1MI   jovens aí tinha um uma
+         00:23:07.380 - 00:23:08.950
+         (0,32)
+GUI1MI   é uma forma mais 
+         00:23:09.270 - 00:23:10.970
+         (0,10)
+GUI1MI   é de piada né aí por exemplo ah coca cola
+         00:23:11.075 - 00:23:14.625
+         (0,17)
+GUI1MI   ah gruta da petrobrás entendeu esses esses velados assim ou se não preto mesmo mas assim 
+         00:23:14.795 - 00:23:20.905
+         (0,19)
+DOCLS    mas esses insultos geralmente partiam de crianças ou 
+         00:23:21.100 - 00:23:24.410
+         (0,23)
+DOCLS    adolescentes negros ou brancos?
+         00:23:24.640 - 00:23:26.440
+         (0,09)
+GUI1MI   era bem 
+         00:23:26.525 - 00:23:27.795
+         (0,21)
+GUI1MI   bem variado mesmo assim noção às vezes a pessoa
+         00:23:28.005 - 00:23:30.885
+         (0,19)
+GUI1MI   da minha cor mesmo não me consi- assim
+         00:23:31.070 - 00:23:32.980
+         (0,73)
+GUI1MI   não osu de pele retinta entendeu mas assim de pessoas mais
+         00:23:33.710 - 00:23:37.140
+         (0,09)
+GUI1MI   mais negras que eu
+         00:23:37.230 - 00:23:38.390
+         (0,51)
+GUI1MI   falando comentários e achando engraçado entendeu e na época eu não vou mentir também que alguns comentários
+         00:23:38.905 - 00:23:43.905
+         (0,19)
+GUI1MI   quando não eram proferidos pra mim às vezes a gente acha engraçado também
+         00:23:44.100 - 00:23:47.950
+         (0,35)
+GUI1MI   novamente por uma questão de ignorância de você num num
+         00:23:48.300 - 00:23:51.230
+         (0,38)
+GUI1MI   num num saber muito porque você tá ruindo disso por que isso é uma coisa engraçada por que a cor de pele é uma coisa engraçada
+         00:23:51.610 - 00:23:57.010
+         (0,56)
+GUI1MI   entendeu aí quando eu vim
+         00:23:57.565 - 00:23:59.295
+         (0,13)
+GUI1MI   é ficando mais velho ensino médio fui me engajando mais em
+         00:23:59.425 - 00:24:02.045
+         (0,09)
+GUI1MI   por que perguntava mais porque isso era piada se isso era considerado piada
+         00:24:02.140 - 00:24:06.110
+         (0,19)
+GUI1MI   então aí eu comecei a me engajar mais
+         00:24:06.300 - 00:24:08.280
+         (0,14)
+GUI1MI   não então alguma coisa tá eraado
+         00:24:08.415 - 00:24:11.265
+DOCLS    entendi (risos)
+         00:24:10.365 - 00:24:11.265
+         (0,20)
+DOCLS    mas você leu alguma coisa sobre isso
+         00:24:11.470 - 00:24:13.910
+         (0,19)
+DOCLS    quem foi que te informou sobre isso foi uma consciência pessoal assim?
+         00:24:14.105 - 00:24:18.115
+GUI1MI   não assim que partiu
+         00:24:17.035 - 00:24:18.115
+         (0,10)
+GUI1MI   partiu de mim querer saber entendeu
+         00:24:18.220 - 00:24:19.840
+DOCLS    sim
+         00:24:19.205 - 00:24:19.855
+         (0,30)
+GUI1MI   mas que me formou claro
+         00:24:20.155 - 00:24:21.525
+         (0,04)
+GUI1MI   foram alguns artigos é
+         00:24:21.565 - 00:24:23.665
+         (0,31)
+GUI1MI   vídeos no youtube também de algumas pessoas que já são militantes da causa
+         00:24:23.980 - 00:24:28.350
+         (0,30)
+GUI1MI   eh
+         00:24:28.650 - 00:24:29.280
+         (0,15)
+GUI1MI   Nataly Neto é uma youtuber que eu acompanho
+         00:24:29.430 - 00:24:32.300
+         (0,22)
+GUI1MI   pessoas assim que são do meio e que tavam falando
+         00:24:32.520 - 00:24:34.650
+         (0,06)
+GUI1MI   poxa por que você tá rindo disso? entendeu se você também tá dentro disso entendeu aí
+         00:24:34.710 - 00:24:39.780
+DOCLS    sim
+         00:24:38.350 - 00:24:39.030
+         (0,22)
+GUI1MI   começou mais o choque
+         00:24:39.995 - 00:24:41.405
+         (0,18)
+GUI1MI   de de realidade percepção de
+         00:24:41.585 - 00:24:43.945
+         (0,34)
+GUI1MI   poxa vamo ver aqui onde tô errando porque a ignorância
+         00:24:44.280 - 00:24:47.590
+         (0,36)
+GUI1MI   tá fazendo eu rir disso entendeu não tá me fazendo refletir sobre aquilo
+         00:24:47.950 - 00:24:51.760
+         (0,23)
+DOCLS    mas isso foi aqui na universidade?
+         00:24:51.990 - 00:24:54.360
+         (0,04)
+GUI1MI   não isso foi mais no primeiro ano do ensino médio
+         00:24:54.400 - 00:24:58.060
+         (0,23)
+GUI1MI   é o primeiro ano foi quando comecei a mais a 
+         00:24:58.295 - 00:25:00.515
+         (0,47)
+GUI1MI   não a questionar mais algumas algumas piadas
+         00:25:00.980 - 00:25:03.910
+         (0,56)
+DOCLS    sim
+         00:25:04.470 - 00:25:04.930
+         (0,03)
+DOCLS    e você acha que esse seu questionamento a partir do ensino médio te levou a você fazer esse curso que você faz hoje?
+         00:25:04.955 - 00:25:09.175
+         (0,05)
+GUI1MI   h definitivamente (risos)
+         00:25:09.230 - 00:25:10.610
+         (0,12)
+GUI1MI   porque até então eu achava que
+         00:25:10.735 - 00:25:12.955
+         (0,49)
+GUI1MI   sociologia
+         00:25:13.440 - 00:25:14.410
+         (0,10)
+DOCLS    sim
+         00:25:14.510 - 00:25:15.110
+         (0,06)
+GUI1MI   que era o curso entendeu que era o curso não que era 
+         00:25:15.175 - 00:25:17.595
+         (0,19)
+GUI1MI   era o que tipo
+         00:25:17.780 - 00:25:18.960
+         (0,28)
+GUI1MI   abrangia tudo
+         00:25:19.235 - 00:25:20.185
+         (0,11)
+DOCLS    sim
+         00:25:20.295 - 00:25:20.845
+         (0,17)
+GUI1MI   (   )
+         00:25:21.015 - 00:25:21.955
+         (0,25)
+GUI1MI   e quando eu fui pesquisando mais a respeito assim cientista é isso cientista político antropólogo
+         00:25:22.210 - 00:25:26.600
+         (0,19)
+GUI1MI   aí eu disso "tudo isso é o que?"
+         00:25:26.790 - 00:25:28.070
+         (0,67)
+GUI1MI   aí foi funilando até chegar o termo ciências sociais
+         00:25:28.735 - 00:25:31.815
+         (0,75)
+GUI1MI   daria pra fazer isso entendeu eu me interessei pelo pelo pelos pelos 
+         00:25:32.560 - 00:25:37.040
+         (0,90)
+GUI1MI   pelas causas pelos debates entendeu aí eu
+         00:25:37.945 - 00:25:40.575
+         (0,34)
+GUI1MI   aí eu conheci o curso mais 
+         00:25:40.915 - 00:25:42.515
+         (0,06)
+GUI1MI   definitivamente por essas reflexão mais
+         00:25:42.575 - 00:25:44.735
+         (0,12)
+DOCLS    e quem é a youtuber que você assisti ela já tem experiência?
+         00:25:44.860 - 00:25:48.110
+         (0,05)
+DOCLS    você conhece ela o curso que ela faz?
+         00:25:48.160 - 00:25:50.150
+GUI1MI   Nataly Neri é ela faz inclusive ciências sociais
+         00:25:50.140 - 00:25:53.140
+         (0,19)
+DOCLS    ah
+         00:25:53.335 - 00:25:53.705
+         (0,12)
+GUI1MI   aí eu também conheci 
+         00:25:53.825 - 00:25:55.295
+         (0,43)
+GUI1MI   depois que ela falou mas eu já tinha conhecimento do nome do curso do que ele fazia mas quando ela
+         00:25:55.725 - 00:26:00.265
+GUI1MI   falou também eu fui
+         00:26:00.265 - 00:26:01.075
+         (0,40)
+GUI1MI   (hes)
+         00:26:01.475 - 00:26:01.985
+         (0,09)
+DOCLS    ela é ela é de onde?
+         00:26:02.080 - 00:26:03.920
+GUI1MI   minha inspiração ela
+         00:26:02.225 - 00:26:03.835
+         (0,47)
+GUI1MI   eu acho que ela tá morando em São Paulo eu nunca conheci
+         00:26:04.385 - 00:26:06.655
+DOCLS    hum
+         00:26:05.475 - 00:26:06.085
+         (0,15)
+GUI1MI   assim nada só conheço da internet com o youtube
+         00:26:06.805 - 00:26:09.865
+         (0,40)
+GUI1MI   eh
+         00:26:10.260 - 00:26:11.190
+         (0,48)
+GUI1MI   aí ela falou que fazia esse curso também foi engajando a gente nessas causas do movimento negro essas coisas assimmovimento feminista que ela também tá
+         00:26:11.670 - 00:26:19.660
+         (0,55)
+GUI1MI   uma questão mais de ignorância minha às vezes pra
+         00:26:20.210 - 00:26:22.120
+         (0,42)
+GUI1MI   conhecer mais sobre os movimentos
+         00:26:22.540 - 00:26:24.250
+         (0,04)
+GUI1MI   daí eu fui seguir né ela e outros também entendeu mas eu tô dizendo ela porque é a que eu mais
+         00:26:24.290 - 00:26:29.100
+         (0,27)
+GUI1MI   acompanho assim
+         00:26:29.370 - 00:26:30.590
+         (0,03)
+DOCLS    tem outros também que defendem essa causa na internet?
+         00:26:30.615 - 00:26:33.235
+GUI1MI   tem um que faz que ele mas eu não sei tanto o nome dele eu sei que ele é muro
+         00:26:33.250 - 00:26:37.250
+         (0,04)
+GUI1MI   pequeno o nome dele tem também a própria Jouts Jouts que eu acompanho também
+         00:26:37.285 - 00:26:40.705
+         (0,98)
+GUI1MI   tem aí (risos) são variados assim que eu
+         00:26:41.680 - 00:26:45.110
+         (0,17)
+GUI1MI   acompanho mas tudo pra ter também assim
+         00:26:45.280 - 00:26:47.540
+         (0,86)
+GUI1MI   é uma pluralidade de de percpeções porque se você for
+         00:26:48.395 - 00:26:52.255
+         (0,09)
+GUI1MI   só por uma você também se fecha naquele por mais que seja
+         00:26:52.350 - 00:26:55.100
+         (0,29)
+GUI1MI   uma coisa correta entendeu mas acho que é sempre bom ver
+         00:26:55.390 - 00:26:58.420
+         (0,13)
+GUI1MI   de outras visões do mesmo assunto
+         00:26:58.550 - 00:27:00.770
+         (0,46)
+GUI1MI   não de forma ignorante é claro alguém que vai criticar vai falar tudo aquilo
+         00:27:01.225 - 00:27:04.635
+         (0,04)
+GUI1MI   críticas são necessárias até certo ponto mas eu acho que tipo
+         00:27:04.675 - 00:27:07.325
+         (0,13)
+GUI1MI   quando você se propõe a conhecer novas perspectivas você também está quem está ganhando com isso é você no casoo é 
+         00:27:07.455 - 00:27:12.625
+         (0,26)
+GUI1MI   porque você tá tendo perspectivas você tá tendo conhecimento
+         00:27:12.885 - 00:27:15.575
+         (0,25)
+DOCLS    e aqui na universidade você integra algum grupo de militância?
+         00:27:15.825 - 00:27:19.685
+         (0,19)
+GUI1MI   não nunca num num me engajei ainda nesse ponto de de participar de grupo pretendia
+         00:27:19.870 - 00:27:25.440
+DOCLS    mas pretende se engajar?
+         00:27:23.390 - 00:27:25.340
+         (0,11)
+GUI1MI   quem me apresentou foi uma amiga minha de curso
+         00:27:25.550 - 00:27:27.880
+         (0,31)
+GUI1MI   é que ela tava ela é do mpa
+         00:27:28.190 - 00:27:30.310
+         (0,34)
+GUI1MI   ela chama que é do movimento dos pequenos agricultores
+         00:27:30.655 - 00:27:33.735
+DOCLS    hum
+         00:27:33.100 - 00:27:33.660
+         (0,04)
+GUI1MI   tem um
+         00:27:33.775 - 00:27:34.815
+         (0,31)
+GUI1MI   aí que eu esqueci ah o afronte que ela faz parte ela tava querendo me levar também pra mim
+         00:27:35.120 - 00:27:38.950
+         (0,06)
+GUI1MI   eu conhecer um pouco mais isso
+         00:27:39.010 - 00:27:40.980
+         (0,11)
+GUI1MI   entendeu
+         00:27:41.090 - 00:27:41.670
+DOCLS    mas você vai conhecer?
+         00:27:41.685 - 00:27:42.925
+         (0,22)
+DOCLS    pretende conhecer?
+         00:27:43.150 - 00:27:44.180
+GUI1MI   pretendo porque acho novamente que 
+         00:27:44.040 - 00:27:45.970
+         (0,22)
+GUI1MI   tem que tá aberto a 
+         00:27:46.190 - 00:27:47.820
+         (0,14)
+GUI1MI   conhecimento né ver tudo porque eu me acho uma pessoa tão
+         00:27:47.960 - 00:27:51.750
+         (0,40)
+GUI1MI   é
+         00:27:52.150 - 00:27:52.710
+         (0,70)
+GUI1MI   militante
+         00:27:53.415 - 00:27:54.175
+         (0,28)
+GUI1MI   assim no caso de ir pra político eu vou quando 
+         00:27:54.460 - 00:27:57.500
+         (0,25)
+GUI1MI   eu realmente tô engajado naquilo 
+         00:27:57.755 - 00:28:00.075
+         (0,25)
+GUI1MI   mas assim eu acho que a minha
+         00:28:00.320 - 00:28:01.690
+         (0,16)
+GUI1MI   militância vamos dizer assim
+         00:28:01.850 - 00:28:03.300
+         (0,30)
+GUI1MI   é mais no no numa conversa
+         00:28:03.600 - 00:28:05.800
+         (0,22)
+GUI1MI   entendeu que eu acho mais
+         00:28:06.025 - 00:28:07.425
+         (1,00)
+GUI1MI   eu acho que as pessoas tão eh associando militância a imposição
+         00:28:08.430 - 00:28:12.480
+         (0,66)
+GUI1MI   entendeu aí eu
+         00:28:13.140 - 00:28:14.100
+         (0,35)
+GUI1MI   assim até certo tempo eu achava
+         00:28:14.455 - 00:28:15.725
+         (0,19)
+GUI1MI   mas aí
+         00:28:15.915 - 00:28:16.835
+         (0,22)
+GUI1MI   eu acho que a forma mais fácil de você guiar esse esse pensamento é você conversar de uma forma mais natural
+         00:28:17.050 - 00:28:22.130
+         (0,10)
+GUI1MI   deixando a pessoa também expor os pensamentos dela entendeu aí eu acho que você consegue se conectar melhor
+         00:28:22.235 - 00:28:27.365
+         (0,26)
+DOCLS    então você costuma ouvir as pessoas no caso?
+         00:28:27.625 - 00:28:29.835
+         (0,09)
+GUI1MI   é eu prefiro
+         00:28:29.925 - 00:28:30.995
+GUI1MI   até pra formular alguma coisa
+         00:28:31.005 - 00:28:32.955
+DOCLS    ouvir e tipo conscientizar
+         00:28:32.425 - 00:28:34.395
+         (0,20)
+GUI1MI   porque eu acho que assim é
+         00:28:34.595 - 00:28:36.275
+         (0,56)
+GUI1MI   é muito muito ignorância minha acreditar só porque vou falar pra você que isso é
+         00:28:36.830 - 00:28:41.630
+         (0,14)
+GUI1MI   o certo
+         00:28:41.775 - 00:28:42.555
+         (0,17)
+GUI1MI   é que você  vai fazer
+         00:28:42.720 - 00:28:43.700
+         (0,34)
+GUI1MI   não necessariamente porque às vezes é verdade é relativa né você pode achar que uma coisa é certa e eu posso achar que é errado
+         00:28:44.035 - 00:28:49.845
+         (0,64)
+GUI1MI   então eu não posso é
+         00:28:50.485 - 00:28:52.275
+         (0,31)
+GUI1MI   é ter essa utopia de ao virar pra você e dizer
+         00:28:52.585 - 00:28:54.985
+         (0,14)
+GUI1MI   ah eu acho que você deveria fazer isso porque tá certo então
+         00:28:55.130 - 00:28:57.530
+         (0,43)
+GUI1MI   eu acho mais fácil quando você conversa quando você cria algum vínculo
+         00:28:57.955 - 00:29:01.195
+         (0,23)
+GUI1MI   nem que seja mais de coleguismo por exemplo (risos) mas que você tá aberta a a ouvir o que a pessoa tá falando
+         00:29:01.430 - 00:29:07.290
+         (0,45)
+GUI1MI   quando você se abre pra ouvir pra ouvir o que a pessoa quer falar ela também vai acabar se abrindo pra ouvir seus pensamentos
+         00:29:07.740 - 00:29:12.870
+         (0,11)
+GUI1MI   aí isso acaba gerando uma questão de respeito às vezes ela não vai concordar
+         00:29:12.980 - 00:29:15.910
+         (0,40)
+GUI1MI   que não é obrigatório ninguém concordar
+         00:29:16.310 - 00:29:18.080
+         (0,45)
+GUI1MI   mas a se respeitar
+         00:29:18.530 - 00:29:19.490
+         (0,28)
+DOCLS    sim e você costuma a fazer isso no condomínio por exemplo?
+         00:29:19.770 - 00:29:22.770
+GUI1MI   com alguns meninos mesmo
+         00:29:22.765 - 00:29:24.715
+         (0,22)
+DOCLS    quais meninos?
+         00:29:24.935 - 00:29:25.815
+GUI1MI   tem uns uns amigos meus lá
+         00:29:25.800 - 00:29:27.590
+         (0,50)
+GUI1MI   assim mente um pouco fechada aí tipo
+         00:29:28.090 - 00:29:30.410
+         (0,14)
+GUI1MI   aí objetiva objetifica muito a mulher objetifi-
+         00:29:30.555 - 00:29:33.805
+         (0,12)
+GUI1MI   objetificava no caso né agora eles estão começando a 
+         00:29:33.925 - 00:29:35.705
+DOCLS    sim
+         00:29:34.550 - 00:29:35.180
+         (0,55)
+GUI1MI   a melhorar nesses aspectos assim
+         00:29:36.250 - 00:29:38.240
+         (0,12)
+GUI1MI   chamar aí queriam usar comentários tipo "nega" que eu acho o cúmulo 
+         00:29:38.360 - 00:29:42.760
+         (0,17)
+GUI1MI   de eh
+         00:29:42.935 - 00:29:43.845
+         (0,11)
+GUI1MI   peguei a sei lá o que chamando as meninas de sei lá
+         00:29:43.955 - 00:29:46.845
+         (0,16)
+GUI1MI   de um
+         00:29:47.005 - 00:29:47.545
+         (0,19)
+DOCLS    pode falar o nome
+         00:29:47.740 - 00:29:48.940
+GUI1MI   coisa de de
+         00:29:48.950 - 00:29:51.130
+DOCLS    que eles falam
+         00:29:49.035 - 00:29:49.835
+DOCLS    sim
+         00:29:50.045 - 00:29:51.105
+         (0,22)
+GUI1MI   de vadia essas coisas só que a menina
+         00:29:51.350 - 00:29:52.940
+         (0,17)
+GUI1MI   tinha
+         00:29:53.110 - 00:29:53.640
+         (0,46)
+GUI1MI   é comportamentos que eles exaltavam ni
+         00:29:54.100 - 00:29:57.440
+         (0,10)
+GUI1MI   mas quando era o menino tava fazendo então
+         00:29:57.540 - 00:29:59.930
+         (0,07)
+GUI1MI   tentei quebrar um pouco mais esse foi (  )
+         00:30:00.000 - 00:30:01.920
+         (0,16)
+GUI1MI   muitos mais aceito hoje eles
+         00:30:02.080 - 00:30:03.310
+         (0,22)
+GUI1MI   não sei se é quando estão na minha frente né mas quando é na minha frente eles costumam falar mais menina
+         00:30:03.530 - 00:30:08.080
+         (0,25)
+GUI1MI   mas tava conhecendo é fulana não usam mais termos
+         00:30:08.330 - 00:30:12.620
+         (0,10)
+GUI1MI   eh
+         00:30:12.720 - 00:30:13.490
+         (0,53)
+GUI1MI   eh
+         00:30:14.020 - 00:30:14.320
+         (0,19)
+DOCLS    que agridam a mulher por exemplo
+         00:30:14.505 - 00:30:16.615
+GUI1MI   não utilizar termos que agridam a mulher por exemplo eles procuram ser mais brandos agora
+         00:30:14.555 - 00:30:19.085
+         (0,07)
+GUI1MI   isso tanto
+         00:30:19.155 - 00:30:20.035
+         (0,16)
+GUI1MI   onde eu vivo no condomínio quanto na escola era assim também no ensino médio
+         00:30:20.190 - 00:30:24.400
+         (0,62)
+DOCLS    entendi e quais são as suas práticas de finais de semana?
+         00:30:25.020 - 00:30:27.920
+         (0,85)
+DOCLS    o que você costuma fazer nos finais de semana?
+         00:30:28.765 - 00:30:30.670
+DOCLS    quando não está na universidade
+         00:30:30.670 - 00:30:32.460
+         (0,19)
+GUI1MI   eu costumo (hes) sair com alguns amigos
+         00:30:32.650 - 00:30:35.480
+         (0,67)
+GUI1MI   eh
+         00:30:36.150 - 00:30:36.950
+         (0,12)
+GUI1MI   e quando não eu fico em casa mesmo assistindo coisas específicas mas geralmente eu saiu
+         00:30:37.070 - 00:30:41.000
+         (0,03)
+DOCLS    e quais lugares você costuma frequentar com eles?
+         00:30:41.030 - 00:30:43.680
+         (0,07)
+GUI1MI   ah a gente dependendo do meu do círculo que vou sair são variados entendeu 
+         00:30:43.750 - 00:30:48.530
+         (0,28)
+GUI1MI   assim a gente vai pra
+         00:30:48.815 - 00:30:50.025
+         (0,24)
+GUI1MI   vai pra
+         00:30:50.265 - 00:30:51.295
+         (0,08)
+GUI1MI   pra bloquinhos vai pra bar às vezes é bar
+         00:30:51.375 - 00:30:54.695
+         (0,22)
+GUI1MI   que eles frequentam mais assim vai pra negócio de
+         00:30:54.920 - 00:30:57.400
+         (0,09)
+GUI1MI   de lanche vai pra shooping essas coisas festas em gerais
+         00:30:57.495 - 00:31:01.835
+DOCLS    então você
+         00:31:00.950 - 00:31:01.810
+         (0,68)
+GUI1MI   (risos) dependendo do círculo
+         00:31:02.515 - 00:31:04.785
+         (0,12)
+GUI1MI   por que eu tenho amizades
+         00:31:04.905 - 00:31:06.285
+         (0,38)
+GUI1MI   plurais então tem algumas pessoas 
+         00:31:06.670 - 00:31:08.270
+         (0,19)
+GUI1MI   preferem não ir pra tal tal lugar outros preferem mais
+         00:31:08.465 - 00:31:11.585
+         (0,69)
+GUI1MI   eu não vou pra qualquer lugar então (risos)
+         00:31:12.270 - 00:31:14.290
+         (0,22)
+DOCLS    então você tem ciclos de amigos quais são se fosse pra definir
+         00:31:14.515 - 00:31:18.265
+         (0,30)
+DOCLS    as características de cada um de cada um grupo
+         00:31:18.565 - 00:31:22.375
+         (0,09)
+DOCLS    que você participa por exemplo como você definiria cada um deles?
+         00:31:22.465 - 00:31:25.445
+         (0,69)
+GUI1MI   assim meu grupo mais
+         00:31:26.140 - 00:31:27.160
+         (0,14)
+GUI1MI   composto por meninas tem mais um só dos meninos e aí tem
+         00:31:27.305 - 00:31:31.315
+         (0,18)
+GUI1MI   os goleiros lá né que vão pra 
+         00:31:31.495 - 00:31:33.455
+         (0,06)
+GUI1MI   futebol que essas coisas assim 
+         00:31:33.520 - 00:31:34.850
+DOCLS    sim e você frequenta também?
+         00:31:34.040 - 00:31:35.240
+         (0,04)
+GUI1MI   vou também às vezes não entendo nada mas vou 
+         00:31:35.275 - 00:31:37.865
+         (0,19)
+GUI1MI   tá dá um apoio (risos)
+         00:31:38.055 - 00:31:39.545
+         (0,27)
+GUI1MI   aí tem o 
+         00:31:39.815 - 00:31:41.025
+         (0,25)
+GUI1MI   o que é das meninas que eu ando mais que são duas amigas minhas que também topam tudo aí tem
+         00:31:41.275 - 00:31:47.115
+         (0,19)
+GUI1MI   tem um amiga também que
+         00:31:47.300 - 00:31:48.570
+GUI1MI   que é lésbica ela vai pra outros lugares
+         00:31:48.580 - 00:31:51.220
+         (0,20)
+GUI1MI   é bem
+         00:31:51.425 - 00:31:52.085
+         (0,12)
+GUI1MI   bem variado assim
+         00:31:52.210 - 00:31:53.600
+         (0,05)
+DOCLS    entendi você disse que assisti aos finais de semana o que você costuma assistir?
+         00:31:53.650 - 00:31:58.420
+GUI1MI   sim
+         00:31:56.630 - 00:31:57.130
+         (0,17)
+GUI1MI   eu assisto documentários ou quando assisto séries eu assisto
+         00:31:58.595 - 00:32:02.815
+         (1,53)
+GUI1MI   a maioria das séries teens na verdade eu assisto
+         00:32:04.350 - 00:32:07.340
+         (0,32)
+GUI1MI   eh
+         00:32:07.660 - 00:32:08.480
+         (0,17)
+GUI1MI   la casa de papel que estreou agora
+         00:32:08.655 - 00:32:10.405
+         (0,21)
+GUI1MI   assisto
+         00:32:10.615 - 00:32:12.255
+         (0,12)
+GUI1MI   terminei the vamparies diaries  eu assistia
+         00:32:12.380 - 00:32:14.960
+         (0,28)
+GUI1MI   muitas coisas assim
+         00:32:15.235 - 00:32:16.665
+         (0,07)
+DOCLS    você poderia assim 
+         00:32:16.735 - 00:32:18.035
+GUI1MI   cara gente branca também tô acompanhando
+         00:32:17.450 - 00:32:19.700
+         (0,14)
+DOCLS    cara gente branca trata do quê eu não conheço 
+         00:32:19.835 - 00:32:22.145
+GUI1MI   sobre é um é uma garota assim
+         00:32:21.595 - 00:32:24.365
+         (0,07)
+GUI1MI   que ela cria um
+         00:32:24.435 - 00:32:25.275
+         (0,16)
+GUI1MI   vamos supor ela tá num numa universidade e ela cria um programa de rádio só que esse programa de rádio
+         00:32:25.430 - 00:32:30.320
+         (0,09)
+GUI1MI   ela é negra
+         00:32:30.410 - 00:32:31.180
+         (0,09)
+DOCLS    rum
+         00:32:31.270 - 00:32:31.720
+         (0,31)
+GUI1MI   e é
+         00:32:32.030 - 00:32:32.530
+         (0,23)
+GUI1MI   é basicamente uma série que se passa num num período não vou lembrar agora o ano que é
+         00:32:32.765 - 00:32:37.165
+DOCLS    sim
+         00:32:36.580 - 00:32:37.130
+         (0,10)
+GUI1MI   mas assim é bem distinta de visão
+         00:32:37.270 - 00:32:38.910
+         (0,43)
+GUI1MI   brancos e negros
+         00:32:39.335 - 00:32:40.495
+         (0,47)
+GUI1MI   entendeu e o que você vai dar (hes) o que a oportunidade pro branco e pro negro estão todos num na mesma universidade mas ainda existe essa hieraquização
+         00:32:40.960 - 00:32:48.750
+         (0,29)
+GUI1MI   agora o que acontece? ela cria essa rádio
+         00:32:49.040 - 00:32:51.920
+         (0,68)
+GUI1MI   dando voz as pessoas negras
+         00:32:52.595 - 00:32:54.465
+         (0,13)
+GUI1MI   e criticando
+         00:32:54.595 - 00:32:55.775
+         (0,31)
+GUI1MI   o essas essas estruturas entendeu
+         00:32:56.090 - 00:32:59.190
+         (0,22)
+GUI1MI   ela isso ela deu essa start maior no rádio de um de um fato que teve entre
+         00:32:59.405 - 00:33:04.835
+         (0,47)
+GUI1MI   com um menino branco e negro
+         00:33:05.305 - 00:33:06.645
+         (0,12)
+GUI1MI   que o branco agrediu o negro 
+         00:33:06.770 - 00:33:08.710
+         (0,67)
+GUI1MI   bateu bateu e não fez nada e a polícia prendeu o negro
+         00:33:09.375 - 00:33:12.635
+         (0,25)
+GUI1MI   naquela universidade
+         00:33:12.880 - 00:33:14.130
+         (0,18)
+GUI1MI   aí foi quando deu o estopim por isso que ela
+         00:33:14.310 - 00:33:16.000
+         (0,13)
+GUI1MI   ela aborda muitos temas assim
+         00:33:16.130 - 00:33:17.710
+         (0,26)
+GUI1MI   é sobre racismo sobre esses privilégios de
+         00:33:17.975 - 00:33:20.925
+         (0,20)
+GUI1MI   é é de raça por exemplo aí eu
+         00:33:21.125 - 00:33:23.475
+         (0,09)
+GUI1MI   assistir mais
+         00:33:23.570 - 00:33:24.430
+         (0,04)
+DOCLS    você já assistiu olhos que condenam?
+         00:33:24.465 - 00:33:26.375
+         (0,13)
+GUI1MI   aí eu tenho que assisti isso porque eu tava pra assisti na semana que estreou só que eu entrei em semana de prova aí eu acabei
+         00:33:26.505 - 00:33:32.265
+         (0,63)
+DOCLS    ouviu comentários sobre a série?
+         00:33:32.900 - 00:33:34.310
+GUI1MI   ouvi
+         00:33:34.270 - 00:33:34.880
+DOCLS    pronto quais são as expectativas da série
+         00:33:34.890 - 00:33:36.980
+GUI1MI   que é são
+         00:33:35.440 - 00:33:36.350
+         (0,70)
+GUI1MI   no topo (risos) tô no topo no topo tô esperando assim muita muita
+         00:33:37.680 - 00:33:42.800
+         (0,28)
+GUI1MI   militância tô esperando muito tapa na cara muita coisa
+         00:33:43.085 - 00:33:46.355
+         (0,09)
+GUI1MI   muita verdade que às vezes a gente tem medo de ouvir por isso que eu acho que assim 
+         00:33:46.445 - 00:33:50.275
+         (0,13)
+GUI1MI   quando assisti a série só vou aplaudir
+         00:33:50.405 - 00:33:52.605
+         (0,10)
+DOCLS    mas você conhece o caso dos meninos que foram presos 
+         00:33:52.710 - 00:33:55.150
+GUI1MI   dos que foram presos eu acompanhei
+         00:33:54.715 - 00:33:56.675
+         (0,14)
+GUI1MI   no
+         00:33:56.810 - 00:33:57.820
+         (0,15)
+GUI1MI   no
+         00:33:57.970 - 00:33:58.440
+         (0,13)
+GUI1MI   eu vi uma uma  umma youtuber que eu acompanho mas ela 
+         00:33:58.570 - 00:34:01.580
+         (0,12)
+GUI1MI   não é nada relacionado nada assim de de
+         00:34:01.700 - 00:34:03.550
+         (0,07)
+GUI1MI   movimentos assim ela é mais
+         00:34:03.620 - 00:34:05.240
+         (0,19)
+GUI1MI   de livros essas coisas
+         00:34:05.430 - 00:34:06.680
+         (0,40)
+GUI1MI   aí ela
+         00:34:07.080 - 00:34:07.910
+GUI1MI   contou desse caso eu achei muito interessante que a série falava desses meninos aí eu
+         00:34:07.920 - 00:34:12.750
+         (0,29)
+GUI1MI   ah eu tenho que assistir
+         00:34:13.040 - 00:34:14.050
+         (0,13)
+DOCLS    é eu assistir e gostei bastante
+         00:34:14.180 - 00:34:16.620
+         (0,19)
+DOCLS    chorei inclusive
+         00:34:16.815 - 00:34:18.475
+         (0,34)
+GUI1MI   eu também sou assim muito sensível (risos)
+         00:34:18.820 - 00:34:20.830
+         (0,02)
+DOCLS    mas além de séries você vê filmes gosta de ler livros
+         00:34:20.850 - 00:34:24.630
+         (0,04)
+GUI1MI   então a minha leitura é bem variada na verdade eu tô começando a ter mais hábito de leitura agora na verdade
+         00:34:24.670 - 00:34:29.910
+DOCLS    sim
+         00:34:29.055 - 00:34:29.895
+         (0,15)
+GUI1MI   mas obrigado (   ) eu sempre achei bonito mas vontade
+         00:34:30.060 - 00:34:34.920
+         (0,55)
+GUI1MI   às vezes eu tinha mas eu não tinha
+         00:34:35.465 - 00:34:36.855
+         (0,49)
+GUI1MI   eh às vezes eu não tinha coragem de ir ali í eu vou
+         00:34:37.345 - 00:34:39.455
+         (0,26)
+GUI1MI   parar aqui pra ler um livro entendeu às vezes eu achava isso muito cansativo
+         00:34:39.715 - 00:34:42.665
+         (0,14)
+DOCLS    (hes)
+         00:34:42.805 - 00:34:43.035
+         (0,07)
+GUI1MI   aí agora ou você ler ou você porque são textos pra escolh- são assim são textos
+         00:34:43.105 - 00:34:47.635
+         (0,08)
+GUI1MI   muito profundos a respeito de variadas coisas do homem em si de política de tudo respeito
+         00:34:47.710 - 00:34:53.860
+         (0,55)
+GUI1MI   tem que (est) acaba criando o hábito de leitura entendeu mas não tinha esse costume e em relação a filmes
+         00:34:54.410 - 00:35:01.680
+         (0,57)
+GUI1MI   não acompanho tantos filmes assim o que eu vejo é mais o que eu sei de filme é alguns filmes
+         00:35:02.250 - 00:35:07.920
+         (0,08)
+GUI1MI   que tem algum ator que eu goste
+         00:35:08.000 - 00:35:09.800
+         (0,71)
+GUI1MI   aí eu procuro
+         00:35:10.515 - 00:35:11.425
+         (0,52)
+GUI1MI   ou que tá em cartaz aí geralmente é assim que eu eu acompanho com os filmes aí quando alguém fala assim "ah eu assisti esse filme" aí eu vou lá e baixo
+         00:35:11.945 - 00:35:18.735
+DOCLS    rei leão por exemplo
+         00:35:18.750 - 00:35:20.240
+         (0,02)
+GUI1MI   rei leão por exemplo eu só fui assistir por causa de Beyoncé e Iza (risos) por causa de Beyoncé e Iza
+         00:35:20.260 - 00:35:25.430
+DOCLS    por que?
+         00:35:23.070 - 00:35:23.940
+         (0,19)
+GUI1MI   assim eu gosto da história mas
+         00:35:25.620 - 00:35:26.950
+         (0,35)
+GUI1MI   assim ah eu "meu Deus" vou lá assisti o rei leão (est) não é assim aquela 
+         00:35:27.300 - 00:35:32.180
+         (0,14)
+GUI1MI   aquele
+         00:35:32.315 - 00:35:33.375
+         (0,28)
+GUI1MI   como posso dizer? aquele ânimo todo pelo filme é mais pelas pessoas que estão nele é pelos atores e no caso delas  as vozes
+         00:35:33.660 - 00:35:40.880
+         (0,54)
+GUI1MI   aí por isso mais
+         00:35:41.420 - 00:35:42.380
+DOCLS    mas em relação aos livros você
+         00:35:42.355 - 00:35:43.675
+         (0,06)
+DOCLS    costuma ler
+         00:35:43.740 - 00:35:44.510
+         (0,11)
+DOCLS    qual gênero assim qual gênero do livro que você mais se identifica?
+         00:35:44.620 - 00:35:48.580
+GUI1MI   ultimamente eu tô lendo mais
+         00:35:47.065 - 00:35:48.615
+         (0,05)
+GUI1MI   é biografias (risos)
+         00:35:48.665 - 00:35:50.125
+         (0,14)
+GUI1MI   livros mais explicando sobre
+         00:35:50.270 - 00:35:52.330
+         (0,19)
+GUI1MI   é o homem essas coisas assim é introdução à sociologia (risos)
+         00:35:52.525 - 00:35:55.725
+         (0,05)
+DOCLS    entendi então as leituras obrigatórias da universidade
+         00:35:55.780 - 00:35:58.170
+GUI1MI   obrigatórias mas quando eu leio mais
+         00:35:57.450 - 00:35:59.450
+         (0,23)
+GUI1MI   por diversão aí eu procuro mais
+         00:35:59.685 - 00:36:01.985
+DOCLS    sim
+         00:36:00.540 - 00:36:01.040
+         (0,17)
+GUI1MI   coisas criminalística ou de ficção científica
+         00:36:02.155 - 00:36:05.435
+         (0,16)
+GUI1MI   tipo Sherlockes Holmes um clássico
+         00:36:05.590 - 00:36:07.380
+         (0,22)
+GUI1MI   eu acho eu gosto de alguns Steven Kings que tem mais esse
+         00:36:07.600 - 00:36:10.830
+         (0,22)
+GUI1MI   essa vibe terror criminal
+         00:36:11.050 - 00:36:12.710
+         (0,37)
+DOCLS    qual foi o último livro que você leu por diversão
+         00:36:13.075 - 00:36:15.435
+         (0,08)
+GUI1MI   por diversão
+         00:36:15.510 - 00:36:16.700
+DOCLS    sim
+         00:36:16.120 - 00:36:16.630
+         (0,37)
+GUI1MI   (est)
+         00:36:17.070 - 00:36:18.900
+         (0,39)
+GUI1MI   acho que foi aquele da rainha vermelha 
+         00:36:19.290 - 00:36:20.720
+         (0,40)
+DOCLS    sim
+         00:36:21.120 - 00:36:21.640
+         (0,16)
+GUI1MI   mas é um 
+         00:36:21.795 - 00:36:22.965
+         (0,45)
+GUI1MI   aí eu li o dois que é
+         00:36:23.415 - 00:36:24.835
+         (0,30)
+GUI1MI   a espada de vidro alguma coisa assim
+         00:36:25.135 - 00:36:26.855
+DOCLS    (hes)
+         00:36:26.300 - 00:36:26.780
+         (0,18)
+GUI1MI   eu só sei que tava
+         00:36:27.035 - 00:36:27.945
+         (0,14)
+GUI1MI   eu li porque tipo eu li o primeiro
+         00:36:28.085 - 00:36:30.195
+         (0,07)
+GUI1MI   a um tempo atrás
+         00:36:30.265 - 00:36:31.575
+         (0,35)
+GUI1MI   aí tem a segunda eu acabei comprando o segundo porque eu já sabia que tava tendo  o terceiro e o quarto
+         00:36:31.925 - 00:36:35.825
+         (0,28)
+GUI1MI   eu queria acabar a história aí eu acabei o segundo e queria
+         00:36:36.110 - 00:36:38.530
+         (0,09)
+GUI1MI   tava partindo pro terceiro só que
+         00:36:38.625 - 00:36:40.265
+         (0,62)
+GUI1MI   parei (risos)
+         00:36:40.880 - 00:36:41.690
+DOCLS    (risos)
+         00:36:41.650 - 00:36:42.730
+         (0,03)
+DOCLS    mas seus pais têm o hábito da leitura?
+         00:36:42.755 - 00:36:44.475
+         (0,22)
+GUI1MI   não
+         00:36:44.700 - 00:36:46.110
+         (0,38)
+GUI1MI   eles tem o hábito de mainha nada assim ela num
+         00:36:46.490 - 00:36:49.520
+         (0,51)
+GUI1MI   ela
+         00:36:50.030 - 00:36:50.540
+         (0,07)
+GUI1MI   ela mexe mais com televisão gosta mais de assistir programas de culinária e meu pai assiitir coisas de futebol mas hábito de leitura
+         00:36:50.610 - 00:36:55.860
+         (0,43)
+GUI1MI   é até foi até um pouco
+         00:36:56.290 - 00:36:57.970
+         (0,04)
+GUI1MI   problemático
+         00:36:58.005 - 00:36:58.655
+         (0,07)
+GUI1MI   no início porque
+         00:36:58.725 - 00:36:59.735
+         (0,47)
+GUI1MI   achavam que eu tava gastando dinheiro demais e à toa em livros assim
+         00:37:00.205 - 00:37:04.375
+DOCLS    sim
+         00:37:03.755 - 00:37:04.345
+         (0,17)
+GUI1MI   e eu compreendo porque assim ela dizia "porque se tem na internet porque você não pode baixar tem que gastar" entendeu
+         00:37:04.545 - 00:37:09.945
+         (0,28)
+GUI1MI   tem sentido que às vezes você prefere o livro físico sabe
+         00:37:10.230 - 00:37:13.170
+DOCLS    sim
+         00:37:12.695 - 00:37:13.095
+         (0,08)
+GUI1MI   pra se concentrar mais
+         00:37:13.250 - 00:37:14.190
+         (0,12)
+GUI1MI   aí eu lia o pdf a partir que tinha que ler 
+         00:37:14.315 - 00:37:17.065
+         (0,24)
+GUI1MI   que às vezes o professor disponibilizava só a 
+         00:37:17.305 - 00:37:19.195
+         (0,32)
+GUI1MI   até
+         00:37:19.515 - 00:37:20.315
+         (0,05)
+GUI1MI   a parte X que é a que ele queria no texto
+         00:37:20.370 - 00:37:22.700
+         (0,25)
+GUI1MI   eu lia até aquela parte se eu me interessasse eu iria procurar saber mais do livro
+         00:37:22.950 - 00:37:25.710
+         (0,26)
+GUI1MI   às vezes eu chega eu "mãe posso comprar" aí ela
+         00:37:25.975 - 00:37:28.455
+         (0,14)
+GUI1MI   ihhh (risos)
+         00:37:28.600 - 00:37:30.060
+         (0,05)
+DOCLS    lá vem de novo dinheiro pra comprar livros
+         00:37:30.105 - 00:37:32.505
+GUI1MI   mas agora ela
+         00:37:32.480 - 00:37:33.300
+         (0,62)
+GUI1MI   já desencanou isso era mais no início
+         00:37:33.915 - 00:37:36.235
+         (0,09)
+GUI1MI   nem era no início da vida acadêmica eu digo era no início que eu tava
+         00:37:36.330 - 00:37:38.820
+         (0,71)
+DOCLS    criando o hábito de leitura
+         00:37:39.530 - 00:37:41.370
+GUI1MI   hábitos é
+         00:37:40.435 - 00:37:41.405
+         (0,04)
+GUI1MI   (risos)
+         00:37:41.445 - 00:37:42.135
+         (0,46)
+DOCLS    entendi e na internet você costuma ler o que?
+         00:37:42.595 - 00:37:44.725
+         (1,06)
+GUI1MI   na internet ah ah não ser que eu vá
+         00:37:45.785 - 00:37:47.935
+         (0,37)
+GUI1MI   pesquisar algo mesmo assim pra
+         00:37:48.300 - 00:37:50.390
+         (0,50)
+GUI1MI   assim n fatores né pesquisas 
+         00:37:50.890 - 00:37:53.100
+         (0,06)
+GUI1MI   de de trabalho essas coisas alguma coisa que vá bem específico então e eu costumo ler notícias 
+         00:37:53.160 - 00:37:58.360
+         (0,13)
+DOCLS    só notícias nem instragram aquelas mensagens
+         00:37:58.490 - 00:38:00.730
+GUI1MI   só notícias
+         00:37:58.905 - 00:38:00.045
+         (0,08)
+GUI1MI   pronto instagram
+         00:38:00.805 - 00:38:01.515
+DOCLS    é leitura (risos)
+         00:38:01.515 - 00:38:03.245
+GUI1MI   óbvio que é leitura
+         00:38:01.515 - 00:38:03.245
+         (0,33)
+GUI1MI   e whatsapp então (risos) é o que mais leio é
+         00:38:03.575 - 00:38:06.665
+         (0,20)
+GUI1MI   é barra de notificação de de mensagens de
+         00:38:06.865 - 00:38:09.695
+         (0,11)
+GUI1MI   whatsapp e instagram
+         00:38:09.805 - 00:38:11.755
+         (0,23)
+GUI1MI   e twitter que é o que eu passo mais tempo assim
+         00:38:11.985 - 00:38:14.275
+         (0,07)
+DOCLS    entendi
+         00:38:14.345 - 00:38:15.065
+         (0,10)
+DOCLS    e assim qual é a sua preferência do instagram?
+         00:38:15.170 - 00:38:17.050
+         (1,00)
+DOCLS    tem página específica alguma pessoa específica?
+         00:38:18.055 - 00:38:20.935
+         (0,03)
+GUI1MI   eu acompanho mais músicos na verdade no instagram
+         00:38:20.960 - 00:38:24.970
+         (0,43)
+GUI1MI   não tenho tanta gente assim de
+         00:38:25.400 - 00:38:26.980
+         (0,41)
+GUI1MI   de de diversão e esses youtubers que eu acompanho e eu acabo seguindo nos stories 
+         00:38:27.385 - 00:38:32.685
+         (0,68)
+GUI1MI   por diversão mesmo (risos)  às vezes nem assisto mas
+         00:38:33.360 - 00:38:35.690
+DOCLS    (risos) entendi
+         00:38:34.300 - 00:38:35.600
+         (0,14)
+GUI1MI   acompanho
+         00:38:35.825 - 00:38:37.035
+         (0,17)
+GUI1MI   aí mas é é 
+         00:38:37.205 - 00:38:38.505
+         (0,05)
+GUI1MI   bem
+         00:38:38.550 - 00:38:39.190
+         (0,41)
+GUI1MI   eh
+         00:38:39.605 - 00:38:40.135
+         (0,17)
+GUI1MI   é fora meus amigos pessoas que eu conheça é claro
+         00:38:40.305 - 00:38:43.575
+DOCLS    sim
+         00:38:42.605 - 00:38:43.055
+         (0,25)
+GUI1MI   aí eu sigo agora de resto não tanto
+         00:38:43.825 - 00:38:45.825
+DOCLS    (risos)
+         00:38:44.750 - 00:38:45.390
+         (0,10)
+DOCLS    entendi e você acha o hábito da leitura importante?
+         00:38:45.925 - 00:38:48.345
+         (0,16)
+GUI1MI   ah definitivamente não tenho tanto quanto eu queria
+         00:38:48.500 - 00:38:51.570
+DOCLS    sim
+         00:38:50.860 - 00:38:51.560
+         (0,09)
+GUI1MI   mas eu acho que é essencial porque às vezes você é
+         00:38:51.665 - 00:38:54.645
+         (0,17)
+GUI1MI   por mais que 
+         00:38:54.810 - 00:38:55.770
+         (0,28)
+GUI1MI   a televisão tenha coisas legais e educativas (  )
+         00:38:56.045 - 00:39:00.415
+         (0,19)
+GUI1MI   você tem coisa que dá pra aproveitar
+         00:39:00.605 - 00:39:03.315
+         (0,18)
+GUI1MI   (  )
+         00:39:03.495 - 00:39:04.095
+         (0,38)
+GUI1MI   nada melhor que você lê
+         00:39:04.470 - 00:39:05.960
+         (0,10)
+GUI1MI   ali na íntegra no caso você vê quem é o autor o que ele tava pensando o que ele quer tratar o que ele é quer abordar com aquilo
+         00:39:06.060 - 00:39:12.890
+         (0,09)
+GUI1MI   eu acho bem necessário
+         00:39:12.980 - 00:39:14.210
+         (0,59)
+DOCLS    é mais você tem o incentivo à leitura desde a educação básica?
+         00:39:14.800 - 00:39:18.510
+         (1,42)
+GUI1MI   assim das professoras pronto das professores elas reservavam um parágrafo né
+         00:39:19.935 - 00:39:25.025
+DOCLS    os seus professores liam incentivavam as leitura por exemplo
+         00:39:19.980 - 00:39:24.340
+         (0,31)
+GUI1MI   mas assim cobravam em provas em novamente não era aquele incentivo incentivo eles incentivam assim
+         00:39:25.330 - 00:39:31.030
+         (0,23)
+GUI1MI   acho legal você ler
+         00:39:31.265 - 00:39:32.565
+         (0,08)
+GUI1MI   pra começar esse ano aí citavam porque as pessoas que leem conseguem ter mais engajamento
+         00:39:32.640 - 00:39:37.290
+         (0,26)
+GUI1MI   as crianças
+         00:39:37.550 - 00:39:38.240
+         (0,14)
+GUI1MI   num quer saber tanto desses coisas entendeu
+         00:39:38.380 - 00:39:40.710
+DOCLS    sim
+         00:39:39.870 - 00:39:40.650
+         (0,19)
+GUI1MI   aí mas se isso pode ser considerado um um incentivo então eu tive
+         00:39:40.905 - 00:39:44.705
+         (0,20)
+DOCLS    e você sempre estudou em educação
+         00:39:44.910 - 00:39:46.670
+DOCLS    ou em escola pública
+         00:39:46.685 - 00:39:48.185
+         (0,05)
+DOCLS    privada
+         00:39:48.240 - 00:39:48.810
+GUI1MI   privada
+         00:39:48.240 - 00:39:48.810
+         (0,03)
+DOCLS    privada
+         00:39:48.840 - 00:39:49.520
+         (0,34)
+DOCLS    qual foi a escola?
+         00:39:49.865 - 00:39:51.215
+         (0,48)
+GUI1MI   eu só estudei em duas escolas assim
+         00:39:51.695 - 00:39:53.535
+         (0,14)
+GUI1MI   que era quando eu morava na primeira casa que era um escola perto que era Futuro Feliz Centro Educacional Futuro Feliz e depois no ensino médio vim estudar no Bom Pastor
+         00:39:53.680 - 00:40:01.510
+         (0,42)
+DOCLS    entendi mas em relação à educação pública ao ensino público
+         00:40:01.930 - 00:40:05.280
+         (0,19)
+DOCLS    você acha que esse tipo de ensino deve ser incentivado pelo governo?
+         00:40:05.470 - 00:40:09.010

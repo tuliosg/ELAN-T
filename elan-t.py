@@ -1,5 +1,4 @@
 import spacy
-import string
 import sys
 import re
 import os
@@ -8,9 +7,7 @@ tags_stoplist = ['SPACE', 'PUNCT', 'SYM']
 stoplist = ['eh', 'hes', 'HES', 'RISOS', 'risos', 'BARULHO', 'INTERVENIENTE', 'PIGARRO', 'pigarro', 'CHORO', 'RUÍDO', 'RUÍDOS', 'est', 'EST']
 
 def verifica_token(token):
-    if (token.text.isupper() == True) or (str(token.pos_) in tags_stoplist) or (token.text in stoplist):
-        return True
-    else: return False
+    return bool((token.text.isupper()) or (str(token.pos_) in tags_stoplist) or (token.text in stoplist))
 
 def verifica_linha(linha):
     return bool(re.search(r'\d{2,20}', linha))
@@ -39,19 +36,25 @@ def tagger(entrevista):
     return ent_etiquetada
 
 def main():
-    ARQUIVO = sys.argv[1]
-    DIR = os.getcwd()
-    ENTREVISTA = os.path.join(DIR, ARQUIVO)
-    print(f"Etiquetando entrevista: {ARQUIVO}\n")
+    DIR = sys.argv[1]
+    if os.path.exists(f"{DIR}\_tagged") == False:
+        os.mkdir(f"{DIR}\_tagged")
 
-    entrevista_etiquetada = tagger(ENTREVISTA)
-    novo_arquivo = DIR + f"\TAG_{ARQUIVO}"
+    for ARQUIVO in os.listdir(path=DIR):
+        ENTREVISTA = os.path.join(DIR, ARQUIVO)
+        if os.path.isfile(ENTREVISTA) ==  True:
+            print(f"Etiquetando entrevista: {ARQUIVO}")
 
-    f = open(novo_arquivo, 'w')
-    f.writelines(entrevista_etiquetada)
-    f.close()
+            entrevista_etiquetada = tagger(ENTREVISTA)
+            novo_arquivo = DIR + f"\_tagged\TAG_{ARQUIVO}"
 
-    print(f"Entrevista etiquetada com sucesso!\nO novo arquivo foi salvo no caminho: {novo_arquivo}")
+            f = open(novo_arquivo, 'w')
+            f.writelines(entrevista_etiquetada)
+            f.close()
+            print(f"{ARQUIVO} etiquetada com sucesso.\n")
+            print("="*75)
+
+    print(f"Entrevista(s) etiquetada(s) com sucesso!\nPasta do(s) arquivo(s) etiquetado(s): {DIR}\_tagged")
 
 if __name__ == "__main__":
     main()

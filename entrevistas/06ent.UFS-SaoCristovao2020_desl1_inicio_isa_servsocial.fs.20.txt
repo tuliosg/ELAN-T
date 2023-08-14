@@ -1,0 +1,3252 @@
+TIPO DE AMOSTRA: ENT
+ DOCUMENTADORA: MAURO
+ COMUNIDADE: UFS
+ ANO: 2019
+ DESLOCAMENTO: 4
+ TEMPO DE CURSO: INICIO
+ INF: ISA1F1
+ sexo: FEM
+ escolaridade: S
+ Idade: 20
+ Cidade Natal: ARACAJU, SE
+
+
+
+
+DOCMS    boa noite
+         00:00:01.820 - 00:00:02.400
+         (0,04)
+ISA1F1   boa noite ((risos))
+         00:00:02.440 - 00:00:03.350
+         (0,80)
+DOCMS    qual é o seu nome?
+         00:00:04.150 - 00:00:04.930
+         (0,36)
+ISA1F1   Isabela
+         00:00:05.290 - 00:00:06.150
+         (0,38)
+ISA1F1   de Aguiar Nunes dos Santos
+         00:00:06.530 - 00:00:07.970
+         (0,14)
+DOCMS    qual a sua idade?
+         00:00:08.115 - 00:00:08.975
+         (0,22)
+ISA1F1   vinte anos
+         00:00:09.200 - 00:00:10.020
+         (1,00)
+DOCMS    eh em que cidade estado você nasceu?
+         00:00:11.025 - 00:00:13.395
+         (0,48)
+ISA1F1   Aracaju
+         00:00:13.875 - 00:00:14.715
+         (0,63)
+ISA1F1   Sergipe
+         00:00:15.350 - 00:00:16.160
+         (0,15)
+DOCMS    e onde você mora atualmente?
+         00:00:16.310 - 00:00:17.840
+         (0,35)
+ISA1F1   Nossa Senhora do Socorro
+         00:00:18.190 - 00:00:19.170
+         (0,75)
+DOCMS    eh qual o nome dos seus pais?
+         00:00:19.925 - 00:00:21.395
+         (0,29)
+ISA1F1   Alberto Geraldo
+         00:00:21.685 - 00:00:23.075
+         (0,09)
+ISA1F1   e Danielle Carvalho
+         00:00:23.165 - 00:00:24.045
+         (0,88)
+DOCMS    e qual a cidade eles nasceram? Você sabe?
+         00:00:24.930 - 00:00:27.090
+         (0,32)
+ISA1F1   minha mãe é carioca
+         00:00:27.415 - 00:00:28.575
+         (0,47)
+ISA1F1   eu acho que ela nasceu na capital Rio
+         00:00:29.050 - 00:00:30.950
+         (0,44)
+ISA1F1   e meu pai nasceu em Aracaju
+         00:00:31.385 - 00:00:32.285
+         (1,08)
+DOCMS    e eles atualmente vivem em Socorro?
+         00:00:33.360 - 00:00:35.740
+         (1,23)
+DOCMS    você sabe o nível de escolaridade deles?
+         00:00:36.965 - 00:00:38.615
+         (0,60)
+ISA1F1   minha mãe se formou somente no ensino médio e meu pai tem faculdade ele é professor
+         00:00:39.215 - 00:00:43.365
+         (0,86)
+DOCMS    então seu pai
+         00:00:44.225 - 00:00:45.135
+         (0,26)
+DOCMS    e sua mãe é o que?
+         00:00:45.395 - 00:00:46.415
+         (0,25)
+ISA1F1   ela é auxiliar de saúde bucal
+         00:00:46.660 - 00:00:48.850
+         (1,27)
+DOCMS    eh com quem você mora?
+         00:00:50.120 - 00:00:51.300
+         (0,25)
+ISA1F1   meus pais
+         00:00:51.555 - 00:00:51.955
+         (1,15)
+DOCMS    qual o curso que você faz?
+         00:00:53.110 - 00:00:54.150
+         (0,20)
+ISA1F1   serviço social
+         00:00:54.355 - 00:00:55.055
+         (0,34)
+DOCMS    cê tá em qual período?
+         00:00:55.390 - 00:00:56.150
+         (0,20)
+ISA1F1   terceiro
+         00:00:56.355 - 00:00:56.765
+         (1,03)
+DOCMS    é por que você escolheu estudar aqui na ufs?
+         00:00:57.795 - 00:01:00.345
+         (1,05)
+ISA1F1   primeiro
+         00:01:01.395 - 00:01:01.885
+         (0,18)
+ISA1F1   porque se eu quissesse fazer uma faculdade tinha que ser uma pública
+         00:01:02.065 - 00:01:04.805
+         (0,40)
+ISA1F1   então foi meio que apulso
+         00:01:05.200 - 00:01:06.740
+         (1,16)
+ISA1F1   eh
+         00:01:07.905 - 00:01:08.495
+         (0,19)
+ISA1F1   eu queria muito fazer uma faculdade 
+         00:01:08.685 - 00:01:10.295
+         (0,28)
+ISA1F1   não tinha condição
+         00:01:10.575 - 00:01:11.425
+         (0,14)
+ISA1F1   de entrar numa particular até porque minha irmã
+         00:01:11.565 - 00:01:13.135
+         (0,73)
+ISA1F1    tem o curso então já tem aquele lance de ter que pagar o curso ((est))
+         00:01:13.865 - 00:01:17.015
+         (0,44)
+ISA1F1   e tudo então
+         00:01:17.455 - 00:01:18.725
+         (0,54)
+ISA1F1   sabe e tipo
+         00:01:19.265 - 00:01:20.295
+         (0,23)
+ISA1F1   no meu ensino médio
+         00:01:20.525 - 00:01:21.675
+         (0,59)
+ISA1F1   era uma escola que o povo falava não ufs ufs ufs ufs
+         00:01:22.265 - 00:01:25.535
+         (0,29)
+ISA1F1   o tempo inteiro então num teve outra possibilidade nunca nem passou pela minha cabeça
+         00:01:25.825 - 00:01:29.755
+         (0,52)
+DOCMS    legal
+         00:01:30.275 - 00:01:30.765
+         (0,53)
+DOCMS    e qual o meio de transporte você mais utiliza pra vim na universidade?
+         00:01:31.295 - 00:01:34.375
+ISA1F1   escolar
+         00:01:33.860 - 00:01:34.330
+         (0,20)
+DOCMS    por que?
+         00:01:34.580 - 00:01:35.140
+         (0,77)
+ISA1F1   porque eu odeio pegar ônibus eu tenho
+         00:01:35.915 - 00:01:38.575
+         (0,62)
+ISA1F1   eu tenho um pavor eu fico meio com ansiedade de ônibus
+         00:01:39.200 - 00:01:42.310
+         (0,33)
+ISA1F1   e meus pais como eu estudo a noite meus pais também ficam
+         00:01:42.640 - 00:01:45.550
+         (0,39)
+ISA1F1   muito
+         00:01:45.940 - 00:01:46.480
+         (0,31)
+ISA1F1   como eu moro não é tão longe mas é perigoso lá onde eu moro
+         00:01:46.795 - 00:01:49.655
+         (0,22)
+ISA1F1   então acabou que a gente opitou pelo escolar  e como lá em Socorro a gente tem uma associação de graça você só se escreve
+         00:01:49.880 - 00:01:56.120
+         (0,40)
+ISA1F1   entendeu? então aí é bom
+         00:01:56.515 - 00:01:58.805
+         (0,55)
+DOCMS    eh
+         00:01:59.355 - 00:02:00.965
+         (0,94)
+DOCMS    então no caso o ônibus que você vem é pela própria prefeitura?
+         00:02:01.905 - 00:02:05.345
+ISA1F1   unrum
+         00:02:04.830 - 00:02:05.290
+         (0,38)
+DOCMS    legal
+         00:02:05.725 - 00:02:06.155
+         (0,34)
+DOCMS    e você trabalha?
+         00:02:06.495 - 00:02:07.395
+         (0,17)
+ISA1F1   não
+         00:02:07.570 - 00:02:08.050
+DOCMS    ou já trabalhou?
+         00:02:07.855 - 00:02:08.525
+         (0,21)
+ISA1F1   não
+         00:02:08.735 - 00:02:09.095
+         (1,09)
+DOCMS    e você acha que trabalhar e estudar é uma coisa que dá pra conciliar?
+         00:02:10.180 - 00:02:13.690
+         (0,52)
+ISA1F1   eu acho que se não tem jeito dá pra conciliar mas
+         00:02:14.210 - 00:02:17.080
+ISA1F1   se você não precisar trabalhar ou tipo
+         00:02:17.090 - 00:02:19.360
+         (0,29)
+ISA1F1   não vai matar sabe se você não trabalhar eu acho que é bom você focar no estudo pra ter tempo de estudar
+         00:02:19.650 - 00:02:24.490
+         (0,23)
+ISA1F1   ou vim assistir uma palestra cedo ou vim estudar pra uma prova ou uma reposição de aula sabe às vezes mesmo que
+         00:02:24.725 - 00:02:30.525
+         (0,41)
+ISA1F1   você precise muito trabalhar
+         00:02:30.940 - 00:02:32.420
+         (0,20)
+ISA1F1   ou às vezes tem aquele negócio chato
+         00:02:32.625 - 00:02:34.775
+         (0,45)
+ISA1F1   ou você não tem liberdade
+         00:02:35.225 - 00:02:36.155
+         (0,95)
+DOCMS    entendi ((risos))
+         00:02:37.105 - 00:02:37.945
+         (0,17)
+DOCMS    e há quanto tempo você mora lá em Socorro?
+         00:02:38.120 - 00:02:40.930
+ISA1F1   desde sempre
+         00:02:40.380 - 00:02:40.980
+         (0,23)
+DOCMS    desde sempre?
+         00:02:41.215 - 00:02:41.975
+ISA1F1   é
+         00:02:41.590 - 00:02:41.960
+         (0,35)
+DOCMS    eh
+         00:02:42.330 - 00:02:43.420
+         (0,61)
+DOCMS    como foi a infância crescendo lá em Socorro?
+         00:02:44.030 - 00:02:46.640
+         (1,90)
+ISA1F1   eh eu
+         00:02:48.540 - 00:02:49.650
+         (0,73)
+ISA1F1   morava na casa de minha avó
+         00:02:50.380 - 00:02:51.440
+         (0,96)
+ISA1F1   então
+         00:02:52.405 - 00:02:53.515
+         (0,06)
+ISA1F1   eu só andava em uma rua era uma rua enorme
+         00:02:53.575 - 00:02:55.685
+         (0,31)
+ISA1F1   e tipo era aquele tipo de rua 
+         00:02:55.995 - 00:02:57.725
+         (0,56)
+ISA1F1   que
+         00:02:58.285 - 00:02:58.715
+         (0,83)
+ISA1F1   os
+         00:02:59.545 - 00:02:59.945
+         (0,31)
+ISA1F1   pais deixavam os filhos brincarem na rua
+         00:03:00.250 - 00:03:01.830
+         (0,43)
+ISA1F1   hoje em dia não é mais você passa por lá não é mas tipo era muito animada tinha um monte de gente você jogava queimado na rua
+         00:03:02.255 - 00:03:07.875
+         (0,32)
+ISA1F1   e essas coisas então tipo foi muito legal 
+         00:03:08.200 - 00:03:10.140
+         (0,41)
+ISA1F1   eu lembro
+         00:03:10.545 - 00:03:11.135
+         (0,27)
+ISA1F1   tenho muitas memórias de tipo brincar e um monte de coisa sempre fui 
+         00:03:11.405 - 00:03:14.695
+         (0,55)
+ISA1F1   não era tão difícil de ficar na rua num era tão perigoso então era legal
+         00:03:15.245 - 00:03:18.245
+         (0,79)
+DOCMS    então você acha que mudou muito em relação aos dias de antigamente pra os dias de hoje?
+         00:03:19.030 - 00:03:22.810
+         (0,12)
+ISA1F1   acho porque hoje em dia eu não consigo nem
+         00:03:22.925 - 00:03:24.865
+         (0,14)
+ISA1F1   na esquina comprar pão eu moro em um condominío agora porque não tenho condições mais
+         00:03:25.010 - 00:03:28.540
+         (0,59)
+ISA1F1   teve uma época que uma rua que eu morei era uma boca de fumo na esquina
+         00:03:29.130 - 00:03:31.840
+         (0,70)
+ISA1F1   então sabe
+         00:03:32.540 - 00:03:33.510
+         (0,51)
+ISA1F1   mudou porque hoje em dia
+         00:03:34.020 - 00:03:35.360
+         (0,17)
+ISA1F1   lá pelo menos
+         00:03:35.535 - 00:03:36.685
+         (0,42)
+ISA1F1   o único jeito de se sentir seguro em casa é você morar em um condomínio e olhe lá
+         00:03:37.105 - 00:03:40.815
+         (1,44)
+DOCMS    eh pra você
+         00:03:42.255 - 00:03:43.515
+         (0,19)
+DOCMS    qual a memória mais marcante da sua infância?
+         00:03:43.710 - 00:03:46.170
+         (1,20)
+ISA1F1   ah a minha memória mais marcante e a minha mais feliz
+         00:03:47.365 - 00:03:50.315
+         (0,43)
+ISA1F1   são é quando eu era criança tenho duas irmãs uma gêmea e uma um ano mais nova
+         00:03:50.745 - 00:03:54.685
+         (0,20)
+DOCMS    uma irmã gêmea sua?
+         00:03:54.890 - 00:03:55.590
+         (0,03)
+ISA1F1   eh eu tenho
+         00:03:55.615 - 00:03:56.315
+         (0,81)
+ISA1F1   eh
+         00:03:57.120 - 00:03:57.830
+         (1,17)
+ISA1F1   minha maior memória era quando eu
+         00:03:59.000 - 00:04:00.820
+         (0,20)
+ISA1F1   teve uma época que as duas ficaram doente
+         00:04:01.025 - 00:04:02.485
+         (0,76)
+ISA1F1   ntão eu não lembro de nada enquanto elas estavam doente
+         00:04:03.250 - 00:04:06.360
+         (0,70)
+ISA1F1   mas eu consigo lembrar do dia que elas voltaram pra casa
+         00:04:07.060 - 00:04:09.550
+         (1,11)
+ISA1F1   e tipo
+         00:04:10.660 - 00:04:11.220
+         (0,34)
+ISA1F1   voltaram em dias diferentes
+         00:04:11.555 - 00:04:12.625
+         (0,67)
+ISA1F1   e eu consigo lembrar de tudo a minha memória mais marcante porque eu tava no
+         00:04:13.295 - 00:04:15.685
+         (0,06)
+ISA1F1   centro escostada em um poste 
+         00:04:15.745 - 00:04:17.555
+         (0,22)
+ISA1F1   e a minha irmã gêmea me futuca assim e eu lembro sabe  como fiquei muito feliz porque elas passaram muito tempo longe
+         00:04:17.775 - 00:04:21.965
+         (0,99)
+ISA1F1   então foi muito legal
+         00:04:22.955 - 00:04:24.295
+DOCMS    legal
+         00:04:23.900 - 00:04:24.250
+         (0,60)
+DOCMS    e se você tivesse a oportunidade
+         00:04:24.890 - 00:04:27.280
+         (0,74)
+DOCMS    não você gosta de morar lá em Socorro?
+         00:04:28.020 - 00:04:29.830
+         (0,32)
+ISA1F1   gosto
+         00:04:30.150 - 00:04:30.880
+         (0,79)
+DOCMS    por que?
+         00:04:31.670 - 00:04:32.050
+         (1,14)
+ISA1F1   eu gosto eu gosto porque não Socorro Socorro mas eu acho meio que
+         00:04:33.195 - 00:04:37.475
+         (0,08)
+ISA1F1   acabou virando você tem o shopping ali  perto você tem o João Alves que é meio um centro comercial
+         00:04:37.550 - 00:04:42.450
+         (0,28)
+ISA1F1   sabe
+         00:04:42.735 - 00:04:43.265
+         (0,34)
+ISA1F1   e o lugar que eu moro é legal e eu conheço as pessoas lá há muito tempo
+         00:04:43.605 - 00:04:46.505
+         (0,14)
+ISA1F1   a muito tempo e eu já sei conviver lá
+         00:04:46.640 - 00:04:48.140
+         (0,38)
+ISA1F1   então
+         00:04:48.525 - 00:04:49.715
+         (0,34)
+ISA1F1   eu não me imagino saindo de lá principalmente saindo de minha casa porque eu tenho meus bicho minhas coisa
+         00:04:50.055 - 00:04:53.735
+         (0,55)
+ISA1F1   então ia ser
+         00:04:54.280 - 00:04:55.030
+         (0,56)
+ISA1F1   bem difícil
+         00:04:55.590 - 00:04:56.180
+         (0,48)
+DOCMS    mas assim se você tivesse a oportunidade você moraria em outro local?
+         00:04:56.660 - 00:04:59.740
+         (4,06)
+ISA1F1   eu acho
+         00:05:03.800 - 00:05:04.260
+         (0,31)
+ISA1F1   que sim
+         00:05:04.575 - 00:05:05.055
+         (0,43)
+ISA1F1   dependendo
+         00:05:05.480 - 00:05:06.320
+         (0,34)
+ISA1F1   aqui em Sergipe
+         00:05:06.655 - 00:05:07.845
+         (0,45)
+ISA1F1   tipo se eu pudesse mudar pra mais perto 
+         00:05:08.295 - 00:05:10.605
+DOCMS    unrum
+         00:05:10.185 - 00:05:10.635
+         (0,08)
+ISA1F1   ou alguma coisa assim
+         00:05:10.715 - 00:05:12.065
+         (0,34)
+ISA1F1   eu acho que me mudaria
+         00:05:12.405 - 00:05:13.765
+         (0,87)
+ISA1F1   mas para outro lugar
+         00:05:14.630 - 00:05:15.670
+         (0,56)
+ISA1F1   sai do estado eu tive a oportunidade e não quis
+         00:05:16.235 - 00:05:18.965
+         (0,85)
+ISA1F1   por que eu não largo a faculdade nem a pau
+         00:05:19.815 - 00:05:21.785
+         (0,14)
+DOCMS    ah
+         00:05:21.925 - 00:05:22.665
+ISA1F1   ((risos))
+         00:05:21.925 - 00:05:22.665
+         (0,14)
+DOCMS    e tipo um sonho internacional de morar em algum lugar fora
+         00:05:22.810 - 00:05:25.970
+ISA1F1   ah
+         00:05:25.325 - 00:05:25.975
+         (1,14)
+ISA1F1   pronto Espanha
+         00:05:27.115 - 00:05:27.855
+         (0,50)
+ISA1F1   eu sou a louca da Espanha
+         00:05:28.360 - 00:05:29.630
+         (0,16)
+DOCMS    ((risos))
+         00:05:29.790 - 00:05:30.280
+ISA1F1   eu acho o sotaque muito bonito então eu moraria lá
+         00:05:29.810 - 00:05:32.120
+         (0,42)
+DOCMS    ((risos))
+         00:05:32.540 - 00:05:33.100
+         (0,34)
+DOCMS    e o que você mais gosta de fazer lá onde você mora?
+         00:05:33.435 - 00:05:36.285
+         (1,51)
+ISA1F1   como eu moro em um condomínio
+         00:05:37.800 - 00:05:39.030
+         (0,63)
+ISA1F1   tipo
+         00:05:39.660 - 00:05:40.320
+         (0,43)
+ISA1F1   você pode simplesmente sentar e virar uma madrugada no meio da praça sabe
+         00:05:40.745 - 00:05:44.135
+         (0,28)
+ISA1F1   coisa que não dá mais pra fazer você pode sentar no meio da rua você pode sentar com seus amigos
+         00:05:44.415 - 00:05:47.665
+ISA1F1   ficar lá fazendo barulho conversando uma vez ((est)) eu fiquei sentada com um amigo vendo o sol nascer cinco horas da manhã no meio da rua
+         00:05:47.675 - 00:05:53.925
+         (0,20)
+ISA1F1   num dá pra fazer isso
+         00:05:54.125 - 00:05:55.235
+         (1,21)
+ISA1F1   em muitos lugares
+         00:05:56.445 - 00:05:57.295
+         (2,03)
+DOCMS    eh pra você o que é mais atrativo no lugar onde você mora?
+         00:05:59.325 - 00:06:02.205
+         (0,63)
+ISA1F1   ((respirando))
+         00:06:02.840 - 00:06:03.370
+         (1,00)
+ISA1F1   bom sabe uma coisa que eu falo pra todo mundo?
+         00:06:04.370 - 00:06:06.110
+         (0,90)
+ISA1F1   cinema
+         00:06:07.015 - 00:06:07.755
+         (0,10)
+ISA1F1   meu Deus
+         00:06:07.860 - 00:06:08.970
+         (0,15)
+ISA1F1   porque tipo é dez reais o ingresso no cinema lá ((risos))eu sei que é muito sabe
+         00:06:09.120 - 00:06:13.610
+ISA1F1   uma coisa só que tipo ah vamo sair
+         00:06:13.610 - 00:06:16.300
+         (0,37)
+ISA1F1   ah falam vamo no cinema eu falo não vamo lá em Socorro  porque ninguém é rico a gente pega dez reais o ingresso e é perto da minha casa e eu odeio sair aí é perto
+         00:06:16.670 - 00:06:24.280
+         (0,13)
+ISA1F1   não bora aí todo mundo na hora ahh é barato assim então bora mesmo sabe
+         00:06:24.410 - 00:06:28.320
+         (1,21)
+DOCMS    eh pra você
+         00:06:29.530 - 00:06:31.100
+         (0,74)
+DOCMS    qual que você acha que é ruim pra os moradores de lá?
+         00:06:31.840 - 00:06:34.100
+         (0,29)
+ISA1F1   lá é perigoso
+         00:06:34.395 - 00:06:35.005
+         (0,74)
+ISA1F1   é perigoso e tipo
+         00:06:35.745 - 00:06:37.155
+         (0,65)
+ISA1F1   é assustador você ir caminhando  pro ponto de manhã cedo principalmente
+         00:06:37.805 - 00:06:40.535
+         (1,05)
+ISA1F1   e no ponto tipo dependendo do lugar você tem que ficar parado olhando pros lados
+         00:06:41.585 - 00:06:45.135
+         (0,55)
+ISA1F1   e você nunca tem a sensação de tá seguro
+         00:06:45.685 - 00:06:47.875
+         (0,31)
+ISA1F1   você sempre tem que chegar em casa cedo tipo sete horas da manhã quando começa a escurecer 
+         00:06:48.185 - 00:06:51.325
+         (0,17)
+ISA1F1   você não quer mais comprar pão você não quer fazer mais nada porque é muito muito muito perigoso
+         00:06:51.500 - 00:06:55.220
+         (1,04)
+DOCMS    entendo
+         00:06:56.265 - 00:06:56.915
+         (0,41)
+DOCMS    eh você já viajou pra fora de Sergipe?
+         00:06:57.325 - 00:06:59.385
+         (0,16)
+ISA1F1   já
+         00:06:59.540 - 00:06:59.900
+         (0,62)
+DOCMS    você falou que sua mãe é de do Rio de Janeiro você já foi pra lá?
+         00:07:00.525 - 00:07:03.215
+ISA1F1   do Rio
+         00:07:02.115 - 00:07:02.515
+         (0,05)
+ISA1F1   já
+         00:07:03.260 - 00:07:03.740
+         (0,08)
+DOCMS    como foi a experiência?
+         00:07:03.815 - 00:07:04.815
+         (1,36)
+ISA1F1   no lugar que eu fui
+         00:07:06.170 - 00:07:07.260
+         (0,14)
+ISA1F1   era tipo uma cidadezinha
+         00:07:07.400 - 00:07:08.970
+         (1,37)
+ISA1F1   pequena eh
+         00:07:10.340 - 00:07:11.690
+         (0,22)
+ISA1F1   Iguaba Iguaba Graude
+         00:07:11.910 - 00:07:13.590
+         (0,41)
+ISA1F1   eu lembro que teve um dia que minha tia falou meia noite vamo ali na praia e a gente só saiu caminhando na praia
+         00:07:14.000 - 00:07:19.350
+         (0,22)
+ISA1F1   tudo escuro mas sem nenhum medo
+         00:07:19.570 - 00:07:20.920
+         (0,63)
+ISA1F1   e sabe é uma coisa que eu nunca vi no Rio Rio capital mas lá
+         00:07:21.550 - 00:07:25.940
+         (0,21)
+ISA1F1   era muito seguro e era tipo um bom lugar pra você ir caminhando você não tinha que se preocupar não tinha que olhar pros lados não tinha sabe meu Deus vai acontecer alguma coisa você só ia e era ótimo   
+         00:07:26.150 - 00:07:34.700
+         (0,31)
+DOCMS    era interior lá no caso
+         00:07:35.010 - 00:07:36.510
+ISA1F1   é
+         00:07:36.155 - 00:07:36.515
+         (0,51)
+DOCMS    legal
+         00:07:37.030 - 00:07:37.400
+         (0,68)
+DOCMS    eh você gostaria de voltar pra lá?
+         00:07:38.080 - 00:07:40.540
+ISA1F1   unrum
+         00:07:40.095 - 00:07:40.495
+         (1,28)
+DOCMS    tem alguma viagem que você sonha em fazer tirando a Espanha por exemplo
+         00:07:41.820 - 00:07:45.010
+         (1,04)
+ISA1F1   Coreia do Sul
+         00:07:46.050 - 00:07:47.020
+DOCMS    Coreia do Sul
+         00:07:47.030 - 00:07:47.600
+         (0,04)
+ISA1F1   é
+         00:07:47.640 - 00:07:48.070
+         (0,82)
+DOCMS    Você gosta de kipop?
+         00:07:48.890 - 00:07:50.280
+         (0,21)
+ISA1F1   gosto mas eu não queria por causa disso eu acho que eu queria sei lá dá uns
+         00:07:50.490 - 00:07:54.290
+         (0,08)
+ISA1F1   uns gritos no povo ((risos)) 
+         00:07:54.365 - 00:07:57.935
+         (0,47)
+DOCMS    ((risos))
+         00:07:58.405 - 00:07:58.925
+         (0,35)
+DOCMS    e o que você mais gosta de fazer no seu fim de semana?
+         00:07:59.280 - 00:08:02.120
+         (0,62)
+ISA1F1   ah
+         00:08:02.745 - 00:08:03.725
+         (0,45)
+ISA1F1   eralmente ou eu passo meu fim de semana trancada em casa assistindo alguma série ou eu vou pra casa do meu namorado alguma série ((risos)) então é meio que isso
+         00:08:04.175 - 00:08:12.495
+DOCMS    então quais são as séries que você assiste?
+         00:08:12.470 - 00:08:14.070
+         (0,17)
+ISA1F1   hum
+         00:08:14.235 - 00:08:15.225
+         (0,23)
+ISA1F1   agora tô assistindo uma animação do Jack ((est))  
+         00:08:15.455 - 00:08:17.585
+         (1,06)
+ISA1F1   eh one day at a time que é uma série da netflix
+         00:08:18.645 - 00:08:21.205
+         (0,14)
+ISA1F1   de comédia brooklyn nine-nine the good place que são de comédia eu gosto
+         00:08:21.340 - 00:08:25.390
+         (0,02)
+ISA1F1   muito
+         00:08:25.410 - 00:08:25.950
+         (0,61)
+ISA1F1   aí
+         00:08:26.555 - 00:08:27.305
+         (0,45)
+ISA1F1   tem Jane, a virgem uma série eu acho que já assisti umas sessenta séries na vida sério
+         00:08:27.755 - 00:08:32.145
+DOCMS    ((risos))
+         00:08:31.195 - 00:08:32.065
+         (0,85)
+DOCMS    legal
+         00:08:32.995 - 00:08:33.455
+         (0,25)
+DOCMS    e quais os lugares que você costuma frequentar assim atrás de lazer?
+         00:08:33.710 - 00:08:37.160
+         (3,28)
+ISA1F1   eu
+         00:08:40.440 - 00:08:40.780
+         (0,49)
+ISA1F1   eu acho que sou uma pessoa muito de vou ao cinema eu gosto apesar de eu num
+         00:08:41.265 - 00:08:45.305
+         (0,88)
+ISA1F1   sair muito de casa eu acho que mais perto que eu cheguei foi ir ao cinema no shopping comer alguma coisa sabe porque eu não sou muito de sair não sou muito boa saindo de casa então
+         00:08:46.180 - 00:08:53.120
+         (0,53)
+DOCMS    e quando você vai sair geralmente você sai com quem? 
+         00:08:53.650 - 00:08:56.040
+         (1,22)
+ISA1F1   meus pais
+         00:08:57.260 - 00:08:57.920
+         (0,25)
+ISA1F1   na maioria das vezes
+         00:08:58.165 - 00:08:59.165
+         (0,34)
+ISA1F1   ou minhas amigas daqui 
+         00:08:59.510 - 00:09:01.220
+         (2,15)
+DOCMS    eh você gosta de ler livros?
+         00:09:03.370 - 00:09:05.000
+         (2,07)
+ISA1F1   eu
+         00:09:07.070 - 00:09:07.360
+         (0,51)
+ISA1F1   queria gostar tanto quanto eu tenho vontade tipo eu sou uma pessoa que me interesso 
+         00:09:07.870 - 00:09:12.140
+         (0,29)
+ISA1F1   só que depois  de um capítulo eu acho chato e não consigo mais ler
+         00:09:12.430 - 00:09:15.400
+         (0,91)
+ISA1F1   sabe mas eu sou curiosa pelo final tudo
+         00:09:16.310 - 00:09:18.730
+DOCMS    ((risos))
+         00:09:18.045 - 00:09:18.645
+         (0,67)
+DOCMS    e você lê alguma coisa pela internet blog instagram essas coisas?
+         00:09:19.400 - 00:09:23.670
+         (0,84)
+ISA1F1   eu sou a maluca da fanfic
+         00:09:24.510 - 00:09:25.510
+         (0,22)
+DOCMS    ((risos))
+         00:09:25.735 - 00:09:26.725
+ISA1F1   ((est))
+         00:09:26.095 - 00:09:27.115
+         (0,19)
+ISA1F1   eu lia muito hoje em dia  não leio tanto eu acho que é porque não tenho tanto tempo ou às vezes perde o interesse mas quando eu era mais nova lia muito  
+         00:09:27.310 - 00:09:32.010
+         (0,87)
+DOCMS    e qual era o site que você costumava ler fanfic?
+         00:09:32.875 - 00:09:35.485
+ISA1F1   spirit fanfic
+         00:09:34.835 - 00:09:35.495
+         (0,22)
+DOCMS    ah
+         00:09:35.720 - 00:09:36.540
+         (0,04)
+ISA1F1   é
+         00:09:36.575 - 00:09:36.935
+         (0,73)
+DOCMS    eh a sua família ela tem hábito de ler? 
+         00:09:37.660 - 00:09:39.740
+         (0,64)
+ISA1F1   ah tem a minha irmã gêmea ela tem uma coleção de livros minha mãe também 
+         00:09:40.385 - 00:09:43.095
+         (0,14)
+ISA1F1   meu pai é professor de português então ele lê muito 
+         00:09:43.235 - 00:09:45.265
+         (0,81)
+ISA1F1   tipo elas têm uma coleção que deixa lá exposta sabe minha mãe é bem louca por livro
+         00:09:46.075 - 00:09:49.415
+         (0,34)
+DOCMS    a gêmea?
+         00:09:49.750 - 00:09:50.320
+         (0,04)
+ISA1F1   é
+         00:09:50.360 - 00:09:50.840
+         (0,65)
+DOCMS    e você acha que o hábito da leitura ele é importante?
+         00:09:51.495 - 00:09:53.975
+         (0,05)
+ISA1F1   é
+         00:09:54.020 - 00:09:54.370
+         (0,34)
+ISA1F1   eu acho porque
+         00:09:54.710 - 00:09:55.790
+         (0,38)
+ISA1F1   apesar de eu não ter
+         00:09:56.175 - 00:09:57.405
+         (0,40)
+ISA1F1   muito eu acho importante porque tipo você vai conhecendo muda a perspectiva das coisas vai aprendendo melhor vocabulário
+         00:09:57.805 - 00:10:03.635
+         (0,41)
+ISA1F1   e tudo mais então
+         00:10:04.045 - 00:10:04.885
+         (0,41)
+ISA1F1   é uma coisa que eu tenho que tomar vergonha na cara e me acostumar
+         00:10:05.290 - 00:10:08.060
+         (0,63)
+DOCMS    eh
+         00:10:08.690 - 00:10:09.110
+         (0,31)
+DOCMS    eh agora um pouquinho mais voltado pra educação 
+         00:10:09.415 - 00:10:11.555
+         (0,73)
+DOCMS    você acha que a educação pública ela deve ser garantida pelo governo?
+         00:10:12.285 - 00:10:16.105
+ISA1F1   sim
+         00:10:15.750 - 00:10:16.140
+         (0,24)
+DOCMS    por que?
+         00:10:16.380 - 00:10:16.830
+         (0,61)
+ISA1F1   porque é tipo um direito básico do ser humano sabe você poder 
+         00:10:17.440 - 00:10:21.170
+         (0,81)
+ISA1F1   estudar você ter o sonho de entrar numa faculdade
+         00:10:21.980 - 00:10:24.490
+         (0,14)
+ISA1F1   mas aí você não tem uma nota suficiente aí você não pode entrar e aí fica aquela frustação sabe 
+         00:10:24.630 - 00:10:28.910
+         (0,50)
+ISA1F1   tipo porque
+         00:10:29.405 - 00:10:30.245
+         (0,10)
+ISA1F1   porque
+         00:10:30.350 - 00:10:30.980
+         (0,17)
+ISA1F1   nem todo mundo vai consegui pagar uma particular e dependendo do curso que você quer
+         00:10:31.150 - 00:10:34.690
+         (0,20)
+ISA1F1   e nem todo mundo tem condição se quer pagar uma particular às vezes tem que começar a trabalhar e não consegue conciliar 
+         00:10:34.895 - 00:10:40.285
+         (0,13)
+ISA1F1   vai pra faculdade a noite mas tá com sono por causa do trabalho tá pensando no trabalho ou vice versa sabe 
+         00:10:40.415 - 00:10:45.005
+         (0,42)
+ISA1F1   então
+         00:10:45.425 - 00:10:45.935
+         (0,81)
+DOCMS    entendo e você acha que por exemplo ao longo dos anos 
+         00:10:46.745 - 00:10:50.515
+         (0,30)
+DOCMS    a educação melhorou ou piorou?
+         00:10:50.815 - 00:10:53.245
+         (1,15)
+ISA1F1   então
+         00:10:54.395 - 00:10:55.115
+         (0,57)
+ISA1F1   eu
+         00:10:55.690 - 00:10:56.090
+         (0,52)
+ISA1F1   só suspeita pra falar porque eu estudei só o ensino médio em escola pública
+         00:10:56.615 - 00:11:00.535
+         (0,52)
+ISA1F1   eu estudei no Atheneu
+         00:11:01.060 - 00:11:01.970
+         (0,17)
+ISA1F1   já ouviu falar
+         00:11:02.140 - 00:11:02.640
+         (0,22)
+DOCMS    já
+         00:11:02.865 - 00:11:03.155
+         (0,12)
+ISA1F1   então eu estudei no Atheneu e lá era muitos centrados em você tipo
+         00:11:03.275 - 00:11:07.265
+         (0,18)
+ISA1F1   ah no meu terceiro ano só falava em Enem
+         00:11:07.445 - 00:11:09.155
+         (1,36)
+ISA1F1   então
+         00:11:10.515 - 00:11:11.265
+         (0,13)
+ISA1F1   era bem
+         00:11:11.395 - 00:11:12.515
+         (0,47)
+ISA1F1   sabe
+         00:11:12.980 - 00:11:13.390
+         (0,33)
+ISA1F1   ai
+         00:11:13.720 - 00:11:14.150
+         (0,21)
+ISA1F1   isso isso isso vamos estudar pra isso bora focar nisso
+         00:11:14.360 - 00:11:17.000
+         (0,43)
+ISA1F1   então o meu ensino médio foi muito bom mas
+         00:11:17.425 - 00:11:20.215
+         (0,04)
+ISA1F1   se eu comparo de outras pessoas
+         00:11:20.255 - 00:11:21.875
+         (0,44)
+ISA1F1   não foi tão bom assim não então acho que
+         00:11:22.310 - 00:11:24.130
+         (0,31)
+DOCMS    mas outras pessoas por exemplo que estudaram na escola privada ou o que?
+         00:11:24.445 - 00:11:27.975
+         (0,37)
+ISA1F1   não de escola pública mesmo eu tenho uma amiga ela sempre comenta ah na minha escola não tem isso uma vez ela comentou que ela tinha uma professora que nem era formada que ela chegava na aula e só fumava e bebia
+         00:11:28.340 - 00:11:38.360
+         (0,36)
+ISA1F1   tipo esse tipo de coisa então acho que
+         00:11:38.720 - 00:11:41.440
+         (0,88)
+ISA1F1   só tende a piorar principalmente com esse novo governo só tende a piorar é ladeira abaixo 
+         00:11:42.325 - 00:11:46.285
+         (0,63)
+DOCMS    eh
+         00:11:46.920 - 00:11:47.740
+         (1,25)
+DOCMS    eh então
+         00:11:48.995 - 00:11:49.995
+         (0,25)
+DOCMS    se você for fazer uma comparação
+         00:11:50.245 - 00:11:52.475
+         (0,79)
+DOCMS    você você não pode conhecer claro mas 
+         00:11:53.265 - 00:11:54.905
+         (0,46)
+DOCMS    de dez anos atrás
+         00:11:55.360 - 00:11:56.630
+         (0,21)
+DOCMS    com o que a gente tá tendo agora você acha que isso mudou pra positivo ou negativo
+         00:11:56.840 - 00:12:01.100
+         (0,05)
+ISA1F1   eu não sei ao certo
+         00:12:01.155 - 00:12:01.935
+         (0,20)
+ISA1F1   dez anos atrás mas eu lembro por exemplo que meu pai comentava que ele não estudou química porque você poderia escolher uma área que você preferia 
+         00:12:02.140 - 00:12:08.690
+         (0,37)
+ISA1F1   e eu acho isso interessante
+         00:12:09.060 - 00:12:10.280
+         (0,19)
+ISA1F1   não vou dizer que não
+         00:12:10.465 - 00:12:11.435
+         (0,11)
+ISA1F1   que por exemplo eu tive uma aula de economia que foi totalmente voltada ao comércio que não vai adiantar tipo nada pra mim
+         00:12:11.545 - 00:12:16.535
+         (0,23)
+ISA1F1   então eu acho muito bom você tipo ser direcionado
+         00:12:16.765 - 00:12:19.695
+         (0,95)
+ISA1F1   ah eu quero isso eu gosto desse tipo de coisa porém você não tem
+         00:12:20.645 - 00:12:24.825
+         (0,25)
+ISA1F1   aquela oportunidade do ensino médio de descobrir outra coisa e aí sabe
+         00:12:25.080 - 00:12:28.430
+         (0,26)
+ISA1F1   ah não eu gosto de química aí você é passa a vida inteira pensando que não gostava
+         00:12:28.690 - 00:12:32.210
+         (0,19)
+ISA1F1   então agora pelo menos a gente tem mais oportunidade de ver 
+         00:12:32.405 - 00:12:35.445
+         (0,19)
+ISA1F1   como é que funciona sabe
+         00:12:35.640 - 00:12:37.260
+DOCMS    por exemplo a nova BNCC se não me engano tem a perspectiva de você escolher
+         00:12:37.245 - 00:12:41.655
+         (0,34)
+DOCMS    qual a base você quer seguir então você acha que isso seria um bom tópico?
+         00:12:41.995 - 00:12:45.535
+         (0,46)
+ISA1F1   eu acho mas também eu acho complicado porque base
+         00:12:45.990 - 00:12:48.770
+         (0,43)
+ISA1F1   é tipo quanto tempo eh [concedo] qual novo você vai escolher essa base
+         00:12:49.195 - 00:12:54.195
+         (0,40)
+ISA1F1   porque
+         00:12:54.590 - 00:12:55.480
+         (0,19)
+ISA1F1   quando você entra no ensino médio você tem catorze anos
+         00:12:55.670 - 00:12:57.500
+         (0,30)
+ISA1F1   com catorze anos você não tem mínima noção se você vai preferir 
+         00:12:57.800 - 00:13:00.890
+         (0,56)
+ISA1F1   fazer português se você vai preferir fazer matemática sabe
+         00:13:01.450 - 00:13:03.910
+         (0,14)
+ISA1F1   então acho que é bom
+         00:13:04.055 - 00:13:05.495
+         (0,22)
+ISA1F1   você vai conhecendo você vai amadurecendo e aí você percebe o que você quer
+         00:13:05.720 - 00:13:09.150
+         (0,28)
+ISA1F1   então seria meio
+         00:13:09.430 - 00:13:10.700
+         (1,11)
+ISA1F1   sabe confuso eu acho que as pessoas vão se arrepender muito
+         00:13:11.810 - 00:13:14.430
+         (0,34)
+DOCMS    cê acha que quais são as matérias pilares do ensino?
+         00:13:14.765 - 00:13:18.135
+         (0,10)
+DOCMS    que são fundamentais mesmo
+         00:13:18.235 - 00:13:19.555
+         (0,69)
+ISA1F1   português matemática o básico filosofia sociologia
+         00:13:20.240 - 00:13:23.910
+         (1,77)
+ISA1F1   biologia
+         00:13:25.680 - 00:13:26.770
+         (0,84)
+ISA1F1   física não muito
+         00:13:27.610 - 00:13:30.580
+         (0,79)
+ISA1F1   eh
+         00:13:31.370 - 00:13:32.190
+         (0,56)
+ISA1F1   eu gosto de artes eu acho que artes é uma coisa boa
+         00:13:32.745 - 00:13:35.025
+         (0,75)
+ISA1F1   pra cê ensinar deixa eu pensar
+         00:13:35.770 - 00:13:38.150
+         (0,06)
+ISA1F1   história obviamente ((risos)) não posso deixar história
+         00:13:38.215 - 00:13:41.335
+         (0,94)
+ISA1F1   eu acho que sou uma pessoa muito mais do
+         00:13:42.280 - 00:13:44.460
+         (1,76)
+ISA1F1   do humanas eu acho
+         00:13:46.225 - 00:13:47.515
+         (0,36)
+ISA1F1   não que não seja só que tipo por exemplo você aprende um negócio de física no ensino médio é diferente de você aprender guerra história sabe saber de onde você veio saber como você ficou não é como você aprender a velocidade de um carro são coisas diferentes não é menosprezando
+         00:13:47.875 - 00:14:00.795
+ISA1F1   mas sabe
+         00:14:00.800 - 00:14:02.030
+         (0,92)
+DOCMS    eh
+         00:14:02.950 - 00:14:03.710
+         (0,20)
+DOCMS    você considera importante que as bolsas tipo pibic pidid bolsas auxílios
+         00:14:03.915 - 00:14:08.975
+         (0,22)
+DOCMS    ofertadas na universidade tenham como critério de escolha a vulnerabilidade do estudante
+         00:14:09.200 - 00:14:13.340
+         (0,31)
+DOCMS    a renda social dele essas coisas 
+         00:14:13.655 - 00:14:15.205
+         (0,18)
+ISA1F1   eu acho
+         00:14:15.385 - 00:14:16.375
+         (0,46)
+ISA1F1   mas por exemplo eu acho que isso é um ponto
+         00:14:16.835 - 00:14:19.185
+         (0,21)
+ISA1F1   se você é cotista não sei se deveria contar
+         00:14:19.395 - 00:14:21.795
+         (0,61)
+ISA1F1   caso ((est)) muitos você tem que analisar o todo porque às vezes
+         00:14:22.400 - 00:14:26.190
+         (0,19)
+ISA1F1   abri bolsa pra quem é cotista mas às vezes a pessoa conseguiu passar em ampla
+         00:14:26.380 - 00:14:29.800
+         (0,29)
+ISA1F1   mas ainda sim sabe
+         00:14:30.095 - 00:14:31.325
+         (0,20)
+ISA1F1   foi mais vantajoso ela passar em ampla mas mesmo assim ela é vulnerável
+         00:14:31.525 - 00:14:35.355
+         (0,32)
+ISA1F1   tudo aquilo então eu acho
+         00:14:35.675 - 00:14:37.285
+         (0,32)
+ISA1F1   tem que aperfeiçoar muito mais eu acho que é muito válido mas precisa ser aperfeiçoado
+         00:14:37.605 - 00:14:41.215
+         (0,48)
+DOCMS    o que você acha que seria um bom ponto para melhor
+         00:14:41.695 - 00:14:44.945
+         (0,03)
+DOCMS    eh equalizar isso?
+         00:14:44.975 - 00:14:45.925
+         (1,07)
+ISA1F1   eu acho que
+         00:14:46.995 - 00:14:48.365
+         (0,39)
+ISA1F1   deveria de fato 
+         00:14:48.755 - 00:14:50.475
+         (0,62)
+ISA1F1   ser analisado mais
+         00:14:51.090 - 00:14:52.130
+         (0,14)
+ISA1F1   a vida da pessoa
+         00:14:52.275 - 00:14:53.515
+         (0,38)
+ISA1F1   eu não sei porque assim por exemplo 
+         00:14:53.890 - 00:14:56.300
+         (0,31)
+ISA1F1   eh uma situação
+         00:14:56.610 - 00:14:58.300
+         (1,71)
+ISA1F1   pronto eu acho que deveriam
+         00:15:00.010 - 00:15:01.480
+         (0,07)
+ISA1F1   saber muito mais sobre a vida de alguém
+         00:15:01.550 - 00:15:03.340
+         (0,20)
+ISA1F1   porque às vezes a pessoa tem um salário
+         00:15:03.540 - 00:15:05.130
+         (0,29)
+ISA1F1   e é considerável relativamente alto
+         00:15:05.420 - 00:15:07.350
+         (0,13)
+ISA1F1   mas aí você vai ver outros pontos da vida dela e você vai ver que aquele salário não dá
+         00:15:07.480 - 00:15:10.660
+         (0,29)
+ISA1F1   sabe
+         00:15:10.955 - 00:15:11.395
+         (0,25)
+ISA1F1   e tipo lá só perguntar conta de luz
+         00:15:11.640 - 00:15:14.040
+         (0,10)
+ISA1F1   residência quantas pessoas tem na sua casa
+         00:15:14.145 - 00:15:16.415
+         (0,21)
+ISA1F1   eu acho que deveria ser muito mais aprofundado eu acho que deveria sentar na minha casa é assim assado
+         00:15:16.625 - 00:15:21.585
+         (0,32)
+ISA1F1   e aí você assim
+         00:15:21.910 - 00:15:22.940
+         (0,08)
+ISA1F1   cobrisse aquela renda
+         00:15:23.020 - 00:15:24.270
+         (0,19)
+ISA1F1   de fato é mais alta pra família é mais baixa sabe
+         00:15:24.460 - 00:15:27.150
+         (0,35)
+ISA1F1   porque existem controvérsias 
+         00:15:27.505 - 00:15:29.535
+DOCMS    sim sempre
+         00:15:29.295 - 00:15:30.585
+         (0,53)
+DOCMS    eh você considera importante as políticas pra garantir o acesso e a permanência dos alunos na educação básica
+         00:15:31.115 - 00:15:36.525
+         (0,30)
+DOCMS    como transporte escolar
+         00:15:36.825 - 00:15:38.185
+         (0,09)
+DOCMS    plano nacional do livro didático merenda escolar
+         00:15:38.270 - 00:15:40.460
+         (0,24)
+ISA1F1   sim eu acho porque
+         00:15:40.700 - 00:15:42.620
+         (0,17)
+ISA1F1   eh você vê gente
+         00:15:42.795 - 00:15:44.535
+         (0,34)
+ISA1F1   tipo criança pequena que vai pra escola que é único que é o único
+         00:15:44.870 - 00:15:48.730
+         (1,20)
+ISA1F1   alimento que ela tem no dia é tipo a merenda da escola sabe
+         00:15:49.925 - 00:15:52.515
+         (0,63)
+ISA1F1   e pras muitas pessoas pras muitas crianças e pessoas
+         00:15:53.145 - 00:15:56.905
+         (0,12)
+ISA1F1   sair pra escola às vezes é uma fuga de casa 
+         00:15:57.030 - 00:15:59.710
+         (0,25)
+ISA1F1   sabe tudo isso eu acho que
+         00:15:59.965 - 00:16:02.125
+         (0,38)
+ISA1F1   quanto melhor
+         00:16:02.510 - 00:16:03.560
+         (0,42)
+ISA1F1   for quanto mais fácil for porque por exemplo eu venho de escolar
+         00:16:03.980 - 00:16:06.620
+         (0,57)
+ISA1F1   eu realmente não sei se eu viria com tanta frequência se eu tivesse que vim de ônibus todo dia
+         00:16:07.195 - 00:16:10.925
+         (0,61)
+ISA1F1   eu sabe
+         00:16:11.535 - 00:16:12.585
+         (0,15)
+ISA1F1   se eu morasse no interior e tivesse que pagar sei lá quanto no ônibus você passar três quatros horas de viagem pra vim eu não sei se eu viria com tanta frequência
+         00:16:12.735 - 00:16:18.965
+         (0,54)
+ISA1F1   então por eu ter esse acesso mais fácil eu venho mais sabe
+         00:16:19.505 - 00:16:22.375
+         (0,22)
+ISA1F1   eu nunca tenho nada a perder
+         00:16:22.595 - 00:16:23.735
+         (0,29)
+ISA1F1   nossa se não tiver aula ah beleza
+         00:16:24.030 - 00:16:25.820
+         (0,28)
+ISA1F1   sabe eu fico aqui matando meu tempo mas tá de boa
+         00:16:26.100 - 00:16:28.320
+         (0,26)
+ISA1F1   então eu acho importante porque incentiva
+         00:16:28.585 - 00:16:30.545
+         (0,50)
+DOCMS    você falou que estudou o ensino médio no Atheneu como era que você ia pro Atheneu?
+         00:16:31.040 - 00:16:35.340
+ISA1F1   eu ia de ônibus
+         00:16:34.745 - 00:16:35.365
+         (0,19)
+DOCMS    ônibus gratuito?
+         00:16:35.550 - 00:16:36.370
+         (0,05)
+ISA1F1   não circular
+         00:16:36.415 - 00:16:37.285
+         (0,59)
+DOCMS    pago no caso né?
+         00:16:37.875 - 00:16:39.075
+ISA1F1   é
+         00:16:38.520 - 00:16:38.920
+         (0,95)
+DOCMS    eh (hes))
+         00:16:40.025 - 00:16:41.065
+         (0,75)
+DOCMS    quais pontos positivos e negativos você observa na educação pública atualmente?
+         00:16:41.820 - 00:16:46.110
+         (1,75)
+ISA1F1   eu
+         00:16:47.860 - 00:16:48.580
+         (1,75)
+ISA1F1   eu acho que ela é mais deixada de lado
+         00:16:50.325 - 00:16:52.565
+         (0,83)
+ISA1F1   eh tipo é levada como mais piada
+         00:16:53.400 - 00:16:55.650
+         (0,27)
+ISA1F1   sabe
+         00:16:55.920 - 00:16:56.300
+         (0,47)
+ISA1F1   porque por exemplo ah faculdade pública é isso
+         00:16:56.765 - 00:16:58.945
+         (0,58)
+ISA1F1   ah não precisa ir porque é faculdade pública ah besteira é balburdia
+         00:16:59.530 - 00:17:03.310
+         (0,17)
+ISA1F1   porque sabe eu acho que
+         00:17:03.485 - 00:17:05.075
+         (0,83)
+ISA1F1   por você não tá pagando às vezes você não se sente na responsabilidade
+         00:17:05.905 - 00:17:09.655
+         (0,26)
+ISA1F1   daquilo tipo
+         00:17:09.915 - 00:17:11.115
+         (0,14)
+ISA1F1   porque se você paga um curso você tá saindo do seu dinheiro
+         00:17:11.250 - 00:17:14.180
+         (0,13)
+ISA1F1   então eu tenho que fazer meu dinheiro valer a pena
+         00:17:14.310 - 00:17:16.670
+         (0,37)
+ISA1F1   no caso a pública muitas pessoas acham que você não tá pagando aquilo 
+         00:17:17.035 - 00:17:20.765
+         (0,16)
+ISA1F1   pagando né
+         00:17:20.925 - 00:17:21.715
+         (0,39)
+ISA1F1   aquilo você não tem nenhum compromisso
+         00:17:22.105 - 00:17:24.445
+         (0,34)
+ISA1F1   o que não é verdade apesar de muitas pessoas terem
+         00:17:24.780 - 00:17:27.390
+         (0,42)
+ISA1F1   não terem no caso né
+         00:17:27.810 - 00:17:28.830
+         (1,43)
+DOCMS    entendi então
+         00:17:30.265 - 00:17:30.885
+         (0,28)
+DOCMS    pra você assim
+         00:17:31.160 - 00:17:32.260
+         (0,70)
+DOCMS    qual seria o principal ponto negativo da educação pública? 
+         00:17:32.965 - 00:17:35.695
+         (1,10)
+DOCMS    no geral
+         00:17:36.795 - 00:17:37.275
+         (1,28)
+ISA1F1   eu acho que de fato é compromisso
+         00:17:38.560 - 00:17:40.680
+         (0,60)
+ISA1F1   porque
+         00:17:41.275 - 00:17:41.825
+         (1,12)
+ISA1F1   porque você pode ver experiência minha você pode ver professor que dá aula na particular
+         00:17:42.945 - 00:17:47.025
+         (0,25)
+ISA1F1   e aí porque não quer abrir mão da particular chega atrasado na aula
+         00:17:47.270 - 00:17:50.150
+         (0,09)
+ISA1F1   isso é exemplo meu aí chega atrasado na aula ou às vezes não vem o trânsito 
+         00:17:50.235 - 00:17:54.505
+         (0,15)
+ISA1F1   sabe naquela correria de vim pra uma pra outra
+         00:17:54.655 - 00:17:56.915
+         (0,25)
+ISA1F1   o trânsito e aí a pública acaba sendo deixada  
+         00:17:57.170 - 00:17:59.950
+         (0,60)
+ISA1F1   em segundo plano
+         00:18:00.545 - 00:18:01.435
+         (0,54)
+ISA1F1   e aí tipo você gasta seu tempo você vem e aí as pessoas não dão 
+         00:18:01.975 - 00:18:05.905
+         (0,88)
+ISA1F1   a devida importância que deveria ter
+         00:18:06.785 - 00:18:08.675
+         (1,41)
+DOCMS    então pra você ((est))
+         00:18:10.085 - 00:18:11.595
+         (0,39)
+DOCMS    em contraparte qual o principal ponto positivo da educação pública?
+         00:18:11.985 - 00:18:15.375
+         (0,23)
+ISA1F1   ser pública ((risos)) eu sei que parece meio
+         00:18:15.605 - 00:18:18.445
+         (0,17)
+ISA1F1   mas de fato é ser pública porque 
+         00:18:18.620 - 00:18:20.810
+         (0,93)
+ISA1F1   ((est))
+         00:18:21.740 - 00:18:22.850
+         (0,23)
+ISA1F1   você poder estudar você poder ter um ambiente sabe tipo você não poder pagar meu Deus é muita
+         00:18:23.080 - 00:18:28.120
+         (0,31)
+ISA1F1   e tipo de qualidade mesmo que seja deixado de é de qualidade
+         00:18:28.435 - 00:18:31.215
+         (0,56)
+ISA1F1   comparado até a muitas particulares
+         00:18:31.780 - 00:18:34.030
+         (0,45)
+ISA1F1   é uma coisa de qualidade então tipo
+         00:18:34.480 - 00:18:36.250
+         (0,28)
+ISA1F1   meu deus você ter essa chance de graça por mais que seja muito concorrido
+         00:18:36.530 - 00:18:40.320
+         (0,20)
+ISA1F1   apesar de ser difícil apesar das vezes você passar e não poder vim
+         00:18:40.520 - 00:18:43.630
+         (0,37)
+ISA1F1   porque ah o curso só tem nesse campus e aí é muito longe ou é a noite
+         00:18:44.000 - 00:18:47.940
+         (0,69)
+ISA1F1   mas
+         00:18:48.635 - 00:18:49.195
+         (0,34)
+ISA1F1   a chance de você só puder fazer isso
+         00:18:49.540 - 00:18:51.960
+         (2,51)
+DOCMS    eh e pra você o Brasil investe suficiente na educação pública?
+         00:18:54.465 - 00:18:57.805
+ISA1F1   ah não
+         00:18:57.130 - 00:18:57.760
+         (0,14)
+ISA1F1   não ((risos))
+         00:18:57.950 - 00:18:59.410
+         (0,71)
+DOCMS    por que?
+         00:19:00.125 - 00:19:00.845
+         (0,81)
+ISA1F1   porque tá faltando tipo
+         00:19:01.650 - 00:19:03.450
+         (0,09)
+ISA1F1   é boa
+         00:19:03.535 - 00:19:04.305
+         (0,74)
+ISA1F1   mas poderia ser muito melhor
+         00:19:05.045 - 00:19:06.475
+         (0,68)
+ISA1F1   sabe primeiro
+         00:19:07.155 - 00:19:08.505
+         (0,63)
+ISA1F1   não tem suficiente
+         00:19:09.135 - 00:19:10.285
+         (0,81)
+ISA1F1   só
+         00:19:11.095 - 00:19:11.745
+         (0,29)
+ISA1F1   dá pra ((est)) é da universidade particular
+         00:19:12.035 - 00:19:14.065
+         (0,23)
+ISA1F1   as particulares não estariam aí
+         00:19:14.295 - 00:19:16.205
+         (0,29)
+ISA1F1   se não tivesse necessidade e tem porque as pessoas não conseguem
+         00:19:16.495 - 00:19:19.545
+         (0,24)
+ISA1F1   as pessoas se matam mas é um matando outro um por cima do outro um por cima do outro e no final
+         00:19:19.785 - 00:19:24.705
+         (0,28)
+ISA1F1   ninguém consegue entrar é difícil é muito pouco acesso
+         00:19:24.980 - 00:19:27.590
+         (0,16)
+ISA1F1   então não tá ((est)) o investimento mas tem que ter
+         00:19:27.750 - 00:19:30.120
+         (1,96)
+DOCMS    eh o que você pensa sobre o governo federal financiar os estudos de estudantes
+         00:19:32.080 - 00:19:36.830
+         (0,34)
+DOCMS    em universidades particulares?
+         00:19:37.170 - 00:19:38.730
+         (1,84)
+ISA1F1   eu acho que não seria necessário se
+         00:19:40.565 - 00:19:42.535
+         (0,16)
+ISA1F1   melhorasse a pública porque eu acho muito
+         00:19:42.695 - 00:19:45.955
+         (0,77)
+ISA1F1   bom fies qual o outro mesmo? Prouni é porque tipo
+         00:19:46.730 - 00:19:51.550
+DOCMS    Prouni
+         00:19:49.315 - 00:19:49.845
+         (0,29)
+ISA1F1   você não tem chances se você não conseguiu a pública você tem que entrar em alguma lugar e se você não tem dinheiro
+         00:19:51.845 - 00:19:56.565
+         (0,17)
+ISA1F1   não significa dizer que você não merece fazer uma faculdade
+         00:19:56.740 - 00:19:59.100
+         (0,31)
+ISA1F1   então tipo mesmo que você o fies vá pagar daqui a dez anos
+         00:19:59.405 - 00:20:02.925
+         (0,38)
+ISA1F1   e tudo mesmo assim você tem a chance de estudar
+         00:20:03.310 - 00:20:05.360
+         (0,35)
+ISA1F1   mas não seria necessário se tivesse
+         00:20:05.710 - 00:20:07.610
+         (0,29)
+ISA1F1   mas espaço na pública
+         00:20:07.905 - 00:20:09.185
+         (0,83)
+DOCMS    então eh
+         00:20:10.020 - 00:20:11.070
+         (0,97)
+DOCMS    a partir disso
+         00:20:12.040 - 00:20:12.990
+         (0,11)
+DOCMS    desses programas por exemplo o prouni o fies voce acha que isso acaba diminuindo um pouquinho a desigualdade social que tem no Brasil?
+         00:20:13.100 - 00:20:18.780
+         (0,80)
+ISA1F1   eh
+         00:20:19.575 - 00:20:20.205
+         (0,13)
+ISA1F1   (hes) eu acho que
+         00:20:20.335 - 00:20:22.245
+         (0,42)
+ISA1F1   pelo menos estão dando essa oportunidade apesar de ainda ser muito difícil
+         00:20:22.665 - 00:20:26.015
+         (0,34)
+ISA1F1   prouni fies ainda sim é
+         00:20:26.355 - 00:20:28.305
+         (0,44)
+ISA1F1   sabe? mas pelo menos ainda dá um chance você ainda tem
+         00:20:28.745 - 00:20:31.065
+         (0,32)
+ISA1F1   um outro
+         00:20:31.390 - 00:20:32.100
+         (0,07)
+ISA1F1   sabe? você tem algum meio pra seguir porque
+         00:20:32.170 - 00:20:34.820
+         (0,55)
+ISA1F1   ou você fica parado ou você passa anos tentando entrar e não consegue entrar sabe
+         00:20:35.370 - 00:20:39.140
+         (0,49)
+ISA1F1   mas mesmo assim eu acho que é muito difícil não tem bolsa pra medicina só tem uma sabe
+         00:20:39.630 - 00:20:44.080
+         (0,40)
+ISA1F1   é bem
+         00:20:44.480 - 00:20:45.070
+         (1,12)
+DOCMS    eh
+         00:20:46.190 - 00:20:46.860
+         (0,16)
+DOCMS    você é a favor da do sistema de cotas?
+         00:20:47.020 - 00:20:48.870
+         (0,30)
+ISA1F1   sou
+         00:20:49.170 - 00:20:49.350
+         (0,96)
+DOCMS    por que?
+         00:20:50.315 - 00:20:50.745
+         (0,72)
+ISA1F1   porque
+         00:20:51.465 - 00:20:52.065
+         (0,62)
+ISA1F1   aquele
+         00:20:52.690 - 00:20:53.420
+         (0,62)
+ISA1F1   papo (est) todo mundo de divida histórica e bla bla bla mas eu também acho que 
+         00:20:54.040 - 00:20:57.690
+         (0,22)
+ISA1F1   quando você vai analisar aí 
+         00:20:57.910 - 00:20:58.890
+         (0,76)
+ISA1F1   tipo
+         00:20:59.655 - 00:21:00.485
+         (0,26)
+ISA1F1   uma renda óbvio que uma pessoa que tem uma renda mais baixa não tem a quantidade de pagar um cursinho pra medicina que uma pessoa tem uma renda sabe
+         00:21:00.750 - 00:21:07.140
+         (0,49)
+ISA1F1   é meio que uma corrida desigual
+         00:21:07.630 - 00:21:09.420
+         (0,09)
+ISA1F1   então precisa da cota
+         00:21:09.510 - 00:21:10.740
+         (0,30)
+ISA1F1   pra
+         00:21:11.040 - 00:21:11.540
+         (0,20)
+ISA1F1   nivelar vamos dizer assim tudo
+         00:21:11.740 - 00:21:13.650
+         (0,37)
+DOCMS    então você concorda com a ideia de que as cotas ajudam na diminuição desigualdade social?
+         00:21:14.020 - 00:21:19.250
+ISA1F1   é
+         00:21:18.710 - 00:21:19.230
+         (0,41)
+ISA1F1   (est)
+         00:21:19.665 - 00:21:19.995
+         (1,02)
+DOCMS    então
+         00:21:21.015 - 00:21:21.465
+         (0,46)
+DOCMS    como foi pra você a experiência de começar estudar aqui na UFS?
+         00:21:21.925 - 00:21:24.975
+         (0,92)
+ISA1F1   ah
+         00:21:25.895 - 00:21:26.415
+         (0,25)
+ISA1F1   na verdade foi meio que tipo
+         00:21:26.670 - 00:21:28.220
+         (0,98)
+ISA1F1   quando eu tava no ensino médio ah meu deus vai ser difícil os professores e bla bla bla
+         00:21:29.200 - 00:21:33.560
+         (0,19)
+ISA1F1   e eu não sei se é eu acho que é muito do meu curso porque tem gente que
+         00:21:33.745 - 00:21:36.705
+         (0,04)
+ISA1F1   fala "ah meu professor é sádico" "meu professor isso" mas eu não tenho eu não tive pelo menos
+         00:21:36.740 - 00:21:41.030
+         (0,61)
+ISA1F1   muito sabe então foi tipo ensino médio só que com assuntos que eram mais interessantes pra mim
+         00:21:41.640 - 00:21:45.780
+         (0,75)
+ISA1F1   mas foi tipo
+         00:21:46.525 - 00:21:47.535
+         (0,05)
+ISA1F1   uh mais libertador é mais do tipo você tá eu por exemplo tá no curso que quero tá na faculdade que eu quero no pe- eh
+         00:21:47.590 - 00:21:53.770
+         (0,31)
+ISA1F1   no
+         00:21:54.075 - 00:21:54.285
+         (1,02)
+ISA1F1   tu que eu quero
+         00:21:55.305 - 00:21:56.135
+         (0,26)
+ISA1F1   então tipo pra mim é libertador porque eu posso mais
+         00:21:56.395 - 00:21:58.645
+         (0,10)
+ISA1F1   me moldar eu posso fazer o que quero eu posso vim cedo e
+         00:21:58.745 - 00:22:01.955
+         (0,70)
+ISA1F1   e assistir uma palestra alguma coisa sabe então tipo dá eh incentivo pra você estudar
+         00:22:02.655 - 00:22:06.585
+         (0,79)
+DOCMS    eh você acha que tem alguma dificuldade no seu processo de estudar aqui na UFS?
+         00:22:07.370 - 00:22:11.630
+         (1,27)
+DOCMS    algum impecilho?
+         00:22:12.905 - 00:22:13.895
+         (1,32)
+ISA1F1   não
+         00:22:15.215 - 00:22:15.685
+         (0,25)
+ISA1F1   tipo
+         00:22:15.935 - 00:22:16.505
+         (0,79)
+ISA1F1   pra mim
+         00:22:17.295 - 00:22:17.925
+         (0,30)
+ISA1F1   no caso não porque eu não tenho trabalho eu tenho 
+         00:22:18.225 - 00:22:20.565
+         (0,17)
+ISA1F1   no transporte público pra vim
+         00:22:20.740 - 00:22:22.870
+         (0,41)
+ISA1F1   e tipo
+         00:22:23.280 - 00:22:24.090
+         (0,19)
+ISA1F1   sabe
+         00:22:24.280 - 00:22:24.820
+         (0,40)
+ISA1F1   eu num num coloquei muitas barreiras não foram colocadas pra mim
+         00:22:25.215 - 00:22:28.905
+         (0,24)
+ISA1F1   no caso muitas barreiras então
+         00:22:29.145 - 00:22:30.585
+         (0,58)
+ISA1F1   não é tão
+         00:22:31.170 - 00:22:32.110
+DOCMS    não é
+         00:22:32.115 - 00:22:32.645
+         (0,21)
+DOCMS    eh
+         00:22:32.855 - 00:22:33.955
+         (1,08)
+DOCMS    assim por que você escolheu fazer ciências econômicas economia no caso?
+         00:22:35.030 - 00:22:38.660
+         (0,19)
+ISA1F1   não serviço social a disciplina é
+         00:22:38.850 - 00:22:41.520
+DOCMS    serviço social (est) a prova desculpa moça
+         00:22:40.040 - 00:22:43.610
+ISA1F1   (risos)
+         00:22:42.470 - 00:22:43.610
+         (0,14)
+ISA1F1   ah
+         00:22:43.755 - 00:22:44.455
+         (0,12)
+ISA1F1   serviço social
+         00:22:44.570 - 00:22:45.430
+         (0,12)
+ISA1F1   porque eu sempre fui uma pessoa do "caraca esse mundo tá uma droga" a gente tem que fazer alguma coisa
+         00:22:45.550 - 00:22:51.330
+DOCMS    (hes)
+         00:22:49.400 - 00:22:49.960
+         (0,71)
+ISA1F1   e eu não sabia tipo
+         00:22:52.045 - 00:22:53.785
+         (0,14)
+ISA1F1   eh eu me formei em dois mil e dezesseis eu passei dois mil dezessete sem fazer nada eu passei em história
+         00:22:53.930 - 00:22:57.780
+         (0,53)
+ISA1F1   mas eu
+         00:22:58.310 - 00:22:58.840
+         (0,51)
+ISA1F1   gostava de história mas não sabia que não era aquilo que eu queria
+         00:22:59.350 - 00:23:01.540
+         (0,44)
+ISA1F1   então só depois que eu fiz o enem em dois mil e dezessete 
+         00:23:01.980 - 00:23:04.460
+         (0,19)
+ISA1F1   eu descobrir que queria fazer serviço social porque 
+         00:23:04.655 - 00:23:06.735
+         (0,19)
+ISA1F1   era o mais perto pelo menos que eu tinha de 
+         00:23:06.930 - 00:23:09.300
+         (0,52)
+ISA1F1   sei lá tentar
+         00:23:09.820 - 00:23:10.760
+         (0,43)
+ISA1F1   igualar as coisas sabe tentar tornar as coisas melhores 
+         00:23:11.185 - 00:23:13.535
+         (0,20)
+ISA1F1   mesmo que todo mundo fale "ah... ah... ser assistente social não é sobre ajudar não é sobre fazer caridade" eu sei
+         00:23:13.740 - 00:23:18.850
+         (0,17)
+ISA1F1   é sobre você lutar pelos direitos que você já deveria ter
+         00:23:19.020 - 00:23:21.870
+         (0,27)
+ISA1F1   então tipo sabe
+         00:23:22.140 - 00:23:23.140
+         (0,37)
+ISA1F1   eu tenho uma coisa pra mim que é eu quero lutar pelos meus direitos e eu quero lutar pelos direitos das outras pessoas também
+         00:23:23.505 - 00:23:28.525
+         (0,54)
+ISA1F1   e esse foi o mais perto que eu consegui chegar 
+         00:23:29.060 - 00:23:31.250
+         (1,55)
+DOCMS    eh você acha que a infraestrutura da ufs no geral
+         00:23:32.800 - 00:23:36.350
+         (0,04)
+DOCMS    atende as necessidades do seu curso?
+         00:23:36.390 - 00:23:38.240
+         (2,10)
+ISA1F1   até o momento
+         00:23:40.340 - 00:23:41.420
+         (0,28)
+ISA1F1   acho que sim tirando tipo 
+         00:23:41.695 - 00:23:43.075
+         (0,60)
+ISA1F1   a ufs não tem nenhuma estrutura pra chuva por exemplo
+         00:23:43.670 - 00:23:46.270
+         (0,10)
+DOCMS    hum
+         00:23:46.375 - 00:23:47.045
+ISA1F1   então semana passada teve muitas aulas canceladas
+         00:23:46.995 - 00:23:49.245
+         (0,62)
+ISA1F1   e aí
+         00:23:49.865 - 00:23:50.295
+         (0,14)
+ISA1F1   já acabou com o cronograma sabe porque tá chovendo e tudo mais
+         00:23:50.435 - 00:23:53.955
+         (0,05)
+ISA1F1   mas você vem e aí você fica encharcado
+         00:23:54.000 - 00:23:55.880
+         (0,46)
+ISA1F1   mas tirando isso pelo menos pro meu curso 
+         00:23:56.335 - 00:23:58.735
+         (0,25)
+ISA1F1   acaba tendo até porque tipo não tem
+         00:23:58.990 - 00:24:00.780
+         (0,41)
+ISA1F1   laboratório não precisa de laboratório não precisa de nada
+         00:24:01.190 - 00:24:03.510
+         (0,12)
+ISA1F1   às vezes você precisa de um computador mas aí tipo na- quando eu peguei metodologia a gente
+         00:24:03.625 - 00:24:07.375
+         (0,16)
+ISA1F1   tinha disponível
+         00:24:07.535 - 00:24:08.235
+         (0,67)
+ISA1F1   não era os melhores do mundo mas
+         00:24:08.900 - 00:24:10.430
+DOCMS    (hes)
+         00:24:09.690 - 00:24:10.380
+         (0,16)
+ISA1F1   tinha um então acho que sim até o momento
+         00:24:10.590 - 00:24:12.560
+         (0,63)
+DOCMS    é
+         00:24:13.190 - 00:24:13.530
+         (0,34)
+DOCMS    e o que você pensa em fazer depois que você terminar o seu curso de graduação?
+         00:24:13.875 - 00:24:18.175
+         (1,00)
+DOCMS    mestrado aqui mesmo na UFS também?
+         00:24:19.170 - 00:24:21.020
+         (0,43)
+DOCMS    por que tu quer fazer o mestrado?
+         00:24:21.450 - 00:24:22.800
+         (0,38)
+ISA1F1   porque eu acho eu quero ser professora não tipo quero quero 
+         00:24:23.180 - 00:24:27.180
+         (0,75)
+ISA1F1   sabe (hes) eu não entrei pra ser professora mas
+         00:24:27.935 - 00:24:30.255
+         (1,21)
+ISA1F1   caso um dia eu queira eu não quero ter correr atrás disso eu quero já não eu já tenho mestrado já posso sair sabe
+         00:24:31.460 - 00:24:36.860
+         (0,58)
+ISA1F1   então
+         00:24:37.445 - 00:24:37.735
+         (0,43)
+ISA1F1   caso um dia eu queira
+         00:24:38.165 - 00:24:38.895
+         (0,39)
+ISA1F1   e minha mãe quer que a filha seja doutora então (risos)
+         00:24:39.285 - 00:24:42.365
+         (0,43)
+DOCMS    anram
+         00:24:42.790 - 00:24:43.370
+         (0,58)
+DOCMS    e agora vamos falar um pouquinho sobre segurança pública tá bom?
+         00:24:43.955 - 00:24:46.265
+         (0,56)
+DOCMS    eh eu acho que já perguntei isso mas eu vou reforçar
+         00:24:46.825 - 00:24:49.165
+         (0,43)
+DOCMS    o bairro que você mora é um bairro violento?
+         00:24:49.590 - 00:24:51.770
+ISA1F1   é
+         00:24:51.505 - 00:24:51.745
+         (1,45)
+DOCMS    no caso você mora em condomínio condomínio fica
+         00:24:53.220 - 00:24:56.470
+         (0,21)
+DOCMS    localizado em um bairro que é considerado violento
+         00:24:56.680 - 00:24:59.790
+ISA1F1   é
+         00:24:59.500 - 00:24:59.680
+         (0,61)
+DOCMS    eh por exemplo
+         00:25:00.395 - 00:25:01.855
+         (0,83)
+DOCMS    há
+         00:25:02.690 - 00:25:03.150
+         (0,37)
+DOCMS    serviços de segurança pública nesses locais?
+         00:25:03.515 - 00:25:05.745
+         (1,39)
+ISA1F1   não
+         00:25:07.135 - 00:25:07.565
+         (0,53)
+ISA1F1   muito pouco tipo
+         00:25:08.095 - 00:25:09.425
+         (0,20)
+ISA1F1   nada tipo zero
+         00:25:09.625 - 00:25:11.105
+         (0,29)
+ISA1F1   você vê uma vez e outra tipo uma viatura passando e às vezes só porque é um cara
+         00:25:11.400 - 00:25:15.690
+         (0,77)
+ISA1F1   que trabalha mora lá perto aí
+         00:25:16.460 - 00:25:18.240
+         (0,10)
+ISA1F1   saiu do turno e foi pra casa sabe alguma coisa assim
+         00:25:18.340 - 00:25:20.810
+         (0,35)
+ISA1F1   mas é bem difícil
+         00:25:21.160 - 00:25:22.310
+         (0,75)
+DOCMS    eh você concorda
+         00:25:23.060 - 00:25:24.550
+         (0,07)
+DOCMS    ou não
+         00:25:24.620 - 00:25:25.120
+         (0,20)
+DOCMS    com o ditado "bandido bom é bandido morto"
+         00:25:25.325 - 00:25:28.295
+ISA1F1   não (risos)
+         00:25:27.425 - 00:25:28.255
+         (0,39)
+ISA1F1   bandido bom é bandido pagando pelo que fez mas morto não gente bora lá (est) é alguém vivo ainda é um ser humano
+         00:25:28.685 - 00:25:33.805
+         (0,99)
+DOCMS    eh pra você qual é o papel da segurança pública
+         00:25:34.790 - 00:25:37.230
+         (1,50)
+ISA1F1   fazendo com que as pessoas se sintam bem 
+         00:25:38.725 - 00:25:40.795
+         (0,22)
+ISA1F1   sabe em sair de casa
+         00:25:41.015 - 00:25:42.035
+         (0,94)
+ISA1F1   em tipo pronto fazer com que as pessoas não se sintam necessidade de se trancar em casa
+         00:25:42.980 - 00:25:47.580
+         (0,56)
+ISA1F1   sabe tipo "ah às vezes você quer (est) mas eu vou ter que ir de ônibus não (est) em assalto
+         00:25:48.135 - 00:25:52.835
+         (0,52)
+ISA1F1   e essas coisas então acho que você só poder transitar pra onde você quiser na hora que quiser
+         00:25:53.360 - 00:25:57.730
+         (0,13)
+ISA1F1   já seria uma grande coisa
+         00:25:57.860 - 00:25:58.930
+         (0,70)
+DOCMS    eh você acha que a segurança pública da sua cidade
+         00:25:59.630 - 00:26:03.150
+         (0,81)
+DOCMS    como de Aracaju de certa forma tem  conseguido garantir a segurança do cidadão?
+         00:26:03.955 - 00:26:08.355
+         (0,17)
+ISA1F1   não nenhum pouco
+         00:26:08.530 - 00:26:09.400
+         (0,41)
+DOCMS    você já passou por alguma situação em que a polícia não não fez o seu
+         00:26:09.810 - 00:26:13.900
+         (0,13)
+DOCMS    papel por exemplo
+         00:26:14.030 - 00:26:15.030
+         (0,56)
+ISA1F1   pronto
+         00:26:15.585 - 00:26:16.285
+         (0,31)
+ISA1F1   eh
+         00:26:16.600 - 00:26:17.160
+         (0,44)
+ISA1F1   eu nem posso nem falar que a polícia não fez o papel tipo um policial tava lá e não fez tipo é mais não tá
+         00:26:17.605 - 00:26:23.675
+         (0,13)
+DOCMS    anram
+         00:26:23.805 - 00:26:24.145
+         (0,05)
+ISA1F1   assalto em ônibus é até vale
+         00:26:24.200 - 00:26:26.020
+         (0,50)
+ISA1F1   mas tipo num ponto você tá no ponto você tá no ponto e aí rouba (est) sabe 
+         00:26:26.515 - 00:26:29.935
+         (0,44)
+ISA1F1   pronto uma vez eu tava voltando da escola e roubaram o ônibus
+         00:26:30.380 - 00:26:33.580
+         (0,44)
+ISA1F1   e tipo o (hes) motorista parou e falou "ah"
+         00:26:34.025 - 00:26:37.375
+         (0,91)
+ISA1F1   "roubaram" os cara desceram ali tipo tinha uma viatura
+         00:26:38.285 - 00:26:40.915
+         (0,23)
+ISA1F1   pertinho
+         00:26:41.145 - 00:26:41.755
+         (0,83)
+ISA1F1   eh
+         00:26:42.585 - 00:26:43.555
+         (0,27)
+ISA1F1   os caras não fizeram nada "ah a gente não pode fazer" e uma vez
+         00:26:43.825 - 00:26:46.405
+         (0,25)
+ISA1F1   também eu desci desse ônibus antes de ser roubado
+         00:26:46.660 - 00:26:48.930
+         (0,29)
+ISA1F1   só que tipo na hora que eu peguei o outro ônibus eu vi os caras
+         00:26:49.220 - 00:26:51.730
+         (0,04)
+ISA1F1   subiram cheio dos celulares e na mão
+         00:26:51.770 - 00:26:53.860
+         (0,62)
+ISA1F1   e na frente de uma delegacia do João Alves
+         00:26:54.480 - 00:26:56.880
+         (0,28)
+ISA1F1   que é um (hes) lá
+         00:26:57.155 - 00:26:58.385
+         (0,02)
+ISA1F1   então tipo literalmente na frente da delegacia
+         00:26:58.405 - 00:27:00.745
+         (0,96)
+ISA1F1   acho que
+         00:27:01.710 - 00:27:02.450
+         (0,20)
+ISA1F1   se algum policial saisse ia ver ia achar estranho mas não aconteceu nada sabe
+         00:27:02.655 - 00:27:05.535
+         (0,41)
+ISA1F1   e tipo a liberdade dele de fazer isso
+         00:27:05.940 - 00:27:08.040
+         (0,44)
+ISA1F1   porque eles sabem que não tem nenhuma consequência
+         00:27:08.475 - 00:27:10.335
+         (0,61)
+ISA1F1   então
+         00:27:10.940 - 00:27:11.300
+         (0,44)
+DOCMS    e então
+         00:27:11.745 - 00:27:12.285
+         (0,58)
+DOCMS    de certa forma você concorda
+         00:27:12.870 - 00:27:14.290
+         (0,19)
+DOCMS    não sei com a ideia de que a polícia (hes)
+         00:27:14.480 - 00:27:17.240
+         (0,44)
+DOCMS    meio que deixa as coisas acontecerem 
+         00:27:17.685 - 00:27:20.275
+ISA1F1   é deixa
+         00:27:19.575 - 00:27:20.235
+         (0,19)
+ISA1F1   concordo
+         00:27:20.460 - 00:27:20.890
+         (0,77)
+DOCMS    eh então pra você a polícia não é ágil de forma nenhuma
+         00:27:21.660 - 00:27:25.190
+         (0,37)
+ISA1F1   não eu acho pra mim hoje ser policial virou um negócio de bater no peito e falar "sou policial" do que é
+         00:27:25.560 - 00:27:31.830
+DOCMS    questão de status
+         00:27:29.930 - 00:27:30.670
+         (1,87)
+DOCMS    então
+         00:27:33.695 - 00:27:34.575
+         (0,37)
+DOCMS    por exemplo se você hoje necessitasse de algum serviço da polícia você acha que conseguiria 
+         00:27:34.940 - 00:27:39.830
+         (0,39)
+DOCMS    eh ser atendido em relação 
+         00:27:40.220 - 00:27:42.290
+         (0,84)
+ISA1F1   eu
+         00:27:43.130 - 00:27:43.720
+         (0,56)
+ISA1F1   a última vez que precisei foi pra fazer um BO
+         00:27:44.280 - 00:27:46.230
+         (0,21)
+ISA1F1   de perder a identidade
+         00:27:46.440 - 00:27:47.700
+         (1,01)
+ISA1F1   você senta lá fica um tempo
+         00:27:48.715 - 00:27:50.405
+         (0,55)
+ISA1F1   e aí a pessoa olha pra você e fala
+         00:27:50.955 - 00:27:52.595
+         (0,65)
+ISA1F1   faça no site (risos)
+         00:27:53.250 - 00:27:54.250
+         (0,64)
+ISA1F1   então sabe
+         00:27:54.895 - 00:27:55.945
+         (0,20)
+ISA1F1   é bem
+         00:27:56.145 - 00:27:57.075
+         (0,11)
+ISA1F1   até nos mínimos
+         00:27:57.185 - 00:27:58.465
+         (0,25)
+ISA1F1   então não é você pedindo pra fazer
+         00:27:58.720 - 00:28:00.310
+         (0,63)
+ISA1F1   não é sabe o básico não é pedindo pegar um arma e correr atrás de alguém
+         00:28:00.940 - 00:28:04.690
+         (0,05)
+ISA1F1   é só você "não cara" eu só preciso que você comprove isso aqui pra eu poder tirar outro
+         00:28:04.740 - 00:28:08.540
+         (0,29)
+ISA1F1   mas aí sabe fica esse negócio
+         00:28:08.835 - 00:28:10.205
+         (0,66)
+DOCMS    o que você acha que poderia ser feito pra mudar essa essa
+         00:28:10.865 - 00:28:14.795
+         (0,81)
+DOCMS    essa segurança pública falha por assim dizer
+         00:28:15.605 - 00:28:18.015
+         (0,36)
+ISA1F1   eu acho que primeiro as pessoas tem que entender  
+         00:28:18.375 - 00:28:21.575
+         (0,07)
+ISA1F1   os policiais tem que entender qual o trabalho deles
+         00:28:21.645 - 00:28:23.865
+         (0,40)
+ISA1F1   ue não é só andar por aí na viatura
+         00:28:24.260 - 00:28:26.130
+         (0,33)
+ISA1F1   não é só andar por aí de farda ou ter uma arma sabe
+         00:28:26.460 - 00:28:30.010
+         (0,59)
+ISA1F1   ou querer gritar e aí
+         00:28:30.600 - 00:28:31.960
+         (0,51)
+ISA1F1   parecer forte quando o bandido não você tá ali pra proteger as pessoas sabe a segurança pública
+         00:28:32.475 - 00:28:37.645
+         (0,43)
+ISA1F1   então você tem que garantir a segurança você tem que fazer com que as pessoas se sintam seguras não é sobre você não é sobre seu ego não é sobre seu status é sobre o público
+         00:28:38.075 - 00:28:45.265
+         (0,28)
+ISA1F1   entendeu
+         00:28:45.545 - 00:28:46.125
+         (0,38)
+DOCMS    sim (risos)
+         00:28:46.500 - 00:28:47.590
+         (0,91)
+DOCMS    agora puxar outro assunto né (risos)
+         00:28:48.500 - 00:28:50.610
+ISA1F1   (risos)
+         00:28:49.740 - 00:28:50.590
+         (0,39)
+DOCMS    eh você concorda com o ditado 
+         00:28:51.000 - 00:28:53.170
+         (0,16)
+DOCMS    "se as mulheres não usassem roupas tão curtas haveria menos violência contra elas"?
+         00:28:53.330 - 00:28:56.800
+         (0,08)
+ISA1F1   não
+         00:28:56.880 - 00:28:57.540
+         (1,05)
+DOCMS    por que?
+         00:28:58.590 - 00:28:59.380
+         (0,28)
+ISA1F1   por que
+         00:28:59.655 - 00:29:00.635
+         (0,87)
+ISA1F1   é uma coisa
+         00:29:01.500 - 00:29:02.100
+         (0,76)
+ISA1F1   sempre aconteceu
+         00:29:02.865 - 00:29:03.515
+         (0,50)
+ISA1F1   isso acontece com criança criança não prova ninguém isso acontece com uma menina de burca isso acontece com todo mundo 
+         00:29:04.015 - 00:29:08.625
+         (0,61)
+ISA1F1   e acho que
+         00:29:09.235 - 00:29:10.625
+         (0,94)
+ISA1F1   falar isso das mulheres é mais um jeito de colocar a culpa das mulheres
+         00:29:11.565 - 00:29:15.165
+         (0,26)
+ISA1F1   porque é isso que a sociedade faz desde sempre
+         00:29:15.430 - 00:29:17.000
+         (0,58)
+ISA1F1   sabe tipo o homem sempre é inocente o homem nunca fez nada
+         00:29:17.580 - 00:29:20.660
+         (0,50)
+ISA1F1   é muito mais fácil você colocar a culpa no
+         00:29:21.165 - 00:29:23.425
+         (0,85)
+ISA1F1   lado fraco da história
+         00:29:24.270 - 00:29:25.390
+         (0,47)
+ISA1F1   no lado sabe a vítima é culpada tipo é a vítima então 
+         00:29:25.855 - 00:29:28.935
+         (2,31)
+DOCMS    e você acha que hoje em di- que as mulheres ultimamente tem conquistado muito espaço na sociedade
+         00:29:31.240 - 00:29:36.280
+         (0,95)
+ISA1F1   eu não vou falar muito espaço eu acho que tem
+         00:29:37.235 - 00:29:39.205
+         (0,23)
+ISA1F1   conquistado algum espaço
+         00:29:39.435 - 00:29:40.655
+         (0,19)
+ISA1F1   só que comparado ao que não tinha nenhum
+         00:29:40.840 - 00:29:42.960
+         (0,56)
+ISA1F1   aí parece que é muito só que em proporção você vê que não é
+         00:29:43.515 - 00:29:45.935
+         (0,05)
+DOCMS    hunrum
+         00:29:45.990 - 00:29:46.190
+ISA1F1   só é algum
+         00:29:46.190 - 00:29:46.820
+         (0,25)
+ISA1F1   só um pouco que elas conseguiram e as pessoas falam se contente com isso que você já conseguiu 
+         00:29:47.065 - 00:29:51.115
+         (0,18)
+ISA1F1   aí tipo falam "ah vocês conseguiram votar" mas sim e daí eu quero sair de casa segura 
+         00:29:51.295 - 00:29:54.615
+         (0,22)
+ISA1F1   eu quero não me preocupar com que roupa eu visto não ser assediada na rua 
+         00:29:54.830 - 00:29:57.420
+         (0,26)
+ISA1F1   mas a pessoa vem mas não você pode trabalhar agora
+         00:29:57.680 - 00:29:59.720
+         (0,26)
+ISA1F1   ah mas você pode votar agora
+         00:29:59.985 - 00:30:01.345
+         (0,14)
+ISA1F1   entendeu
+         00:30:01.490 - 00:30:01.900
+         (0,24)
+ISA1F1   acho que é só um jeito de (hes) mulheres conseguiram muito espaço é só um jeito de dizer "ei segure aí isso aí que a gente deu pra vocês"
+         00:30:02.140 - 00:30:08.690
+         (0,08)
+ISA1F1   e fica caladinha fica aí aguente
+         00:30:08.770 - 00:30:10.640
+         (1,57)
+DOCMS    e você acha que a violência atinge os homens da mesma forma que atinge as mulheres?
+         00:30:12.210 - 00:30:17.520
+ISA1F1   não
+         00:30:16.980 - 00:30:17.440
+         (0,40)
+ISA1F1   não
+         00:30:17.915 - 00:30:18.635
+         (0,73)
+ISA1F1   eu acho que na maioria das vezes a violência atinge o homem 
+         00:30:19.360 - 00:30:22.920
+         (0,44)
+ISA1F1   por tipo 
+         00:30:23.355 - 00:30:24.205
+         (1,78)
+ISA1F1   pronto eh violência na maioria das vezes a violência atinge as mulheres por elas serem mulheres não é por elas serem seres humanos
+         00:30:25.985 - 00:30:32.015
+         (0,10)
+ISA1F1   não é por roubo não é por nada a maioria das vezes casos de estupro
+         00:30:32.115 - 00:30:36.155
+         (0,19)
+ISA1F1   às vezes ninguém nem olha é só uma mulher ali então pronto
+         00:30:36.350 - 00:30:39.270
+         (0,58)
+ISA1F1   sabe então tipo a violência no caso das mulheres acontece por elas serem mulheres 
+         00:30:39.855 - 00:30:43.125
+         (0,35)
+ISA1F1   e o homem acontece porque aconteceu um roubo uma coisa mas acontece porque é falatório
+         00:30:43.480 - 00:30:48.220
+         (0,19)
+ISA1F1   coisas da vida ou um cara bêbado buscou briga por causa de ego ou alguma coisa assim 
+         00:30:48.415 - 00:30:51.675
+         (0,12)
+ISA1F1   sabe mas com as mulheres acontece pelo simples fato delas serem mulheres
+         00:30:51.800 - 00:30:55.120
+DOCMS    anram
+         00:30:52.105 - 00:30:52.325
+         (1,22)
+DOCMS    eh
+         00:30:56.340 - 00:30:56.840
+         (0,14)
+DOCMS    (hes)
+         00:30:56.975 - 00:30:57.635
+         (0,34)
+DOCMS    é recorrente de uns tempos pra cá ouvirmos as frases
+         00:30:57.970 - 00:31:00.830
+         (0,62)
+DOCMS    a comunidade de gays e lésbicas tem ganhado muitos privilégios você concorda com essa frase?
+         00:31:01.455 - 00:31:05.365
+         (0,22)
+ISA1F1   não
+         00:31:05.585 - 00:31:06.125
+         (0,47)
+DOCMS    por que?
+         00:31:06.590 - 00:31:07.080
+         (0,33)
+ISA1F1   porque você querer ser tratado como ser humano
+         00:31:07.410 - 00:31:09.940
+         (0,21)
+ISA1F1   ou querer ser tratado como mais do que as pessoas que você quer transar
+         00:31:10.150 - 00:31:14.580
+         (0,48)
+ISA1F1   não é sabe
+         00:31:15.060 - 00:31:16.280
+         (0,50)
+ISA1F1   não é privilégio é só tipo você querer ser
+         00:31:16.775 - 00:31:19.085
+         (0,40)
+ISA1F1   pronto eu acho que se (hes) se as pessoas (hes) parassem tanto com essa comunidade gays lésbicas tipo eles nem querem ser
+         00:31:19.485 - 00:31:25.655
+         (0,11)
+ISA1F1   só querem ser seres humanos de boa não tem 
+         00:31:25.765 - 00:31:27.875
+         (0,38)
+ISA1F1   nada relevante 
+         00:31:28.255 - 00:31:29.995
+         (0,19)
+ISA1F1   com com quem você sente atração tipo
+         00:31:30.190 - 00:31:32.390
+         (0,16)
+ISA1F1   as pessoas não deveriam  precisar explicar isso
+         00:31:32.545 - 00:31:34.555
+         (0,75)
+ISA1F1   eu acho que pra mim a minha sexualidade só deveria
+         00:31:35.305 - 00:31:39.275
+         (1,26)
+ISA1F1   interessar as pessoas com quem eu quero ter algum relacionamento ou com quem quer ter algum relacionamento comigo 
+         00:31:40.535 - 00:31:45.325
+         (0,33)
+ISA1F1   e resto sabe
+         00:31:45.655 - 00:31:46.535
+         (0,19)
+ISA1F1   não deveria tipo não deveria diferença nenhuma
+         00:31:46.730 - 00:31:49.130
+         (1,01)
+DOCMS    eh eu não sei se você viu mas recentemente o supremo tribunal  federal
+         00:31:50.145 - 00:31:53.595
+         (0,32)
+DOCMS    decretou a homofobia como crime
+         00:31:53.915 - 00:31:55.555
+         (0,09)
+DOCMS    você concorda com que foi postado por eles por que?
+         00:31:55.640 - 00:31:58.550
+ISA1F1   claro
+         00:31:56.810 - 00:31:57.210
+         (0,54)
+ISA1F1   porque eu acho que qualquer
+         00:31:59.085 - 00:32:01.435
+         (2,55)
+ISA1F1   eh
+         00:32:03.985 - 00:32:04.785
+         (0,23)
+ISA1F1   qualquer crime de ódio qualquer coisa relacionada a só ódio sabe porque a mesma coisa do racismo é a mesma coisa 
+         00:32:05.020 - 00:32:11.710
+DOCMS    unrum
+         00:32:08.040 - 00:32:08.560
+         (0,22)
+ISA1F1   do machismo mas só pela pessoa ser o que ela é
+         00:32:11.925 - 00:32:14.375
+         (0,40)
+ISA1F1   sabe tipo você não pode decretar ódio a alguém pra ela nascer do jeito que nasceu
+         00:32:14.775 - 00:32:19.065
+         (0,21)
+ISA1F1   você não pode decretar ódio a uma mulher por ela ser umam mulher você não pode decretar ódio a um negro por ele ser um negro você não pode 
+         00:32:19.275 - 00:32:23.335
+         (0,10)
+ISA1F1   você não pode decretar ódio por um lgbt por ele ser lgbt 
+         00:32:23.440 - 00:32:25.510
+         (0,59)
+ISA1F1   então tipo
+         00:32:26.100 - 00:32:26.760
+         (0,25)
+ISA1F1   é o que a pessoa é gente você não pode fazer nada aceita
+         00:32:27.015 - 00:32:29.385
+         (0,50)
+ISA1F1   então tipo
+         00:32:29.885 - 00:32:31.025
+         (0,14)
+ISA1F1   criminalizar é uma coisa válida porque se não for assim não vai parar
+         00:32:31.160 - 00:32:36.130
+         (0,27)
+ISA1F1   você não pode esperar que todos os homofóbicos do mundo
+         00:32:36.400 - 00:32:39.940
+         (0,62)
+ISA1F1   coloquem consciência na cabeça não 
+         00:32:40.565 - 00:32:42.085
+         (0,22)
+ISA1F1   você vai ter que lutar contra então sabe
+         00:32:42.310 - 00:32:45.620
+         (0,49)
+DOCMS    eh não sei se você acompanhou muito nas redes sociais mas
+         00:32:46.110 - 00:32:48.830
+         (0,26)
+DOCMS    ou também televisão
+         00:32:49.095 - 00:32:50.015
+         (0,44)
+DOCMS    ultimamente a comunidade lgbtqi mais tem ganhado muito mais (hes) visibilidade na sociedade drag queens famosas pabllo vittar Lia Clark
+         00:32:50.450 - 00:32:58.630
+         (0,34)
+DOCMS    também tem aparecido muito em filmes novelas
+         00:32:58.975 - 00:33:01.285
+         (0,38)
+DOCMS    então o que você acha que levou a essa comunidade ter mais visibilidade?
+         00:33:01.665 - 00:33:05.905
+         (0,70)
+ISA1F1   eu acho que
+         00:33:06.610 - 00:33:07.640
+         (0,17)
+ISA1F1   que toda vez que todo mundo fala "ah a comunidade lgbt"
+         00:33:07.810 - 00:33:10.830
+         (0,77)
+ISA1F1   tá
+         00:33:11.605 - 00:33:12.105
+         (0,28)
+ISA1F1   conqui (hes) tá tendo muito espaço tá tendo muita coisa é só você comparar com a comunidade sei lá de casais héteros que aparecem
+         00:33:12.380 - 00:33:18.150
+         (0,40)
+ISA1F1   sabe? então tipo você compara é nada visibilidade é tipo
+         00:33:18.550 - 00:33:21.360
+         (0,58)
+ISA1F1   eu acho que nem é questão de visibilidade é só que
+         00:33:21.940 - 00:33:24.600
+         (0,58)
+ISA1F1   ou ser grande coisa é só porque você vê em um e aí todo mundo quer divulgar não porque teve teve
+         00:33:25.185 - 00:33:30.555
+         (0,42)
+ISA1F1   e aí quando você vai ver parece que é um monte só que não é é tipo um caso 
+         00:33:30.975 - 00:33:34.635
+         (0,06)
+ISA1F1   um casal
+         00:33:34.700 - 00:33:35.400
+         (0,32)
+ISA1F1   lésbico que apareceu em uma novela e aí todo mundo fala tanto que faz parecer que
+         00:33:35.725 - 00:33:39.445
+         (0,09)
+ISA1F1   nossa acontece o tempo inteiro mas não é
+         00:33:39.530 - 00:33:41.410
+         (0,34)
+ISA1F1   sabe só foi um e todo mundo falou porque todo mundo ficou chocado porque é grande coisa aparecer um
+         00:33:41.755 - 00:33:46.375
+         (0,56)
+DOCMS    então você acha importante de certa forma que eles (hes) a comunidade tenha
+         00:33:46.940 - 00:33:51.010
+         (0,43)
+DOCMS    está ocupando tanto a comunidade lgbtqi mais quanto a comunidade feminina ocupando mais espaço na sociedade
+         00:33:51.440 - 00:33:57.950
+ISA1F1   é
+         00:33:57.420 - 00:33:57.850
+         (0,43)
+ISA1F1   importante e eu acho que tem que crescer ao ponto das pessoas não ficarem mais chocadas porque é isso sabe
+         00:33:58.380 - 00:34:03.780
+         (0,47)
+ISA1F1   que é
+         00:34:04.245 - 00:34:04.965
+         (0,20)
+ISA1F1   o chato pe que as pessoas ainda ficam chocada
+         00:34:05.170 - 00:34:07.490
+         (0,64)
+ISA1F1   uma pessoa negra com uma mulher com um lgbt
+         00:34:08.135 - 00:34:11.585
+         (0,22)
+ISA1F1   sabe as pessoas ainda ficam chocadas acho que tem que crescer ao ponto de ninguém achar estranho "ah tá beleza" 
+         00:34:11.805 - 00:34:16.035
+         (0,14)
+ISA1F1   um negro ali "aho ótimo" uma mulher ali "ah tá beleza"
+         00:34:16.175 - 00:34:19.035
+         (1,11)
+DOCMS    eh você considera a discussão de gênero
+         00:34:20.140 - 00:34:22.740
+         (0,16)
+DOCMS    ou até mesmo o empoderamente feminino como algo importante
+         00:34:22.895 - 00:34:25.985
+         (0,23)
+DOCMS    ou você
+         00:34:26.215 - 00:34:27.055
+         (0,12)
+DOCMS    pensa mais como as pessoas 
+         00:34:27.180 - 00:34:28.270
+         (0,18)
+DOCMS    que falam que é apenas mimimi
+         00:34:28.450 - 00:34:29.590
+         (0,28)
+ISA1F1   (hes)
+         00:34:29.875 - 00:34:30.265
+         (0,75)
+ISA1F1   mas é claro óbvio que é algo importante porque tipo 
+         00:34:31.015 - 00:34:33.725
+         (0,93)
+ISA1F1   se
+         00:34:34.655 - 00:34:35.275
+         (0,26)
+ISA1F1   você escutar gente discutindo você nunca vai ver o que tá errado
+         00:34:35.540 - 00:34:38.110
+         (0,77)
+ISA1F1   e você não vê
+         00:34:38.880 - 00:34:39.800
+         (0,22)
+ISA1F1   porque tipo é o jeito que você cresceu
+         00:34:40.025 - 00:34:41.235
+         (0,49)
+ISA1F1   criado uma vez eu tava caminhando com minha mãe um pedreiro
+         00:34:41.725 - 00:34:44.475
+         (0,52)
+ISA1F1   sabe tirou ousadia comigo e minha mãe falou "ah você tem que acostumar é assim que acontece" hã
+         00:34:44.995 - 00:34:49.595
+         (0,14)
+ISA1F1   eu não quero me acostumar eu quero virar e dar um soco na cara dele mas eu não posso
+         00:34:49.740 - 00:34:52.620
+         (0,17)
+ISA1F1   porque se não ele vai virar e vai dar outro soco na minha cara e eu vou apanhar (risos) mas sabe eu acho que tipo
+         00:34:52.795 - 00:34:57.145
+         (0,17)
+ISA1F1   tem que falar
+         00:34:57.315 - 00:34:58.005
+         (0,32)
+ISA1F1   tem que ser discutido porque se não as pessoas vão achar normal
+         00:34:58.325 - 00:35:00.975
+         (0,70)
+ISA1F1   do mesmo jeito que era sei lá cem anos atrás era normal a mulher não trabalhar
+         00:35:01.675 - 00:35:04.635
+         (0,44)
+ISA1F1   sabe
+         00:35:05.070 - 00:35:05.360
+         (0,65)
+ISA1F1   que era normal uma tipo minha vó vim com uma
+         00:35:06.010 - 00:35:09.340
+         (0,25)
+ISA1F1   minha bisâ com catorze anos  
+         00:35:09.590 - 00:35:11.090
+         (0,23)
+ISA1F1   já era casada casou com um cara de quarenta
+         00:35:11.325 - 00:35:13.295
+         (0,18)
+ISA1F1   que já tinha oito filhos sabe
+         00:35:13.475 - 00:35:14.915
+         (0,25)
+ISA1F1   era normal
+         00:35:15.160 - 00:35:15.870
+         (0,95)
+ISA1F1   então tipo se a gente não falar e não falar ei isso não é normal isso é estranho
+         00:35:16.820 - 00:35:20.410
+         (0,15)
+ISA1F1   todo mundo vai (risos)
+         00:35:20.560 - 00:35:21.450
+         (0,45)
+ISA1F1   (hes)
+         00:35:21.900 - 00:35:22.260
+         (0,55)
+DOCMS    (hes)
+         00:35:22.805 - 00:35:23.095
+         (0,72)
+DOCMS    outro tópico agora que é saúde pública
+         00:35:23.815 - 00:35:25.685
+         (0,87)
+DOCMS    ah você já teve algum problema de saúde?
+         00:35:26.555 - 00:35:28.415
+         (0,10)
+ISA1F1   já
+         00:35:28.520 - 00:35:28.690
+         (0,71)
+DOCMS    qual?
+         00:35:29.400 - 00:35:29.750
+         (0,74)
+ISA1F1   ah
+         00:35:30.490 - 00:35:31.240
+         (0,15)
+ISA1F1   (hes) eu tenho
+         00:35:31.390 - 00:35:32.740
+         (1,61)
+ISA1F1   uns básicos mesmos que é tipo gastrite aí eu passo mal vomito muito
+         00:35:34.350 - 00:35:38.060
+         (0,65)
+ISA1F1   ah minhas irmãs ficaram doente
+         00:35:38.710 - 00:35:41.150
+         (0,80)
+ISA1F1   aí
+         00:35:41.945 - 00:35:42.495
+         (0,32)
+ISA1F1   e eu sou uma pessoa muito alérgica então tipo eu já tive alergia de passar mal e fechar a garganta não consegui respirar sabe
+         00:35:42.815 - 00:35:47.865
+         (0,40)
+ISA1F1   e esses (est) aí
+         00:35:48.265 - 00:35:49.145
+         (0,14)
+DOCMS    (hes)
+         00:35:49.290 - 00:35:50.100
+         (0,07)
+DOCMS    você acha que a saúde pública é um direito que deve ser assegurado pelo governo?
+         00:35:50.170 - 00:35:53.320
+         (0,17)
+ISA1F1   sim
+         00:35:53.490 - 00:35:53.820
+         (0,56)
+DOCMS    por que?
+         00:35:54.380 - 00:35:55.030
+         (0,12)
+ISA1F1   porque é um direito básico de todo ser humano saúde
+         00:35:55.150 - 00:35:57.100
+         (0,14)
+ISA1F1   pronto sabe não tem uma justificativa direito básico do ser humano não precisa mais
+         00:35:57.240 - 00:36:01.270
+         (0,36)
+ISA1F1   de nada
+         00:36:01.630 - 00:36:02.310
+DOCMS    e você acha que a saúde no Brasil funciona?
+         00:36:01.955 - 00:36:04.285
+         (0,29)
+DOCMS    a saúde pública
+         00:36:04.575 - 00:36:05.375
+         (0,09)
+ISA1F1   não
+         00:36:05.470 - 00:36:05.760
+         (0,89)
+DOCMS    por que?
+         00:36:06.650 - 00:36:07.380
+         (0,24)
+ISA1F1   porque eu vejo 
+         00:36:07.620 - 00:36:08.610
+         (0,47)
+ISA1F1   apesar de eu não ser uma pessoa muito doente que vai mas minha mãe trabalha em posto
+         00:36:09.085 - 00:36:12.465
+         (0,46)
+ISA1F1   então você vai lá e olha tipo 
+         00:36:12.920 - 00:36:15.000
+         (1,25)
+ISA1F1   eh cinco horas da manhã um monte de gente amontoado numa fila pra marcar ficha pra ir sabe 
+         00:36:16.245 - 00:36:20.825
+         (0,28)
+ISA1F1   então tipo aquele negócio é uma condição desumana é um monte de gente que tá mal e tem que ficar lá esperando numa fila
+         00:36:21.100 - 00:36:26.410
+         (0,56)
+ISA1F1   é insano
+         00:36:26.970 - 00:36:28.480
+         (0,25)
+ISA1F1   você tá doente a maioria das pessoas quando tão doente só quer ficar na cama
+         00:36:28.735 - 00:36:32.005
+         (0,23)
+ISA1F1   e tem que gente que levantar pra ir pro hospital porque às vezes o hospital é pior do que tá em casa
+         00:36:32.235 - 00:36:36.585
+         (0,39)
+ISA1F1   sabe às vezes você eh fica largado num corredor
+         00:36:36.975 - 00:36:40.235
+         (0,34)
+ISA1F1   ou tipo você é tratado com desrespeito ou tratado como um lixo por um médico por um enfermeiro sabe
+         00:36:40.570 - 00:36:44.920
+         (1,17)
+DOCMS    entendo muito bem
+         00:36:46.090 - 00:36:47.060
+         (0,18)
+ISA1F1   (hes)
+         00:36:47.240 - 00:36:47.640
+         (0,09)
+DOCMS    eh como você avalia então o sistema de saúde único o sus no caso
+         00:36:47.725 - 00:36:51.885
+         (1,03)
+ISA1F1   falho
+         00:36:52.920 - 00:36:53.240
+         (1,39)
+DOCMS    por que?
+         00:36:54.635 - 00:36:54.845
+         (0,78)
+ISA1F1   porque eu acho que ninguém deveria ter que correr
+         00:36:55.625 - 00:36:58.755
+         (0,70)
+ISA1F1   atrás
+         00:36:59.455 - 00:37:00.095
+         (1,24)
+ISA1F1   de coisas básicas sabe
+         00:37:01.335 - 00:37:02.855
+         (0,31)
+ISA1F1   eu acho que ninguém
+         00:37:03.170 - 00:37:04.230
+         (0,62)
+ISA1F1   deveria você descobre que tem uma doença difícil você descobre que tá com câncer já é difícil aí você tem que passar por todo aquele processo 
+         00:37:04.845 - 00:37:11.475
+         (0,50)
+ISA1F1   pior ainda é você não ter dinheiro
+         00:37:11.975 - 00:37:13.575
+         (0,16)
+ISA1F1   pra ir pra uma particular e ser humilhado constantemente
+         00:37:13.730 - 00:37:16.480
+         (0,32)
+ISA1F1   numa pública sabe num consegui nunca consegui
+         00:37:16.800 - 00:37:19.220
+         (0,14)
+ISA1F1   e aí você começa a ficar maluco se preocupando
+         00:37:19.365 - 00:37:21.545
+         (0,35)
+ISA1F1   o que vai acontecer com você porque você precisa de tratamento urgente sabe
+         00:37:21.900 - 00:37:24.440
+         (0,47)
+ISA1F1   é
+         00:37:24.915 - 00:37:25.415
+         (1,28)
+DOCMS    this is problem
+         00:37:26.700 - 00:37:27.360
+         (0,05)
+ISA1F1   unrum
+         00:37:27.415 - 00:37:28.325
+         (0,17)
+DOCMS    eh pra você quais são os pontos negativos 
+         00:37:28.495 - 00:37:30.615
+         (0,23)
+DOCMS    e os pontos positivos do sus
+         00:37:30.845 - 00:37:32.425
+         (2,04)
+ISA1F1   eu acho que o único positivo do sus em si porque ele é grátis
+         00:37:34.460 - 00:37:37.760
+         (0,69)
+ISA1F1   e o negativo é que
+         00:37:38.445 - 00:37:39.845
+         (0,47)
+ISA1F1   eu acho que as pessoas pensam que só porque só é grátis tem o direito de ser qualquer coisa! Não
+         00:37:40.310 - 00:37:44.600
+         (0,23)
+ISA1F1   se você colocou lá que vai ser grátis beleza agora seja bom 
+         00:37:44.830 - 00:37:47.440
+         (0,29)
+ISA1F1   seja de qualidade sabe
+         00:37:47.730 - 00:37:48.830
+         (0,34)
+ISA1F1   num é "ah você num pode reclamar porque tá de graça" não num tô nem aí 
+         00:37:49.165 - 00:37:52.735
+         (0,41)
+ISA1F1   se você eh pronto se você for fazer uma coisa faça bem  feito 
+         00:37:53.145 - 00:37:56.155
+         (0,15)
+DOCMS    tá bom
+         00:37:56.305 - 00:37:56.655
+         (0,06)
+ISA1F1   entendeu?
+         00:37:56.715 - 00:37:57.335
+         (0,38)
+ISA1F1   então eu acho que o problema é que
+         00:37:57.720 - 00:37:59.810
+         (0,10)
+ISA1F1   tá todo mundo achando que "não"
+         00:37:59.910 - 00:38:01.300
+         (0,25)
+ISA1F1   "beleza porque é de graça" então pode demorar cinquenta anos pode demorar o tempo que for porque é de graça ninguém tá pagando
+         00:38:01.550 - 00:38:06.220
+         (0,60)
+ISA1F1   sabe?
+         00:38:06.820 - 00:38:07.220
+         (0,28)
+ISA1F1   mas tipo
+         00:38:07.505 - 00:38:08.235
+         (1,83)
+DOCMS    eh
+         00:38:10.065 - 00:38:10.905
+         (0,49)
+DOCMS    então
+         00:38:11.390 - 00:38:12.230
+         (0,61)
+DOCMS    pra você
+         00:38:12.835 - 00:38:13.635
+         (0,56)
+DOCMS    como  o sus poderia ser melhorado?
+         00:38:14.200 - 00:38:15.950
+         (1,34)
+ISA1F1   primeiro eu acho que deveriam começar a tratar os seres humanos como seres humanos
+         00:38:17.290 - 00:38:21.710
+         (0,32)
+ISA1F1   e não só como sei lá pessoas doentes ambulantes sabe
+         00:38:22.035 - 00:38:25.265
+         (0,41)
+ISA1F1   eu acho que deveria ser mais humanizado
+         00:38:25.680 - 00:38:27.820
+         (0,92)
+ISA1F1   deveria sabe ter mais empatia 
+         00:38:28.735 - 00:38:30.575
+         (0,31)
+ISA1F1   com as pessoas deveria 
+         00:38:30.890 - 00:38:32.540
+         (0,27)
+ISA1F1   ser mais do que um médico que acabou de se formar e quer entrar em qualquer lugar logo mas aí
+         00:38:32.810 - 00:38:37.640
+         (0,06)
+ISA1F1   num tá satisfeito por não tá trabalhando no melhor hospital do país
+         00:38:37.700 - 00:38:40.340
+         (0,50)
+ISA1F1   e aí fica lá frustado 
+         00:38:40.845 - 00:38:42.405
+         (0,08)
+ISA1F1   atendendo todo mundo com grosseria sabe 
+         00:38:42.480 - 00:38:44.190
+         (0,52)
+ISA1F1   eu acho que deveria ser realmente uma coisa
+         00:38:44.710 - 00:38:47.010
+         (0,38)
+ISA1F1   boa para as pessoas
+         00:38:47.385 - 00:38:48.395
+         (0,41)
+ISA1F1   com pessoas que querem 
+         00:38:48.805 - 00:38:50.155
+         (0,47)
+ISA1F1   sabe
+         00:38:50.625 - 00:38:51.165
+         (0,19)
+ISA1F1   trabalhar naquilo mesmo que querem
+         00:38:51.360 - 00:38:53.050
+         (0,84)
+ISA1F1   realmente
+         00:38:53.890 - 00:38:54.770
+         (0,09)
+ISA1F1   curar pessoas
+         00:38:54.865 - 00:38:55.745
+         (0,17)
+ISA1F1   e não só falar "sou médico"
+         00:38:55.915 - 00:38:57.565
+         (1,84)
+DOCMS    eh pra você a quantidade de médicos e especialistas no sus é suficiente pra atender a demanda da população?
+         00:38:59.405 - 00:39:04.845
+ISA1F1   não
+         00:39:04.370 - 00:39:04.700
+         (1,55)
+DOCMS    então você acha que deveria ter mais
+         00:39:06.400 - 00:39:08.950
+         (0,38)
+DOCMS    coisas
+         00:39:09.330 - 00:39:10.010
+ISA1F1   deveria porque eu acho que você vai
+         00:39:10.005 - 00:39:12.615
+         (0,76)
+ISA1F1   muitas das vezes não só médico mas estrutura porque às vezes ah não tem sala não tem coisa sabe
+         00:39:13.375 - 00:39:18.765
+DOCMS    unrum
+         00:39:18.225 - 00:39:18.695
+         (0,39)
+ISA1F1   mas tipo você ver um monte de gente amontoado e um médico só pra atender 
+         00:39:19.155 - 00:39:23.065
+         (0,28)
+ISA1F1   ou o médico vai ficar afobado querendo atender todo mundo e vai acabar fazendo qualquer coisa
+         00:39:23.345 - 00:39:26.725
+         (0,22)
+ISA1F1   ou ele vai atender sério mas aí vai ficar um monte de gente na fila gritando então sabe
+         00:39:26.950 - 00:39:30.350
+         (0,28)
+ISA1F1   é complicado
+         00:39:30.625 - 00:39:31.465
+         (1,00)
+DOCMS    eh no bairro que você mora há uma unidade de saúde familiar?
+         00:39:32.460 - 00:39:35.470
+         (0,12)
+DOCMS    um posto de saúde
+         00:39:35.585 - 00:39:36.555
+ISA1F1   tem
+         00:39:36.525 - 00:39:36.735
+         (1,49)
+DOCMS     e você já precisou
+         00:39:38.225 - 00:39:39.625
+         (0,41)
+DOCMS    por exemplo usar esse posto esse
+         00:39:40.035 - 00:39:41.425
+         (0,06)
+ISA1F1   não
+         00:39:41.485 - 00:39:42.025
+         (0,25)
+ISA1F1   nunca
+         00:39:42.270 - 00:39:42.710
+         (0,90)
+DOCMS    e algum serviço do sus você já precisou utilizar?
+         00:39:43.615 - 00:39:46.555
+         (1,02)
+ISA1F1   só o mais básico exame de sangue
+         00:39:47.580 - 00:39:49.240
+         (0,57)
+ISA1F1   sabe
+         00:39:49.815 - 00:39:50.155
+         (0,14)
+DOCMS    e como foi a experiência?
+         00:39:50.300 - 00:39:51.620
+         (1,50)
+ISA1F1   tipo
+         00:39:53.115 - 00:39:53.845
+         (0,27)
+ISA1F1   eh meio que eles dão uma data
+         00:39:54.115 - 00:39:56.455
+         (0,19)
+ISA1F1   pra você tipo entre dia dois e dia cinco
+         00:39:56.650 - 00:39:58.820
+         (0,71)
+ISA1F1    aí você lá tipo eles te encaminham para um
+         00:39:59.530 - 00:40:02.240
+         (0,53)
+ISA1F1   um laboratório
+         00:40:02.770 - 00:40:03.820
+         (0,35)
+ISA1F1    e aí lá você é tratado como pessoas que estão pagando a e pessoas que são do sus
+         00:40:04.170 - 00:40:08.720
+         (0,56)
+ISA1F1   sabe é bem diferenciado
+         00:40:09.280 - 00:40:10.450
+         (0,37)
+ISA1F1   então você ver tipo pessoas que estão pegando tem três quatro pessoas atendendo
+         00:40:10.820 - 00:40:13.900
+         (0,38)
+ISA1F1   pessoas do sus uma pessoa lá ah tipo peraê sabe
+         00:40:14.285 - 00:40:16.765
+         (0,19)
+ISA1F1   como se sou obrigado a tá fazendo isso mas não queria tá fazendo 
+         00:40:16.950 - 00:40:20.150
+DOCMS    hum
+         00:40:19.425 - 00:40:20.035
+         (0,28)
+ISA1F1   aí sabe então
+         00:40:20.425 - 00:40:21.145
+         (1,25)
+DOCMS    eh você falou no início da entrevista que seu pai é professor e sua mãe trabalha em um
+         00:40:22.400 - 00:40:27.100
+         (0,22)
+DOCMS    com saúde
+         00:40:27.320 - 00:40:27.990
+ISA1F1   é
+         00:40:27.960 - 00:40:28.290
+         (0,31)
+DOCMS    eh você acha que eles meio que influenciaram 
+         00:40:28.600 - 00:40:31.740
+         (0,46)
+DOCMS    de certa forma incentivaram você
+         00:40:32.195 - 00:40:34.135
+         (0,16)
+DOCMS    a escolher a carreira de serviço social?
+         00:40:34.290 - 00:40:36.130
+         (0,28)
+ISA1F1   não (risos)
+         00:40:36.415 - 00:40:36.925
+         (0,41)
+DOCMS    calma
+         00:40:37.335 - 00:40:37.835
+         (0,06)
+ISA1F1   não
+         00:40:37.900 - 00:40:38.490
+         (0,49)
+ISA1F1   um pouco
+         00:40:38.980 - 00:40:39.820
+DOCMS    (risos)
+         00:40:39.415 - 00:40:39.805
+         (0,81)
+DOCMS    eh agora é um teste 
+         00:40:40.625 - 00:40:41.535
+         (0,05)
+DOCMS    de percepção
+         00:40:41.585 - 00:40:42.395
+         (0,17)
+DOCMS    eu vou ter eu pergunto as coisas e você responde
+         00:40:42.565 - 00:40:44.765
+         (0,14)
+DOCMS    como você achar como tá sendo ao longo de toda entrevista
+         00:40:44.900 - 00:40:47.820
+ISA1F1   (risos)
+         00:40:46.825 - 00:40:47.395
+         (0,41)
+DOCMS    eh
+         00:40:48.225 - 00:40:48.795
+         (0,67)
+DOCMS    aqui no estado de sergipe você já percebeu no modo como as pessoas falam?
+         00:40:49.465 - 00:40:53.285
+         (0,56)
+ISA1F1   já
+         00:40:53.840 - 00:40:54.180
+         (0,62)
+DOCMS    você acha que seria capaz como essas pessoas falam?
+         00:40:54.805 - 00:40:57.605
+         (0,68)
+ISA1F1   eu não sei se eu conseguiria só que tem tipo umas pessoas que ela tem o sotaque muito forte 
+         00:40:58.280 - 00:41:02.020
+ISA1F1   e eu nunca vi isso em Sergipe
+         00:41:02.035 - 00:41:03.495
+         (0,26)
+ISA1F1   tipo só uma que é de Sergipe também e ela tem aquele sotaque nordestino que parece que ninguém em Sergipe tem 
+         00:41:03.760 - 00:41:08.870
+DOCMS    (risos)
+         00:41:08.330 - 00:41:08.750
+         (0,32)
+ISA1F1   mas eu não sei imitar eu não consigo mas meu Deus é aquela pessoa que você fala "opa você é daqui mesmo amiga?"
+         00:41:09.195 - 00:41:13.945
+DOCMS    (risos)
+         00:41:13.345 - 00:41:13.845
+         (0,18)
+ISA1F1   sabe você fica chega
+         00:41:14.125 - 00:41:15.435
+         (0,75)
+DOCMS    eh você acredita que estando em outro lugar ou contato com pessoas de outro lugar
+         00:41:16.180 - 00:41:21.110
+         (0,18)
+DOCMS    eh elas podem identificar de onde você é?
+         00:41:21.290 - 00:41:23.570
+         (0,15)
+DOCMS    a sua origem só pelo jeito que você fala?
+         00:41:23.720 - 00:41:25.750
+         (0,06)
+ISA1F1   rapaz eu só acho que só nordeste mas de Sergipe ninguém sabe o que é Sergipe
+         00:41:25.810 - 00:41:29.300
+         (0,59)
+ISA1F1   sabe
+         00:41:29.890 - 00:41:30.450
+         (0,22)
+ISA1F1   aí a maioria das vezes "ah você não é daqui não né" eu não mas é da onde?
+         00:41:30.665 - 00:41:34.545
+         (0,17)
+ISA1F1   sabe às vezes eu falo assim
+         00:41:34.720 - 00:41:36.000
+         (0,25)
+ISA1F1   aí ou uma palavra que a pessoa nunca ouviu "ah você é do nordeste" ah é da Bahia de Pernambuco não de Sergipe "hã o que é Sergipe?"
+         00:41:36.255 - 00:41:42.745
+         (1,96)
+DOCMS    eh você acha que as pessoas que moram na capital falam diferente das pessoas que moram no interior?
+         00:41:44.700 - 00:41:48.700
+         (0,60)
+ISA1F1   hum não
+         00:41:49.295 - 00:41:50.515
+DOCMS    por exemplo aqui em Sergipe
+         00:41:50.010 - 00:41:51.200
+         (0,08)
+ISA1F1   eu acho 
+         00:41:51.280 - 00:41:51.990
+         (0,37)
+ISA1F1   tipo
+         00:41:52.360 - 00:41:53.070
+         (0,11)
+ISA1F1   eu acho que não tipo no jeito que fala às vezes mais
+         00:41:53.180 - 00:41:56.060
+         (0,50)
+ISA1F1   o jeito que o cérebro funciona 
+         00:41:56.555 - 00:41:58.815
+         (0,12)
+ISA1F1   ou tipo pronto
+         00:41:58.940 - 00:42:00.330
+         (0,33)
+ISA1F1   significado pra as coisas
+         00:42:00.660 - 00:42:02.260
+         (0,22)
+ISA1F1   sabe tipo
+         00:42:02.475 - 00:42:03.305
+         (0,66)
+ISA1F1   em um lugar o significado de tal palavra é isso no outro é aquilo aí você fala a pessoa fica "hã por que você falou isso?" aí eu fico" 
+         00:42:03.965 - 00:42:09.175
+         (1,26)
+DOCMS    eh o que chama mais sua atenção quando as pessoas estão falando
+         00:42:10.435 - 00:42:14.065
+         (2,46)
+ISA1F1   primeiro
+         00:42:16.525 - 00:42:17.135
+         (1,09)
+ISA1F1   eu penso
+         00:42:18.225 - 00:42:18.775
+         (0,14)
+ISA1F1   eu
+         00:42:18.915 - 00:42:19.645
+         (0,30)
+ISA1F1   eu presto se elas falam palavrão (risos)
+         00:42:19.945 - 00:42:22.375
+DOCMS    (risos)
+         00:42:21.575 - 00:42:22.095
+         (0,14)
+ISA1F1   é porque eu falo muito palavrão então tipo às vezes eu
+         00:42:22.510 - 00:42:25.370
+         (0,25)
+ISA1F1   até se eu conheço uma pessoa você se incomoda que eu fale porque às vezes eu tento me segurar
+         00:42:25.625 - 00:42:29.025
+         (0,44)
+ISA1F1   sabe então eu fico prestando atenção no que é que a pessoa fala como ela fala sabe
+         00:42:29.460 - 00:42:32.650
+         (0,55)
+ISA1F1   tipo o vocabulário dela como diz minha irmã muito chulo que o meu é
+         00:42:33.200 - 00:42:36.180
+         (0,40)
+ISA1F1   que às vezes você fala vocês viram você sei lá o que inevitável e eu fico prestando atenção se a pessoa fala tudo certinho 
+         00:42:36.580 - 00:42:44.300
+         (0,28)
+ISA1F1   fica bem difícil
+         00:42:44.585 - 00:42:45.505
+         (0,75)
+DOCMS    então você acha que seu modo de falar mudou depois que você entrou aqui na UFS?
+         00:42:46.255 - 00:42:49.775
+         (1,12)
+ISA1F1   não
+         00:42:50.900 - 00:42:51.810
+         (0,49)
+ISA1F1   eu acho que não eu acho que tô
+         00:42:52.300 - 00:42:53.960
+         (1,75)
+DOCMS    eh
+         00:42:55.705 - 00:42:56.445
+         (0,52)
+DOCMS    falar oito muito biscoito oitenta é comum onde você mora?
+         00:42:56.970 - 00:43:00.870
+         (1,75)
+ISA1F1   não
+         00:43:02.615 - 00:43:03.085
+         (1,34)
+ISA1F1   não
+         00:43:04.425 - 00:43:04.775
+         (1,79)
+DOCMS    eh falar essas mesmas palavras oito muito 
+         00:43:06.565 - 00:43:10.525
+         (0,25)
+DOCMS    oitenta é comum aqui na UFS? Você percebe?
+         00:43:10.780 - 00:43:13.140
+         (1,90)
+ISA1F1   às vezes eu escuto sabe 
+         00:43:15.045 - 00:43:17.095
+         (0,89)
+ISA1F1   mas não é o 
+         00:43:17.985 - 00:43:19.395
+         (0,49)
+ISA1F1   (hes) eu não escuto muito
+         00:43:19.885 - 00:43:21.365
+         (0,74)
+DOCMS    e o que você acha desse modo de falar?
+         00:43:22.100 - 00:43:23.990
+         (0,58)
+ISA1F1   eu tenho agonia eu tenho agonia tipo não posso falar é o jeito que ela cresceu ela fala desse jeito mas eu tenho uma agonia de morrer
+         00:43:24.570 - 00:43:30.890
+         (0,20)
+ISA1F1   sabe
+         00:43:31.095 - 00:43:31.675
+         (0,22)
+ISA1F1   meu Deus eu sou a pessoa do fale vá tá falando mas eu fico ahh meu Deus porque você fala desse jeito por favor 
+         00:43:31.900 - 00:43:36.990
+         (0,31)
+DOCMS    (risos)
+         00:43:37.300 - 00:43:37.890
+ISA1F1   sabe
+         00:43:37.320 - 00:43:37.930
+         (0,66)
+DOCMS    eh
+         00:43:38.590 - 00:43:39.430
+         (0,54)
+DOCMS    agora
+         00:43:39.965 - 00:43:40.505
+         (0,67)
+DOCMS    falar pranta broco praneta e franela
+         00:43:41.170 - 00:43:46.380
+ISA1F1   não não não não
+         00:43:43.820 - 00:43:46.350
+         (0,19)
+ISA1F1   e eu odeio em qualquer lugar que eu vá meu Deus
+         00:43:46.570 - 00:43:48.450
+DOCMS    (risos)
+         00:43:47.195 - 00:43:47.945
+         (0,50)
+DOCMS    e você acha que esse jeito de falar é típico de alguma localidade?
+         00:43:48.945 - 00:43:51.685
+         (0,27)
+ISA1F1   não típico eu acho que sei lá eu acho que pessoas falam
+         00:43:51.955 - 00:43:55.415
+         (1,07)
+ISA1F1   eu acho que não é mais típico de localidade mas típico de pessoa
+         00:43:56.480 - 00:44:00.060
+         (0,38)
+ISA1F1   sabe
+         00:44:00.435 - 00:44:01.025
+         (0,82)
+ISA1F1   tipo
+         00:44:01.845 - 00:44:02.275
+         (0,33)
+ISA1F1   eu acho que é típico muito de criação
+         00:44:02.605 - 00:44:04.255
+         (0,54)
+ISA1F1   sabe a maioria das pessoas que falam provavelmente
+         00:44:04.795 - 00:44:07.345
+         (0,51)
+ISA1F1   tem aquelas famílias sabe que cresceram um monte de gente amontoado
+         00:44:07.855 - 00:44:11.375
+         (0,29)
+ISA1F1   sabe
+         00:44:11.670 - 00:44:12.100
+         (0,30)
+ISA1F1   "ah que o pai não estudou muito" porque é normal a pessoa não aprende a falar muito bem aí o filho não aprende sabe
+         00:44:12.400 - 00:44:17.670
+         (0,56)
+DOCMS    então
+         00:44:18.230 - 00:44:18.620
+         (0,19)
+DOCMS    você acha que seu modo de falar tem alguma relação com a escolarização da pessoa?
+         00:44:18.810 - 00:44:22.620
+ISA1F1   acho
+         00:44:22.310 - 00:44:22.610
+         (0,81)
+ISA1F1   eh exatamente esse o ponto eu acho que são de pessoas que realmente sabe
+         00:44:23.425 - 00:44:26.165
+         (0,50)
+ISA1F1   num tiveram a experiência da escola e tudo mais
+         00:44:26.660 - 00:44:28.970
+         (0,67)
+DOCMS    eh
+         00:44:29.640 - 00:44:30.230
+         (0,47)
+DOCMS    falar tia dia dente médico é comum onde você mora?
+         00:44:30.700 - 00:44:34.580
+         (1,42)
+DOCMS    e o que você acha desse jeito de falar?
+         00:44:36.005 - 00:44:37.515
+         (1,27)
+ISA1F1   normal esse aí eu não tenho nenhum sabe
+         00:44:38.785 - 00:44:41.135
+         (0,45)
+DOCMS    e aqui na UFS você acha que as pessoas tendem a falar muito assim dia 
+         00:44:41.585 - 00:44:45.475
+         (0,13)
+DOCMS    bom dia
+         00:44:45.605 - 00:44:46.395
+         (4,72)
+ISA1F1   em questão de educação ou questão de pronúncia
+         00:44:51.110 - 00:44:53.310
+DOCMS    questão falando normalmente
+         00:44:52.875 - 00:44:54.735
+         (0,17)
+ISA1F1   ai eu acho que tem eu acho que sou uma pessoa que até eu fico surpresa
+         00:44:54.910 - 00:44:59.060
+         (0,80)
+ISA1F1   porque tipo onde eu moro não é mas por exemplo com minha família é do tipo bom dia fiz minha parte se a pessoa não responde é aí tipo você entra no banheiro aí você boa noite aí todo mundo responde por boa noite sabe
+         00:44:59.860 - 00:45:10.130
+         (0,18)
+ISA1F1   ou sabe eu acho muito interessante 
+         00:45:10.310 - 00:45:12.000
+         (0,19)
+ISA1F1   porque eu que aqui todo mundo é muito educado
+         00:45:12.190 - 00:45:13.750
+         (1,25)
+DOCMS    e você acha que esse jeito de falar dia tia é comum de alguma localidade é típico de algum lugar?
+         00:45:15.005 - 00:45:20.585
+         (0,64)
+ISA1F1   não eu acho que não também eu acho que é muito de pessoa
+         00:45:21.230 - 00:45:23.540
+         (0,39)
+ISA1F1   eu acho que chegou um tempo que a não ser que seja sotaque o jeito de falar tipo cada um tem uma pessoa tem a mesma no Rio sabe 
+         00:45:23.930 - 00:45:32.610
+         (0,67)
+DOCMS    e você acha que esse modo de falar tem alguma coisa a ver com a escolarização
+         00:45:33.280 - 00:45:36.600
+         (1,64)
+ISA1F1   eh eu acho que 
+         00:45:38.245 - 00:45:39.445
+         (0,17)
+ISA1F1   talvez eu acho que todo modo que você fala tem a ver 
+         00:45:39.620 - 00:45:42.780
+         (0,87)
+ISA1F1   ou com o lugar que você veio ou com o lugar que você estudou 
+         00:45:43.645 - 00:45:46.375
+         (0,14)
+ISA1F1   ou não estudou então eu acho que
+         00:45:46.515 - 00:45:48.705
+         (0,44)
+ISA1F1   querendo ou não querendo a gente meio que desenvolve a linguagem estudando
+         00:45:49.145 - 00:45:53.355
+         (1,11)
+DOCMS    e você acha que as pessoas que tendem a falar dia
+         00:45:54.465 - 00:45:57.245
+         (0,81)
+DOCMS    ou (hes) desculpa as pessoas que tendem a falar dia
+         00:45:58.050 - 00:46:00.630
+         (0,35)
+DOCMS    elas
+         00:46:00.985 - 00:46:01.415
+         (0,45)
+DOCMS    falam mais bonito de quem fala dia
+         00:46:01.865 - 00:46:03.715
+         (0,25)
+DOCMS    por exemplo
+         00:46:03.965 - 00:46:04.685
+         (2,66)
+DOCMS    
+         00:46:07.350 - 00:46:08.110
+ISA1F1   eu acho que
+         00:46:07.350 - 00:46:08.110
+         (1,41)
+ISA1F1   eu só acho diferente eu num sabe
+         00:46:09.525 - 00:46:11.345
+         (0,20)
+ISA1F1   nem melhor nem peior - nem melhor nem pior só diferente então "ah fala desse jeito fala daquilo" então pra mim só diferente
+         00:46:11.550 - 00:46:18.660
+         (1,21)
+DOCMS    eh
+         00:46:19.870 - 00:46:20.770
+         (0,79)
+DOCMS    você acha que as palavras doido 
+         00:46:21.555 - 00:46:23.275
+         (0,21)
+DOCMS    e doido tem o mesmo significado?
+         00:46:23.485 - 00:46:25.405
+         (0,12)
+ISA1F1   não
+         00:46:25.530 - 00:46:26.080
+         (0,18)
+ISA1F1   eu acho que doido é mais tipo aquele negócio
+         00:46:26.260 - 00:46:28.050
+         (0,35)
+ISA1F1   sério sabe
+         00:46:28.400 - 00:46:29.110
+         (0,18)
+ISA1F1   e doido é tipo muito gíria de gente sabe
+         00:46:29.290 - 00:46:31.870
+         (0,90)
+DOCMS    eh você usa essas palavras no mesmo contexto usaria essas palavras no mesmo contexto?
+         00:46:32.775 - 00:46:37.555
+         (0,94)
+ISA1F1   acho que não
+         00:46:38.490 - 00:46:39.180
+         (1,83)
+DOCMS    dá pra você fazer uma diferenciação onde você usaria um e outro 
+         00:46:41.010 - 00:46:44.140
+ISA1F1   dá porque tipo meu Deus
+         00:46:43.670 - 00:46:45.390
+         (1,75)
+ISA1F1   pronto eu acho que doido é tipo "ah fulano"
+         00:46:47.135 - 00:46:49.805
+         (0,24)
+ISA1F1   sabe acho que um jeito meio
+         00:46:50.045 - 00:46:51.645
+         (0,74)
+ISA1F1   é um jeito mais meio chulo de falar "ah fulano tá doido mesmo pirou da cabeça" e tipo aquele é mais "doido você não sabe" doido
+         00:46:52.380 - 00:46:59.990
+         (0,25)
+ISA1F1   você não aquele professor que apareceu sabe
+         00:47:00.240 - 00:47:03.000
+         (0,38)
+ISA1F1   eh mais um você tá conversando com todo mundo indignado sabe
+         00:47:03.375 - 00:47:07.205
+         (0,48)
+DOCMS    (risos)
+         00:47:07.685 - 00:47:08.135
+         (0,26)
+DOCMS    quando você tá falando sobre você e junta mais alguém
+         00:47:08.395 - 00:47:11.355
+         (0,49)
+DOCMS    você tende a usar mais nós ou a gente? 
+         00:47:11.840 - 00:47:13.930
+         (1,55)
+DOCMS    a gente
+         00:47:15.480 - 00:47:15.960
+         (1,43)
+DOCMS    e você acha que é melhor usar mais nós ou a gente?
+         00:47:17.395 - 00:47:20.105
+         (1,63)
+ISA1F1   eu
+         00:47:21.735 - 00:47:22.055
+         (0,51)
+ISA1F1   nossa
+         00:47:22.570 - 00:47:23.660
+         (0,20)
+ISA1F1   eu acho que é muito dependente
+         00:47:23.860 - 00:47:25.400
+         (0,29)
+ISA1F1   eu acho que não sou da pessoa do "ah vou analisar a fase da minha cabeça antes de falar"
+         00:47:25.695 - 00:47:29.005
+         (0,30)
+ISA1F1   tipo "ah"
+         00:47:29.305 - 00:47:30.665
+         (1,37)
+ISA1F1   a gente vai sair esse fim de semana
+         00:47:32.030 - 00:47:33.830
+         (0,35)
+ISA1F1   ou tipo "ah nós duas vamos falar ali com o (est) então eu sou uma pessoa do dependendo da situação
+         00:47:34.185 - 00:47:39.005
+DOCMS    anram sim
+         00:47:37.900 - 00:47:39.070
+         (1,35)
+DOCMS    e o que você acha de construções como
+         00:47:40.420 - 00:47:42.950
+         (0,24)
+DOCMS    nós comemu
+         00:47:43.190 - 00:47:44.140
+         (0,16)
+DOCMS    a gente vamu e nós vai
+         00:47:44.300 - 00:47:45.740
+         (2,42)
+ISA1F1   meu Deus
+         00:47:48.165 - 00:47:49.155
+DOCMS    (risos)
+         00:47:48.565 - 00:47:49.225
+         (0,50)
+ISA1F1   eu sóu do (hes) meu Deus pra que nós vai? nossa eu odeio isso 
+         00:47:49.720 - 00:47:54.440
+         (0,63)
+DOCMS    e você acha que essas formas determinam de onde o falante é?
+         00:47:55.075 - 00:47:58.235
+         (0,34)
+ISA1F1   não
+         00:47:58.580 - 00:47:58.990
+         (1,96)
+DOCMS    e você acha que a escolarização tem relação com alguma escolha dessas formas?
+         00:48:00.950 - 00:48:06.070
+ISA1F1   acho isso eu acho
+         00:48:04.975 - 00:48:06.195
+         (1,36)
+ISA1F1   porque meio que você tá na escola e você aprende isso no básico
+         00:48:07.550 - 00:48:11.050
+         (0,20)
+ISA1F1   tipo que você não fala
+         00:48:11.255 - 00:48:12.285
+         (0,17)
+ISA1F1   muito essas coisas
+         00:48:12.455 - 00:48:13.555
+         (0,25)
+ISA1F1   ah nós vai não existe pra mim mim isso e aquilo então você vai e
+         00:48:13.800 - 00:48:20.210
+         (0,18)
+ISA1F1   depois da escola você começa a usar isso você meio que
+         00:48:20.390 - 00:48:23.620
+         (0,14)
+ISA1F1   não isso aí é estranho tem alguma coisa de errada nessa frase 
+         00:48:23.760 - 00:48:25.810
+         (0,38)
+ISA1F1   sabe tipo você àsvezes nem sabe o que é mas você acha estranho
+         00:48:26.190 - 00:48:28.490
+DOCMS    (est)
+         00:48:27.875 - 00:48:28.245
+         (0,81)
+ISA1F1   então
+         00:48:29.295 - 00:48:29.665

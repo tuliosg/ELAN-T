@@ -1,0 +1,2914 @@
+TIPO DE AMOSTRA: ENT
+ DOCUMENTADORA: MAURO
+ COMUNIDADE: UFS
+ ANO: 2019
+ DESLOCAMENTO: 4
+ TEMPO DE CURSO: INICIO
+ INF: ROM1MI
+ sexo: MAS
+ escolaridade: S
+ Idade: 21
+ Cidade Natal: ARACAJU, SE
+
+
+
+DOCMJ    é vou começar perguntando qual é o teu nome?
+         00:00:00.860 - 00:00:03.240
+         (0,48)
+ROM1MI   Romero
+         00:00:03.720 - 00:00:04.200
+         (0,26)
+DOCMJ    Romero
+         00:00:04.460 - 00:00:04.950
+         (0,26)
+DOCMJ    você se importa em dizer ele todo
+         00:00:05.210 - 00:00:06.720
+         (0,27)
+ROM1MI   Romero Romulo da Silva 
+         00:00:06.990 - 00:00:08.470
+         (0,79)
+DOCMJ    ok
+         00:00:09.255 - 00:00:09.815
+         (0,54)
+DOCMJ    ok Romero e quantos anos cê tem
+         00:00:10.350 - 00:00:12.680
+         (0,30)
+ROM1MI   vinte e um
+         00:00:12.980 - 00:00:13.530
+         (0,18)
+DOCMJ    você tem vinte e um né
+         00:00:13.710 - 00:00:14.600
+         (0,54)
+DOCMJ    e em que cidade você nasceu?
+         00:00:15.140 - 00:00:16.830
+         (0,41)
+ROM1MI   Eu nasci em Petrolândia Pernambuco
+         00:00:17.240 - 00:00:19.510
+         (0,90)
+ROM1MI   Mas eu moro aqui
+         00:00:20.410 - 00:00:21.390
+         (0,09)
+DOCMJ    ah entendi
+         00:00:21.485 - 00:00:22.565
+ROM1MI   me criei aqui
+         00:00:21.630 - 00:00:22.530
+         (0,47)
+DOCMJ    entendi
+         00:00:23.035 - 00:00:23.765
+         (0,29)
+DOCMJ    eh então você
+         00:00:24.055 - 00:00:25.375
+         (0,17)
+DOCMJ    venho pra cá assim com quantos anos
+         00:00:25.550 - 00:00:27.720
+         (1,35)
+ROM1MI   acho que eu tinha meses
+         00:00:29.070 - 00:00:30.260
+         (0,22)
+ROM1MI   foi pouquissímo meses só nascer e vim pra cá mesmo
+         00:00:30.480 - 00:00:33.150
+         (0,26)
+DOCMJ    ah entendi e onde é que você mora mesmo atualmente?
+         00:00:33.410 - 00:00:35.770
+         (0,31)
+ROM1MI   aqui agora eu moro Aracaju
+         00:00:36.085 - 00:00:37.655
+         (0,13)
+DOCMJ    em Aracaju
+         00:00:37.785 - 00:00:38.425
+         (0,23)
+DOCMJ    pode dizer qual o bairro?
+         00:00:38.660 - 00:00:39.710
+         (0,34)
+ROM1MI   Santos Dumond
+         00:00:40.050 - 00:00:40.760
+         (0,24)
+DOCMJ    ah nos Santos Dumond
+         00:00:41.000 - 00:00:42.030
+         (0,40)
+DOCMJ    ah legal e qual o nome dos teus pais Romulo?
+         00:00:42.430 - 00:00:45.290
+         (1,13)
+ROM1MI   Romero Romulo
+         00:00:46.425 - 00:00:47.405
+         (0,95)
+ROM1MI   da Silva e Luciene Lima
+         00:00:48.360 - 00:00:50.230
+         (0,40)
+DOCMJ    ah ok
+         00:00:50.630 - 00:00:51.350
+         (0,75)
+DOCMJ    legal
+         00:00:52.095 - 00:00:52.685
+         (0,23)
+DOCMJ    e em que cidade eles nasceram
+         00:00:52.915 - 00:00:54.715
+         (1,18)
+ROM1MI   meu pai nasceu também em Petrolândia Pernambuco e a minha mãe nasceu
+         00:00:55.900 - 00:00:59.400
+         (0,51)
+ROM1MI   em Nossa Senhora das Dores aqui em Sergipe
+         00:00:59.915 - 00:01:01.375
+         (0,47)
+DOCMJ    ah entendi
+         00:01:01.850 - 00:01:02.640
+         (0,31)
+DOCMJ    e onde é que eles estão vivendo atualmente?
+         00:01:02.950 - 00:01:05.130
+         (0,56)
+ROM1MI   Aracaju
+         00:01:05.685 - 00:01:06.275
+         (0,44)
+DOCMJ    ah ambos né
+         00:01:06.715 - 00:01:07.625
+         (0,28)
+DOCMJ    entendi
+         00:01:07.905 - 00:01:08.885
+         (0,25)
+DOCMJ    tu sabe me dizer o nível de escolaridade deles?
+         00:01:09.140 - 00:01:11.760
+         (1,36)
+ROM1MI   a minha mãe tem o ensino médio
+         00:01:13.120 - 00:01:15.140
+         (1,34)
+ROM1MI   completo e meu pai fez o técnico
+         00:01:16.475 - 00:01:18.715
+         (0,41)
+DOCMJ    ah entendi
+         00:01:19.120 - 00:01:19.890
+         (0,62)
+DOCMJ    entendi
+         00:01:20.510 - 00:01:21.220
+         (0,43)
+DOCMJ    eh e eles tem profissão cê sabe dizer qual profissão de ambos?
+         00:01:21.650 - 00:01:25.090
+         (0,08)
+ROM1MI   meu pai é técnico de enfermagem e minha mãe ela não trabalha
+         00:01:25.165 - 00:01:28.065
+         (0,34)
+DOCMJ    ah entendi
+         00:01:28.410 - 00:01:29.170
+         (0,31)
+DOCMJ    ok
+         00:01:29.485 - 00:01:29.965
+         (0,34)
+DOCMJ    e com quem tu tá morando atualmente?
+         00:01:30.300 - 00:01:32.000
+         (0,34)
+ROM1MI   com a minha mãe
+         00:01:32.335 - 00:01:32.865
+         (0,20)
+DOCMJ    ah certo
+         00:01:33.065 - 00:01:34.265
+         (0,50)
+DOCMJ    eh
+         00:01:34.770 - 00:01:35.410
+         (0,19)
+DOCMJ    a gente já perguntou isso antes mas
+         00:01:35.605 - 00:01:37.045
+         (0,10)
+DOCMJ    apenas pra registrar
+         00:01:37.150 - 00:01:38.240
+         (0,55)
+DOCMJ    é qual o curso que você faz?
+         00:01:38.790 - 00:01:40.210
+         (0,19)
+ROM1MI   História
+         00:01:40.395 - 00:01:40.955
+         (0,42)
+DOCMJ    faz História e qual período você tá?
+         00:01:41.375 - 00:01:43.385
+         (0,09)
+ROM1MI   primeiro
+         00:01:43.475 - 00:01:43.855
+         (0,55)
+DOCMJ    legal
+         00:01:44.400 - 00:01:44.980
+         (0,47)
+DOCMJ    deixa eu te perguntar
+         00:01:45.445 - 00:01:46.555
+         (0,24)
+DOCMJ    eh
+         00:01:46.795 - 00:01:47.415
+         (0,22)
+DOCMJ    por que você venho estudar aqui na Universidade Federal de Sergipe?
+         00:01:47.630 - 00:01:50.550
+         (1,43)
+ROM1MI   ah
+         00:01:51.985 - 00:01:52.305
+         (0,76)
+ROM1MI   logística proximidade 
+         00:01:53.070 - 00:01:55.150
+         (0,47)
+ROM1MI   acho que proximidade principal assim
+         00:01:55.615 - 00:01:57.465
+         (0,42)
+DOCMJ    ah entendi
+         00:01:57.885 - 00:01:58.655
+         (0,44)
+DOCMJ    e qual meio de transporte tu utiliza assim mais comumente assim pelo menos pra vim pra cá pra UFS? 
+         00:01:59.095 - 00:02:03.565
+         (0,07)
+ROM1MI   ônibus coletivo
+         00:02:03.635 - 00:02:04.705
+         (0,33)
+DOCMJ    ônibus
+         00:02:05.035 - 00:02:05.445
+         (0,14)
+DOCMJ    e assim tem algum motivo pra tu usar?
+         00:02:05.585 - 00:02:07.935
+         (0,99)
+ROM1MI   logística também facilidade 
+         00:02:08.925 - 00:02:11.005
+         (0,25)
+ROM1MI   preço
+         00:02:11.250 - 00:02:11.920
+         (1,11)
+ROM1MI   eh
+         00:02:13.030 - 00:02:14.050
+         (0,75)
+ROM1MI   etecera são essas as questões
+         00:02:14.795 - 00:02:16.265
+         (0,26)
+DOCMJ    entendi
+         00:02:16.525 - 00:02:17.155
+         (0,39)
+DOCMJ    eh e tu trabalha atualmente ou já trabalhou?
+         00:02:17.545 - 00:02:19.895
+         (0,08)
+ROM1MI   não
+         00:02:19.975 - 00:02:20.295
+         (0,26)
+DOCMJ    ah entendi
+         00:02:20.560 - 00:02:21.320
+         (0,32)
+DOCMJ    eh
+         00:02:21.645 - 00:02:22.365
+         (0,17)
+DOCMJ    agora deixa eu te perguntar né tua opinião
+         00:02:22.530 - 00:02:24.420
+         (0,11)
+DOCMJ    você acha que trabalhar e estudar ao mesmo tempo dá certo?
+         00:02:24.530 - 00:02:28.240
+         (3,38)
+ROM1MI   num sei se dá certo depende né depende do que seria dá certo mas de alguma forma é possível
+         00:02:31.620 - 00:02:35.940
+         (0,82)
+ROM1MI   mas deve ser extremamente complicado
+         00:02:36.765 - 00:02:38.305
+         (0,31)
+DOCMJ    entendi mas é possível?
+         00:02:38.620 - 00:02:39.800
+         (0,85)
+ROM1MI   é
+         00:02:40.645 - 00:02:41.085
+         (0,69)
+DOCMJ    entendi
+         00:02:41.780 - 00:02:42.420
+         (0,46)
+DOCMJ    eh
+         00:02:42.880 - 00:02:43.420
+         (0,31)
+DOCMJ    deixa eu te perguntar a quanto tempo especificamente tu mora no Santos Dumond?
+         00:02:43.735 - 00:02:47.635
+         (0,82)
+ROM1MI   a desde sempre
+         00:02:48.460 - 00:02:49.400
+         (0,28)
+DOCMJ    ah entendi
+         00:02:49.675 - 00:02:50.365
+         (0,51)
+ROM1MI   quando eu me mudei pra cá eu moro lá
+         00:02:50.875 - 00:02:52.765
+         (0,23)
+DOCMJ    entendi
+         00:02:52.995 - 00:02:53.635
+         (0,51)
+DOCMJ    e você explicou pra mim que nasceu em outro lugar você nasceu lá em Pernambuco
+         00:02:54.150 - 00:02:58.850
+         (0,14)
+DOCMJ    você sabe alguma coisa a respeito lá de Petrolândia
+         00:02:58.985 - 00:03:01.445
+         (0,90)
+ROM1MI   pouquissímo
+         00:03:02.350 - 00:03:03.220
+         (1,06)
+ROM1MI   uma coisa ou outra assim de pedi
+         00:03:04.280 - 00:03:06.830
+         (0,95)
+ROM1MI   de ouvir mesmo mas a dica de viver 
+         00:03:07.780 - 00:03:11.130
+         (0,45)
+DOCMJ    e como é que foi a tua infância lá nos Santos Dummond
+         00:03:11.580 - 00:03:13.950
+         (5,77)
+DOCMJ    assim você se lembra de alguma experiência foi tranquila
+         00:03:19.720 - 00:03:23.140
+         (0,22)
+ROM1MI   sim tranquila
+         00:03:23.365 - 00:03:24.245
+         (0,95)
+DOCMJ    ah entendi
+         00:03:25.200 - 00:03:25.940
+         (0,28)
+DOCMJ    e você acha assim que ah assim que a tua infânciam mudou muito?
+         00:03:26.215 - 00:03:30.545
+         (0,44)
+DOCMJ    pra desde aquele tempo até os nossos dias infância das crianças de hoje
+         00:03:30.985 - 00:03:35.505
+         (0,22)
+DOCMJ    você acha que é diferente?
+         00:03:35.720 - 00:03:36.820
+ROM1MI   acho completamente
+         00:03:36.330 - 00:03:37.360
+         (0,31)
+DOCMJ    é
+         00:03:37.670 - 00:03:37.960
+         (0,70)
+ROM1MI   acredito que a tecnologia agora né tem o computador o celular
+         00:03:38.660 - 00:03:42.240
+         (0,34)
+ROM1MI   eu acho que de alguma forma essa
+         00:03:42.575 - 00:03:44.065
+         (0,39)
+ROM1MI   essas comunicações que falam diferente
+         00:03:44.455 - 00:03:46.615
+         (0,56)
+ROM1MI   eu peguei a transição indo 
+         00:03:47.170 - 00:03:49.090
+         (0,32)
+ROM1MI   daquele que tira o celular e
+         00:03:49.415 - 00:03:50.775
+         (0,81)
+ROM1MI   e as crianças já nascem com isso então eu acho que os processos de educação são
+         00:03:51.580 - 00:03:55.570
+         (0,46)
+ROM1MI   muitos diferentes de formação
+         00:03:56.030 - 00:03:57.490
+         (0,23)
+DOCMJ    entendi
+         00:03:57.725 - 00:03:58.255
+         (0,26)
+DOCMJ    e tu tem alguma memória que tu considera marcante da tua infância lá nos Santos Dummond?
+         00:03:58.515 - 00:04:02.765
+         (2,25)
+ROM1MI   não
+         00:04:05.015 - 00:04:05.755
+         (0,93)
+ROM1MI   assim especificamente do bairro não
+         00:04:06.680 - 00:04:08.540
+         (2,16)
+DOCMJ    entendi
+         00:04:10.705 - 00:04:11.415
+         (1,17)
+DOCMJ    mas (est) tu gosta assim de morar lá?
+         00:04:12.585 - 00:04:14.755
+         (0,57)
+ROM1MI   gosto
+         00:04:15.325 - 00:04:15.645
+         (0,77)
+DOCMJ    entendi
+         00:04:16.420 - 00:04:16.740
+         (0,62)
+DOCMJ    e assim se tu tivesse oportunidade oportunidade você gostaria de morar em outro lugar?
+         00:04:17.365 - 00:04:21.935
+         (3,44)
+ROM1MI   não sei
+         00:04:25.380 - 00:04:26.190
+         (0,91)
+ROM1MI   acho que já me acostumei a morar lá e talvez a proximidade das coisas
+         00:04:27.100 - 00:04:30.990
+         (0,30)
+ROM1MI   sabe
+         00:04:31.290 - 00:04:31.850
+         (0,85)
+DOCMJ    entendi
+         00:04:32.695 - 00:04:33.265
+         (0,38)
+DOCMJ    então a pelo menos a princípio não trocaria né
+         00:04:33.645 - 00:04:36.015
+         (0,09)
+ROM1MI   não hoje não
+         00:04:36.105 - 00:04:37.345
+         (0,35)
+DOCMJ    entendi
+         00:04:37.700 - 00:04:38.340
+         (0,23)
+DOCMJ    e o que é que mais você gosta mais de fazer lá onde você mora tem alguma atividade que você faça com mais frequência?
+         00:04:38.575 - 00:04:43.455
+         (1,72)
+ROM1MI   não (est) não 
+         00:04:45.170 - 00:04:46.300
+         (0,14)
+ROM1MI   todas as coisas estão em outros bairros ou
+         00:04:46.440 - 00:04:48.580
+         (0,47)
+DOCMJ    ah entendi
+         00:04:49.055 - 00:04:49.695
+ROM1MI   concentrado em outros lugares
+         00:04:49.420 - 00:04:50.530
+         (0,68)
+DOCMJ    entendi
+         00:04:51.210 - 00:04:51.980
+         (0,24)
+DOCMJ    mas tu acha que tem alguma coisa lá no bairro que seja atrativo para as pessoas da comunidade?
+         00:04:52.220 - 00:04:56.400
+         (2,39)
+ROM1MI   acho que não
+         00:04:58.795 - 00:04:59.785
+         (0,61)
+ROM1MI   acho que todo bairro
+         00:05:00.395 - 00:05:01.535
+         (0,25)
+ROM1MI   periférico de alguma forma ele não está muito munido dessas 
+         00:05:01.790 - 00:05:04.710
+         (0,51)
+ROM1MI   atraçoes culturais sabe desses
+         00:05:05.225 - 00:05:07.245
+         (0,54)
+ROM1MI   pelas possibilidades fica tudo
+         00:05:07.780 - 00:05:09.480
+         (0,28)
+ROM1MI   no centro
+         00:05:09.755 - 00:05:10.705
+         (1,64)
+ROM1MI   enfim
+         00:05:12.350 - 00:05:13.230
+         (0,51)
+ROM1MI   num tá ali sabe
+         00:05:13.745 - 00:05:14.985
+         (0,37)
+ROM1MI   embora seja essas pessoas que produzam
+         00:05:15.350 - 00:05:16.990
+         (0,34)
+ROM1MI    maioria das vezes
+         00:05:17.325 - 00:05:18.265
+         (1,04)
+DOCMJ    entendi
+         00:05:19.310 - 00:05:19.970
+         (0,25)
+DOCMJ    entendi agora em em contrapartida existe alguma coisa que você ache que seja chata para os moradores da comunidade lá nos Santos Dummond?
+         00:05:20.215 - 00:05:27.745
+         (3,41)
+ROM1MI   eu acho que a logística do lugar
+         00:05:31.160 - 00:05:33.280
+         (0,22)
+ROM1MI   né tipo
+         00:05:33.495 - 00:05:34.055
+         (1,99)
+ROM1MI   porque existem vários Santos Dummond né assim
+         00:05:36.040 - 00:05:38.320
+         (0,79)
+ROM1MI   mas acho que
+         00:05:39.105 - 00:05:40.325
+         (0,37)
+ROM1MI   que o fato de ser um bairro que é não é um bairro tão privilegiado assim pelo próprio Estado
+         00:05:40.690 - 00:05:45.130
+         (1,14)
+ROM1MI   ah já complica bastante as coisas sabe
+         00:05:46.275 - 00:05:48.395
+         (1,25)
+ROM1MI   a violência essa falta de de atrativo
+         00:05:49.640 - 00:05:52.440
+         (2,99)
+ROM1MI   de oportunidades também
+         00:05:55.435 - 00:05:56.565
+         (0,54)
+DOCMJ    entendi
+         00:05:57.105 - 00:05:57.785
+         (0,12)
+ROM1MI   que ás vezes você cresce daí você chega em um lugar que
+         00:05:57.900 - 00:06:00.670
+         (0,33)
+ROM1MI   que as oportunidades que tive muita gente quis
+         00:06:01.000 - 00:06:02.720
+         (0,23)
+ROM1MI   e talvez morando do meu lado não tem sabe
+         00:06:02.955 - 00:06:04.665
+         (0,98)
+ROM1MI   então
+         00:06:05.645 - 00:06:06.165
+         (0,20)
+ROM1MI   é complicado também
+         00:06:06.370 - 00:06:07.390
+         (0,67)
+DOCMJ    entendi
+         00:06:08.055 - 00:06:08.725
+         (0,39)
+DOCMJ    agora deixa eu te perguntar é tu já viu viajou pra fora de Sergipe né?
+         00:06:09.115 - 00:06:12.985
+         (0,86)
+ROM1MI   já
+         00:06:13.845 - 00:06:14.315
+         (0,13)
+DOCMJ    tu já foi pra
+         00:06:14.445 - 00:06:15.515
+         (0,14)
+DOCMJ    pode dizer pra quais estados ou cidades você já foi?
+         00:06:15.655 - 00:06:18.495
+ROM1MI   Pernambuco
+         00:06:17.770 - 00:06:18.470
+         (0,57)
+DOCMJ    Pernambuco
+         00:06:19.065 - 00:06:19.525
+         (0,04)
+ROM1MI   é quando viajei pra Pernambuco
+         00:06:19.560 - 00:06:21.240
+         (0,54)
+ROM1MI   pra Recife
+         00:06:21.775 - 00:06:22.955
+         (0,34)
+ROM1MI   Porto de Galinhas
+         00:06:23.290 - 00:06:24.400
+         (0,32)
+ROM1MI   Petrolândia que foi onde eu nasci
+         00:06:24.720 - 00:06:25.930
+         (0,58)
+DOCMJ    ah entendi
+         00:06:26.510 - 00:06:27.230
+         (0,35)
+DOCMJ    mas assim tu foi academicamente ou por lazer?
+         00:06:27.585 - 00:06:30.635
+ROM1MI   não por lazer
+         00:06:30.085 - 00:06:31.195
+         (0,37)
+DOCMJ    ah entendi
+         00:06:31.565 - 00:06:32.235
+         (0,46)
+DOCMJ    gostaria de voltar pra esses lugares que você já viajou?
+         00:06:32.695 - 00:06:35.145
+         (1,76)
+ROM1MI   sim
+         00:06:36.905 - 00:06:37.545
+         (0,81)
+ROM1MI   sim por memória afetiva sabe mas
+         00:06:38.350 - 00:06:40.410
+         (2,43)
+ROM1MI   é mais por memória afetiva mesmo 
+         00:06:42.845 - 00:06:44.175
+         (0,41)
+DOCMJ    entendi
+         00:06:44.585 - 00:06:45.145
+         (0,37)
+DOCMJ    mas eh deixa eu te perguntar além desses lugares que você citou que já foi existe alguma viagem
+         00:06:45.510 - 00:06:50.880
+         (0,13)
+DOCMJ    que você encara assim como se fosse a viagem dos sonhos que você gostaria de fazer 
+         00:06:51.010 - 00:06:54.340
+         (3,48)
+ROM1MI   ah eu não sei
+         00:06:57.820 - 00:06:58.830
+         (0,93)
+ROM1MI   acho que
+         00:06:59.760 - 00:07:00.420
+         (0,19)
+ROM1MI   conhecer o Brasil é é o que movimenta assim
+         00:07:00.615 - 00:07:03.305
+         (0,28)
+DOCMJ    ah entendi
+         00:07:03.585 - 00:07:04.625
+ROM1MI   Amazonia talvez que é um lugar meio exótico assim acho que tem muito de brasilidade
+         00:07:03.990 - 00:07:07.560
+         (0,54)
+DOCMJ    entendi e você gostaria de ir
+         00:07:08.095 - 00:07:09.645
+         (0,13)
+ROM1MI   anram
+         00:07:09.775 - 00:07:10.265
+         (0,37)
+DOCMJ    entendi
+         00:07:10.635 - 00:07:11.135
+         (0,47)
+DOCMJ    legal
+         00:07:11.600 - 00:07:12.060
+         (0,31)
+DOCMJ    e agora falando um pouquinho em respeito de lazer o que você gosta de fazer no final de semana?
+         00:07:12.365 - 00:07:17.035
+         (1,11)
+ROM1MI   ah eu gosto de ficar em casa bastante
+         00:07:18.140 - 00:07:20.630
+         (0,34)
+ROM1MI   mas eu (est) saindo indo ao teatro
+         00:07:20.970 - 00:07:22.920
+         (0,46)
+ROM1MI   ir ao cinema
+         00:07:23.380 - 00:07:24.530
+         (1,33)
+ROM1MI   essas coisas
+         00:07:25.860 - 00:07:26.620
+         (0,47)
+ROM1MI   esses eventos mais
+         00:07:27.085 - 00:07:28.595
+         (0,80)
+DOCMJ    entendi
+         00:07:29.395 - 00:07:30.195
+         (0,19)
+DOCMJ    e tem algum lugar específico assim que você costume frequentar por lazer
+         00:07:30.390 - 00:07:34.310
+         (3,96)
+ROM1MI   ah locais específicos
+         00:07:38.270 - 00:07:39.500
+         (0,57)
+DOCMJ    isso
+         00:07:40.070 - 00:07:40.590
+         (0,71)
+DOCMJ    estabelecimento né você falou de cinema teatro tem algum lugar específico
+         00:07:41.305 - 00:07:45.905
+ROM1MI   eh o cinema seria o teatro seria o Tobias Barreto e Atheneu que são os dois
+         00:07:45.370 - 00:07:49.500
+         (1,49)
+ROM1MI   lugares (est) daqui e
+         00:07:50.990 - 00:07:53.130
+         (0,22)
+ROM1MI   e o cinema seria o cinemarck
+         00:07:53.355 - 00:07:54.555
+         (0,88)
+DOCMJ    ah entendi
+         00:07:55.440 - 00:07:56.430
+         (0,20)
+DOCMJ    entendi
+         00:07:56.630 - 00:07:57.130
+         (0,19)
+DOCMJ    legal
+         00:07:57.325 - 00:07:57.775
+         (0,30)
+DOCMJ    eh você falou que eh costuma frequentar cinema teatro certo além desses 
+         00:07:58.075 - 00:08:03.245
+         (0,19)
+DOCMJ    costuma frequentar museus também aqui na região?
+         00:08:03.435 - 00:08:05.905
+         (1,21)
+ROM1MI   já fui nos museus assim mas não é
+         00:08:07.115 - 00:08:09.125
+         (0,87)
+ROM1MI   não é uma frequência sabe algo mais
+         00:08:09.995 - 00:08:11.925
+         (1,31)
+ROM1MI   esporático mesmo de conhecer
+         00:08:13.235 - 00:08:14.865
+         (1,00)
+DOCMJ    entendi
+         00:08:15.865 - 00:08:16.825
+ROM1MI   num chega a ser muito 
+         00:08:16.100 - 00:08:16.940
+         (0,57)
+DOCMJ    entendi
+         00:08:17.515 - 00:08:18.105
+         (0,19)
+DOCMJ    com relação assim a lazer ainda deixa eu te perguntar você gosta de ler livros? 
+         00:08:18.295 - 00:08:22.675
+         (0,16)
+ROM1MI   anram
+         00:08:22.830 - 00:08:23.350
+         (0,44)
+DOCMJ    o que é que você
+         00:08:23.785 - 00:08:24.225
+         (0,17)
+DOCMJ    costuma ler com mais frequência?
+         00:08:24.390 - 00:08:26.060
+         (0,71)
+ROM1MI   gosto de ler poesia
+         00:08:26.770 - 00:08:27.890
+         (1,42)
+ROM1MI   eh
+         00:08:29.310 - 00:08:30.270
+         (2,39)
+ROM1MI   acho que poesia que leio com mais frequência mas eu gosto de ler tudo assim
+         00:08:32.665 - 00:08:35.915
+         (0,53)
+ROM1MI   passeando pelo romance por ficção científica
+         00:08:36.445 - 00:08:38.585
+         (0,51)
+DOCMJ    ah entendi
+         00:08:39.100 - 00:08:39.760
+ROM1MI   (est)
+         00:08:39.745 - 00:08:40.795
+         (0,18)
+ROM1MI   (est)
+         00:08:40.975 - 00:08:41.465
+         (0,22)
+ROM1MI   e dramaturgia eu gosto
+         00:08:41.685 - 00:08:42.645
+         (0,05)
+ROM1MI   de ler dramaturgia
+         00:08:42.700 - 00:08:43.330
+         (0,75)
+DOCMJ    entendi
+         00:08:44.080 - 00:08:44.800
+         (0,25)
+DOCMJ    e tem algum ator algum livro específico que você considere o teu favorito?
+         00:08:45.055 - 00:08:49.445
+         (1,47)
+ROM1MI   ai tem
+         00:08:50.915 - 00:08:51.585
+         (0,14)
+ROM1MI   Hilda Hirst
+         00:08:51.725 - 00:08:52.595
+         (0,27)
+ROM1MI   Júbilo memória noviciado da paixão
+         00:08:52.865 - 00:08:54.645
+         (0,47)
+ROM1MI   que é um livro de poema
+         00:08:55.110 - 00:08:55.910
+         (0,69)
+ROM1MI   e eu acho que ela consegue mesclar tudo ela consegue colocar dramaturgia poesia
+         00:08:56.595 - 00:08:59.745
+         (0,94)
+ROM1MI   a construção literária dela é muito bonita
+         00:09:00.685 - 00:09:02.485
+         (0,54)
+ROM1MI   e
+         00:09:03.020 - 00:09:03.380
+         (0,83)
+ROM1MI   é o meu livro
+         00:09:04.215 - 00:09:04.995
+         (0,35)
+ROM1MI   de cabeceira está ali sempre
+         00:09:05.350 - 00:09:07.460
+         (0,87)
+DOCMJ    entendi
+         00:09:08.330 - 00:09:08.990
+ROM1MI   pra apontar
+         00:09:08.330 - 00:09:08.990
+         (0,50)
+DOCMJ    legal
+         00:09:09.485 - 00:09:10.175
+         (0,25)
+DOCMJ    é quando tu costuma ler você lê mais livros mais assim em livros eh impressos por table por kindle  coisas assim?
+         00:09:10.430 - 00:09:17.700
+ROM1MI   kindle
+         00:09:17.090 - 00:09:17.690
+         (0,95)
+DOCMJ    ler mais em kindle
+         00:09:18.655 - 00:09:19.935
+         (0,20)
+DOCMJ    e pela internet você constuma ler alguma coisa
+         00:09:20.140 - 00:09:22.450
+         (1,75)
+ROM1MI   de de sites
+         00:09:24.200 - 00:09:25.510
+         (0,03)
+DOCMJ    isso exato
+         00:09:25.540 - 00:09:26.390
+         (1,13)
+ROM1MI   só sites de notícias às vezes
+         00:09:27.520 - 00:09:28.870
+         (0,41)
+ROM1MI   acesso sites de notícias
+         00:09:29.280 - 00:09:30.260
+         (0,46)
+DOCMJ    entendi
+         00:09:30.715 - 00:09:31.405
+         (0,26)
+DOCMJ    e você saberia explicar de onde vem esse teu hábito de leitura se venho da família ou não
+         00:09:31.665 - 00:09:37.675
+         (0,48)
+ROM1MI   não não venho da família (risos)
+         00:09:38.155 - 00:09:39.175
+         (0,44)
+ROM1MI   mas
+         00:09:39.620 - 00:09:40.430
+         (1,90)
+ROM1MI   eu não sei especificamente mas a poesia e esse hábito
+         00:09:42.330 - 00:09:45.160
+         (0,21)
+ROM1MI   criar esse hábito de fato como algo
+         00:09:45.370 - 00:09:47.500
+         (0,03)
+ROM1MI   assídio foi na escola por causa de uma professora que eu tinha
+         00:09:47.530 - 00:09:50.830
+         (0,77)
+ROM1MI   e a gente fazia aula de teatro e ela fazi círculo de poesia
+         00:09:51.605 - 00:09:54.915
+         (0,48)
+ROM1MI   e daí a gente sentava pra ler poesia sei lá com dez doze anos era bem maluco
+         00:09:55.395 - 00:09:59.005
+         (0,65)
+ROM1MI   com o monte de
+         00:09:59.655 - 00:10:00.845
+         (0,38)
+ROM1MI   de pré adolescente ali naquela loucura e ela colocava a gente pra ler poesia
+         00:10:01.225 - 00:10:05.235
+         (0,40)
+ROM1MI   e isso ficou comigo e eu trouxe até hoje
+         00:10:05.635 - 00:10:07.585
+         (0,36)
+DOCMJ    ah entendi
+         00:10:07.945 - 00:10:08.825
+         (0,17)
+DOCMJ    então mais a sua experiência é relacionada a tua vivência escolar né?
+         00:10:09.000 - 00:10:12.990
+ROM1MI   sim sim
+         00:10:12.200 - 00:10:13.000
+         (0,47)
+DOCMJ    entendi
+         00:10:13.475 - 00:10:14.105
+         (0,48)
+DOCMJ    e uma pergunta é 
+         00:10:14.585 - 00:10:16.215
+         (0,45)
+DOCMJ    pra reflexão né você acha que o hábito de leitura é importante?
+         00:10:16.665 - 00:10:19.995
+         (0,41)
+DOCMJ    o que é que você acha a respeito disso?
+         00:10:20.405 - 00:10:21.825
+         (1,38)
+ROM1MI   completamente
+         00:10:23.200 - 00:10:23.920
+         (0,77)
+ROM1MI   eu acho que
+         00:10:24.695 - 00:10:25.805
+         (1,88)
+ROM1MI   que a forma mais
+         00:10:27.685 - 00:10:28.675
+         (0,82)
+ROM1MI   talvez direta de de se obter alguma coisa sabe através da leitura
+         00:10:29.495 - 00:10:33.265
+         (0,93)
+ROM1MI   mas também não eu acho que seja a única alternativa 
+         00:10:34.195 - 00:10:36.535
+         (0,14)
+ROM1MI   sabe porque se a gente pensa muito nessa coisa a gente acaba entrando numa 
+         00:10:36.680 - 00:10:39.360
+         (0,29)
+ROM1MI   num eruditismo que
+         00:10:39.655 - 00:10:41.225
+         (0,32)
+ROM1MI   provavelmente que as pessoas que moram no meu bairro
+         00:10:41.545 - 00:10:43.675
+         (0,72)
+ROM1MI   então eu acho que a gente tem que pensar esse esse lugar também
+         00:10:44.395 - 00:10:47.355
+         (0,29)
+DOCMJ    entendi
+         00:10:47.650 - 00:10:48.190
+         (0,17)
+DOCMJ    entendi interessante
+         00:10:48.365 - 00:10:49.265
+         (0,55)
+DOCMJ    e agora mudando um pouquinho de assunto né falando a respeito de algumas políticas públicas
+         00:10:49.810 - 00:10:53.750
+         (0,31)
+DOCMJ    eh tu acha que a educação pública sempre assegurada pelo governo?
+         00:10:54.055 - 00:10:57.965
+         (0,24)
+ROM1MI   completamente
+         00:10:58.205 - 00:10:59.065
+         (1,77)
+DOCMJ    por que tu acha isso?
+         00:11:00.840 - 00:11:01.920
+         (0,80)
+ROM1MI   porque é o papel do governo
+         00:11:02.715 - 00:11:03.935
+         (0,60)
+ROM1MI   eu acho que o papel do governo é assistencializar
+         00:11:04.530 - 00:11:06.670
+         (0,69)
+ROM1MI   saúde educação  
+         00:11:07.365 - 00:11:09.115
+         (0,53)
+ROM1MI   eh lazer
+         00:11:09.645 - 00:11:10.595
+         (0,20)
+ROM1MI   todas essas coisas eu acho que
+         00:11:10.795 - 00:11:12.065
+         (0,24)
+ROM1MI   são dever do governo
+         00:11:12.305 - 00:11:13.345
+         (0,50)
+ROM1MI   não que eu ache na verdade é constituicional
+         00:11:13.840 - 00:11:15.530
+         (0,22)
+ROM1MI   então não é um achismo meu
+         00:11:15.750 - 00:11:16.800
+         (0,93)
+ROM1MI   eh e e o governo deve assegurar isso sim
+         00:11:17.730 - 00:11:20.480
+         (0,87)
+DOCMJ    entendi
+         00:11:21.350 - 00:11:21.930
+         (0,34)
+DOCMJ    e na tua opinião pessoal eh a educação tem melhorado ou piorado nos últimos anos?
+         00:11:22.275 - 00:11:26.875
+         (3,38)
+ROM1MI   (risos) é difícil
+         00:11:30.250 - 00:11:31.600
+         (1,11)
+ROM1MI   eu acho que
+         00:11:32.710 - 00:11:33.620
+         (1,99)
+ROM1MI   eu acho que hoje no governo que a gente 
+         00:11:35.610 - 00:11:37.420
+         (0,15)
+ROM1MI   tá
+         00:11:37.570 - 00:11:38.030
+         (0,29)
+ROM1MI   tem um sucateamento que ele é mais claro que é mais objetivo que ele tem um nome que ele diz o que ele vê
+         00:11:38.325 - 00:11:43.605
+         (0,90)
+ROM1MI   mas a educação para que semrpe teve meio 
+         00:11:44.510 - 00:11:46.830
+         (0,44)
+ROM1MI   nova assim sabe
+         00:11:47.265 - 00:11:48.425
+         (0,67)
+ROM1MI   porque o próprio modo de educar ele é muito complicado
+         00:11:49.090 - 00:11:51.290
+         (0,94)
+DOCMJ    entendi
+         00:11:52.235 - 00:11:52.875
+ROM1MI   o método a metodologia da sala de aula
+         00:11:52.250 - 00:11:54.640
+         (1,62)
+ROM1MI   então eu não sei até que ponto
+         00:11:56.260 - 00:11:57.860
+         (2,38)
+ROM1MI   a coisa já foi boa sabe eu acho que hoje tá pior hoje tá ameaça mas mesmo assim nunca foi o ideal
+         00:12:00.240 - 00:12:04.790
+         (0,19)
+DOCMJ    entendi entendi
+         00:12:04.980 - 00:12:06.340
+         (0,40)
+DOCMJ    e assim tu considera importante que bolsas que são hoje ofertadas pela universidade com o pibic pibix algumas bolsas auxílios 
+         00:12:06.735 - 00:12:13.265
+         (0,29)
+DOCMJ    tem (est) aliás tenham como critério de escolha eh
+         00:12:13.560 - 00:12:17.090
+         (0,26)
+DOCMJ     a vulnerabilidade socioeconômica pra pessoas com baixa renda
+         00:12:17.350 - 00:12:20.470
+         (0,06)
+ROM1MI   sim
+         00:12:20.535 - 00:12:20.995
+         (0,69)
+DOCMJ    concorda com isso né
+         00:12:21.680 - 00:12:22.850
+         (0,64)
+DOCMJ    entendi
+         00:12:23.490 - 00:12:24.090
+         (0,35)
+DOCMJ    e com relação políticas relacionadas a manutenção é da criança no ensino básico como por exemplo
+         00:12:24.445 - 00:12:30.285
+         (0,32)
+DOCMJ    é transporte escolar plano nacional do livro didático merenda escola você concordar com essas medidas?
+         00:12:30.610 - 00:12:35.490
+         (0,77)
+ROM1MI   completamente
+         00:12:36.265 - 00:12:37.135
+         (1,12)
+DOCMJ    entendi
+         00:12:38.255 - 00:12:38.945
+         (0,41)
+DOCMJ    é se tu pudesse  assim elencar 
+         00:12:39.355 - 00:12:42.105
+         (0,45)
+DOCMJ    que pontos positivos e negativos que você consegue observar hoje na educação pública como um todo?
+         00:12:42.555 - 00:12:48.975
+         (0,63)
+DOCMJ    se possível elencar alguns 
+         00:12:49.610 - 00:12:51.370
+         (0,56)
+ROM1MI   eu acho que positivo
+         00:12:51.935 - 00:12:53.305
+         (1,26)
+ROM1MI   tem alguma numeração
+         00:12:54.565 - 00:12:55.425
+         (0,76)
+DOCMJ    não
+         00:12:56.190 - 00:12:56.630
+         (0,14)
+DOCMJ    os que você achar
+         00:12:56.775 - 00:12:57.755
+         (0,10)
+ROM1MI   eu acho que positivo é a gratuidade
+         00:12:57.860 - 00:12:59.460
+         (0,54)
+ROM1MI   né
+         00:12:59.995 - 00:13:00.355
+         (0,69)
+ROM1MI   eh
+         00:13:01.040 - 00:13:02.020
+         (0,95)
+ROM1MI   e a possibilidade de acesso mesmo essa universalidade da educação pública
+         00:13:02.975 - 00:13:06.355
+         (1,41)
+ROM1MI   por outro lado acho que é o sucateamento eu
+         00:13:07.770 - 00:13:10.120
+         (2,69)
+ROM1MI   sempre o
+         00:13:12.810 - 00:13:13.590
+         (0,20)
+ROM1MI   o apesar de
+         00:13:13.795 - 00:13:15.315
+         (0,56)
+ROM1MI   de vim da escola pública e nunca
+         00:13:15.870 - 00:13:17.550
+         (0,17)
+ROM1MI   por vim da escola pública
+         00:13:17.715 - 00:13:19.525
+         (0,66)
+ROM1MI   eu acho que por exemplo se hoje eu leio muito
+         00:13:20.185 - 00:13:22.275
+         (0,24)
+ROM1MI   porque eu venho da esocla pública e isso vem de lá
+         00:13:22.515 - 00:13:24.685
+         (0,36)
+ROM1MI   então é um lugar que de fato possível sabe de se fazer
+         00:13:25.045 - 00:13:27.915
+         (0,72)
+ROM1MI   mas eu acho que o grande problema é a gente não acreditar 
+         00:13:28.635 - 00:13:30.945
+         (0,50)
+ROM1MI   que seja possível sabe
+         00:13:31.445 - 00:13:32.945
+         (0,41)
+ROM1MI   se a gente não acreditar enquanto educado imagine enquanto educador
+         00:13:33.360 - 00:13:36.290
+         (0,58)
+ROM1MI   porque dentro da licenciatura a gente vê
+         00:13:36.870 - 00:13:38.350
+         (0,83)
+ROM1MI   muito disso sabe
+         00:13:39.185 - 00:13:40.185
+         (1,67)
+ROM1MI   mas eu acho que o ponto positivo é ser gratuito
+         00:13:41.860 - 00:13:43.810
+         (1,09)
+ROM1MI   e
+         00:13:44.900 - 00:13:45.370
+         (0,55)
+ROM1MI   e isso engloba
+         00:13:45.920 - 00:13:46.710
+         (0,44)
+ROM1MI   teoricamente que todo mundo possa acessar aquilo
+         00:13:47.150 - 00:13:49.630
+         (0,58)
+ROM1MI   e o ponto negativo é que essa gratuidade essa unviersalidade não tem sido tão democrática assim
+         00:13:50.215 - 00:13:56.115
+         (0,77)
+ROM1MI   nem todo mundo pode ter acesso
+         00:13:56.890 - 00:13:58.090
+         (0,80)
+ROM1MI   e quando se tem o acesso essas ferramentas de manutenção as vezes também não
+         00:13:58.885 - 00:14:02.805
+         (1,12)
+ROM1MI   não auxiliam e a coisa fica difícil
+         00:14:03.930 - 00:14:06.340
+         (0,21)
+DOCMJ    entendi o ponto
+         00:14:06.550 - 00:14:07.380
+         (0,64)
+DOCMJ    e na tua opinião né com base nisso que você falou o Brasil tem investido suficiente em educação?
+         00:14:08.020 - 00:14:13.290
+         (3,52)
+ROM1MI   acho que não sei responder (risos)
+         00:14:16.810 - 00:14:18.050
+         (0,44)
+ROM1MI   acho que em termos de valor possivelmente sim
+         00:14:18.485 - 00:14:20.905
+         (0,65)
+ROM1MI   num sei assim tipo antes dos cortes
+         00:14:21.560 - 00:14:23.450
+         (1,25)
+ROM1MI   talvez sim
+         00:14:24.700 - 00:14:25.330
+         (0,32)
+ROM1MI   mas se a administração tá sendo feita com esse dinheiro sabe daí de fato eu não sei
+         00:14:25.650 - 00:14:30.860
+         (0,88)
+ROM1MI   se é mais apropriado 
+         00:14:31.740 - 00:14:32.640
+         (0,54)
+DOCMJ    entendi
+         00:14:33.175 - 00:14:33.875
+         (0,19)
+DOCMJ    então na tua opinião talvez até haja um investimento
+         00:14:34.060 - 00:14:36.780
+         (0,26)
+DOCMJ    eh que seja razoável mas o que influência é a má administração desses recursos 
+         00:14:37.045 - 00:14:43.855
+ROM1MI   anram
+         00:14:38.835 - 00:14:39.690
+ROM1MI   sim
+         00:14:39.690 - 00:14:40.700
+ROM1MI   sim sim
+         00:14:42.690 - 00:14:43.600
+         (0,19)
+DOCMJ    entendi o ponto
+         00:14:44.040 - 00:14:44.790
+         (0,25)
+DOCMJ    entendi
+         00:14:45.040 - 00:14:45.590
+         (0,50)
+DOCMJ    eh
+         00:14:46.090 - 00:14:46.650
+         (0,26)
+DOCMJ    agora deixa eu te perguntar o que é que você acha
+         00:14:46.915 - 00:14:48.965
+         (0,45)
+DOCMJ    o que é que você pensa a respeito do governo federal financiar o acesso a estudantes no acesso superior?
+         00:14:49.415 - 00:14:54.355
+         (0,17)
+DOCMJ    em instituições privadas
+         00:14:54.530 - 00:14:56.100
+         (0,32)
+DOCMJ    por meio do prouni por exemplo e do fies
+         00:14:56.420 - 00:14:58.730
+         (2,91)
+ROM1MI   eu acho que uma alternativa viável
+         00:15:01.640 - 00:15:03.620
+         (0,88)
+ROM1MI   possível
+         00:15:04.505 - 00:15:05.225
+         (0,35)
+ROM1MI   interessante
+         00:15:05.580 - 00:15:06.290
+         (0,52)
+ROM1MI   mas ainda sim eu confio nessa nessa
+         00:15:06.810 - 00:15:08.770
+         (1,22)
+ROM1MI   essa falha do não do não
+         00:15:09.985 - 00:15:11.535
+         (0,12)
+ROM1MI   poder ser universal de não poder ser gratuito pra todo mundo sabe
+         00:15:11.655 - 00:15:15.425
+         (0,36)
+ROM1MI   ainda que
+         00:15:15.785 - 00:15:16.795
+         (0,19)
+ROM1MI   que seja gratuito pra quem desfruta disso
+         00:15:16.985 - 00:15:19.875
+         (0,57)
+ROM1MI   o governo tá tendo um gasto ali sabe
+         00:15:20.445 - 00:15:22.495
+         (1,09)
+ROM1MI   e talvez essa (est) pessoa poderia esta inserida dentro de uma instituição pública
+         00:15:23.585 - 00:15:27.105
+         (0,76)
+ROM1MI   então eu acho que é viável é possível mas é uma medida provisória assim
+         00:15:27.870 - 00:15:31.320
+         (0,19)
+DOCMJ    entendi
+         00:15:31.510 - 00:15:32.270
+         (0,03)
+ROM1MI   deveria ser provisória
+         00:15:32.295 - 00:15:33.485
+         (0,29)
+DOCMJ    entendi entendi teu ponto
+         00:15:33.775 - 00:15:35.155
+         (0,38)
+DOCMJ    e de fato é é muito perceptível que muitos jovens tenham aderido esse método pra tentar entrar no ensino superior o prouni
+         00:15:35.530 - 00:15:42.820
+         (0,23)
+DOCMJ    o fies
+         00:15:43.055 - 00:15:43.785
+         (0,25)
+DOCMJ    tu acha que isso de alguma maneira ajuda a diminuir 
+         00:15:44.035 - 00:15:46.905
+         (0,18)
+DOCMJ    a desigualdade social
+         00:15:47.085 - 00:15:48.595
+         (0,34)
+DOCMJ    dentro dos jovens
+         00:15:48.935 - 00:15:50.065
+         (3,77)
+DOCMJ    centrado assim no ensino público privado através do prouni e do fies?
+         00:15:53.830 - 00:15:58.130
+         (6,55)
+ROM1MI   num sei
+         00:16:04.680 - 00:16:05.310
+         (0,93)
+DOCMJ    a pergunta foi complexa né
+         00:16:06.240 - 00:16:07.640
+         (0,29)
+ROM1MI   é
+         00:16:07.935 - 00:16:08.435
+         (0,17)
+ROM1MI   porque
+         00:16:08.600 - 00:16:08.970
+         (0,56)
+ROM1MI   sei lá o alanvacamento de classe social é uma coisa complicada
+         00:16:09.530 - 00:16:12.310
+         (2,62)
+ROM1MI   mas acho que ajuda sim claro
+         00:16:14.935 - 00:16:16.695
+         (0,68)
+ROM1MI   tem uma formação você vai conseguir um emprego
+         00:16:17.370 - 00:16:19.270
+         (1,84)
+DOCMJ    entendi
+         00:16:21.105 - 00:16:21.815
+ROM1MI   melhor (est) sem mais
+         00:16:21.395 - 00:16:22.905
+         (1,38)
+ROM1MI   vê se consegue romper essa co-
+         00:16:24.285 - 00:16:26.325
+         (0,14)
+ROM1MI   coisa da classe
+         00:16:26.470 - 00:16:27.260
+         (2,07)
+DOCMJ    entendi teu ponto
+         00:16:29.330 - 00:16:30.450
+         (0,54)
+DOCMJ    e você concorda ou não que a políticas de cotas pra ingresso de negros e negras diminui a desigualdade entre brancos e negros?
+         00:16:30.985 - 00:16:38.715
+         (1,75)
+ROM1MI   completamente
+         00:16:40.470 - 00:16:41.150
+         (1,35)
+DOCMJ    tu concorda né
+         00:16:42.495 - 00:16:43.375
+         (0,14)
+DOCMJ    entendi
+         00:16:43.510 - 00:16:44.040
+         (0,55)
+DOCMJ    e agora falando sobre a tua experiência pessoal né como foi a experiência em começar  
+         00:16:44.590 - 00:16:49.240
+         (0,34)
+DOCMJ    o curso superior
+         00:16:49.580 - 00:16:50.540
+         (0,31)
+DOCMJ    no ensino superior pra você
+         00:16:50.855 - 00:16:52.415
+         (2,57)
+ROM1MI   da primeira vez
+         00:16:54.980 - 00:16:55.920
+         (0,54)
+ROM1MI   porque eu fazia enfermagem
+         00:16:56.455 - 00:16:57.275
+         (1,02)
+ROM1MI   foi frustrante
+         00:16:58.300 - 00:16:59.060
+         (1,07)
+ROM1MI   porque
+         00:17:00.125 - 00:17:00.745
+         (2,90)
+ROM1MI   porque era absolutamente
+         00:17:03.650 - 00:17:05.020
+         (2,49)
+ROM1MI   num era nada do que eu queria sabe num era nada do que eu esperava
+         00:17:07.510 - 00:17:10.170
+         (1,38)
+ROM1MI   eh
+         00:17:11.545 - 00:17:12.385
+         (1,90)
+ROM1MI   eh era tão
+         00:17:14.290 - 00:17:15.200
+         (1,09)
+ROM1MI   um processo tão desumano dentro daquele
+         00:17:16.290 - 00:17:18.490
+         (0,14)
+ROM1MI   daquela daqueli ali que eu vi que era o que eu não queria
+         00:17:18.635 - 00:17:21.345
+         (0,40)
+ROM1MI    e aí por muito tempo até eu me questionei se graduação era algo pra mim 
+         00:17:21.745 - 00:17:24.825
+         (1,18)
+ROM1MI   então o início foi meio frustante
+         00:17:26.010 - 00:17:27.690
+         (0,31)
+ROM1MI   chegar e de repente perceber que não as coisas não são
+         00:17:28.005 - 00:17:30.435
+         (1,38)
+ROM1MI   não são tão legais assim
+         00:17:31.815 - 00:17:33.045
+         (1,08)
+DOCMJ    entendi
+         00:17:34.125 - 00:17:34.765
+         (0,23)
+DOCMJ    e a experiência com História começando agora tá sendo mais positivo pra ti?
+         00:17:35.000 - 00:17:38.890
+         (0,10)
+ROM1MI   sim
+         00:17:38.990 - 00:17:39.630
+         (0,28)
+ROM1MI   sim
+         00:17:39.905 - 00:17:40.445
+         (0,69)
+ROM1MI   acho que tem um
+         00:17:41.140 - 00:17:42.210
+         (0,73)
+ROM1MI   um que de humanidade maior sabe de
+         00:17:42.940 - 00:17:45.000
+         (1,58)
+ROM1MI   de gente sabe dessa energia
+         00:17:46.575 - 00:17:48.845
+         (2,24)
+ROM1MI   ainda que também perpasse pelas mesmas coisas
+         00:17:51.085 - 00:17:52.985
+         (0,14)
+ROM1MI   sabe
+         00:17:53.130 - 00:17:53.750
+         (0,80)
+ROM1MI   essa educação meio positivista meio
+         00:17:54.545 - 00:17:56.895
+         (0,10)
+ROM1MI   decora aí que a gente depois se resolve
+         00:17:56.995 - 00:17:59.275
+         (2,10)
+ROM1MI   parece que o aluno está sempre em segundo plano 
+         00:18:01.370 - 00:18:03.090
+         (0,81)
+ROM1MI   cumprir a meta acadêmica é mais importante do que
+         00:18:03.905 - 00:18:06.865
+         (0,69)
+ROM1MI   a aprendizagem
+         00:18:07.550 - 00:18:08.280
+         (1,55)
+ROM1MI   faculdade sempre é meio frustante nesse sentido a educação
+         00:18:09.830 - 00:18:12.620
+         (1,50)
+DOCMJ    entendi
+         00:18:14.120 - 00:18:14.680
+         (0,26)
+DOCMJ    e tu acha que esse método eh eh pode ser considerado uma dificuldade pra você ou pra outros alunos que ingressam no ensino superior
+         00:18:14.945 - 00:18:22.195
+         (0,22)
+DOCMJ    a gente pode elencar como uma dificuldade?
+         00:18:22.415 - 00:18:24.595
+ROM1MI   sim
+         00:18:24.090 - 00:18:24.410
+         (0,82)
+ROM1MI   acho que é uma dificuldade você
+         00:18:25.415 - 00:18:26.945
+         (1,45)
+ROM1MI   você estar aqui dentro e você sentir
+         00:18:28.395 - 00:18:30.795
+         (0,31)
+ROM1MI   (est)
+         00:18:31.100 - 00:18:31.470
+         (1,45)
+ROM1MI   você senti possível de estar aqui dentro sabe você não enxergar esse lugar como um lugar de
+         00:18:32.920 - 00:18:37.140
+         (3,40)
+ROM1MI   de
+         00:18:40.540 - 00:18:41.690
+         (0,18)
+ROM1MI   como eu posso dizer
+         00:18:41.870 - 00:18:43.190
+         (0,20)
+ROM1MI   esse lugar burocrático sabe tipo você vem você leva uma presença você faz uma prova você recebe uma nota daí aquilo elencar se você aprendeu ou não  o assunto
+         00:18:43.395 - 00:18:50.175
+         (0,51)
+ROM1MI   só que as avaliações são muito diferentes
+         00:18:50.690 - 00:18:52.160
+         (0,50)
+ROM1MI   cada um tem um processo de aprendizagem muito diferente 
+         00:18:52.660 - 00:18:54.500
+         (1,01)
+ROM1MI   e a falculdade não num aborda esses processos ela aborda um processo
+         00:18:55.515 - 00:18:59.155
+         (0,85)
+ROM1MI   e aí todo mundo tem que se encaixar dentro daquilo e quem não se encaixa fica de fora
+         00:19:00.000 - 00:19:03.300
+         (0,47)
+ROM1MI   e às vezes quem fica de fora é quem tem um potencial muito grande
+         00:19:03.775 - 00:19:06.145
+         (0,40)
+ROM1MI   só que com um outro método uma outra metodologia
+         00:19:06.545 - 00:19:09.025
+         (1,00)
+ROM1MI   então eu acho que isso
+         00:19:10.020 - 00:19:11.320
+         (0,89)
+ROM1MI   que isso filtra muito de quem
+         00:19:12.215 - 00:19:13.755
+         (1,58)
+ROM1MI   de quem consegue chegar a rolar 
+         00:19:15.330 - 00:19:17.210
+         (0,61)
+ROM1MI   mas do
+         00:19:17.815 - 00:19:19.035
+         (1,92)
+ROM1MI   a custo de que?
+         00:19:20.960 - 00:19:21.960
+         (0,98)
+DOCMJ    entendi entendi teu ponto
+         00:19:22.935 - 00:19:24.485
+         (0,22)
+DOCMJ    muito interessante
+         00:19:24.705 - 00:19:25.535
+         (0,32)
+DOCMJ    eh
+         00:19:25.855 - 00:19:26.735
+         (0,58)
+DOCMJ    é importante perguntar também
+         00:19:27.320 - 00:19:28.820
+         (0,55)
+DOCMJ    eh que motivos levaram você a fazer essa troca né
+         00:19:29.365 - 00:19:32.255
+         (0,18)
+DOCMJ    sair de enfermagem e fazer História você já citou um pouco a respeito dessa
+         00:19:32.435 - 00:19:36.475
+         (0,31)
+DOCMJ    dessa humanidade do curso mas tem algum outro fator que te influenciou a fazer essa escolha?
+         00:19:36.790 - 00:19:41.460
+         (2,43)
+ROM1MI   ah eu acho que volta lá pro teatro pra poesia pra esse lado que
+         00:19:43.890 - 00:19:47.900
+         (1,88)
+ROM1MI   que eu senti que era isso que era
+         00:19:49.780 - 00:19:51.320
+         (0,75)
+ROM1MI   existem dois lugares os quais eu acredito que
+         00:19:52.075 - 00:19:53.865
+         (0,82)
+ROM1MI   que são a arte e educação
+         00:19:54.685 - 00:19:56.045
+         (1,84)
+ROM1MI   eu acho que era inevitável fugir disso sabe de alguma forma eu queria tá aqui
+         00:19:57.880 - 00:20:01.190
+         (0,55)
+DOCMJ    entendi
+         00:20:01.740 - 00:20:02.390
+         (0,07)
+DOCMJ    entendi interessante
+         00:20:02.460 - 00:20:03.520
+         (0,47)
+DOCMJ    e o que é que você pensa em fazer após o final da sua graduação?
+         00:20:03.995 - 00:20:07.115
+         (0,22)
+DOCMJ    eh
+         00:20:07.340 - 00:20:07.820
+         (1,33)
+DOCMJ    você pensa em entrar no mercado de trabalho pensa em pós-graduação
+         00:20:09.145 - 00:20:12.705
+         (1,11)
+ROM1MI   eu fico dividido ainda
+         00:20:13.810 - 00:20:14.800
+         (0,16)
+ROM1MI   num sei
+         00:20:14.960 - 00:20:15.920
+         (0,98)
+ROM1MI   uma parte quer ir pra pós-graduação outra parte quer ir pra sala de aula sabe
+         00:20:16.895 - 00:20:20.035
+         (0,47)
+ROM1MI   outra parte quer romper isso que é frustante
+         00:20:20.510 - 00:20:22.320
+         (1,60)
+ROM1MI   de repente ser pra alguém o que a professora foi pra mim sabe
+         00:20:23.920 - 00:20:26.800
+         (0,54)
+ROM1MI   eh
+         00:20:27.335 - 00:20:27.965
+         (0,44)
+ROM1MI   quebra esse lugar que tá imposto
+         00:20:28.405 - 00:20:30.055
+         (0,74)
+ROM1MI   mas não sei
+         00:20:30.795 - 00:20:31.495
+         (0,71)
+DOCMJ    entendi
+         00:20:32.210 - 00:20:32.930
+         (0,17)
+DOCMJ    entendi ainda não decidiu né
+         00:20:33.105 - 00:20:34.835
+ROM1MI   difícil é uma pergunta muito difícil
+         00:20:33.405 - 00:20:35.725
+         (0,31)
+DOCMJ    entendi entendi
+         00:20:36.040 - 00:20:37.140
+         (0,46)
+DOCMJ    eh eh a gente vai mudar um pouquinho assunto mas continuando falar sobre políticas públicas tá
+         00:20:37.595 - 00:20:42.515
+ROM1MI   anram
+         00:20:42.130 - 00:20:42.570
+         (0,09)
+DOCMJ    eh e aí a gente precisa falar um pouco agora sobre segurança pública
+         00:20:42.655 - 00:20:46.985
+         (0,61)
+DOCMJ    eh você considera o bairro onde você mora como violento?
+         00:20:47.595 - 00:20:50.535
+         (2,16)
+ROM1MI   sim (risos) sim
+         00:20:52.700 - 00:20:54.090
+         (0,87)
+DOCMJ    entendi
+         00:20:54.960 - 00:20:55.640
+         (0,46)
+DOCMJ    e aí (hes) nessa esfera né da segurança pública
+         00:20:56.095 - 00:20:59.955
+         (0,17)
+DOCMJ     a gente tem visto se popularizar é 
+         00:21:00.130 - 00:21:02.460
+         (0,38)
+DOCMJ    um ditado
+         00:21:02.840 - 00:21:03.560
+         (0,19)
+DOCMJ    eh entre as pessoas que é bandido bom é bandido morto
+         00:21:03.745 - 00:21:06.775
+         (0,53)
+DOCMJ    concorda com esse ditado?
+         00:21:07.305 - 00:21:08.605
+         (0,31)
+ROM1MI   não (risos)
+         00:21:08.920 - 00:21:09.530
+         (0,44)
+ROM1MI   completamente não
+         00:21:09.970 - 00:21:10.950
+         (1,13)
+DOCMJ    entendi
+         00:21:12.085 - 00:21:12.665
+         (0,64)
+DOCMJ    e na tua opinião pessoal qual o papel da segurança pública?
+         00:21:13.310 - 00:21:17.360
+         (2,71)
+ROM1MI   proteger as pessoas
+         00:21:20.070 - 00:21:21.430
+         (0,51)
+ROM1MI   proteger inclusive esses que são bandidos 
+         00:21:21.945 - 00:21:24.195
+         (0,31)
+ROM1MI   aqui
+         00:21:24.505 - 00:21:24.935
+         (0,43)
+ROM1MI   antes deles serem bandidos eles são cidadãos
+         00:21:25.365 - 00:21:27.485
+         (0,57)
+ROM1MI   de alguma forma sofreram essa ausência de Estado essa ausência de segurança essa ausência de
+         00:21:28.060 - 00:21:31.630
+         (0,54)
+ROM1MI   educação
+         00:21:32.170 - 00:21:33.090
+         (0,90)
+ROM1MI   então o papel do Estado enquanto
+         00:21:33.995 - 00:21:36.135
+         (0,61)
+ROM1MI   Estado é assegurar esse (hes) lugar
+         00:21:36.740 - 00:21:38.900
+         (1,93)
+ROM1MI   é dar segurança mesmo
+         00:21:40.835 - 00:21:42.075
+         (0,96)
+DOCMJ    entendi
+         00:21:43.040 - 00:21:43.590
+         (0,59)
+DOCMJ    e na tua opinião pessoal a segurança pública de Aracaju consegue proteger bem seus cidadãos?
+         00:21:44.180 - 00:21:49.680
+         (0,69)
+ROM1MI   não
+         00:21:50.365 - 00:21:50.845
+         (1,05)
+DOCMJ    já teve alguma experiência pessoal que 
+         00:21:51.900 - 00:21:54.000
+         (0,32)
+DOCMJ    afete tua opinião a respeito disso
+         00:21:54.325 - 00:21:56.255
+         (0,63)
+ROM1MI   experiência pessoal não mas acho que de
+         00:21:56.885 - 00:21:59.545
+         (0,47)
+ROM1MI   de ouvir né
+         00:22:00.020 - 00:22:01.020
+         (1,20)
+ROM1MI   e ler jornal de de repente
+         00:22:02.215 - 00:22:03.665
+         (0,17)
+ROM1MI   a gente vai vendo que
+         00:22:03.835 - 00:22:04.825
+         (0,41)
+ROM1MI   que não é efetivo o o lugar da segurança pública
+         00:22:05.235 - 00:22:07.785
+         (0,27)
+DOCMJ    entendi
+         00:22:08.055 - 00:22:08.605
+         (0,43)
+DOCMJ    levando então essa sua experiência então eh essa tua experiência eu sei
+         00:22:09.035 - 00:22:11.735
+         (0,19)
+DOCMJ    concordaria em dizer que a polícia é ágil ou o contrário?
+         00:22:11.920 - 00:22:15.760
+         (1,93)
+ROM1MI   eu acho que a polícia não é ágil
+         00:22:17.695 - 00:22:19.145
+         (0,17)
+ROM1MI   mas
+         00:22:19.315 - 00:22:20.085
+         (2,78)
+ROM1MI   também (hes) não é uma culpa da polícia sabe
+         00:22:22.860 - 00:22:25.820
+         (0,29)
+ROM1MI   entende é todo um sistema aí que vem
+         00:22:26.115 - 00:22:28.285
+         (0,24)
+ROM1MI   que tá por cima disso tudo
+         00:22:28.525 - 00:22:29.745
+         (0,61)
+DOCMJ    entendi entendi teu ponto
+         00:22:30.350 - 00:22:32.060
+         (0,47)
+DOCMJ    eh
+         00:22:32.530 - 00:22:33.160
+         (0,63)
+DOCMJ    ainda na esfera das políticas públicas só que relacionado 
+         00:22:33.790 - 00:22:37.730
+         (0,19)
+DOCMJ    as
+         00:22:37.915 - 00:22:38.215
+         (0,44)
+DOCMJ    políticas relacionadas a igualdade de gênero
+         00:22:38.660 - 00:22:40.550
+         (0,65)
+DOCMJ    eh
+         00:22:41.200 - 00:22:41.950
+         (0,27)
+DOCMJ    tem também se materializado um outro pensamento comumente repetido entre as pessoas que é
+         00:22:42.220 - 00:22:47.830
+         (0,40)
+DOCMJ    se as mulheres não usassem roupas tão curtas haveriamenos violência contra elas concorda com isso?
+         00:22:48.230 - 00:22:53.910
+         (1,88)
+ROM1MI   qual era a frase?
+         00:22:55.785 - 00:22:56.515
+         (0,30)
+DOCMJ    se as mulheres não usassem roupas tão curtas haveria menos violência contra elas 
+         00:22:56.815 - 00:23:01.895
+         (2,72)
+ROM1MI   não
+         00:23:04.620 - 00:23:05.040
+         (0,98)
+DOCMJ    tu não concorda
+         00:23:06.015 - 00:23:06.905
+         (0,81)
+ROM1MI   eu tô com medo porque não entendi muito bem a frase
+         00:23:07.715 - 00:23:09.895
+         (0,49)
+ROM1MI   mas não a roupa não tem nada a ver com
+         00:23:10.380 - 00:23:12.700
+         (2,13)
+ROM1MI   a violência
+         00:23:14.835 - 00:23:15.415
+         (0,29)
+DOCMJ    ah entendi esse é o ponto
+         00:23:15.710 - 00:23:17.070
+         (0,23)
+ROM1MI    a roupa não tem nada a ver
+         00:23:17.305 - 00:23:18.125
+         (0,62)
+ROM1MI    a roupa não é um pedido a roupa não é uma disponibilidade
+         00:23:18.750 - 00:23:21.720
+         (1,06)
+ROM1MI   uma coisa não tem nada a ver com a outra
+         00:23:22.780 - 00:23:23.980
+         (0,83)
+DOCMJ    entendi entendi
+         00:23:24.815 - 00:23:26.065
+         (0,50)
+ROM1MI   eh eh tu acha que as mulheres atualmente tem conquistado muito espaço na sociedade
+         00:23:26.565 - 00:23:31.495
+         (4,28)
+ROM1MI   olha muito
+         00:23:35.780 - 00:23:36.640
+         (1,11)
+ROM1MI   eu acho que é um excesso
+         00:23:37.745 - 00:23:38.725
+         (0,37)
+ROM1MI   eu acho que tem muito pra si conquistar muito espaço pra se conquistar
+         00:23:39.090 - 00:23:42.060
+         (1,30)
+ROM1MI   a maioria dos lugares são masculinos
+         00:23:43.360 - 00:23:45.270
+         (1,31)
+ROM1MI   a academia é um lugar extremamente masculino a maioria dos professores
+         00:23:46.580 - 00:23:49.370
+         (0,19)
+ROM1MI   a maior parte dos cargos de poder
+         00:23:49.560 - 00:23:50.800
+         (0,86)
+ROM1MI    a maioria dos cargos públicos
+         00:23:51.655 - 00:23:53.215
+         (1,59)
+ROM1MI   não sei até que ponto a essa moitessa eu acho que ainda há muito do que se fazer
+         00:23:54.800 - 00:23:59.360
+         (0,52)
+DOCMJ    entendi
+         00:23:59.885 - 00:24:00.825
+         (0,28)
+DOCMJ    entendi teu ponto
+         00:24:01.100 - 00:24:01.930
+         (0,49)
+DOCMJ    e na tua opinião a violência atingi homens e mulheres da mesma forma hoje?
+         00:24:02.420 - 00:24:07.170
+         (5,48)
+ROM1MI   eu acho que
+         00:24:12.650 - 00:24:13.270
+         (1,76)
+ROM1MI   nossa depende
+         00:24:15.035 - 00:24:15.645
+         (0,94)
+ROM1MI   num sei num sei responder mas eu acho que depende da violência
+         00:24:16.585 - 00:24:19.035
+         (0,27)
+ROM1MI   se a gente fala de violência doméstica talvez as mulheres sejam um alvo maior 
+         00:24:19.305 - 00:24:22.375
+         (0,26)
+ROM1MI   se a gente fala de segurança pública talvez os homens negros estejam nessa
+         00:24:22.635 - 00:24:26.215
+         (0,67)
+ROM1MI   nessa estatística aí mas eu não sei dizer precisamente como seria isso
+         00:24:26.880 - 00:24:30.310
+         (0,43)
+DOCMJ    entendi
+         00:24:30.740 - 00:24:31.550
+         (0,39)
+DOCMJ    entendi teu ponto
+         00:24:31.940 - 00:24:32.890
+         (0,34)
+DOCMJ    eh
+         00:24:33.230 - 00:24:33.880
+         (0,95)
+DOCMJ    eh uma outra coisa que também tem se popularizado um outro pensamento é que
+         00:24:34.830 - 00:24:39.470
+         (0,26)
+DOCMJ    as pessoas costumam dizer
+         00:24:39.735 - 00:24:41.455
+         (0,31)
+DOCMJ    que a comunidade de gays e lésbicas tem ganhado muitos privilégios
+         00:24:41.770 - 00:24:45.190
+         (0,38)
+DOCMJ    concorda com essa frase ou não? e por quê?
+         00:24:45.575 - 00:24:48.055
+         (0,61)
+ROM1MI   não (risos)
+         00:24:48.660 - 00:24:49.210
+         (2,32)
+ROM1MI   se for privilégio de apanhar na rua se for privilégio de ser expulso de casa
+         00:24:51.530 - 00:24:55.070
+         (0,68)
+ROM1MI   privilégio de
+         00:24:55.745 - 00:24:57.005
+         (0,67)
+ROM1MI   de não poder andar nos lugares
+         00:24:57.670 - 00:24:59.020
+         (0,49)
+ROM1MI   privilégio de não poder amar
+         00:24:59.510 - 00:25:00.710
+         (1,37)
+ROM1MI   né
+         00:25:02.075 - 00:25:02.495
+         (0,25)
+ROM1MI   não tem privilégio nessas coisas
+         00:25:02.750 - 00:25:04.740
+         (1,08)
+ROM1MI   muito pelo contrário ainda tem muita coisa pra se lutar muito lugar pra ocupar 
+         00:25:05.820 - 00:25:09.290
+         (0,83)
+ROM1MI   muito direito a ser assegurado
+         00:25:10.120 - 00:25:11.810
+         (1,26)
+ROM1MI   eh então (risos)
+         00:25:13.070 - 00:25:14.460
+         (1,00)
+DOCMJ    entendi
+         00:25:15.460 - 00:25:16.080
+ROM1MI   não tem muito privilégio aí não
+         00:25:15.575 - 00:25:17.005
+         (0,57)
+DOCMJ    tratando eh de 
+         00:25:17.575 - 00:25:19.275
+         (0,52)
+DOCMJ    de direitos a serem conquistados
+         00:25:19.800 - 00:25:21.450
+         (0,41)
+DOCMJ    obviamente você deve saber que recentemente o Supremo Tribunal Federal decretou que a homofobia é crime
+         00:25:21.860 - 00:25:27.020
+         (0,46)
+DOCMJ    num é verdade?
+         00:25:27.475 - 00:25:27.995
+         (0,52)
+DOCMJ    eh você concordou com essa conquista para comunidade lgbtqi
+         00:25:28.520 - 00:25:32.660
+         (2,66)
+ROM1MI   é um lugar complicado de se discutir
+         00:25:35.320 - 00:25:37.370
+         (1,30)
+ROM1MI   eh
+         00:25:38.670 - 00:25:39.380
+         (3,21)
+ROM1MI   eu (risos)
+         00:25:42.590 - 00:25:43.300
+         (0,21)
+ROM1MI   eu acho estremamente problemático da forma que se deu
+         00:25:43.510 - 00:25:45.820
+         (1,18)
+ROM1MI   eh eu não acredito que
+         00:25:47.000 - 00:25:48.460
+         (0,94)
+ROM1MI   criminalizar seja a melhor alternativa porque a gente cai lá no lugar da segurança
+         00:25:49.395 - 00:25:53.065
+         (0,59)
+ROM1MI   né na segurança pública o quanto a polícia é racista
+         00:25:53.655 - 00:25:56.745
+         (0,78)
+ROM1MI   quem vai ser criminalizado?
+         00:25:57.525 - 00:25:58.675
+         (0,34)
+ROM1MI   sabe quem é esse lgbtfóbico?
+         00:25:59.015 - 00:26:01.335
+         (0,75)
+ROM1MI   ele tem cor  sabe ele tem classe
+         00:26:02.090 - 00:26:04.250
+         (0,87)
+ROM1MI   quem é de fato que vai ser 
+         00:26:05.115 - 00:26:06.875
+         (1,11)
+ROM1MI   ser pego por essa política sabe eu não acho que isso seja
+         00:26:07.980 - 00:26:11.070
+         (0,16)
+ROM1MI   a maneira mais efetiva  de se
+         00:26:11.230 - 00:26:13.300
+         (0,45)
+ROM1MI   de se evitar ou de se
+         00:26:13.750 - 00:26:15.960
+         (0,75)
+ROM1MI   de se resolver então assim eu particularmente não concordo
+         00:26:16.710 - 00:26:19.700
+         (0,58)
+ROM1MI   ainda mais da forma que se deu equiparando ao racismo então se abre um precedente
+         00:26:20.280 - 00:26:23.950
+         (1,22)
+ROM1MI   sabe tipo
+         00:26:25.170 - 00:26:25.990
+         (0,32)
+ROM1MI   as coisas se derão de maneira muito estranha
+         00:26:26.315 - 00:26:28.445
+         (0,88)
+ROM1MI   eu não acho que prender que criminalizar seja a melhor alternativa se a gente tivesse 
+         00:26:29.325 - 00:26:33.245
+         (0,69)
+ROM1MI   o famosos kit gay
+         00:26:33.930 - 00:26:35.480
+         (0,78)
+ROM1MI   seria muito mais afetivo você investir em educação se você conscientizar
+         00:26:36.260 - 00:26:39.980
+         (0,50)
+ROM1MI   punir eu acho que ainda não é 
+         00:26:40.475 - 00:26:41.615
+         (1,14)
+ROM1MI   não é o melhor caminho porque a gente cai lá de novo na violência  
+         00:26:42.760 - 00:26:45.080
+         (1,29)
+ROM1MI   se a gente sabe que a gente tem uma polícia que não é preparada
+         00:26:46.375 - 00:26:48.655
+         (0,34)
+ROM1MI   pra isso que a segurança pública não é segura por que que é que a gente vai criminalizar
+         00:26:49.000 - 00:26:52.870
+         (1,01)
+ROM1MI   ainda que seja
+         00:26:53.880 - 00:26:54.840
+         (0,17)
+ROM1MI   uma conquista
+         00:26:55.015 - 00:26:56.065
+         (1,29)
+ROM1MI   uma conquista dentro dessa lógica
+         00:26:57.355 - 00:26:58.875
+         (0,09)
+ROM1MI   problemática
+         00:26:58.960 - 00:26:59.470
+         (0,57)
+DOCMJ    entendi
+         00:27:00.040 - 00:27:00.895
+DOCMJ    entendi teu ponto
+         00:27:00.895 - 00:27:01.835
+         (1,00)
+DOCMJ    eh (hes) a gente precisa dizer que de fato a questão de gênero tem ganhado evidencia na mídia ultimamente
+         00:27:02.840 - 00:27:09.840
+ROM1MI   sim sim
+         00:27:08.835 - 00:27:09.565
+         (0,12)
+DOCMJ    num é verdade?
+         00:27:09.965 - 00:27:10.505
+         (0,40)
+DOCMJ    como a gente pode perceber eh drag queen cantoras como a Pabllo Vittar mulheres e homens que são trans como Tammy Miranda que antes era filha e agora é filho
+         00:27:10.900 - 00:27:19.320
+         (0,17)
+DOCMJ    da Gretchen
+         00:27:19.490 - 00:27:20.530
+         (0,38)
+DOCMJ    são pessoas que tem ganhado destaque na mídia alguns
+         00:27:20.905 - 00:27:23.855
+         (0,25)
+DOCMJ    tem aparecido em novelas num é verdade
+         00:27:24.105 - 00:27:26.045
+         (0,51)
+DOCMJ    quais motivos tu considera que levaram essas pessoas a terem essa visibilidade nos meios de comunicação hoje?
+         00:27:26.560 - 00:27:32.830
+         (4,28)
+ROM1MI   acho que muita cara pra bater
+         00:27:37.110 - 00:27:38.680
+         (0,67)
+ROM1MI   muita cara dada pra bater
+         00:27:39.350 - 00:27:40.820
+         (1,91)
+ROM1MI   eh muito tempo de insistência muito tempo dizendo olha a gente faz e faz muito bem enquanto artista
+         00:27:42.730 - 00:27:49.680
+         (0,81)
+ROM1MI   porque essa galera sempre teve
+         00:27:50.490 - 00:27:52.000
+         (0,58)
+ROM1MI   acho que agora tem sido o momento de
+         00:27:52.580 - 00:27:54.350
+         (1,38)
+ROM1MI   de expoente assim que é muito louco o Brasil é um país muito louco né a gente tem um presidente extremamente conservador
+         00:27:55.730 - 00:28:01.040
+         (1,63)
+ROM1MI   quase que extremo
+         00:28:02.670 - 00:28:04.010
+         (2,55)
+ROM1MI   nas opiniões
+         00:28:06.555 - 00:28:07.745
+         (1,01)
+ROM1MI   nas políticas de outro lado a gente tem uma cena queer que é a coisa
+         00:28:08.760 - 00:28:12.390
+         (0,38)
+ROM1MI   das mais preciosas assim de estética artisticamente falando
+         00:28:12.770 - 00:28:16.390
+         (2,55)
+ROM1MI   então é confuso né esse país essa maluquisse esse lugar que
+         00:28:18.940 - 00:28:22.260
+         (1,33)
+ROM1MI   tem conservador mas ao mesmo tempo tem um expoente muito grande de artistas que são lgbts
+         00:28:23.590 - 00:28:28.010
+         (0,81)
+ROM1MI   às vezes é muita luta é muita cara pra bater
+         00:28:28.815 - 00:28:31.075
+         (0,56)
+ROM1MI   pra conseguir ocupar esses espaços que ainda são muito pouco
+         00:28:31.630 - 00:28:34.250
+         (1,01)
+ROM1MI   sabe a gente tem sei lá
+         00:28:35.265 - 00:28:36.505
+         (1,32)
+ROM1MI   quantas atrizes trans numa novela sabe
+         00:28:37.820 - 00:28:40.300
+         (0,50)
+ROM1MI   quando tem de que maneira elas estão sendo retratadas?
+         00:28:40.795 - 00:28:43.205
+         (1,93)
+ROM1MI   sabe então não sei
+         00:28:45.135 - 00:28:46.705
+         (0,76)
+ROM1MI   acho que a mídia também o capitalismo compra muito essa essa coisa de representatividade e vende pra gente como algo positivo mas às vezes é só
+         00:28:47.470 - 00:28:53.800
+         (0,52)
+ROM1MI   só tá objetivando a grana sabe
+         00:28:54.320 - 00:28:55.940
+         (0,35)
+ROM1MI   a mudança de fato transformação aceitação
+         00:28:56.295 - 00:28:58.865
+         (0,50)
+ROM1MI   tá num outro lugar
+         00:28:59.365 - 00:29:00.215
+         (0,84)
+ROM1MI   então acho que
+         00:29:01.055 - 00:29:01.415
+         (0,25)
+ROM1MI   que o melhor é isso o capitalismo viu ali uma possibilidade de ganhar dinheiro
+         00:29:01.660 - 00:29:05.090
+         (0,35)
+ROM1MI   e tá investindo sabe
+         00:29:05.440 - 00:29:06.640
+         (0,86)
+ROM1MI   mas quando isso passar o que fica?
+         00:29:07.495 - 00:29:09.495
+         (0,41)
+ROM1MI   é de fato de
+         00:29:09.900 - 00:29:10.900
+         (1,64)
+ROM1MI   propósito de concreto essa essa minha questão as coisas sejam concretas
+         00:29:12.540 - 00:29:16.510
+         (1,29)
+ROM1MI   num sei
+         00:29:17.800 - 00:29:18.530
+         (1,03)
+DOCMJ    entendi
+         00:29:19.560 - 00:29:20.220
+         (0,22)
+DOCMJ    entendi
+         00:29:20.445 - 00:29:21.055
+         (0,27)
+DOCMJ    eh então eh só só pra gente
+         00:29:21.325 - 00:29:24.035
+         (0,45)
+DOCMJ    eh
+         00:29:24.485 - 00:29:24.875
+         (0,55)
+DOCMJ    eh
+         00:29:25.425 - 00:29:26.175
+         (0,28)
+DOCMJ    tentar
+         00:29:26.455 - 00:29:27.155
+         (0,69)
+DOCMJ    tentar resumir o pensamento
+         00:29:27.850 - 00:29:29.660
+         (0,45)
+DOCMJ    tu acha que
+         00:29:30.110 - 00:29:31.220
+         (0,38)
+DOCMJ    essa esse espaço
+         00:29:31.600 - 00:29:33.320
+         (0,34)
+DOCMJ    que tem sido ganhado
+         00:29:33.665 - 00:29:34.625
+         (0,29)
+DOCMJ    pelo menos por parte da mídia eh só uma maneira de capitalizar esse espaço que essas pessoas tem ganhado
+         00:29:34.920 - 00:29:40.040
+ROM1MI   sim
+         00:29:38.615 - 00:29:39.025
+         (0,50)
+DOCMJ    entendi
+         00:29:40.535 - 00:29:41.105
+         (0,25)
+ROM1MI   eh e também o advento da internet né porque na internet a gente tem a liberdade de 
+         00:29:41.355 - 00:29:45.215
+         (0,56)
+ROM1MI   de poder criar
+         00:29:45.780 - 00:29:46.600
+         (1,16)
+ROM1MI   eh
+         00:29:47.765 - 00:29:48.355
+         (1,56)
+ROM1MI   e a uma certa 
+         00:29:49.915 - 00:29:51.395
+         (0,57)
+ROM1MI   entre aspas democratização do acesso então
+         00:29:51.970 - 00:29:54.420
+         (0,32)
+ROM1MI   isso permite também que a gente se una ali dentro né que a gente
+         00:29:54.740 - 00:29:57.390
+         (0,72)
+ROM1MI   possa se fortalecer
+         00:29:58.110 - 00:29:59.200
+         (0,54)
+ROM1MI   no espaço virtual
+         00:29:59.740 - 00:30:00.730
+         (0,71)
+DOCMJ    entendi
+         00:30:01.440 - 00:30:02.060
+         (0,19)
+DOCMJ    entendi teu ponto
+         00:30:02.255 - 00:30:03.225
+         (0,57)
+DOCMJ    eh
+         00:30:03.795 - 00:30:04.355
+         (0,25)
+DOCMJ    e eh importante destacar eh muitas pessoas hoje tem falado muito de maneira positiva muitos de maneira negativa a respeito
+         00:30:04.600 - 00:30:12.920
+         (0,32)
+DOCMJ    essas questões relacionadas a discussões de gênero e empoderamento feminino
+         00:30:13.240 - 00:30:17.000
+         (0,51)
+DOCMJ    e aí a gente vê
+         00:30:17.515 - 00:30:18.545
+         (0,15)
+DOCMJ    uma polarização muito grande sobre o assunto né
+         00:30:18.695 - 00:30:20.975
+         (0,28)
+DOCMJ    na tua opinião a gente pode dizer que essas discussões são necessárias ou apenas mimimi
+         00:30:21.260 - 00:30:26.160
+         (2,51)
+ROM1MI   extremamente necessárias
+         00:30:28.670 - 00:30:29.990
+         (1,01)
+DOCMJ    entendi eh na tua opinião pessoal de que maneira a gente poderia avançar nas nossas discussões a respeito desses assuntos
+         00:30:31.000 - 00:30:38.230
+         (2,86)
+ROM1MI   discutindo eu acho que (hes) o que nos falta é discussão o que nos falta é a
+         00:30:41.090 - 00:30:45.120
+         (0,28)
+ROM1MI   é diálogo de fato
+         00:30:45.400 - 00:30:46.430
+         (3,11)
+DOCMJ    entendi o teu ponto
+         00:30:49.540 - 00:30:50.420
+         (0,45)
+DOCMJ    entendi
+         00:30:50.870 - 00:30:51.450
+         (0,38)
+DOCMJ    eh tratando ainda de políticas públicas a gente vai mudar agora um pouquinho de assunto
+         00:30:51.835 - 00:30:55.675
+         (0,41)
+DOCMJ    agora falando um pouco de saúde pública tá eh e aí vou precisar te perguntar
+         00:30:56.080 - 00:30:59.750
+ROM1MI   anram
+         00:30:57.950 - 00:30:58.430
+         (0,41)
+DOCMJ    eh você já tem algum problema de saúde você poderia relatar pra mim
+         00:31:00.155 - 00:31:03.885
+         (3,52)
+ROM1MI   não assim
+         00:31:07.400 - 00:31:08.240
+         (1,39)
+ROM1MI   não que eu me lembre assim de uma doença uma coisa
+         00:31:09.635 - 00:31:11.945
+         (0,93)
+DOCMJ    não entendi
+         00:31:12.875 - 00:31:13.535
+         (0,32)
+DOCMJ    mas na tua opinião a saúde é (hes) também um direito que deve ser assegurado pelo governo 
+         00:31:13.860 - 00:31:18.850
+ROM1MI   sim
+         00:31:18.330 - 00:31:18.800
+         (1,23)
+DOCMJ    entendi
+         00:31:20.080 - 00:31:20.660
+         (0,25)
+DOCMJ    e na tua opinião a saúde pública funciona no Brasil
+         00:31:20.905 - 00:31:23.795
+         (1,72)
+ROM1MI   (risos)
+         00:31:25.515 - 00:31:26.565
+         (0,78)
+ROM1MI   não
+         00:31:27.345 - 00:31:27.685
+         (0,71)
+DOCMJ    entendi
+         00:31:28.400 - 00:31:29.220
+         (0,37)
+DOCMJ    eh se tu pudesse eh como você avaliaria o sistema único de saúde o SUS?
+         00:31:29.585 - 00:31:35.495
+         (2,09)
+ROM1MI   teoricamente extremamente bem concebido
+         00:31:37.580 - 00:31:39.280
+         (1,59)
+ROM1MI   necessário
+         00:31:40.865 - 00:31:41.715
+         (1,28)
+ROM1MI   mas sucateado
+         00:31:42.995 - 00:31:44.085
+         (0,61)
+ROM1MI   mal administrado
+         00:31:44.695 - 00:31:45.985
+         (0,74)
+ROM1MI   enfim não cumpre o papel que ele tinha ali sabe 
+         00:31:46.725 - 00:31:49.275
+         (1,01)
+ROM1MI   e acho que mais uma vez é a administração
+         00:31:50.285 - 00:31:51.885
+         (1,06)
+DOCMJ    entendi
+         00:31:52.945 - 00:31:53.565
+         (0,19)
+ROM1MI   num sei até que ponto é administração
+         00:31:53.750 - 00:31:55.500
+         (1,25)
+ROM1MI   eh que aqui é falha isso todos os aspectos educação
+         00:31:56.750 - 00:32:00.680
+         (0,56)
+ROM1MI   saúde eu não sei se 
+         00:32:01.240 - 00:32:02.450
+         (0,94)
+ROM1MI   se as coisas são falhas porque
+         00:32:03.390 - 00:32:05.240
+         (0,62)
+ROM1MI   por um descuido por um descaso ou se elas são falhas por
+         00:32:05.860 - 00:32:08.680
+         (0,49)
+ROM1MI   por intencionamente serem dessa forma sabe
+         00:32:09.165 - 00:32:11.185
+         (1,23)
+ROM1MI   e que é preciso assegurar que
+         00:32:12.410 - 00:32:14.010
+         (1,05)
+ROM1MI   que as pessoas mais
+         00:32:15.065 - 00:32:16.395
+         (0,71)
+ROM1MI   trabalhador esteja ali sabe dentro
+         00:32:17.105 - 00:32:19.085
+         (0,85)
+ROM1MI   desse estado de
+         00:32:19.930 - 00:32:21.240
+         (2,72)
+ROM1MI   de insegurança de estabilidade
+         00:32:23.960 - 00:32:25.930
+         (0,82)
+DOCMJ    entendi entendi teu ponto
+         00:32:26.750 - 00:32:28.570
+         (0,31)
+DOCMJ    você falou a respeito de alguns pontos (hes) negativos no SUS né em especial a má administração
+         00:32:28.885 - 00:32:33.885
+         (0,50)
+DOCMJ    mas se tu pudesse seria possível elencar algum ponto positivo da saúde pública hoje
+         00:32:34.390 - 00:32:40.700
+         (1,62)
+ROM1MI   eu acho que essa concepção de ser
+         00:32:42.320 - 00:32:44.030
+         (1,84)
+ROM1MI   ser acessível
+         00:32:45.870 - 00:32:46.910
+         (2,08)
+ROM1MI   eu acho que embora não seja
+         00:32:48.985 - 00:32:50.545
+         (1,68)
+ROM1MI   ah
+         00:32:52.230 - 00:32:53.240
+         (1,40)
+ROM1MI   não seja mais afetiva ainda sim
+         00:32:54.640 - 00:32:56.350
+         (0,20)
+ROM1MI   ela funciona de alguma forma sabe não funciona de maneira plena
+         00:32:56.550 - 00:32:59.700
+         (0,72)
+ROM1MI   mas funciona (hes) e o que ela funciona é muito efetivo para
+         00:33:00.420 - 00:33:03.920
+         (1,45)
+ROM1MI   quem usa
+         00:33:05.365 - 00:33:06.265
+         (2,43)
+DOCMJ    entendi
+         00:33:08.700 - 00:33:09.250
+         (0,53)
+DOCMJ    entendi teu ponto
+         00:33:09.780 - 00:33:10.760
+         (0,25)
+DOCMJ    eh
+         00:33:11.005 - 00:33:11.565
+         (0,28)
+DOCMJ    e assim na tua opinião que coisas
+         00:33:11.840 - 00:33:13.870
+         (0,13)
+DOCMJ    deveriam ser feitas assim com mais urgência para que de fato o SUS seja melhorado?
+         00:33:14.000 - 00:33:18.800
+         (4,35)
+ROM1MI   ai difícil 
+         00:33:23.150 - 00:33:24.430
+         (1,72)
+ROM1MI   eu não sei se construir mais hospitais seria
+         00:33:26.145 - 00:33:28.605
+         (2,04)
+ROM1MI   de fato eu não sei qual é qual é o problema
+         00:33:30.640 - 00:33:33.050
+         (1,15)
+ROM1MI   sabe tipo eu não sei identificar dentro dessa de verdade qual seria esse problema
+         00:33:34.200 - 00:33:38.370
+         (0,87)
+ROM1MI   mas talvez construir mais hospitais ou ter mais profissionais
+         00:33:39.240 - 00:33:42.670
+         (1,22)
+ROM1MI   qualificados
+         00:33:43.890 - 00:33:44.830
+         (1,27)
+DOCMJ    entendi
+         00:33:46.105 - 00:33:46.645
+ROM1MI   eu não sei
+         00:33:46.340 - 00:33:47.020
+         (0,41)
+DOCMJ    eh
+         00:33:47.425 - 00:33:47.765
+         (0,28)
+DOCMJ    e isso que tu falou leva a gente a uma outra questão (hes) muito importante e isso leva também a pergunta
+         00:33:48.040 - 00:33:53.510
+         (0,37)
+DOCMJ    que eu preciso te fazer
+         00:33:53.880 - 00:33:55.060
+         (0,24)
+DOCMJ    você acha que a quantidade de médicos especialistas que há hoje no SUS é suficiente para atender as demandas da população
+         00:33:55.300 - 00:34:01.720
+         (0,92)
+ROM1MI   não
+         00:34:02.635 - 00:34:03.175
+         (0,94)
+ROM1MI   tanto que a gente tinha um programa
+         00:34:04.120 - 00:34:05.740
+         (1,02)
+ROM1MI   dos mais médicos né pra que trouxesse mais
+         00:34:06.765 - 00:34:08.925
+         (0,95)
+ROM1MI   outros profissionais
+         00:34:09.880 - 00:34:11.180
+         (0,55)
+ROM1MI   acho que não
+         00:34:11.725 - 00:34:12.775
+         (0,31)
+ROM1MI   acho que há uma ausência
+         00:34:13.085 - 00:34:14.455
+         (1,03)
+ROM1MI   de
+         00:34:15.485 - 00:34:16.545
+         (0,54)
+ROM1MI   profissionais
+         00:34:17.080 - 00:34:17.700
+         (1,82)
+ROM1MI   é que é tudo tão ligado sabe que sair da universidade dentro desse (est) eu não sei
+         00:34:19.520 - 00:34:24.780
+         (3,05)
+ROM1MI   é complicado (risos)
+         00:34:27.830 - 00:34:28.870
+         (0,04)
+DOCMJ    entendi
+         00:34:28.905 - 00:34:29.595
+         (0,33)
+DOCMJ    tu citou agora o mais médicos e tu acha que 
+         00:34:29.925 - 00:34:33.955
+         (0,29)
+DOCMJ    que esse programa específico pode ser uma maneira de melhorar o atendimento ou o funcionamento do SUS
+         00:34:34.250 - 00:34:38.970
+         (0,62)
+ROM1MI   eu acho que é uma alternativa 
+         00:34:39.595 - 00:34:41.175
+         (0,28)
+ROM1MI   (est)
+         00:34:41.450 - 00:34:41.910
+         (0,14)
+ROM1MI   era tipo um bronie sabe alternativa a gente não tem então a gente vai buscar de fora para suprir essa daqui 
+         00:34:42.055 - 00:34:47.595
+         (0,49)
+ROM1MI   então acho que essas alternativas elas são sempre necessárias
+         00:34:48.080 - 00:34:50.360
+         (0,47)
+ROM1MI   enquanto alternativas
+         00:34:50.830 - 00:34:52.680
+         (0,32)
+DOCMJ    então tu encara como apenas um paliativo
+         00:34:53.000 - 00:34:55.440
+ROM1MI   é
+         00:34:54.895 - 00:34:55.435
+         (0,72)
+DOCMJ    entendi entendi teu ponto
+         00:34:56.160 - 00:34:57.740
+         (0,51)
+DOCMJ    eh deixa eu te perguntar lá no bairro onde você mora tem alguma unidade da família
+         00:34:58.250 - 00:35:02.760
+         (1,98)
+ROM1MI   acho que tem
+         00:35:04.740 - 00:35:05.670
+DOCMJ    tem?
+         00:35:05.630 - 00:35:06.130
+         (0,09)
+ROM1MI   tipo posto de saúde né
+         00:35:06.225 - 00:35:07.405
+         (0,06)
+DOCMJ    isso
+         00:35:07.465 - 00:35:07.955
+ROM1MI   tem tem sim
+         00:35:07.950 - 00:35:08.640
+         (0,34)
+DOCMJ    entendi
+         00:35:08.980 - 00:35:09.660
+         (0,31)
+DOCMJ    eh tu precisou usar algum serviço do SUS lá ou em algum outro lugar?
+         00:35:09.965 - 00:35:13.605
+         (0,22)
+ROM1MI   não
+         00:35:13.830 - 00:35:14.490
+         (0,14)
+DOCMJ    entendi
+         00:35:14.635 - 00:35:15.175
+         (0,50)
+DOCMJ    entendi
+         00:35:15.680 - 00:35:16.280
+         (0,31)
+DOCMJ    mas eh você já teve alguma experiência tua pessoal com saúde pública?
+         00:35:16.595 - 00:35:20.365
+         (0,46)
+DOCMJ    que você possa destacar?
+         00:35:20.825 - 00:35:22.055
+         (1,80)
+ROM1MI   pior que não
+         00:35:23.855 - 00:35:24.995
+         (0,61)
+DOCMJ    entendi
+         00:35:25.600 - 00:35:26.140
+         (0,74)
+DOCMJ    a gente vai mudar a última vez de assunto tá  que a gente tá a gente tá indo pra última parte da nossa conversa
+         00:35:26.875 - 00:35:32.315
+         (0,32)
+DOCMJ    e eu preciso realmente mudar última vez de assunto
+         00:35:32.640 - 00:35:35.090
+         (0,27)
+DOCMJ    eu preciso te perguntar
+         00:35:35.360 - 00:35:36.660
+         (0,41)
+DOCMJ    eh aqui no estado de Sergipe você já percebeu alguma diferença no modo como as pessoas falam?
+         00:35:37.065 - 00:35:42.465
+         (0,09)
+DOCMJ    você seria capaz de
+         00:35:42.560 - 00:35:43.790
+         (0,32)
+DOCMJ    falar ou imitar alguma diferença que você tenha percebido?
+         00:35:44.110 - 00:35:46.970
+         (3,10)
+ROM1MI   difícil
+         00:35:50.065 - 00:35:50.905
+         (1,29)
+ROM1MI   por estar inserido aqui dentro eu acho que fica mais difícil
+         00:35:52.195 - 00:35:54.995
+DOCMJ    entendi
+         00:35:54.970 - 00:35:55.510
+         (3,20)
+DOCMJ    (pigarro) mas tu acha que  existe alguma diferença?
+         00:35:58.710 - 00:36:01.940
+         (0,53)
+ROM1MI   ah existe
+         00:36:02.470 - 00:36:03.060
+         (0,31)
+DOCMJ    existe né
+         00:36:03.370 - 00:36:04.110
+         (0,06)
+ROM1MI   existe algumas palavras 
+         00:36:04.175 - 00:36:05.765
+         (4,07)
+ROM1MI   ah sotaque mas eu não sei porque eu tô tão inserido aqui dentro que não consigo perceber
+         00:36:09.840 - 00:36:14.280
+         (1,42)
+DOCMJ    entendi
+         00:36:15.705 - 00:36:16.215
+ROM1MI   qual seria esse ponto
+         00:36:16.225 - 00:36:17.245
+         (0,06)
+DOCMJ    entendi mas você reconhece que existe diferença
+         00:36:17.305 - 00:36:19.525
+ROM1MI   anram
+         00:36:19.505 - 00:36:19.865
+         (0,14)
+DOCMJ    ah entendi
+         00:36:20.010 - 00:36:20.630
+         (0,29)
+DOCMJ    entendi
+         00:36:20.925 - 00:36:21.515
+         (0,38)
+DOCMJ    e deixa eu te perguntar
+         00:36:21.895 - 00:36:23.155
+         (0,16)
+DOCMJ    você acredita que estando em outro lugar ou em contato com pessoas de outro lugar né 
+         00:36:23.310 - 00:36:27.510
+         (0,09)
+DOCMJ    ah essas outras pessoas
+         00:36:27.595 - 00:36:28.935
+         (0,05)
+DOCMJ    conseguiriam identificar de onde você é apenas pela maneira de como você fala?
+         00:36:28.990 - 00:36:32.660
+         (3,05)
+ROM1MI   acho que não
+         00:36:35.710 - 00:36:36.280
+         (0,35)
+DOCMJ    entendi
+         00:36:36.630 - 00:36:37.100
+         (0,05)
+DOCMJ    e só pelo sotaque talvez pelas maneiras que você usa
+         00:36:37.145 - 00:36:39.935
+ROM1MI   não não não pelo que não pelo não seja possível se reconhecer mas acho que 
+         00:36:39.585 - 00:36:43.285
+         (0,87)
+ROM1MI   que Sergipe tá tão fora do imaginário que é o Brasil 
+         00:36:44.150 - 00:36:47.900
+         (1,28)
+ROM1MI   que as pessoas não reconhecem não
+         00:36:49.180 - 00:36:50.430
+         (0,48)
+DOCMJ    ah entendi
+         00:36:50.910 - 00:36:51.610
+         (0,48)
+DOCMJ    entendi
+         00:36:52.090 - 00:36:52.670
+         (0,12)
+DOCMJ    entendi mas por essa falta de identificação por parte das outras pessoas você fala
+         00:36:52.795 - 00:36:56.105
+ROM1MI   sim
+         00:36:56.035 - 00:36:56.365
+         (0,56)
+DOCMJ    entendi
+         00:36:56.925 - 00:36:57.505
+         (0,50)
+DOCMJ    eh
+         00:36:58.000 - 00:36:58.530
+         (0,08)
+DOCMJ    deixa te perguntar
+         00:36:58.610 - 00:36:59.430
+         (0,28)
+DOCMJ    você acha que as pessoas que moram na capital falam diferente das que moram no interior?
+         00:36:59.715 - 00:37:03.715
+         (0,25)
+DOCMJ    aqui em Sergipe?
+         00:37:03.960 - 00:37:04.630
+         (0,08)
+DOCMJ    pelo menos
+         00:37:04.710 - 00:37:05.420
+         (2,31)
+ROM1MI   sim tem
+         00:37:07.730 - 00:37:08.400
+         (0,14)
+ROM1MI   tem
+         00:37:08.540 - 00:37:08.920
+         (0,31)
+ROM1MI   um sotaquezinho maior
+         00:37:09.225 - 00:37:10.635
+         (0,91)
+ROM1MI   o jeito de falar talvez as gírias são diferentes
+         00:37:11.545 - 00:37:13.885
+         (0,70)
+DOCMJ    entendi
+         00:37:14.590 - 00:37:15.290
+         (0,52)
+DOCMJ    e o que mais te chama atenção quando as pessoas tão falando no que diz respeito a
+         00:37:15.815 - 00:37:19.785
+         (0,23)
+DOCMJ    a fala delas mesmos o sotaque ou 
+         00:37:20.015 - 00:37:22.225
+         (0,15)
+DOCMJ    o vocabulário
+         00:37:22.375 - 00:37:23.475
+         (0,19)
+DOCMJ    tem alguma coisa que ressalte assim atenção
+         00:37:23.670 - 00:37:25.820
+         (8,04)
+ROM1MI   não sei (risos)
+         00:37:33.860 - 00:37:34.890
+         (0,12)
+DOCMJ    entendi
+         00:37:35.010 - 00:37:35.690
+         (0,12)
+DOCMJ    num tem nada que você perceba com mais frequência pelo menos né
+         00:37:35.805 - 00:37:38.295
+         (0,42)
+ROM1MI   não
+         00:37:38.715 - 00:37:39.185
+         (0,44)
+ROM1MI   ah nunca parei pra reparar
+         00:37:39.620 - 00:37:40.950
+         (0,29)
+DOCMJ    entendi
+         00:37:41.240 - 00:37:41.860
+         (0,43)
+DOCMJ    agora deixa eu te perguntar
+         00:37:42.285 - 00:37:43.545
+         (0,32)
+DOCMJ    eh você acha que o seu modo 
+         00:37:43.870 - 00:37:45.410
+         (0,08)
+DOCMJ    de falar mudou
+         00:37:45.485 - 00:37:46.295
+         (0,07)
+DOCMJ    depois que voce entrou aqui na UFS
+         00:37:46.365 - 00:37:47.825
+         (0,28)
+DOCMJ    na universidade
+         00:37:48.100 - 00:37:48.920
+         (1,17)
+ROM1MI   não
+         00:37:50.095 - 00:37:50.605
+         (1,12)
+DOCMJ    entendi
+         00:37:51.725 - 00:37:52.215
+         (0,48)
+DOCMJ    eh uma pergunta a respeito do lugar onde você mora eh falar oito muito biscoito oitenta com essa pronuncia 
+         00:37:52.695 - 00:38:00.195
+         (0,43)
+DOCMJ    é comum onde você mora?
+         00:38:00.620 - 00:38:01.910
+         (0,07)
+ROM1MI   sim
+         00:38:01.980 - 00:38:02.270
+         (0,30)
+DOCMJ    é comum né
+         00:38:02.570 - 00:38:03.290
+         (0,69)
+DOCMJ    agora tu acha que falar essas mesmas palavras com essas mesmas pronúncia é comum aqui na universidade?
+         00:38:03.975 - 00:38:08.585
+         (3,72)
+ROM1MI   interessante
+         00:38:12.310 - 00:38:12.990
+         (0,75)
+ROM1MI   acho que que (hes) depende de quem ver
+         00:38:13.745 - 00:38:15.685
+         (0,61)
+ROM1MI   a comunicação né
+         00:38:16.290 - 00:38:17.350
+         (0,87)
+DOCMJ    não entendi
+         00:38:18.220 - 00:38:18.960
+         (1,20)
+ROM1MI   do aluno se é do professor
+         00:38:20.155 - 00:38:22.015
+         (0,62)
+ROM1MI   quem é esse aluno
+         00:38:22.630 - 00:38:23.530
+         (0,25)
+ROM1MI   de onde ele vem
+         00:38:23.785 - 00:38:24.605
+         (1,26)
+DOCMJ    entendi teu ponto
+         00:38:25.870 - 00:38:27.070
+         (0,31)
+DOCMJ    e o que você acha a respeito desse jeito de falar? 
+         00:38:27.385 - 00:38:29.595
+         (0,16)
+DOCMJ    tem alguma opinião a respeito
+         00:38:29.755 - 00:38:31.165
+         (2,00)
+ROM1MI   normal a língua é viva né acho que as vezes a gente cai nessas
+         00:38:33.165 - 00:38:36.365
+         (2,96)
+ROM1MI   nesses preconceitos linguísticos né de tentar mas
+         00:38:39.330 - 00:38:41.760
+         (1,19)
+ROM1MI   sabe tipo
+         00:38:42.950 - 00:38:44.330
+         (0,86)
+ROM1MI   já foi a era da gramática a gente tá em outro momento
+         00:38:45.185 - 00:38:48.135
+         (0,82)
+DOCMJ    entendi teu ponto
+         00:38:48.955 - 00:38:49.705
+         (0,40)
+DOCMJ    e falar pranta broco praneta franela torcando esse l por r é comum onde você mora?
+         00:38:50.105 - 00:38:56.495
+         (0,51)
+ROM1MI   sim
+         00:38:57.005 - 00:38:57.575
+         (0,51)
+DOCMJ    é comum né
+         00:38:58.085 - 00:38:58.955
+         (0,44)
+DOCMJ    e esse jeito de falar 
+         00:38:59.395 - 00:39:01.035
+         (0,14)
+DOCMJ    você acha que é típico de alguma localidade de alguma cidade ou de alguma região
+         00:39:01.180 - 00:39:04.630
+         (0,77)
+ROM1MI   acho que é típico de algumas comunidades
+         00:39:05.400 - 00:39:07.130
+         (0,47)
+ROM1MI   ou de eu não diria de comunidades pessoas que geralmente não tem tanto acesso a educação
+         00:39:07.600 - 00:39:12.190
+         (1,24)
+ROM1MI   eh
+         00:39:13.430 - 00:39:14.590
+         (2,07)
+ROM1MI   e acaba sendo uma marca né de linguagem ali mas
+         00:39:16.655 - 00:39:19.725
+         (0,39)
+ROM1MI   mas que não qualifica nem desqualifica simplesmente uma marca de linguagem
+         00:39:20.115 - 00:39:24.105
+         (0,13)
+DOCMJ    entendi teu ponto
+         00:39:24.235 - 00:39:25.055
+         (0,44)
+DOCMJ    então eh só confirmando tu acha que esse modo de falar realmente tem alguma relação com a escolarização da pessoa
+         00:39:25.490 - 00:39:31.480
+ROM1MI   sim sim
+         00:39:30.830 - 00:39:31.610
+         (0,62)
+DOCMJ    entendi
+         00:39:32.235 - 00:39:32.955
+         (0,37)
+DOCMJ    e falar tia dia dente medico com essa pronúncia chiada é comum onde você mora também?
+         00:39:33.320 - 00:39:39.700
+         (0,56)
+ROM1MI   não (risos)
+         00:39:40.265 - 00:39:40.815
+         (0,76)
+DOCMJ    entendi
+         00:39:41.575 - 00:39:42.265
+         (0,48)
+DOCMJ    e tu acha que falar essas mesmas palavras com essa pronúncia é comum aqui dentro da universidade?
+         00:39:42.745 - 00:39:48.085
+         (3,44)
+ROM1MI   eh
+         00:39:51.530 - 00:39:51.900
+         (0,44)
+ROM1MI   (risos)
+         00:39:52.340 - 00:39:53.000
+DOCMJ    é um pouco mais comum aqui
+         00:39:53.015 - 00:39:54.075
+ROM1MI   é
+         00:39:54.090 - 00:39:54.530
+         (0,37)
+ROM1MI   num sei ás vezes a pessoa é de fora mas assim
+         00:39:54.895 - 00:39:56.995
+         (2,07)
+ROM1MI   eh enfim
+         00:39:59.060 - 00:39:59.820
+         (0,35)
+ROM1MI   tem pessoas que vão falar em público de repente vem sotaque uma coisa assim
+         00:40:00.175 - 00:40:04.115
+         (0,38)
+ROM1MI   a tv né eu não sei (risos) de repente (est)
+         00:40:04.490 - 00:40:07.900
+         (0,30)
+DOCMJ    entendi teu ponto
+         00:40:08.200 - 00:40:09.290
+         (0,31)
+DOCMJ    e o que é que você acha a respeito desse jeito de falar?
+         00:40:09.600 - 00:40:11.850
+         (2,75)
+ROM1MI   acho que também é natural (risos) sabe
+         00:40:14.600 - 00:40:16.650
+         (0,14)
+ROM1MI   seja assim mas
+         00:40:16.790 - 00:40:17.980
+         (0,62)
+ROM1MI   ás vezes eh o problema é como ele vem de um lugar de qualificação como se tipo
+         00:40:18.600 - 00:40:23.530
+         (0,73)
+ROM1MI   como se o sotaque ele tivesse acima do outro
+         00:40:24.260 - 00:40:26.550
+         (0,09)
+ROM1MI   como se 
+         00:40:26.640 - 00:40:27.350
+         (0,56)
+ROM1MI   como se uma coisa qualificasse a outra desqualificasse como se tivesse um jeito de falar que seja o correto e o apropriado pros lugares sabe quando
+         00:40:27.910 - 00:40:35.570
+         (0,25)
+ROM1MI   pra mim é assim
+         00:40:35.815 - 00:40:37.305
+         (0,79)
+DOCMJ    entendi teu ponto
+         00:40:38.095 - 00:40:39.145
+         (0,50)
+DOCMJ    e você acha que esse jeito de falar é típico assim de alguma localidade específica de estado região?
+         00:40:39.645 - 00:40:45.155
+         (1,84)
+DOCMJ    esse tia dia
+         00:40:46.990 - 00:40:48.590
+         (0,12)
+ROM1MI   acho que é meio paulista
+         00:40:48.705 - 00:40:50.175
+         (0,97)
+DOCMJ    ah entendi
+         00:40:51.145 - 00:40:51.855
+         (0,55)
+DOCMJ    e
+         00:40:52.405 - 00:40:52.925
+         (0,19)
+ROM1MI   mas Recife também tem um chiado
+         00:40:53.120 - 00:40:55.610
+         (1,50)
+ROM1MI   na Bahia (hes) é porque cada lugar tem um mais diferente que o outro
+         00:40:57.110 - 00:41:00.360
+         (0,93)
+DOCMJ    entendi
+         00:41:01.290 - 00:41:01.980
+         (0,27)
+DOCMJ    e tu acha que esse modo de falar tem também com alguma relação com escolarização com escolaridade de quem usa
+         00:41:02.250 - 00:41:08.100
+         (0,86)
+ROM1MI   não
+         00:41:08.960 - 00:41:09.790
+         (1,43)
+DOCMJ    entendi
+         00:41:11.220 - 00:41:11.930
+         (0,51)
+DOCMJ    eh
+         00:41:12.440 - 00:41:13.050
+         (0,23)
+DOCMJ    e você acha que esse modo de falar considerado pode ser considerado mais bonito?
+         00:41:13.280 - 00:41:16.880
+         (1,42)
+ROM1MI   não absolutamente não
+         00:41:18.305 - 00:41:19.735
+         (1,31)
+DOCMJ    entendi
+         00:41:21.045 - 00:41:21.615
+         (0,20)
+DOCMJ    eh tu acha que doido e doido tem o mesmo significado?
+         00:41:21.815 - 00:41:25.755
+         (0,49)
+ROM1MI   como?
+         00:41:26.240 - 00:41:26.700
+         (0,38)
+DOCMJ    doido e doido
+         00:41:27.075 - 00:41:28.685
+         (3,31)
+ROM1MI   ah (risos)
+         00:41:31.990 - 00:41:33.270
+         (0,10)
+ROM1MI   soam diferente né
+         00:41:33.375 - 00:41:34.525
+         (0,17)
+ROM1MI   soam com
+         00:41:34.695 - 00:41:35.655
+         (1,70)
+ROM1MI   quando você ouvi parece quem vem de lugares diferentes
+         00:41:37.350 - 00:41:39.500
+         (0,15)
+ROM1MI   de bocas diferentes sabe de pessoas diferentes de vivências diferentes então acho que tem
+         00:41:39.650 - 00:41:43.250
+         (0,62)
+ROM1MI   significados diferentes
+         00:41:43.875 - 00:41:45.575
+         (0,96)
+ROM1MI   a depender do contexto mas
+         00:41:46.540 - 00:41:47.950
+         (1,67)
+ROM1MI   num sei como se doido desse mais uma intimidade uma relação de amizade
+         00:41:49.620 - 00:41:53.990
+         (1,05)
+ROM1MI   e doido fosse uma patologia sabe
+         00:41:55.040 - 00:41:57.790
+         (1,61)
+ROM1MI   num sei (risos)
+         00:41:59.400 - 00:42:00.230
+DOCMJ    entendi teu ponto
+         00:42:00.230 - 00:42:01.110
+         (0,16)
+DOCMJ    entendi
+         00:42:01.265 - 00:42:01.835
+         (0,24)
+DOCMJ    mas assim tu usa essas palavras usa elas nos mesmos contextos?
+         00:42:02.075 - 00:42:06.085
+         (1,69)
+ROM1MI   não
+         00:42:07.775 - 00:42:08.355
+         (0,25)
+ROM1MI   acho que fui
+         00:42:08.600 - 00:42:09.370
+         (1,59)
+ROM1MI   gramatizado sabe
+         00:42:10.960 - 00:42:12.420
+         (0,12)
+ROM1MI   e
+         00:42:12.545 - 00:42:13.105
+         (1,29)
+ROM1MI   num sei num que é eu não uso mas
+         00:42:14.400 - 00:42:16.090
+         (2,92)
+ROM1MI   mas num gosto desse juízo de valor sabe do
+         00:42:19.010 - 00:42:21.620
+         (0,95)
+ROM1MI   do que seria apropriado ou não
+         00:42:22.570 - 00:42:24.110
+         (0,17)
+DOCMJ    entendi
+         00:42:24.285 - 00:42:24.965
+         (0,31)
+DOCMJ    tratando ainda dessa questão assim do juízo de valor né com relação a maneira de falar né
+         00:42:25.270 - 00:42:30.290
+         (0,44)
+DOCMJ    quando tu tá falando sobre você junta mais alguém você usa mais nós
+         00:42:30.725 - 00:42:35.155
+         (0,17)
+DOCMJ    ou mais a gente
+         00:42:35.325 - 00:42:36.555
+         (1,09)
+ROM1MI   a gente (risos)
+         00:42:37.645 - 00:42:38.345
+         (0,20)
+DOCMJ    usa mais a gente você acha que tem algum motivo pra você usar mais isso?
+         00:42:38.550 - 00:42:41.540
+         (0,90)
+ROM1MI   acho que é esse esse ouvir ouvir ouvir
+         00:42:42.440 - 00:42:44.920
+         (0,06)
+ROM1MI   e e isso vai ficando ali impregnado
+         00:42:44.985 - 00:42:47.265
+         (0,34)
+DOCMJ    entendi
+         00:42:47.610 - 00:42:48.230
+         (0,28)
+DOCMJ    mas você acha que é melhor usar a gente mesmo ou usar nós?
+         00:42:48.505 - 00:42:52.195
+         (0,69)
+ROM1MI   ah a gente é tão mais gostoso de falar
+         00:42:52.885 - 00:42:54.695
+         (0,33)
+ROM1MI   e falar dar dar uma sensação de
+         00:42:55.025 - 00:42:56.855
+         (2,50)
+ROM1MI   de menos informalidade sabe
+         00:42:59.355 - 00:43:00.855
+         (0,12)
+ROM1MI   sai desse lugar mais coloquial
+         00:43:00.970 - 00:43:02.390
+         (1,70)
+DOCMJ    entendi teu ponto
+         00:43:04.085 - 00:43:04.995
+         (0,46)
+DOCMJ    eh o que é que você acha de construções assim como nois cumemo a gente vamo nois vai 
+         00:43:05.455 - 00:43:10.965
+         (4,51)
+ROM1MI    tudo que comunica é efetivo sabe e é isso
+         00:43:15.470 - 00:43:17.870
+         (0,34)
+DOCMJ    entendi
+         00:43:18.205 - 00:43:18.945
+         (0,19)
+DOCMJ    agora você acha que essas formas elas determinam de onde o falante é
+         00:43:19.140 - 00:43:23.100
+         (2,12)
+ROM1MI   não determinar não
+         00:43:25.215 - 00:43:26.305
+         (0,49)
+ROM1MI   talvez elas deem dão uma pista um indício se você consegue de repente pensar de onde a pessoa é mas indeterminar é muito
+         00:43:26.795 - 00:43:33.235
+         (1,13)
+DOCMJ    entendi
+         00:43:34.370 - 00:43:35.030
+         (0,14)
+DOCMJ    mas tu acha que escolarização tem relação com a escolha de uma delas?
+         00:43:35.165 - 00:43:38.485
+         (0,65)
+ROM1MI   sim
+         00:43:39.140 - 00:43:39.650
+         (1,08)
+DOCMJ    entendi
+         00:43:40.730 - 00:43:41.530
+         (0,35)
+DOCMJ    pode estar ligado né?
+         00:43:41.880 - 00:43:43.000
+         (0,08)
+ROM1MI   sim
+         00:43:43.075 - 00:43:43.535
+         (0,64)
+DOCMJ    muito bem
+         00:43:44.180 - 00:43:44.940
